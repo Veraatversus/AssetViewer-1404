@@ -1,0 +1,1236 @@
+<Properties>
+  <ToolOneVersion>5</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Upgrade</Name>
+      <Property>
+        <Name>CostUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MoneyCost</Name>
+          <Description>Baukosten für die spezifizierten Einheiten (ItemTargetGUIDs)</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ActiveCost</Name>
+          <Description>Betriebskosten für die spezifizierten Einheiten (ItemTargetGUIDs)</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>InactiveCost</Name>
+          <Description>Betriebskosten für stillgelegte Betriebe der spezifizierte Einheiten (ItemTargetGUIDs)</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>HonorCost</Name>
+          <Description>Ruhmkosten beim Bauen der spezifizierten Einheiten (ItemTargetGUIDs)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DoctorUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DoctorHealingTime</Name>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>FactoryUpgrade</Name>
+        <Description>upgrades für Fabriken</Description>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawCapacity1</Name>
+          <Description>Kapazität des ersten benötigten Rohstoffs</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawNeeded1</Name>
+          <Description>Wieviel des ersten Rohstoffs benötigt wird, um voll zu produzieren.</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawCapacity2</Name>
+          <Description>Kapazität des zweiten benötigten Rohstoffs</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawNeeded2</Name>
+          <Description>Wieviel des zweiten Rohstoffs benötigt wird, um voll zu produzieren.</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>GlobalUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DemandAmount</Name>
+          <Description>Bonus auf die Nachfrage einer bestimmten Ware</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>TaxUpgradePercent</Name>
+          <Description>Erweiterung der Grundsteuerbetrages (nur in Prozent angeben)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ResidenceUpgradeAmountMaxPercent</Name>
+          <Description>Erweiterung der Aufstiegsbeschränkungen</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AmbassadorUpgradeRightBonus</Name>
+          <Description>Verändert die Anzahl Gesandte, die für ein Bonusaufstiegsrecht nötig sind</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>BeggarUpgradeRightBonus</Name>
+          <Description>Verändert die Anzahl Bettler, die für ein Bonusaufstiegsrecht nötig sind</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>HitpointUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MaxHitpoints</Name>
+          <Description>Upgrade der Hitpoints einer Einheit.</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ProductionUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>WorkerCount</Name>
+          <Description>Anzahl der abholenden Arbeiter (z.B. Marktkarren, Geselle)</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductionTime</Name>
+          <Description>Upgrade der Produktionszeit eines Betriebes</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductionCapacity</Name>
+          <Description>Größe des betriebsinternen Lagers bzw. der zur VErfügung stehenden Ressourcenmenge</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductionCount</Name>
+          <Description>Upgrade der Produktivität eines Betriebes.</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>IsNoriaUpgrade</Name>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>PublicBuildingUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>BuildingDemandEfficiency</Name>
+          <Description>Bonus auf die Bedürfniserfüllung durch das entsprechende Gebäude</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>InfluenceRadius</Name>
+          <Description>Erweiterung des Einflußbereichs der eingestellten Gebäude</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ResidentBuildingUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MinResidentCount</Name>
+          <Description>Erweiterung der minimalen Anzahl an Bewohnern in einem Haus</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MaxResidentCount</Name>
+          <Description>Erweiterung der maximalen Anzahl an Bewohnern in einem Haus</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShipCombatUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AttackRange</Name>
+          <Description>Upgrade der Schussreichweite eines Schiffes</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DamagePerSecond</Name>
+          <Description>Upgrade der Angriffskraft eines Schiffes</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AttackSpeed</Name>
+          <Description>Upgrade der Angriffsgeschwindigkeit eines Schiffes</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AttackAngle</Name>
+          <Description>Upgrade ders Angriffstrichters eines Schiffes (Angriffstrichter jeweils zu beiden Seiten eines Schiffes)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShipUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>VisionRadius</Name>
+          <Description>Upgrade der Sichtweite von Schiffen</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>LoadDamageCap</Name>
+          <Description>Upgrade der verlangsamung durch Schaden/Zuladung</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TransportUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>SlotCount</Name>
+          <Description>Upgrade der Anzahl an Ladekammern eines Schiffes</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>SlotCapacity</Name>
+          <Description>Upgrade der Kpazität von Ladekammern eines Schiffes</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>UnitLimitUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>UnitLimit</Name>
+          <Description>Upgrade des Militärlimits</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ShipLimit</Name>
+          <Description>Upgrade des Schiffslimits</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>UnitUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>WalkingSpeed</Name>
+          <Description>Upgrade der Bewegungsgeschwindigkeit der Einheit</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Upgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>TargetGUIDs</Name>
+          <Description>Auf welche Assets das Item seine Wirkung entfaltet. Über den ADD Button können neue Assets (z.B. Gebäude) hinzugefügt werden. Es kann entweder direkt die GUID des Assests angegeben oder über ein Auswahleditor das gewünschten Asset eingestellt werden.</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Asset</DataType>
+              <Name>UpgradeGUID</Name>
+              <Description>guid upgraded by this item</Description>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>TargetCategories</Name>
+          <Description>Auf welche Assets das Item seine Wirkung entfaltet, wird entsprechend dieser Einstellung als Infotext beim Item angezeigt. Die Kategorie und die entsprechnd beinhalteten Assets können im Blancing definiert werden.</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>ItemTargetCategory</DataSet>
+          <FunctionName>IsItemTargetCategorySet</FunctionName>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowTargetInTooltip</Name>
+          <Description>Einstellung, ob die angegebenen Zielassets automatisch im Itemtooltip angezeigt werden sollen.</Description>
+          <IsProValue>1</IsProValue>
+          <ShowInTextView>0</ShowInTextView>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>NeedsReinit</Name>
+          <Description>Wenn auf true gesetzt wird das Handle reinitialisiert wenn das Upgrade hinzugefügt oder entfernt wird</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>WarehouseUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>Capacity</Name>
+          <Description>Upgrade der Kapazität eines Lagergebäudes</Description>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <Upgrade>
+          <TargetGUIDs>
+            <UpgradeGUID>0</UpgradeGUID>
+          </TargetGUIDs>
+        </Upgrade>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <CostUpgrade>
+          <MoneyCost />
+          <ActiveCost />
+          <InactiveCost />
+          <HonorCost />
+        </CostUpgrade>
+        <DoctorUpgrade>
+          <DoctorHealingTime />
+        </DoctorUpgrade>
+        <FactoryUpgrade>
+          <RawCapacity1 />
+          <RawNeeded1 />
+          <RawCapacity2 />
+          <RawNeeded2 />
+        </FactoryUpgrade>
+        <GlobalUpgrade>
+          <DemandAmount />
+          <TaxUpgradePercent />
+          <ResidenceUpgradeAmountMaxPercent />
+          <AmbassadorUpgradeRightBonus />
+          <BeggarUpgradeRightBonus />
+        </GlobalUpgrade>
+        <HitpointUpgrade>
+          <MaxHitpoints />
+        </HitpointUpgrade>
+        <ProductionUpgrade>
+          <WorkerCount />
+          <ProductionTime />
+          <ProductionCapacity />
+          <ProductionCount />
+        </ProductionUpgrade>
+        <PublicBuildingUpgrade>
+          <BuildingDemandEfficiency />
+          <InfluenceRadius />
+        </PublicBuildingUpgrade>
+        <ResidentBuildingUpgrade>
+          <MinResidentCount />
+          <MaxResidentCount />
+        </ResidentBuildingUpgrade>
+        <ShipCombatUpgrade>
+          <AttackRange />
+          <DamagePerSecond />
+          <AttackSpeed />
+          <AttackAngle />
+        </ShipCombatUpgrade>
+        <ShipUpgrade>
+          <VisionRadius />
+          <LoadDamageCap />
+        </ShipUpgrade>
+        <TransportUpgrade>
+          <SlotCount />
+          <SlotCapacity />
+        </TransportUpgrade>
+        <UnitLimitUpgrade>
+          <UnitLimit />
+          <ShipLimit />
+        </UnitLimitUpgrade>
+        <UnitUpgrade>
+          <WalkingSpeed />
+        </UnitUpgrade>
+        <Upgrade>
+          <TargetGUIDs />
+          <TargetCategories />
+          <ShowTargetInTooltip>1</ShowTargetInTooltip>
+        </Upgrade>
+        <WarehouseUpgrade>
+          <Capacity />
+        </WarehouseUpgrade>
+      </DefaultValues>
+    </Group>
+    <Group>
+      <Name>Default</Name>
+      <Property>
+        <Name>ActiveTalent</Name>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>Duration</Name>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>TalentCooldown</Name>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>UseMoneyCost</Name>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>UseHonorCost</Name>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>BuildCostUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductCost</Name>
+          <Description>Erweiterung der Baukosten der eingestellten Gebäude</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DiplomacyUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IngratiateSuccessPercentage</Name>
+          <Description>Bonus auf die Erfolgswahrscheinlichkeit von "Einschmeicheln"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IngratiateCooldown</Name>
+          <Description>Bonus auf den Cooldown von "Einschmeicheln"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IntimidateSuccessPercentage</Name>
+          <Description>Bonus auf die Erfolgswahrscheinlichkeit von "Beleidigen"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IntimidateCooldown</Name>
+          <Description>Bonus auf den Cooldown von "Beleidigen"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IngratiateReputationBonus</Name>
+          <Description>Bonus auf den Rufgewinn durch "Einschmeicheln"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IntimidateReputationBonus</Name>
+          <Description>Bonus auf den Rufverlust durch "Beleidigen"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>CorsairTradeDuration</Name>
+          <Description>Wie lange dauert der Handel bei den Korsaren. nur prozentual balancen</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Document</Name>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>DocumentText</Name>
+          <Description>Text, der im Dokument angezeigt wird</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>GameAction</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ActionType</Name>
+          <IsProValue>1</IsProValue>
+          <DataSet>GameAction</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>TargetGUID</Name>
+          <Description>GUID, die erzeugt werden soll</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>TargetType</Name>
+          <IsProValue>1</IsProValue>
+          <DataSet>ActionTargetType</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>TargetPlayer</Name>
+          <IsProValue>1</IsProValue>
+          <DataSet>TargetPlayer</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ActorType</Name>
+          <Description>Ob diese Aktion von einem Spieler aus oder von einem bestimmten Objekt aus gestartet wird</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>ActionTargetType</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Item</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemCategory</Name>
+          <Description>Kategorie, welcher das Item zugeordnet ist. In Sockeln von Schiffen können nur Schiffsitems gesockelt werden. In Sockel von Kontoren kann nur eine bestimmte Anzahl einer Kategorie gesockelt werden.</Description>
+          <DataSet>ItemCategory</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>UtilizationCount</Name>
+          <Description>Anzahl, wie oft ein Item genutzt werden kann. Gilt nur für aktive Items. 0 steht für unendliche Nutzung.</Description>
+          <Min>0</Min>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>EffectDuration</Name>
+          <Description>Dauer des Item-Effekts. Gilt nur für aktive Items</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>Cooldown</Name>
+          <Description>Zeit, in welcher das Item nach einer Nutzung nicht genutzt werden kann. Gilt nur für aktive Items</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>Passive</Name>
+          <Description>TRUE: Passives Item = Upgrade FALSE: Aktives Items = Aktion, Boost</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ItemPrice</Name>
+          <Description>Basispreis in Gold des Items</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ItemHonourPrice</Name>
+          <Description>Basispreis in Ruhm des Items</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemTarget</Name>
+          <Description>Zieltyp des Items. Object: Die Wirkung ist auf das entsprechende Objekt beschränkt (bei SchiffsItems). Island: Die Wirkung ist inselweit. Global: Die Wirkung ist global.</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>ItemTarget</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ItemMinPrice</Name>
+          <Description>Minimaler Preis des Items</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ItemMaxPrice</Name>
+          <Description>Maximaler Preis des Items</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>IsQuestItem</Name>
+          <Description>Einstellung, ob das Item Questgegegnstand ist und für eine Quest abgegeben werden muss, um diese zu erfüllen</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>RequiresUserConfirmationOnUse</Name>
+          <Description>Einstellung, ob abgefragt wird bevor das Item aktiviert werden kann.</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Quest</DataType>
+          <Name>StartQuestOnItemReceive</Name>
+          <Description>Welche Quest soll gestartet werden, wenn der Spieler dieses Item erhält</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>QuestStartDelay</Name>
+          <Description>Die Zeitverzögerung zwischen Erhalt des Items und Start der zugehörigen Quest</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>RequireUserConfirmationOnRemove</Name>
+          <Description>Einstellung, ob vor dem Entsockeln des Items abgefragt wird.</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>DestroyItemOnRemove</Name>
+          <Description>Einstellung, ob das Item nach dem Entfernen vom Sockel zerstört wird</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemTooltip</Name>
+          <Description>Aus TAGs bestehender Item Tooltip</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemType</Name>
+          <Description>Typ des Items. Typen können unter GUI Balancing definiert werden. Jedem Typ kann ein separater Text zugewiesen werden, der dann automatisch im Tooltip erscheint.</Description>
+          <DataSet>ItemType</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemQuality</Name>
+          <Description>Qualität des entsprechenden Items bzw. Einfärbung des Itemnamens</Description>
+          <DataSet>ItemQuality</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>OnCooldownDuringEffectDuration</Name>
+          <Description>Der Cooldown vom Item laeuft immer so lange wie die Wirkung</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowEffectIcon</Name>
+          <Description>Bestimmt ob an den betroffenen Objekten im Interface ein Effekt Symbol angezeigt werden soll</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>SpawnFlotsamGUID</Name>
+          <Description>Welches Object wird erzeugt, wenn dieses Item über Bord geworfen wird</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemDroppedMessage</Name>
+          <Description>Nachricht die ausgelöst wird wenn das Item als Treibgut im Wasser landet(egal wie)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowCooldownInTooltip</Name>
+          <Description>Soll der Cooldown im Tooltip angezeigt werden</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>ItemRemoveConditions</Name>
+          <Description>Bei welchen Spielbedingungen das Item nicht im Spiel vorkommen soll</Description>
+          <IsProValue>1</IsProValue>
+          <ShowInTextView>0</ShowInTextView>
+          <DataSet>ItemRemoveCondition</DataSet>
+          <FunctionName>HasRemoveCondition</FunctionName>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>MilitaryUnitUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DamageCloseCombatMax</Name>
+          <Description>Upgrade des maximalen Nahkampfschadens von Militäreinheiten</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DamageCloseCombatMin</Name>
+          <Description>Upgrade des minimalen Nahkampfschadens von Militäreinheiten</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DamageRangeCombatMax</Name>
+          <Description>Upgrade des maximalen Fernkampfschadens von Militäreinheiten</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DamageRangeCombatMin</Name>
+          <Description>Upgrade des minimalen Fernkampfschadens von Militäreinheiten</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AttackDelayCloseCombat</Name>
+          <Description>Upgrade der Angriffsverzögerung beim Nahkampf (nicht verwendet)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AttackDelayRangeCombat</Name>
+          <Description>Upgrade der Angriffsverzögerung beim Fernkampf</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DamageEfficiency</Name>
+          <Description>Upgrade der Schadenseffiziens gegenüber bestimmten Zielen</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Pet</Name>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>Pet</Name>
+          <Description>Typ des Tiers</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>ModuleName</Name>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Preconditions</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>InvestedHonorInTree</Name>
+          <Description>Wie viele Ruhmpunkte muss der Spieler im betreffenden Baum ausgeben</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>UnlockedTalents</Name>
+          <Items>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>TalentGUID</Name>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>UnlockHonorCost</Name>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>UnlockedLevelsInTree</Name>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>MinResidentLevel</Name>
+          <DataSet>ResidentLevel</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>MinResidentCountPerLevel</Name>
+          <DataSet>ResidentLevel</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>PrestigeItem</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>PrestigePoints</Name>
+          <Description>Menge an Prestigepunkten, die das Item Wert ist (Prestigepunkte können bei Abgabe bei Al Zahir eingelöst werden)</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Seed</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>GeneratedFertility</Name>
+          <Description>Durch das Saatgut erzeugte Fruchtbarkeit</Description>
+          <DataSet>Fertility</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>GeneratedFertilityClime</Name>
+          <Description>Klimazone, in welcher das Saatgut verwendet werden kann</Description>
+          <DataSet>Clime</DataSet>
+          <FunctionName>IsClimeValid</FunctionName>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShipRepairUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>HealingPointsPerMinute</Name>
+          <Description>Heilungsrate in Hitpoint pro Minute</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RepairRadius</Name>
+          <Description>Heilungsradius um das entsprechende Schiff</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>SelfHealingPointsPerMinute</Name>
+          <Description>Selbst-Heilungsrate in Hitpoint pro Minute</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShipTradeUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>CorsairShipTradePrice</Name>
+          <Description>Bonus auf den Verkaufspreis für Schiffe bei den Korsaren</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Standard</Name>
+        <Description>Muss jedes Asset besitzen. Hier sind nur generelle Infos wie Name und GUID enthalten</Description>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>Name</Name>
+          <Description>Name des Assets(nur intern benutzt)</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>GUID</Name>
+          <Description>Eindeutige GUID (erscheint als Bezeichnung im Spiel)</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Talent</Name>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>SpecializationTalent</Name>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TributeUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>TributeSuccessPercentage</Name>
+          <Description>Upgrade der Erfolgswahrscheinlichkeit von Tributforderungen</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>TributeCooldown</Name>
+          <Description>Upgrade des Cooldowns zwischen Tributforderungen</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MaxTributeAmount</Name>
+          <Description>Upgrade der maximale forderbaren Tributmenge</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <Preconditions>
+          <UnlockedTalents>
+            <TalentGUID>0</TalentGUID>
+          </UnlockedTalents>
+        </Preconditions>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <ActiveTalent />
+        <BuildCostUpgrade>
+          <ProductCost />
+        </BuildCostUpgrade>
+        <DiplomacyUpgrade>
+          <IngratiateSuccessPercentage />
+          <IngratiateCooldown />
+          <IntimidateSuccessPercentage />
+          <IntimidateCooldown />
+          <IngratiateReputationBonus />
+          <IntimidateReputationBonus />
+          <CorsairTradeDuration />
+        </DiplomacyUpgrade>
+        <Document>
+          <DocumentText>0</DocumentText>
+        </Document>
+        <GameAction>
+          <ActionType>Ingratiate</ActionType>
+          <TargetGUID>0</TargetGUID>
+          <TargetType>Player</TargetType>
+          <TargetPlayer>All</TargetPlayer>
+          <ActorType>None</ActorType>
+        </GameAction>
+        <Item>
+          <ItemCategory>None</ItemCategory>
+          <Passive>1</Passive>
+          <ItemTarget>None</ItemTarget>
+          <ItemMaxPrice>1000</ItemMaxPrice>
+          <StartQuestOnItemReceive>0</StartQuestOnItemReceive>
+          <ItemTooltip>157565</ItemTooltip>
+          <ItemType>None</ItemType>
+          <ItemQuality>A</ItemQuality>
+          <ShowEffectIcon>1</ShowEffectIcon>
+          <SpawnFlotsamGUID>15900</SpawnFlotsamGUID>
+          <ItemDroppedMessage>0</ItemDroppedMessage>
+          <ShowCooldownInTooltip>1</ShowCooldownInTooltip>
+          <ItemRemoveConditions />
+        </Item>
+        <MilitaryUnitUpgrade>
+          <DamageCloseCombatMax />
+          <DamageCloseCombatMin />
+          <DamageRangeCombatMax />
+          <DamageRangeCombatMin />
+          <AttackDelayCloseCombat />
+          <AttackDelayRangeCombat />
+          <DamageEfficiency />
+        </MilitaryUnitUpgrade>
+        <Pet>
+          <Pet>0</Pet>
+        </Pet>
+        <Preconditions>
+          <UnlockedTalents />
+          <MinResidentLevel>Beggar_on_street</MinResidentLevel>
+          <MinResidentCountPerLevel />
+        </Preconditions>
+        <PrestigeItem />
+        <Seed>
+          <GeneratedFertility>NoFertility</GeneratedFertility>
+          <GeneratedFertilityClime />
+        </Seed>
+        <ShipRepairUpgrade>
+          <HealingPointsPerMinute />
+          <RepairRadius />
+          <SelfHealingPointsPerMinute />
+        </ShipRepairUpgrade>
+        <ShipTradeUpgrade>
+          <CorsairShipTradePrice />
+        </ShipTradeUpgrade>
+        <Standard>
+          <GUID>0</GUID>
+        </Standard>
+        <Talent />
+        <TributeUpgrade>
+          <TributeSuccessPercentage />
+          <TributeCooldown />
+          <MaxTributeAmount />
+        </TributeUpgrade>
+      </DefaultValues>
+    </Group>
+    <Group>
+      <Name>Balancing</Name>
+      <Property>
+        <Name>BoardersBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>HitpointMultiplier</Name>
+          <Description>Wert mit dem die Hitpoints des Schiffes mit Entermannschaft für den Entervorgang multipliziert werden.</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>DamageMultiplier</Name>
+          <Description>Wert mit dem die Schadenspunkte des Schiffes mit Entermannschaft für den Entervorgang multipliziert werden.</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>RopeThrowSpeedFactor</Name>
+          <Description>Geschwindigkeit der Leinen-Animation (nicht verwendet)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>RopeTightenSpeedFactor</Name>
+          <Description>Geschwindigkeit der Leinen-Animation (nicht verwendet)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DiplomacyBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ProbabilityOfSuccess</Name>
+          <Description>Upgrade der Erfolgswahrscheinlichkeit</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>OnFailureReputationModifier</Name>
+          <Description>Upgrade des Rufverlusts bei Fehlschlag der Aktion</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>OnSuccessReputationModifier</Name>
+          <Description>Upgrade der Rufsteigerung bei Erfolg der Aktion</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ExpeditionBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>ExitArea</Name>
+          <Description>Spezifische Area, die die Position bestimmt in welcher das Schiff die Welt verlässt</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Struct</DataType>
+          <Name>ExpeditionFailureDamageRange</Name>
+          <Description>Schaden den ein Schiff bekommt, wenn ein Schiff beschädigt von eienr Expedition zurückkommt (es können Werte über 100% eingestellt werden, um die Wahrscheinlichkeit eienr fehlgeschlagenen Expedition zu erhöhen)</Description>
+          <IsProValue>1</IsProValue>
+          <Items>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>MinDamagePercent</Name>
+              <Min>0</Min>
+              <Max>100</Max>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>MaxDamagePercent</Name>
+              <Min>0</Min>
+              <Max>10000</Max>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Struct</DataType>
+          <Name>ExpeditionDuration</Name>
+          <Description>Dauer der Expedition nach Verlassen der Karte</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Time</DataType>
+              <Name>MinDuration</Name>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Time</DataType>
+              <Name>MaxDuration</Name>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Quest</DataType>
+          <Name>ExpeditionReward</Name>
+          <Description>Belohnung bei erfolgreichem Ausgang der Expedition</Description>
+          <NeededProperty>Reward</NeededProperty>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>ExpeditionProducts</Name>
+          <Description>Waren, die die Erfolgswahrscheinlichkeit der Expedition erhöhen</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Choice</DataType>
+              <Name>Product</Name>
+              <DataSet>Product</DataSet>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>RealInt</DataType>
+              <Name>BonusProbabilityPerTon</Name>
+              <Description>Wieviel % zur Erfolgswahrscheinlichkeit pro Tonne dieser Ware addiert wird (Komma möglich)</Description>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>ExpeditionSuccessProbability</Name>
+          <Description>Wahrscheinlichkeit, dass das Schiff unbeschädigt von der Expedition zurückkehrt</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Feature</DataType>
+          <Name>ExpeditionItemReward</Name>
+          <Description>Wenn kein 'ExpeditionReward' (Link) angegeben wird, dann wird als Belohnung das hier angegebene Item ausgewählt. Sollte ein ExpeditionReward existieren, so wird dieses Feld ignoriert. Fehlt beides, so gibt es keine Belohnung.</Description>
+          <NeededProperty>Item</NeededProperty>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ExplosionBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ExplosionDamage</Name>
+          <Description>Schaden, der durch die Explosion ausgeteilt wird</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>TimeToExplosion</Name>
+          <Description>Zeit nach der Aktivierung des Pulverfasses bis zur Explosion</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>InnerExplosionRadius</Name>
+          <Description>Größe des inneren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>OuterExplosionRadius</Name>
+          <Description>Größe des äußeren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>MinInnerDamagePercentage</Name>
+          <Description>Schaden am inneren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>MinOuterDamagePercentage</Name>
+          <Description>Schaden am äußeren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>ExplosionEffect</Name>
+          <Description>Animationseffekt der Explosion</Description>
+          <IsProValue>1</IsProValue>
+          <StartDirectory>data/graphics</StartDirectory>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ExplosionRadiusColor</Name>
+          <Description>Bestimmt die Farbe des Radius der angezeigt wird, bevor das Item aktiviert wird</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>RGBColor</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ForceTreatyBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>NewTreaty</Name>
+          <Description>Vetragstyp welcher erzwungen wird</Description>
+          <DataSet>Treaty</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>MinTreatyDuration</Name>
+          <Description>Minimale Dauer des erzwungenen Vertrages (ohne Bonus durch die Siedlungsgröße)</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>TreatyDurationBonus</Name>
+          <Description>Bonus auf die erzwungene Vertragsdauer durch die Siedlungsgröße (in welcher das Item gesockelt ist)</Description>
+          <DataSet>CityStatus</DataSet>
+          <Items>
+            <ValueDefinition>
+              <DataType>Time</DataType>
+              <Name>BonusDuration</Name>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShroudOfSmokeBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>ShroudRadius</Name>
+          <Description>Größe, der durch den Effekt beeinflussten Fläche</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>ShroudEffect</Name>
+          <Description>Grafikeffekt </Description>
+          <IsProValue>1</IsProValue>
+          <Filter>Alle Dateien|*.*</Filter>
+          <StartDirectory>data/graphics</StartDirectory>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>ShroudEffectScale</Name>
+          <Description>Skalierung des Grafikeffekts</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ShroudUIColor</Name>
+          <Description>Farbe der Radiusanzeige</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>RGBColor</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TollBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MinTradeAmountForTollGeneration</Name>
+          <Description>Minimale Menge in Tonnen, die gehandelt werden müssen, damit die Produkte/Goldmenge geschenkt wird</Description>
+          <Min>0</Min>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>TollMoney</Name>
+          <Description>Bonus an Goldmünzen, den es für den Handelszoll gibt</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>TollProducts</Name>
+          <Description>Bonus an Waren, die es für den Handelszoll gibt</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Choice</DataType>
+              <Name>Product</Name>
+              <DataSet>Product</DataSet>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>Amount</Name>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>UseCorsairTooltipText</Name>
+          <Description>Einstellung, um den Standardtooltip für Handelszölle durch den der Korsaren zu ersetzen</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <ExpeditionBalancing>
+          <ExpeditionProducts>
+            <Product>NoProduct</Product>
+            <BonusProbabilityPerTon>4096</BonusProbabilityPerTon>
+          </ExpeditionProducts>
+        </ExpeditionBalancing>
+        <TollBalancing>
+          <TollProducts>
+            <Product>NoProduct</Product>
+          </TollProducts>
+        </TollBalancing>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <BoardersBalancing>
+          <HitpointMultiplier>6144</HitpointMultiplier>
+          <DamageMultiplier>6144</DamageMultiplier>
+          <RopeThrowSpeedFactor>16384</RopeThrowSpeedFactor>
+          <RopeTightenSpeedFactor>8192</RopeTightenSpeedFactor>
+        </BoardersBalancing>
+        <DiplomacyBalancing />
+        <ExpeditionBalancing>
+          <ExpeditionFailureDamageRange />
+          <ExpeditionDuration />
+          <ExpeditionReward>0</ExpeditionReward>
+          <ExpeditionProducts />
+          <ExpeditionSuccessProbability>4096</ExpeditionSuccessProbability>
+          <ExpeditionItemReward>0</ExpeditionItemReward>
+        </ExpeditionBalancing>
+        <ExplosionBalancing>
+          <InnerExplosionRadius>4096</InnerExplosionRadius>
+          <OuterExplosionRadius>4096</OuterExplosionRadius>
+          <MinInnerDamagePercentage>4096</MinInnerDamagePercentage>
+          <MinOuterDamagePercentage>4096</MinOuterDamagePercentage>
+          <ExplosionEffect>data\graphics\effects\military\barrel_explode.cfg</ExplosionEffect>
+          <ExplosionRadiusColor>
+            <R>240</R>
+            <A>100</A>
+          </ExplosionRadiusColor>
+        </ExplosionBalancing>
+        <ForceTreatyBalancing>
+          <NewTreaty>None</NewTreaty>
+          <TreatyDurationBonus />
+        </ForceTreatyBalancing>
+        <ShroudOfSmokeBalancing>
+          <ShroudRadius>4096</ShroudRadius>
+          <ShroudEffect>data\graphics\effects\military\hide_ship.cfg</ShroudEffect>
+          <ShroudEffectScale>4096</ShroudEffectScale>
+          <ShroudUIColor />
+        </ShroudOfSmokeBalancing>
+        <TollBalancing>
+          <TollProducts />
+        </TollBalancing>
+      </DefaultValues>
+    </Group>
+  </Groups>
+  <DefaultValues />
+</Properties>

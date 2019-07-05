@@ -1,0 +1,2502 @@
+<Templates>
+  <ToolOneVersion>5</ToolOneVersion>
+  <Group>
+    <Name>Objects</Name>
+    <Template>
+      <Name>DisasterObject</Name>
+      <Properties>
+        <Disaster />
+        <KIModule />
+        <Mesh />
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>DyingObject</Name>
+      <Properties>
+        <Dying>
+          <FallingTime>3000</FallingTime>
+          <DecayTime>40000</DecayTime>
+        </Dying>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>MinePathObject</Name>
+      <Properties>
+        <Blocking />
+        <Building>
+          <NeedsStreetHighlights>0</NeedsStreetHighlights>
+        </Building>
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>Resource</GUIType>
+        </Selection>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>NatureMountainObject</Name>
+      <Properties>
+        <Nature>
+          <BlockingRadius>0</BlockingRadius>
+          <NatureType>Mountain</NatureType>
+        </Nature>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Nature</ObjectType>
+          <BinarySerializeVersion>0</BinarySerializeVersion>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>PositionObject</Name>
+      <Properties>
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <ObjectPosition>
+          <PositionType>Warehouse</PositionType>
+        </ObjectPosition>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Projectile</Name>
+      <Properties>
+        <BallisticObject />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Resource</Name>
+      <Properties>
+        <Blocking />
+        <Building>
+          <BuildingType>Farmfield</BuildingType>
+          <NeedsStreetHighlights>0</NeedsStreetHighlights>
+        </Building>
+        <Farmfield />
+        <InfoLayer />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Resource />
+        <Selection>
+          <GUIType>Resource</GUIType>
+        </Selection>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ResourceRiver</Name>
+      <Properties>
+        <Blocking />
+        <InfoLayer />
+        <Mesh />
+        <Object />
+        <ObjectPosition />
+        <Selection />
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ResourceSimple</Name>
+      <Properties>
+        <Blocking />
+        <InfoLayer />
+        <Mesh />
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Resource>
+          <ResourceKind>Radius</ResourceKind>
+        </Resource>
+        <Selection />
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleContainer</Name>
+      <Properties>
+        <InfoLayer />
+        <KIModule />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>Water</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <HittestPriority>3</HittestPriority>
+        </Selection>
+        <Standard />
+        <Transport>
+          <SlotCount>1</SlotCount>
+          <SlotCapacity>100</SlotCapacity>
+        </Transport>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleKIObject</Name>
+      <Properties>
+        <Blocking />
+        <FeedbackEventEmitter />
+        <KIModule />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleObject</Name>
+      <Properties>
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleStoneObject</Name>
+      <Properties>
+        <Nature>
+          <NatureType>Stone</NatureType>
+        </Nature>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Nature</ObjectType>
+          <BinarySerializeVersion>0</BinarySerializeVersion>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Tree</Name>
+      <Properties>
+        <Nature>
+          <BlockingRadius>1638</BlockingRadius>
+          <RenderPooled>1</RenderPooled>
+        </Nature>
+        <Object>
+          <ObjectType>Nature</ObjectType>
+          <BinarySerializeVersion>0</BinarySerializeVersion>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Vegetation</Name>
+      <Properties>
+        <Nature>
+          <BlockingRadius>1638</BlockingRadius>
+          <NatureType>Bush</NatureType>
+          <RenderPooled>1</RenderPooled>
+        </Nature>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Grass</ObjectType>
+          <BinarySerializeVersion>0</BinarySerializeVersion>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+  </Group>
+  <Group>
+    <Name>Units</Name>
+    <Template>
+      <Name>AnimalHerd</Name>
+      <Properties>
+        <AnimalHerd>
+          <SeperationDist>10000</SeperationDist>
+          <WanderRatio>25</WanderRatio>
+          <WanderRadius>40960</WanderRadius>
+          <SlowRatio>50</SlowRatio>
+          <IdleMaxTime>60</IdleMaxTime>
+          <IdleMemberMinTime>1</IdleMemberMinTime>
+        </AnimalHerd>
+        <Mesh>
+          <DefaultIdleSequence>stand01</DefaultIdleSequence>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Bird</Name>
+      <Properties>
+        <Boid />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>CityAnimal</Name>
+      <Properties>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Walking>
+          <UseSimpleWalking>1</UseSimpleWalking>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>FarmAnimal</Name>
+      <Properties>
+        <KIModule>
+          <ModuleCall>FarmAnimal()</ModuleCall>
+        </KIModule>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Walking>
+          <UseSimpleWalking>1</UseSimpleWalking>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>FeedbackEmittingUnit</Name>
+      <Properties>
+        <FeedbackEventEmitter />
+        <KIModule />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Walking>
+          <UseSimpleWalking>1</UseSimpleWalking>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>MiniAnimal</Name>
+      <Properties>
+        <Animal>
+          <AnimalType>Minianimal</AnimalType>
+          <FleeType>Predator;Influence;Disaster</FleeType>
+        </Animal>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Walking>
+          <UseSimpleWalking>1</UseSimpleWalking>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>MobileArmy</Name>
+      <Properties>
+        <Army />
+        <Hitpoints>
+          <MaxHitpoints>200</MaxHitpoints>
+          <BurnThresholdPercentage>1</BurnThresholdPercentage>
+          <FireEffect />
+          <SmokeEffect />
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadius>0</InfluenceRadius>
+          <InfluenceRadiusType>Military</InfluenceRadiusType>
+        </Influence>
+        <InfoLayer />
+        <MaintenanceCost />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <MilitaryClaimDemand />
+        <MilitaryObject>
+          <DamageCloseCombatMax>32768</DamageCloseCombatMax>
+          <DamageCloseCombatMin>20480</DamageCloseCombatMin>
+          <DamageEfficiency>
+            <CloseCombatArmy>100</CloseCombatArmy>
+            <RangeCombatArmy>120</RangeCombatArmy>
+            <Fortress>50</Fortress>
+            <Tower>5</Tower>
+            <Wall>5</Wall>
+            <CivilBuilding>500</CivilBuilding>
+            <SpecialForces>100</SpecialForces>
+          </DamageEfficiency>
+          <DamageRelocation>55</DamageRelocation>
+        </MilitaryObject>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>MilitaryCamp</GUIType>
+        </Selection>
+        <Standard />
+        <Walking>
+          <WalkingType>Land;River;Size_1X1;HumanMovement</WalkingType>
+          <IgnoreSequenceSpeed>1</IgnoreSequenceSpeed>
+          <StoreWayPoints>1</StoreWayPoints>
+        </Walking>
+      </Properties>
+      <HiddenValues>
+        <AllowForeignSelection />
+        <AllowRectSelection />
+        <GUIType />
+        <HittestPriority />
+        <SelectionRadius />
+        <SelectSoundGuid />
+        <BaseHarbourSize />
+        <ObjectPlacement />
+        <ObjectPosition />
+        <ObjectType />
+        <SnapToGUID />
+        <VariationAllowedToBuild />
+        <Variations />
+        <IdleSequence />
+        <IgnoreSequenceSpeed />
+        <Leaning />
+        <StoreWayPoints />
+        <TouringCompanyPattern />
+        <TurnDeceleration />
+        <TurnRadius />
+        <TurnRadiusMinimum />
+        <TurnSpeed />
+        <UserMode />
+        <WalkingActionSound />
+        <WalkingType />
+        <WalkSequence />
+        <EditModeOnly />
+        <IgnoreUndiscover />
+        <Name />
+        <BaseCampGUID />
+        <Invulnerable />
+        <BurnThresholdPercentage />
+        <CallForFeedbackUnits />
+        <ShowIngameMessage />
+        <IngameMessageDelayDamage />
+        <IngameMessageDelayRegeneration />
+        <SmokeEffect />
+        <FireEffect />
+        <InactiveCost />
+        <MaintenanceType />
+        <DefaultIdleSequence />
+        <Ambient />
+        <Music />
+        <MusicPrio />
+        <ShowGlyph />
+        <CombatType />
+        <SpawnedArmyGUID />
+        <ProjectileGUID />
+        <ShotRotationAngle />
+        <ShotImpactEffect />
+        <MaxShotHeight />
+        <WallDamageRadius />
+        <ShotAnimationOffset />
+        <DeSelectSoundGuid />
+        <Acceleration />
+        <Deceleration />
+        <ReceiveStreetSpeedup />
+      </HiddenValues>
+    </Template>
+    <Template>
+      <Name>QuestObject</Name>
+      <Properties>
+        <InfoLayer />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>QuestRoamerUnit</Name>
+      <Properties>
+        <KIModule>
+          <ModuleCall>Roamer(10)</ModuleCall>
+        </KIModule>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <SelectionRadius>2</SelectionRadius>
+          <HittestPriority>1</HittestPriority>
+        </Selection>
+        <Standard />
+        <Walking />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>QuestUnit</Name>
+      <Properties>
+        <FeedbackUnit>
+          <UsedFeedbacks>Talk;Greet;Trade;Caravan;Marketplace;Ship</UsedFeedbacks>
+        </FeedbackUnit>
+        <InfoLayer />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <AllowRectSelection>0</AllowRectSelection>
+          <HittestPriority>1</HittestPriority>
+        </Selection>
+        <Standard />
+        <Walking />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Resident</Name>
+      <Properties>
+        <FeedbackUnit />
+        <KIModule />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <TradingPrice />
+        <Walking>
+          <TurnSpeed>921600</TurnSpeed>
+          <UseSimpleWalking>1</UseSimpleWalking>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SelectableUnit</Name>
+      <Properties>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <Walking>
+          <TurnSpeed>921600</TurnSpeed>
+          <WalkingType>Land;River;Size_1X1;HumanMovement</WalkingType>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleAIUnit</Name>
+      <Properties>
+        <KIModule />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Walking />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleTransporter</Name>
+      <Properties>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Transport />
+        <Walking />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleUnit</Name>
+      <Properties>
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Walking>
+          <UseSimpleWalking>1</UseSimpleWalking>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>WildAnimal</Name>
+      <Properties>
+        <Animal>
+          <FleeType>Predator;Disaster</FleeType>
+        </Animal>
+        <KIModule />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>TerrainOnRender</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <Walking>
+          <TurnSpeed>737280</TurnSpeed>
+          <UseSimpleWalking>1</UseSimpleWalking>
+        </Walking>
+      </Properties>
+    </Template>
+  </Group>
+  <Group>
+    <Name>Buildings</Name>
+    <Template>
+      <Name>BridgeBuilding</Name>
+      <Properties>
+        <Blocking />
+        <Building>
+          <BuildingType>Bridge</BuildingType>
+          <NeedsStreetHighlights>0</NeedsStreetHighlights>
+        </Building>
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>BridgeBuildingExtra</Name>
+      <Properties>
+        <Blocking />
+        <Building>
+          <BuildingType>Bridge</BuildingType>
+          <NeedsStreetHighlights>0</NeedsStreetHighlights>
+        </Building>
+        <Hitpoints>
+          <BurnThresholdPercentage>1</BurnThresholdPercentage>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>FactoryBuilding</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>CivilBuilding</BlockingRules>
+        </Blocking>
+        <BuildCost />
+        <Building>
+          <BuildingType>Factory</BuildingType>
+          <StatisticsCategories>Clothes;Property;Building materials</StatisticsCategories>
+        </Building>
+        <ContextMenu>
+          <EntryList>
+            <Item>
+              <ActionType>StopProduction</ActionType>
+            </Item>
+            <Item>
+              <ActionType>InstantPickup</ActionType>
+            </Item>
+          </EntryList>
+        </ContextMenu>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Factory />
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>Factory()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>Factory</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <WareProduction />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>FarmBuilding</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>CivilBuilding</BlockingRules>
+        </Blocking>
+        <BuildCost />
+        <Building>
+          <BuildingType>Farm</BuildingType>
+          <StatisticsCategories>Food;Drink</StatisticsCategories>
+        </Building>
+        <ContextMenu>
+          <EntryList>
+            <Item>
+              <ActionType>Cultivate</ActionType>
+            </Item>
+            <Item>
+              <ActionType>StopProduction</ActionType>
+            </Item>
+            <Item>
+              <ActionType>InstantPickup</ActionType>
+            </Item>
+            <Item>
+              <ActionType>Refill</ActionType>
+            </Item>
+          </EntryList>
+        </ContextMenu>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Farm />
+        <FeedbackEventEmitter />
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>FarmBuilding()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>Farm</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <WareProduction>
+          <InterruptFeedbackOnProduction>1</InterruptFeedbackOnProduction>
+        </WareProduction>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>FarmfieldObject</Name>
+      <Properties>
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingType>Farmfield</BuildingType>
+          <BuildSound>2849</BuildSound>
+          <NeedsStreetHighlights>0</NeedsStreetHighlights>
+        </Building>
+        <Farmfield />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <TradingPrice />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Harbour</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>WallBuilding</BlockingRules>
+        </Blocking>
+        <BuildCost>
+          <MoneyCost>5</MoneyCost>
+        </BuildCost>
+        <Influence>
+          <InfluenceRadius>0</InfluenceRadius>
+          <InfluenceRadiusTypeNeeded>Harbour</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+        <TradingPrice />
+        <Wall />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>HarbourBuilding</Name>
+      <Properties>
+        <Blocking>
+          <HarborType>2</HarborType>
+        </Blocking>
+        <BuildCost />
+        <Building />
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <TradingPrice />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>MarineBuilding</Name>
+      <Properties>
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingType>Marine</BuildingType>
+          <StatisticsCategories>Military</StatisticsCategories>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>ShipProduction()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <RepairShips>
+          <HealingPointsPerMinute>120</HealingPointsPerMinute>
+          <RepairRadius>20</RepairRadius>
+        </RepairShips>
+        <Selection>
+          <GUIType>Marine</GUIType>
+        </Selection>
+        <ShipProduction />
+        <Standard />
+        <TradingPrice />
+        <Warehouse />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Markethouse</Name>
+      <Properties>
+        <Blocking />
+        <BoidSpawner>
+          <BoidGUID>16600</BoidGUID>
+          <BoidCount>10</BoidCount>
+          <BoidAreaSize>15</BoidAreaSize>
+        </BoidSpawner>
+        <BuildCost />
+        <Building>
+          <BuildingType>Markethouse</BuildingType>
+          <StatisticsCategories>Warehouses</StatisticsCategories>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusType>Production</InfluenceRadiusType>
+        </Influence>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>Transportmanager(10000)</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>WarehouseLand</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <Upgradable />
+        <Warehouse />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>MilitaryCamp</Name>
+      <Properties>
+        <Army />
+        <Blocking>
+          <BlockingRules>OverStreetAndOrnament</BlockingRules>
+        </Blocking>
+        <BuildCost />
+        <Building>
+          <BuildingLevel>Citizen</BuildingLevel>
+          <BuildingType>Military</BuildingType>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackEventEmitter>
+          <FeedbackList>
+            <Item>
+              <Feedback>FleeFromMilitary</Feedback>
+              <AutoEmit>1</AutoEmit>
+              <EmitterModule>Event_Emitter_Complex</EmitterModule>
+              <EventModule>Resident_Flee</EventModule>
+            </Item>
+          </FeedbackList>
+        </FeedbackEventEmitter>
+        <Hitpoints>
+          <MaxHitpoints>200</MaxHitpoints>
+          <BurnThresholdPercentage>-1</BurnThresholdPercentage>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadius>15</InfluenceRadius>
+          <InfluenceRadiusType>Military</InfluenceRadiusType>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh />
+        <MilitaryClaimDemand />
+        <MilitaryObject>
+          <DamageCloseCombatMax>8192</DamageCloseCombatMax>
+          <DamageCloseCombatMin>4096</DamageCloseCombatMin>
+          <DamageEfficiency>
+            <CloseCombatArmy>100</CloseCombatArmy>
+            <RangeCombatArmy>120</RangeCombatArmy>
+            <Fortress>50</Fortress>
+            <Tower>100</Tower>
+            <Wall>100</Wall>
+            <CivilBuilding>500</CivilBuilding>
+            <Ship>100</Ship>
+            <SpecialForces>100</SpecialForces>
+            <Baggage>100</Baggage>
+            <TransportBoat>100</TransportBoat>
+            <ConstructionSite>100</ConstructionSite>
+          </DamageEfficiency>
+          <RegenerationRates>
+            <Idle>
+              <PercentagePerSecond>1228</PercentagePerSecond>
+            </Idle>
+            <Relocating>
+              <PercentagePerSecond>0</PercentagePerSecond>
+            </Relocating>
+            <Attacking>
+              <PercentagePerSecond>0</PercentagePerSecond>
+            </Attacking>
+            <Sieged>
+              <PercentagePerSecond>0</PercentagePerSecond>
+            </Sieged>
+            <Attacked>
+              <PercentagePerSecond>0</PercentagePerSecond>
+            </Attacked>
+            <Supporting>
+              <PercentagePerSecond>0</PercentagePerSecond>
+            </Supporting>
+            <RelocatingInEnemyArea>
+              <PercentagePerSecond>-2457</PercentagePerSecond>
+            </RelocatingInEnemyArea>
+            <StandingBaggage>
+              <PercentagePerSecond>-1228</PercentagePerSecond>
+            </StandingBaggage>
+          </RegenerationRates>
+        </MilitaryObject>
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <SelectionRadius>15</SelectionRadius>
+          <GUIType>MilitaryCamp</GUIType>
+          <EnableSelectionOutline>0</EnableSelectionOutline>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+      </Properties>
+      <HiddenValues>
+        <BlockingRules />
+        <BuildBlockPrio />
+        <HarborBlockSize />
+        <HarborType />
+        <BuildEffect />
+        <Ambient />
+        <DefaultIdleSequence />
+        <EditModeOnly />
+        <IgnoreUndiscover />
+        <Music />
+        <MusicPrio />
+        <BaseHarbourSize />
+        <ObjectPlacement />
+        <ObjectPosition />
+        <ObjectType />
+        <SnapToGUID />
+        <VariationAllowedToBuild />
+        <Variations />
+        <AllowForeignSelection />
+        <AllowRectSelection />
+        <GUIType />
+        <HittestPriority />
+        <SelectionRadius />
+        <SelectSoundGuid />
+        <NeedsIntermediatelevel />
+        <NeedsGUID />
+        <BuildingLevel />
+        <BuildingType />
+        <WorkerCount />
+        <HarbourOrigin />
+        <BuildSound />
+        <IsWaterSourceForFeedback />
+        <DangerType />
+        <DangerRadius />
+        <DangerValue />
+        <Invulnerable />
+        <BurnThresholdPercentage />
+        <CallForFeedbackUnits />
+        <ShowIngameMessage />
+        <IngameMessageDelayDamage />
+        <IngameMessageDelayRegeneration />
+        <FireEffect />
+        <SmokeEffect />
+        <InfluenceRadiusTypeNeeded />
+        <ModuleCall />
+        <InactiveCost />
+        <MaintenanceType />
+        <ShowGlyph />
+        <SpawnedArmyGUID />
+        <DeSelectSoundGuid />
+        <ShotAnimationOffset />
+        <WallDamageRadius />
+        <MaxShotDuration />
+        <ProjectileGUID />
+        <ShotRotationAngle />
+        <ShotImpactEffect />
+        <MaxShotHeight />
+      </HiddenValues>
+    </Template>
+    <Template>
+      <Name>MilitaryCampRelocationPlaceholder</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>OverCivilBuilding</BlockingRules>
+        </Blocking>
+        <Mesh />
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>MilitaryCampRelocationPlaceholder</GUIType>
+          <EnableSelectionOutline>0</EnableSelectionOutline>
+        </Selection>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>MilitaryCastle</Name>
+      <Properties>
+        <AIInfos />
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingType>Military</BuildingType>
+          <StatisticsCategories>Military</StatisticsCategories>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Hitpoints>
+          <MaxHitpoints>500</MaxHitpoints>
+          <BurnThresholdPercentage>5</BurnThresholdPercentage>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadius>15</InfluenceRadius>
+          <InfluenceRadiusType>Military</InfluenceRadiusType>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh>
+          <ShowGlyph>1</ShowGlyph>
+        </Mesh>
+        <MilitaryClaimDemand />
+        <MilitaryObject>
+          <DamageRangeCombatMax>20480</DamageRangeCombatMax>
+          <DamageRangeCombatMin>12288</DamageRangeCombatMin>
+          <AttackDelayRangeCombat>1000</AttackDelayRangeCombat>
+          <CombatType>Fortress</CombatType>
+          <DamageEfficiency>
+            <CloseCombatArmy>120</CloseCombatArmy>
+            <RangeCombatArmy>80</RangeCombatArmy>
+            <Fortress>100</Fortress>
+            <Tower>100</Tower>
+            <Wall>100</Wall>
+            <CivilBuilding>500</CivilBuilding>
+            <Ship>100</Ship>
+            <SpecialForces>100</SpecialForces>
+            <Baggage>100</Baggage>
+            <TransportBoat>100</TransportBoat>
+            <ConstructionSite>100</ConstructionSite>
+          </DamageEfficiency>
+          <ProjectileGUID>11502</ProjectileGUID>
+          <ShotRotationAngle>10</ShotRotationAngle>
+          <ShotImpactEffect>data\graphics\effects\military\trebuchet_impact.cfg</ShotImpactEffect>
+          <MaxRangeCombatRadius>15</MaxRangeCombatRadius>
+          <LadderNorth>8</LadderNorth>
+          <LadderEast>16</LadderEast>
+          <LadderSouth>32</LadderSouth>
+          <LadderWest>64</LadderWest>
+        </MilitaryObject>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <SelectionRadius>15</SelectionRadius>
+          <GUIType>MilitaryCastle</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+      </Properties>
+      <HiddenValues>
+        <BlockingRules />
+        <BuildBlockPrio />
+        <HarborBlockSize />
+        <HarborType />
+        <BuildEffect />
+        <CallForFeedbackUnits />
+        <Ambient />
+        <DefaultIdleSequence />
+        <EditModeOnly />
+        <IgnoreUndiscover />
+        <Music />
+        <MusicPrio />
+        <BaseHarbourSize />
+        <ObjectPlacement />
+        <ObjectPosition />
+        <ObjectType />
+        <SnapToGUID />
+        <VariationAllowedToBuild />
+        <Variations />
+        <AllowForeignSelection />
+        <AllowRectSelection />
+        <GUIType />
+        <HittestPriority />
+        <SelectionRadius />
+        <SelectSoundGuid />
+        <NeedsIntermediatelevel />
+        <NeedsGUID />
+        <BuildingLevel />
+        <BuildingType />
+        <WorkerCount />
+        <HarbourOrigin />
+        <BuildSound />
+        <IsWaterSourceForFeedback />
+        <DangerType />
+        <DangerRadius />
+        <DangerValue />
+        <Invulnerable />
+        <BurnThresholdPercentage />
+        <ShowIngameMessage />
+        <IngameMessageDelayDamage />
+        <IngameMessageDelayRegeneration />
+        <FireEffect />
+        <SmokeEffect />
+        <InfluenceRadiusTypeNeeded />
+        <ModuleCall />
+        <MaintenanceType />
+        <ShowGlyph />
+        <SpawnedArmyGUID />
+        <MaxShotDuration />
+        <ProjectileGUID />
+        <ShotRotationAngle />
+        <ShotImpactEffect />
+        <MaxShotHeight />
+        <WallDamageRadius />
+        <ShotAnimationOffset />
+        <DeSelectSoundGuid />
+        <BaseGoldPrice />
+        <MinTradingPrice />
+        <MaxTradingPrice />
+      </HiddenValues>
+    </Template>
+    <Template>
+      <Name>MilitaryFort</Name>
+      <Properties>
+        <AIInfos />
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingLevel>Patrician</BuildingLevel>
+          <BuildingType>Fort</BuildingType>
+          <StatisticsCategories>Military</StatisticsCategories>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <HealArmies>
+          <HealPercentagePerSecond>6144</HealPercentagePerSecond>
+          <HealRadius>15</HealRadius>
+        </HealArmies>
+        <Hitpoints>
+          <MaxHitpoints>500</MaxHitpoints>
+          <BurnThresholdPercentage>5</BurnThresholdPercentage>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadius>15</InfluenceRadius>
+          <InfluenceRadiusType>Military</InfluenceRadiusType>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh />
+        <MilitaryClaimDemand />
+        <MilitaryObject>
+          <DamageRangeCombatMax>20480</DamageRangeCombatMax>
+          <DamageRangeCombatMin>12288</DamageRangeCombatMin>
+          <AttackDelayRangeCombat>1000</AttackDelayRangeCombat>
+          <CombatType>Fortress</CombatType>
+          <DamageEfficiency>
+            <CloseCombatArmy>120</CloseCombatArmy>
+            <RangeCombatArmy>80</RangeCombatArmy>
+            <Fortress>100</Fortress>
+            <Tower>100</Tower>
+            <Wall>100</Wall>
+            <CivilBuilding>500</CivilBuilding>
+            <Ship>100</Ship>
+            <SpecialForces>100</SpecialForces>
+            <Baggage>100</Baggage>
+            <TransportBoat>100</TransportBoat>
+            <ConstructionSite>100</ConstructionSite>
+          </DamageEfficiency>
+          <ProjectileGUID>11502</ProjectileGUID>
+          <ShotRotationAngle>10</ShotRotationAngle>
+          <ShotImpactEffect>data\graphics\effects\military\trebuchet_impact.cfg</ShotImpactEffect>
+          <MaxRangeCombatRadius>15</MaxRangeCombatRadius>
+          <LadderNorth>8</LadderNorth>
+          <LadderEast>16</LadderEast>
+          <LadderSouth>32</LadderSouth>
+          <LadderWest>64</LadderWest>
+        </MilitaryObject>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+          <ObjectPosition>Coast</ObjectPosition>
+        </Object>
+        <RepairShips>
+          <HealingPointsPerMinute>120</HealingPointsPerMinute>
+          <RepairRadius>20</RepairRadius>
+        </RepairShips>
+        <Selection>
+          <SelectionRadius>15</SelectionRadius>
+          <GUIType>MilitaryTower</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <Upgradable>
+          <UpgradeGUID>35000</UpgradeGUID>
+        </Upgradable>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Monument</Name>
+      <Properties>
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingType>Monument</BuildingType>
+          <WorkerCount>10</WorkerCount>
+          <StatisticsCategories>Public</StatisticsCategories>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Factory />
+        <FeedbackEventEmitter />
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>20</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <FireDamageIncreaseInterval>720000</FireDamageIncreaseInterval>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>Monument()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Monument />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <PublicBuilding>
+          <BuildingDemandEfficiency>
+            <Ambassador>75</Ambassador>
+            <Peasant>100</Peasant>
+            <Citizen>75</Citizen>
+            <Patrician>25</Patrician>
+            <Nobleman>25</Nobleman>
+          </BuildingDemandEfficiency>
+          <BuildingDemandColor>-1</BuildingDemandColor>
+          <BuildingDemandMoralCap>very_happy</BuildingDemandMoralCap>
+        </PublicBuilding>
+        <Selection>
+          <GUIType>Factory</GUIType>
+          <SelectSoundGuid>2217</SelectSoundGuid>
+          <DeSelectSoundGuid>2217</DeSelectSoundGuid>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <Upgradable />
+        <Warehouse />
+        <WareProduction />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>NativeMainBuilding</Name>
+      <Properties>
+        <Blocking />
+        <BoidSpawner />
+        <Building>
+          <BuildingType>NativeMainBuilding</BuildingType>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackEventEmitter />
+        <FeedbackUnitSpawner />
+        <Hitpoints>
+          <Invulnerable>1</Invulnerable>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <KIModule />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <SelectSoundGuid>2214</SelectSoundGuid>
+          <DeSelectSoundGuid>2217</DeSelectSoundGuid>
+        </Selection>
+        <Standard />
+        <ThirdpartyObject>
+          <NeutralBuildingType>Trade</NeutralBuildingType>
+          <GateGUID>33920</GateGUID>
+        </ThirdpartyObject>
+        <Warehouse />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>NoriaBuilding</Name>
+      <Properties>
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingType>Noria</BuildingType>
+          <StatisticsCategories>Public</StatisticsCategories>
+        </Building>
+        <ContextMenu>
+          <EntryList>
+            <Item>
+              <ActionType>Refill</ActionType>
+            </Item>
+          </EntryList>
+        </ContextMenu>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Farm />
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>Noria()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Noria />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>Noria</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <WareProduction>
+          <Product>Water</Product>
+          <ProductionCapacity>1000</ProductionCapacity>
+        </WareProduction>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>OrnamentBuilding</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>Ornament</BlockingRules>
+        </Blocking>
+        <BuildCost />
+        <Building>
+          <BuildingType>Ornament</BuildingType>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackEventEmitter />
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <TradingPrice />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>PublicBuilding</Name>
+      <Properties>
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingType>PublicBuilding</BuildingType>
+          <IsInfiltratorSpawnPos>1</IsInfiltratorSpawnPos>
+          <StatisticsCategories>Public</StatisticsCategories>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackEventEmitter />
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <PublicBuilding>
+          <BuildingDemandEfficiency>
+            <Ambassador>75</Ambassador>
+            <Peasant>100</Peasant>
+            <Citizen>75</Citizen>
+            <Patrician>25</Patrician>
+            <Nobleman>25</Nobleman>
+          </BuildingDemandEfficiency>
+          <BuildingDemandColor>-1</BuildingDemandColor>
+          <BuildingDemandMoralCap>very_happy</BuildingDemandMoralCap>
+        </PublicBuilding>
+        <Selection />
+        <Standard />
+        <TradingPrice />
+        <Upgradable />
+        <Warehouse />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>RepairDock</Name>
+      <Properties>
+        <Blocking />
+        <BuildCost />
+        <Building>
+          <BuildingType>Marine</BuildingType>
+          <StatisticsCategories>Military</StatisticsCategories>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <RepairShips />
+        <Selection>
+          <GUIType>Pier</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <Warehouse />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ResidenceBuilding</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>CivilBuilding</BlockingRules>
+        </Blocking>
+        <BuildCost />
+        <Building>
+          <BuildingType>Residence</BuildingType>
+          <StatisticsCategories>Residents</StatisticsCategories>
+        </Building>
+        <ContextMenu>
+          <EntryList>
+            <Item>
+              <ActionType>BlockBuildMaterial</ActionType>
+            </Item>
+            <Item>
+              <ActionType>Upgrade</ActionType>
+            </Item>
+          </EntryList>
+        </ContextMenu>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackEventEmitter>
+          <FeedbackList>
+            <Item>
+              <Feedback>Talk</Feedback>
+              <AutoEmit>1</AutoEmit>
+              <EmitterModule>Event_Talk</EmitterModule>
+              <EventModule>none</EventModule>
+            </Item>
+          </FeedbackList>
+        </FeedbackEventEmitter>
+        <FeedbackUnitSpawner />
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <CallForFeedbackUnits>1</CallForFeedbackUnits>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadius>0</InfluenceRadius>
+          <InfluenceRadiusTypeNeeded>Residence</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>ResidentBuilding()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <ResidenceBuilding>
+          <FireFeedback>5000621</FireFeedback>
+          <PlagueFeedback>5000622</PlagueFeedback>
+        </ResidenceBuilding>
+        <Selection>
+          <GUIType>House</GUIType>
+          <SelectSoundGuid>2216</SelectSoundGuid>
+          <DeSelectSoundGuid>2219</DeSelectSoundGuid>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <UnitSpawner>
+          <RestartOnGUIDChange>1</RestartOnGUIDChange>
+        </UnitSpawner>
+        <Upgradable />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleBlockingBuilding</Name>
+      <Properties>
+        <Blocking />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>SimpleBuilding</Name>
+      <Properties>
+        <Blocking />
+        <BuildCost />
+        <Building />
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusTypeNeeded>Production</InfluenceRadiusTypeNeeded>
+        </Influence>
+        <InfoLayer />
+        <KIModule />
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <TradingPrice />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ThirdPartyBuilding</Name>
+      <Properties>
+        <Blocking />
+        <Building />
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackUnitSpawner />
+        <Hitpoints>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <KIModule />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <ThirdpartyObject />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ThirdPartyFactory</Name>
+      <Properties>
+        <Blocking />
+        <BoidSpawner />
+        <Building>
+          <BuildingType>Factory</BuildingType>
+          <WorkerCount>3</WorkerCount>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <Factory />
+        <Hitpoints>
+          <Invulnerable>1</Invulnerable>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <KIModule>
+          <ModuleCall>NativeFactory()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost>
+          <ActiveCost>30</ActiveCost>
+          <InactiveCost>10</InactiveCost>
+        </MaintenanceCost>
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <GUIType>NeutralBuilding</GUIType>
+        </Selection>
+        <Standard />
+        <ThirdpartyObject>
+          <NeutralBuildingType>PassiveSupport</NeutralBuildingType>
+          <GateGUID>33920</GateGUID>
+        </ThirdpartyObject>
+        <WareProduction />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ThirdPartyMilitaryBuilding</Name>
+      <Properties>
+        <Blocking />
+        <Building />
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackUnitSpawner />
+        <Hitpoints>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <KIModule />
+        <Mesh />
+        <MilitaryObject>
+          <CombatType>CivilBuilding</CombatType>
+        </MilitaryObject>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <ThirdpartyObject />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ThirdPartyTradeBuilding</Name>
+      <Properties>
+        <Blocking />
+        <BoidSpawner />
+        <Building />
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackUnitSpawner />
+        <Hitpoints>
+          <Invulnerable>1</Invulnerable>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <KIModule />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection />
+        <Standard />
+        <ThirdpartyObject>
+          <NeutralBuildingType>Trade</NeutralBuildingType>
+          <GateGUID>33920</GateGUID>
+        </ThirdpartyObject>
+        <ThirdPartyTrade />
+        <Warehouse />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>ThirdPartyWarehouse</Name>
+      <Properties>
+        <Blocking />
+        <BoidSpawner />
+        <Building>
+          <BuildingType>Kontor</BuildingType>
+        </Building>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackEventEmitter />
+        <Hitpoints>
+          <Invulnerable>1</Invulnerable>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <KIModule />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <ObjectSpawner />
+        <Selection>
+          <GUIType>NeutralBase</GUIType>
+        </Selection>
+        <Standard />
+        <ThirdpartyObject>
+          <NeutralBuildingType>Harbour</NeutralBuildingType>
+        </ThirdpartyObject>
+        <Warehouse />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Wall</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>WallBuilding</BlockingRules>
+        </Blocking>
+        <BuildCost>
+          <MoneyCost>5</MoneyCost>
+        </BuildCost>
+        <Building>
+          <BuildEffect>data\graphics\effects\buildingeffects\building_destuct_4x4.cfg</BuildEffect>
+          <DestroyEffect>data\graphics\effects\buildingeffects\building_destuct_2x2.cfg</DestroyEffect>
+        </Building>
+        <Hitpoints>
+          <BurnThresholdPercentage>1</BurnThresholdPercentage>
+          <FireEffect />
+          <StartFireValue>200</StartFireValue>
+          <IsWall>1</IsWall>
+        </Hitpoints>
+        <InfoLayer />
+        <MilitaryClaimDemand />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+        <TradingPrice />
+        <Wall />
+      </Properties>
+      <HiddenValues>
+        <BuildBlockPrio />
+        <HarborType />
+        <HarborBlockSize />
+        <BlockingRules />
+        <NeedsIntermediatelevel />
+        <NeedsGUID />
+        <Invulnerable />
+        <BurnThresholdPercentage />
+        <CallForFeedbackUnits />
+        <ShowIngameMessage />
+        <IngameMessageDelayDamage />
+        <IngameMessageDelayRegeneration />
+        <FireEffect />
+        <SmokeEffect />
+        <ObjectPlacement />
+        <ObjectType />
+        <ObjectPosition />
+        <Variations />
+        <SnapToGUID />
+        <BaseHarbourSize />
+        <VariationAllowedToBuild />
+        <BaseGoldPrice />
+        <MinTradingPrice />
+        <MaxTradingPrice />
+      </HiddenValues>
+    </Template>
+    <Template>
+      <Name>Warehouse</Name>
+      <Properties>
+        <Blocking />
+        <BoidSpawner>
+          <BoidGUID>16610</BoidGUID>
+          <BoidCount>15</BoidCount>
+          <BoidAreaSize>20</BoidAreaSize>
+        </BoidSpawner>
+        <BuildCost />
+        <Building>
+          <BuildingType>Kontor</BuildingType>
+          <BuildSound>2822</BuildSound>
+          <StatisticsCategories>Warehouses</StatisticsCategories>
+        </Building>
+        <ContextMenu>
+          <EntryList>
+            <Item>
+              <ActionType>BlockBuildMaterial</ActionType>
+            </Item>
+            <Item>
+              <ActionType>Upgrade</ActionType>
+            </Item>
+          </EntryList>
+        </ContextMenu>
+        <Danger>
+          <DangerType>Influence</DangerType>
+          <DangerRadius>12</DangerRadius>
+          <DangerValue>5</DangerValue>
+        </Danger>
+        <FeedbackEventEmitter>
+          <FeedbackList>
+            <Item>
+              <Feedback>Ship</Feedback>
+              <EmitterModule>Event_Ship</EmitterModule>
+              <EventModule>none</EventModule>
+            </Item>
+            <Item>
+              <Feedback>Ship</Feedback>
+              <EmitterModule>Event_ShipLeft</EmitterModule>
+              <EventModule>none</EventModule>
+            </Item>
+            <Item>
+              <Feedback>Fishing</Feedback>
+              <AutoEmit>1</AutoEmit>
+              <EventModule>Resident_Fishing</EventModule>
+            </Item>
+          </FeedbackList>
+        </FeedbackEventEmitter>
+        <Hitpoints>
+          <MaxHitpoints>1000</MaxHitpoints>
+          <BurnThresholdPercentage>60</BurnThresholdPercentage>
+          <FireEffect />
+          <CallFirefighter>1</CallFirefighter>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadiusType>Production</InfluenceRadiusType>
+        </Influence>
+        <InfoLayer />
+        <ItemContainer />
+        <KIModule>
+          <ModuleCall>Transportmanager(10000)</ModuleCall>
+        </KIModule>
+        <MaintenanceCost />
+        <Mesh />
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+          <ObjectPosition>Coast</ObjectPosition>
+        </Object>
+        <Selection>
+          <GUIType>Warehouse</GUIType>
+        </Selection>
+        <Standard />
+        <TradingPrice />
+        <Upgradable />
+        <Warehouse />
+      </Properties>
+    </Template>
+  </Group>
+  <Group>
+    <Name>Ships</Name>
+    <Template>
+      <Name>ArmyTransportBoat</Name>
+      <Properties>
+        <Army>
+          <ArmySpeed>
+            <Relocation>4096</Relocation>
+            <Offensive>4096</Offensive>
+            <Return>4096</Return>
+          </ArmySpeed>
+        </Army>
+        <Hitpoints>
+          <MaxHitpoints>200</MaxHitpoints>
+          <FireEffect />
+          <SmokeEffect />
+          <FireDamagePerMinute>0</FireDamagePerMinute>
+        </Hitpoints>
+        <Influence>
+          <InfluenceRadius>0</InfluenceRadius>
+          <InfluenceRadiusType>Military</InfluenceRadiusType>
+        </Influence>
+        <InfoLayer />
+        <MaintenanceCost />
+        <Mesh>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <MilitaryClaimDemand />
+        <MilitaryObject />
+        <Object>
+          <ObjectPlacement>Water</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Selection>
+          <SelectionRadius>1</SelectionRadius>
+          <GUIType>MilitaryCamp</GUIType>
+          <SelectSoundGuid>2834</SelectSoundGuid>
+          <HittestPriority>1</HittestPriority>
+          <DeSelectSoundGuid>2835</DeSelectSoundGuid>
+          <EnableSelectionOutline>0</EnableSelectionOutline>
+        </Selection>
+        <Ship>
+          <VisionRadius>10</VisionRadius>
+          <ShipMoveSound>2606</ShipMoveSound>
+          <ShipIdleSound>2609</ShipIdleSound>
+          <ShipTurnSound>2632</ShipTurnSound>
+          <ShipDestroySound>2632</ShipDestroySound>
+          <ShipSetSail>2630</ShipSetSail>
+          <ShipLowerSail>2631</ShipLowerSail>
+          <BuildGUID>38010</BuildGUID>
+        </Ship>
+        <Standard />
+        <Walking>
+          <WalkingType>Water;Size_1X1;ShipMovement</WalkingType>
+          <Leaning>122880</Leaning>
+          <UserMode>1</UserMode>
+          <WalkingActionSound>2821</WalkingActionSound>
+          <IgnoreSequenceSpeed>1</IgnoreSequenceSpeed>
+          <StoreWayPoints>1</StoreWayPoints>
+          <WaypostGuid>97</WaypostGuid>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>EnemyTradingShip</Name>
+      <Properties>
+        <BuildCost />
+        <Hitpoints>
+          <BurnThresholdPercentage>20</BurnThresholdPercentage>
+          <FireEffect />
+          <SmokeEffect />
+          <FireDamagePerMinute>0</FireDamagePerMinute>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <ItemContainer>
+          <Sockets>
+            <Ship>2</Ship>
+          </Sockets>
+        </ItemContainer>
+        <KIModule>
+          <ModuleCall>Ship_traderoute()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost>
+          <MaintenanceType>Ship</MaintenanceType>
+        </MaintenanceCost>
+        <Mesh>
+          <IgnoreUndiscover>1</IgnoreUndiscover>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>Water</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <ObjectSpawner />
+        <RepairShips />
+        <Selection>
+          <SelectionRadius>2</SelectionRadius>
+          <GUIType>Ship</GUIType>
+          <SelectSoundGuid>2834</SelectSoundGuid>
+          <HittestPriority>1</HittestPriority>
+          <DeSelectSoundGuid>2835</DeSelectSoundGuid>
+          <EnableSelectionOutline>0</EnableSelectionOutline>
+        </Selection>
+        <Ship>
+          <VisionRadius>20</VisionRadius>
+          <ShipMoveSound>2606</ShipMoveSound>
+          <ShipIdleSound>2609</ShipIdleSound>
+          <ShipTurnSound>2627</ShipTurnSound>
+          <ShipDestroySound>2632</ShipDestroySound>
+          <ShipSetSail>2630</ShipSetSail>
+          <ShipLowerSail>2631</ShipLowerSail>
+        </Ship>
+        <Standard />
+        <ThirdpartyObject>
+          <ProfileGUID>1645019</ProfileGUID>
+        </ThirdpartyObject>
+        <Transport>
+          <SlotCapacity>40</SlotCapacity>
+        </Transport>
+        <Walking>
+          <WalkingSpeed>16384</WalkingSpeed>
+          <WalkingType>Water;Size_1X1;ShipMovement</WalkingType>
+          <TurnRadiusMinimum>1536</TurnRadiusMinimum>
+          <TurnDeceleration>2048</TurnDeceleration>
+          <Leaning>122880</Leaning>
+          <Acceleration>16384</Acceleration>
+          <UserMode>1</UserMode>
+          <WalkingActionSound>2821</WalkingActionSound>
+          <WaypostGuid>97</WaypostGuid>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>EnemyWarShip</Name>
+      <Properties>
+        <BuildCost />
+        <Hitpoints>
+          <BurnThresholdPercentage>20</BurnThresholdPercentage>
+          <FireEffect />
+          <SmokeEffect />
+          <FireDamagePerMinute>0</FireDamagePerMinute>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <ItemContainer>
+          <Sockets>
+            <Ship>1</Ship>
+          </Sockets>
+        </ItemContainer>
+        <KIModule>
+          <ModuleCall>Ship_traderoute()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost>
+          <MaintenanceType>Ship</MaintenanceType>
+        </MaintenanceCost>
+        <Mesh>
+          <IgnoreUndiscover>1</IgnoreUndiscover>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>Water</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <ObjectSpawner />
+        <RepairShips />
+        <Selection>
+          <SelectionRadius>2</SelectionRadius>
+          <GUIType>Ship</GUIType>
+          <SelectSoundGuid>2834</SelectSoundGuid>
+          <HittestPriority>1</HittestPriority>
+          <DeSelectSoundGuid>2835</DeSelectSoundGuid>
+          <EnableSelectionOutline>0</EnableSelectionOutline>
+        </Selection>
+        <Ship>
+          <VisionRadius>20</VisionRadius>
+          <ShipMoveSound>2606</ShipMoveSound>
+          <ShipIdleSound>2609</ShipIdleSound>
+          <ShipTurnSound>2628</ShipTurnSound>
+          <ShipDestroySound>2633</ShipDestroySound>
+          <ShipSetSail>2630</ShipSetSail>
+          <ShipLowerSail>2631</ShipLowerSail>
+        </Ship>
+        <ShipCombat>
+          <AttackRange>10</AttackRange>
+          <DamagePerSecond>16384</DamagePerSecond>
+          <AttackSpeed>5000</AttackSpeed>
+          <AttackAngle>60</AttackAngle>
+          <ShipProjectileGUID>11502</ShipProjectileGUID>
+          <ShipShotRotationAngle>20</ShipShotRotationAngle>
+          <ShipShotImpact>data\graphics\effects\military\trebuchet_impact.cfg</ShipShotImpact>
+          <MaxShipShotHeight>4915</MaxShipShotHeight>
+        </ShipCombat>
+        <Standard />
+        <ThirdpartyObject>
+          <ProfileGUID>1645019</ProfileGUID>
+        </ThirdpartyObject>
+        <Transport>
+          <SlotCount>1</SlotCount>
+          <SlotCapacity>40</SlotCapacity>
+        </Transport>
+        <Walking>
+          <WalkingSpeed>16384</WalkingSpeed>
+          <WalkingType>Water;Size_1X1;ShipMovement</WalkingType>
+          <TurnRadiusMinimum>1536</TurnRadiusMinimum>
+          <TurnDeceleration>2048</TurnDeceleration>
+          <Leaning>122880</Leaning>
+          <Acceleration>16384</Acceleration>
+          <UserMode>1</UserMode>
+          <WalkingActionSound>2821</WalkingActionSound>
+          <WaypostGuid>97</WaypostGuid>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>StartIslandShip</Name>
+      <Properties>
+        <Mesh>
+          <IgnoreUndiscover>1</IgnoreUndiscover>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>Water</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>TradingShip</Name>
+      <Properties>
+        <BuildCost />
+        <Hitpoints>
+          <BurnThresholdPercentage>20</BurnThresholdPercentage>
+          <FireEffect />
+          <SmokeEffect />
+          <FireDamagePerMinute>0</FireDamagePerMinute>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <ItemContainer>
+          <Sockets>
+            <Ship>2</Ship>
+          </Sockets>
+        </ItemContainer>
+        <KIModule>
+          <ModuleCall>Ship_traderoute()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost>
+          <MaintenanceType>Ship</MaintenanceType>
+        </MaintenanceCost>
+        <Mesh>
+          <IgnoreUndiscover>1</IgnoreUndiscover>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>Water</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <ObjectSpawner />
+        <RepairShips />
+        <Selection>
+          <SelectionRadius>2</SelectionRadius>
+          <GUIType>Ship</GUIType>
+          <SelectSoundGuid>2834</SelectSoundGuid>
+          <HittestPriority>1</HittestPriority>
+          <DeSelectSoundGuid>2835</DeSelectSoundGuid>
+          <EnableSelectionOutline>0</EnableSelectionOutline>
+        </Selection>
+        <Ship>
+          <VisionRadius>20</VisionRadius>
+          <ShipMoveSound>2606</ShipMoveSound>
+          <ShipIdleSound>2609</ShipIdleSound>
+          <ShipTurnSound>2628</ShipTurnSound>
+          <ShipDestroySound>2633</ShipDestroySound>
+          <ShipSetSail>2630</ShipSetSail>
+          <ShipLowerSail>2631</ShipLowerSail>
+          <BuildGUID>35000</BuildGUID>
+        </Ship>
+        <Standard />
+        <TradingPrice />
+        <Transport>
+          <SlotCapacity>40</SlotCapacity>
+        </Transport>
+        <Walking>
+          <WalkingSpeed>16384</WalkingSpeed>
+          <WalkingType>Water;Size_1X1;ShipMovement</WalkingType>
+          <TurnRadiusMinimum>1536</TurnRadiusMinimum>
+          <TurnDeceleration>2048</TurnDeceleration>
+          <Leaning>122880</Leaning>
+          <Acceleration>16384</Acceleration>
+          <UserMode>1</UserMode>
+          <WalkingActionSound>2821</WalkingActionSound>
+          <StoreWayPoints>1</StoreWayPoints>
+          <WaypostGuid>97</WaypostGuid>
+        </Walking>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>WarShip</Name>
+      <Properties>
+        <AIInfos>
+          <SeaStrength>10</SeaStrength>
+        </AIInfos>
+        <BuildCost />
+        <Hitpoints>
+          <BurnThresholdPercentage>20</BurnThresholdPercentage>
+          <FireEffect />
+          <SmokeEffect />
+          <FireDamagePerMinute>0</FireDamagePerMinute>
+          <StartFireValue>200</StartFireValue>
+        </Hitpoints>
+        <InfoLayer />
+        <ItemContainer>
+          <Sockets>
+            <Ship>1</Ship>
+          </Sockets>
+        </ItemContainer>
+        <KIModule>
+          <ModuleCall>Ship_traderoute()</ModuleCall>
+        </KIModule>
+        <MaintenanceCost>
+          <MaintenanceType>Ship</MaintenanceType>
+        </MaintenanceCost>
+        <Mesh>
+          <IgnoreUndiscover>1</IgnoreUndiscover>
+          <MovementInterpolation>1</MovementInterpolation>
+        </Mesh>
+        <Object>
+          <ObjectPlacement>Water</ObjectPlacement>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <ObjectSpawner />
+        <RepairShips />
+        <Selection>
+          <SelectionRadius>2</SelectionRadius>
+          <GUIType>Ship</GUIType>
+          <SelectSoundGuid>2834</SelectSoundGuid>
+          <HittestPriority>1</HittestPriority>
+          <DeSelectSoundGuid>2835</DeSelectSoundGuid>
+          <EnableSelectionOutline>0</EnableSelectionOutline>
+        </Selection>
+        <Ship>
+          <VisionRadius>20</VisionRadius>
+          <ShipMoveSound>2606</ShipMoveSound>
+          <ShipIdleSound>2609</ShipIdleSound>
+          <ShipTurnSound>2629</ShipTurnSound>
+          <ShipDestroySound>2634</ShipDestroySound>
+          <ShipSetSail>2631</ShipSetSail>
+          <ShipLowerSail>2630</ShipLowerSail>
+          <BuildGUID>35000</BuildGUID>
+        </Ship>
+        <ShipCombat>
+          <AttackRange>10</AttackRange>
+          <DamagePerSecond>16384</DamagePerSecond>
+          <AttackSpeed>5000</AttackSpeed>
+          <AttackAngle>60</AttackAngle>
+          <ShipProjectileGUID>11502</ShipProjectileGUID>
+          <ShipShotRotationAngle>20</ShipShotRotationAngle>
+          <ShipShotImpact>data\graphics\effects\military\ship_impact.cfg</ShipShotImpact>
+          <MaxShipShotHeight>3276</MaxShipShotHeight>
+        </ShipCombat>
+        <Standard />
+        <TradingPrice />
+        <Transport>
+          <SlotCount>1</SlotCount>
+          <SlotCapacity>40</SlotCapacity>
+        </Transport>
+        <Walking>
+          <WalkingSpeed>16384</WalkingSpeed>
+          <WalkingType>Water;Size_1X1;ShipMovement</WalkingType>
+          <TurnRadiusMinimum>1536</TurnRadiusMinimum>
+          <TurnDeceleration>2048</TurnDeceleration>
+          <Leaning>122880</Leaning>
+          <Acceleration>16384</Acceleration>
+          <UserMode>1</UserMode>
+          <WalkingActionSound>2821</WalkingActionSound>
+          <StoreWayPoints>1</StoreWayPoints>
+          <WaypostGuid>97</WaypostGuid>
+        </Walking>
+      </Properties>
+    </Template>
+  </Group>
+  <Group>
+    <Name>Items</Name>
+  </Group>
+  <Group>
+    <Name>Misc</Name>
+    <Template>
+      <Name>Achievement</Name>
+      <Properties>
+        <Achievement />
+        <BuildCost />
+        <PassiveUpgrade />
+        <Standard />
+        <Upgradable />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Ambient</Name>
+      <Properties>
+        <AmbientSound>
+          <AmbientMaxDistance>32</AmbientMaxDistance>
+        </AmbientSound>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Balancing</Name>
+      <Properties>
+        <Balancing />
+        <FeedbackBalancing />
+        <GUIBalancing />
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>InfoLayerIcon</Name>
+      <Properties>
+        <Object>
+          <ObjectPlacement>None</ObjectPlacement>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>NativeSlot</Name>
+      <Properties>
+        <NativeSlot />
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Provision</Name>
+      <Properties>
+        <BuildCost />
+        <Standard />
+        <WareProduction>
+          <Product>SupplyPackage</Product>
+        </WareProduction>
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Street</Name>
+      <Properties>
+        <Blocking>
+          <BlockingRules>OverRiver</BlockingRules>
+        </Blocking>
+        <BuildCost>
+          <MoneyCost>10</MoneyCost>
+        </BuildCost>
+        <Object>
+          <ObjectType>Handle</ObjectType>
+        </Object>
+        <Standard />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Target</Name>
+      <Properties>
+        <Standard />
+        <Target />
+      </Properties>
+    </Template>
+  </Group>
+</Templates>

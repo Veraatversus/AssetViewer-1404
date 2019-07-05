@@ -1,0 +1,2968 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExpeditionItem>
+  <Asset ID="8456" Name="ExpeditionMap Heiße Spur">
+    <Text ID="8456" FontStyle="0">
+      <EN>Belly dancer's Map</EN>
+      <DE>Karte der Bauchtänzerin</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Is the search for his daughter really still worth doing? </EN>
+        <DE>Macht die Suche nach seiner Tochter überhaupt noch Sinn? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5950130</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5950130" FontStyle="0">
+            <EN>A hot trail II</EN>
+            <DE>Eine heiße Spur II</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8520" Name="ExpeditionMap Des Kaisers Gnade">
+    <Text ID="8520" FontStyle="0">
+      <EN>Map to exile</EN>
+      <DE>Karte zum Exil</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>The witches should be safe at last there... </EN>
+        <DE>Dort sollten die Hexen endlich in Sicherheit sein... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>8350147</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="8350147" FontStyle="0">
+            <EN>The Emperor's mercy IV</EN>
+            <DE>Der Kaisers Gnade IV</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8479" Name="Expeditionskarte leicht 0">
+    <Text ID="8479" FontStyle="0">
+      <EN>Map of a lost Knight</EN>
+      <DE>Karte eines verschollenen Ritters</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Does this lead to his legacy? </EN>
+        <DE>Führt sie zu seinem Vermächtnis? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>80  Honour</EN>
+      <DE>80  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5650000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5650000" FontStyle="0">
+            <EN>Pretty maid</EN>
+            <DE>Schöne Maid</DE>
+          </Description>
+          <Description ID="5650002" FontStyle="0">
+            <EN>New spurs</EN>
+            <DE>Neue Sporen</DE>
+          </Description>
+          <Description ID="5650004" FontStyle="0">
+            <EN>A clever plan</EN>
+            <DE>Ein kühner Plan</DE>
+          </Description>
+          <Description ID="5650006" FontStyle="0">
+            <EN>Mishap on the whaling expedition</EN>
+            <DE>Unglück beim Walfang</DE>
+          </Description>
+          <Description ID="5650008" FontStyle="0">
+            <EN>Heavy Cargo</EN>
+            <DE>Schwere Ladung</DE>
+          </Description>
+          <Description ID="5650010" FontStyle="0">
+            <EN>A wet Medic</EN>
+            <DE>Ein nasser Medicus</DE>
+          </Description>
+          <Description ID="5650012" FontStyle="0">
+            <EN>The Lord's blessing</EN>
+            <DE>Der Segen des Herrn</DE>
+          </Description>
+          <Description ID="5650014" FontStyle="0">
+            <EN>The feast I</EN>
+            <DE>Das Gelage I</DE>
+          </Description>
+          <Description ID="5650020" FontStyle="0">
+            <EN>Nightmares</EN>
+            <DE>Nachtmahre</DE>
+          </Description>
+          <Description ID="5650022" FontStyle="0">
+            <EN>Guests in danger</EN>
+            <DE>Gäste in Gefahr</DE>
+          </Description>
+          <Description ID="5650024" FontStyle="0">
+            <EN>Men overboard!</EN>
+            <DE>Männer über Bord!</DE>
+          </Description>
+          <Description ID="5650026" FontStyle="0">
+            <EN>Dissimilar brothers</EN>
+            <DE>Ungleiche Brüder</DE>
+          </Description>
+          <Description ID="5650034" FontStyle="0">
+            <EN>Money</EN>
+            <DE>Münze</DE>
+          </Description>
+          <Description ID="5650036" FontStyle="0">
+            <EN>Stopped</EN>
+            <DE>Verhindert</DE>
+          </Description>
+          <Description ID="5650038" FontStyle="0">
+            <EN>The missing Smith</EN>
+            <DE>Der vermisste Schmied</DE>
+          </Description>
+          <Description ID="5650042" FontStyle="0">
+            <EN>Drunk at the helm</EN>
+            <DE>Trunkenheit am Steuer</DE>
+          </Description>
+          <Description ID="5650046" FontStyle="0">
+            <EN>The Tournament I</EN>
+            <DE>Das Turnier I</DE>
+          </Description>
+          <Description ID="5650050" FontStyle="0">
+            <EN>The memoirs I</EN>
+            <DE>Die Memoiren I</DE>
+          </Description>
+          <Description ID="5650052" FontStyle="0">
+            <EN>The memoirs II</EN>
+            <DE>Die Memoiren II</DE>
+          </Description>
+          <Description ID="5650056" FontStyle="0">
+            <EN>Pure luxury</EN>
+            <DE>Purer Luxus</DE>
+          </Description>
+          <Description ID="5650058" FontStyle="0">
+            <EN>Support</EN>
+            <DE>Schützenhilfe</DE>
+          </Description>
+          <Description ID="5650060" FontStyle="0">
+            <EN>Before the fall</EN>
+            <DE>Vor dem Fall</DE>
+          </Description>
+          <Description ID="5650062" FontStyle="0">
+            <EN>Too many opportunities</EN>
+            <DE>Zu viele Möglichkeiten</DE>
+          </Description>
+          <Description ID="5650064" FontStyle="0">
+            <EN>The golden spoon</EN>
+            <DE>Der goldene Löffel</DE>
+          </Description>
+          <Description ID="5650066" FontStyle="0">
+            <EN>Crop and bridle</EN>
+            <DE>Gerte und Zaumzeug</DE>
+          </Description>
+          <Description ID="5650068" FontStyle="0">
+            <EN>the Smith and his Journeymen</EN>
+            <DE>Der Schmied und seine Gesellen</DE>
+          </Description>
+          <Description ID="5650070" FontStyle="0">
+            <EN>The braggadocio I</EN>
+            <DE>Prahlhans I</DE>
+          </Description>
+          <Description ID="5650072" FontStyle="0">
+            <EN>The braggadocio II</EN>
+            <DE>Prahlhans II</DE>
+          </Description>
+          <Description ID="5650074" FontStyle="0">
+            <EN>The braggadocio III</EN>
+            <DE>Prahlhans III</DE>
+          </Description>
+          <Description ID="5650018" FontStyle="0">
+            <EN>The portrait</EN>
+            <DE>Das Porträt</DE>
+          </Description>
+          <Description ID="5650028" FontStyle="0">
+            <EN>The contingent</EN>
+            <DE>Das Aufgebot</DE>
+          </Description>
+          <Description ID="5650030" FontStyle="0">
+            <EN>The lothario</EN>
+            <DE>Der Schürzenjäger</DE>
+          </Description>
+          <Description ID="5650032" FontStyle="0">
+            <EN>Drinking buddies</EN>
+            <DE>Zechkumpane</DE>
+          </Description>
+          <Description ID="5650040" FontStyle="0">
+            <EN>Headlong into the adventure</EN>
+            <DE>Hinein ins Abenteuer</DE>
+          </Description>
+          <Description ID="5650044" FontStyle="0">
+            <EN>The thief makes his escape</EN>
+            <DE>Langfinger auf der Flucht</DE>
+          </Description>
+          <Description ID="5650084" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5950002" FontStyle="0">
+            <EN>Confusion on the festive day</EN>
+            <DE>Festtagswirren</DE>
+          </Description>
+          <Description ID="5950007" FontStyle="0">
+            <EN>Friendly favour</EN>
+            <DE>Freundschaftsdienst</DE>
+          </Description>
+          <Description ID="5950003" FontStyle="0">
+            <EN>The game of Kings</EN>
+            <DE>Das Spiel der Könige</DE>
+          </Description>
+          <Description ID="5950009" FontStyle="0">
+            <EN>Unwilling Weapons</EN>
+            <DE>Waffen wider Willen</DE>
+          </Description>
+          <Description ID="5950017" FontStyle="0">
+            <EN>Day of death</EN>
+            <DE>Todestag</DE>
+          </Description>
+          <Description ID="5950020" FontStyle="0">
+            <EN>Heavy loss</EN>
+            <DE>Schwerer Verlust</DE>
+          </Description>
+          <Description ID="5950023" FontStyle="0">
+            <EN>Help for the Academics</EN>
+            <DE>Hilfe für die Akademiker</DE>
+          </Description>
+          <Description ID="5950026" FontStyle="0">
+            <EN>Folly!</EN>
+            <DE>Narretei!</DE>
+          </Description>
+          <Description ID="5950029" FontStyle="0">
+            <EN>Unique Goods</EN>
+            <DE>Einzigartige Waren</DE>
+          </Description>
+          <Description ID="5950041" FontStyle="0">
+            <EN>A big heart</EN>
+            <DE>Ein großes Herz</DE>
+          </Description>
+          <Description ID="5950044" FontStyle="0">
+            <EN>Pious advice</EN>
+            <DE>Frommer Zuspruch</DE>
+          </Description>
+          <Description ID="5950067" FontStyle="0">
+            <EN>Winter news</EN>
+            <DE>Winterliche Bedürfnisse</DE>
+          </Description>
+          <Description ID="5950070" FontStyle="0">
+            <EN>Cold War</EN>
+            <DE>Kalter Krieg</DE>
+          </Description>
+          <Description ID="5950071" FontStyle="0">
+            <EN>A fair wind</EN>
+            <DE>Mast- und Schotbruch</DE>
+          </Description>
+          <Description ID="5950080" FontStyle="0">
+            <EN>Fatal surplus weight</EN>
+            <DE>Fatales Übergewicht</DE>
+          </Description>
+          <Description ID="5950083" FontStyle="0">
+            <EN>Layouts</EN>
+            <DE>Ungeheuerlicher Schaden </DE>
+          </Description>
+          <Description ID="5950086" FontStyle="0">
+            <EN>A look into the stars I</EN>
+            <DE>Blick in die Sterne I</DE>
+          </Description>
+          <Description ID="5950089" FontStyle="0">
+            <EN>A look into the stars II</EN>
+            <DE>Blick in die Sterne II</DE>
+          </Description>
+          <Description ID="5950092" FontStyle="0">
+            <EN>A look into the stars III</EN>
+            <DE>Blick in die Sterne III</DE>
+          </Description>
+          <Description ID="5950096" FontStyle="0">
+            <EN>The informant I</EN>
+            <DE>Der Informant I</DE>
+          </Description>
+          <Description ID="5950102" FontStyle="0">
+            <EN>The forgotten Ship</EN>
+            <DE>Das vergessene Schiff</DE>
+          </Description>
+          <Description ID="5950103" FontStyle="0">
+            <EN>The fool in the barrel</EN>
+            <DE>Der Narr im Fass</DE>
+          </Description>
+          <Description ID="5950107" FontStyle="0">
+            <EN>To he who is deserving</EN>
+            <DE>Jedem, was er verdient</DE>
+          </Description>
+          <Description ID="5950110" FontStyle="0">
+            <EN>Revenge on a swindler</EN>
+            <DE>Vergeltung an einem Schwindler</DE>
+          </Description>
+          <Description ID="5950113" FontStyle="0">
+            <EN>Exasperating setback</EN>
+            <DE>Ärgerliche Verzögerung</DE>
+          </Description>
+          <Description ID="5950116" FontStyle="0">
+            <EN>An important guest I</EN>
+            <DE>Ein wichtiger Gast I</DE>
+          </Description>
+          <Description ID="5950120" FontStyle="0">
+            <EN>Visual feasts</EN>
+            <DE>Optische Schätze</DE>
+          </Description>
+          <Description ID="5950127" FontStyle="0">
+            <EN>A hot trail I</EN>
+            <DE>Eine heiße Spur I</DE>
+          </Description>
+          <Description ID="5950133" FontStyle="0">
+            <EN>A hot trail III</EN>
+            <DE>Eine heiße Spur III</DE>
+          </Description>
+          <Description ID="5950012" FontStyle="0">
+            <EN>High time!</EN>
+            <DE>Höchste Zeit!</DE>
+          </Description>
+          <Description ID="5950032" FontStyle="0">
+            <EN>Spiritual assets</EN>
+            <DE>Geistiges Eigentum</DE>
+          </Description>
+          <Description ID="5950035" FontStyle="0">
+            <EN>Needle in a haystack</EN>
+            <DE>Nadel im Heuhaufen</DE>
+          </Description>
+          <Description ID="5950038" FontStyle="0">
+            <EN>Tricky undertaking</EN>
+            <DE>Heikles Unterfangen</DE>
+          </Description>
+          <Description ID="5950047" FontStyle="0">
+            <EN>From Coast to Coast</EN>
+            <DE>Von Küste zu Küste</DE>
+          </Description>
+          <Description ID="5950124" FontStyle="0">
+            <EN>Ancient Artefacts</EN>
+            <DE>Antike Artefakte</DE>
+          </Description>
+          <Description ID="5950140" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5302000" FontStyle="0">
+            <EN>Science in crates</EN>
+            <DE>Wissenschaft in Kisten</DE>
+          </Description>
+          <Description ID="5302006" FontStyle="0">
+            <EN>When one goes on a voyage...</EN>
+            <DE>Wenn einer eine Reise tut ...</DE>
+          </Description>
+          <Description ID="5302008" FontStyle="0">
+            <EN>Crazy cultural exchange</EN>
+            <DE>Närrischer Kulturaustausch</DE>
+          </Description>
+          <Description ID="5302010" FontStyle="0">
+            <EN>Delayed goods</EN>
+            <DE>Waren im Verzug</DE>
+          </Description>
+          <Description ID="5302012" FontStyle="0">
+            <EN>Scientific curiosity</EN>
+            <DE>Forscherdrang</DE>
+          </Description>
+          <Description ID="5302014" FontStyle="0">
+            <EN>Driving insights</EN>
+            <DE>Treibende Erkenntnisse</DE>
+          </Description>
+          <Description ID="5302016" FontStyle="0">
+            <EN>The Ghost ship I</EN>
+            <DE>Das Geisterschiff I</DE>
+          </Description>
+          <Description ID="5302020" FontStyle="0">
+            <EN>The Ghost ship II</EN>
+            <DE>Das Geisterschiff II</DE>
+          </Description>
+          <Description ID="5302026" FontStyle="0">
+            <EN>The Ghost ship III</EN>
+            <DE>Das Geisterschiff III</DE>
+          </Description>
+          <Description ID="5302029" FontStyle="0">
+            <EN>Hiatus in Construction work</EN>
+            <DE>Konstruktionslücke</DE>
+          </Description>
+          <Description ID="5302032" FontStyle="0">
+            <EN>The Celestial chart</EN>
+            <DE>Die Sternkarte</DE>
+          </Description>
+          <Description ID="5302035" FontStyle="0">
+            <EN>Over the plank</EN>
+            <DE>Über die Planke</DE>
+          </Description>
+          <Description ID="5302038" FontStyle="0">
+            <EN>Instructive</EN>
+            <DE>Lehrreich </DE>
+          </Description>
+          <Description ID="5302041" FontStyle="0">
+            <EN>Patent espionage</EN>
+            <DE>Patentspionage</DE>
+          </Description>
+          <Description ID="5302044" FontStyle="0">
+            <EN>The Research station</EN>
+            <DE>Die Forschungsstation</DE>
+          </Description>
+          <Description ID="5302047" FontStyle="0">
+            <EN>Training Ship in danger</EN>
+            <DE>Schulschiffe in Gefahr</DE>
+          </Description>
+          <Description ID="5302050" FontStyle="0">
+            <EN>The Sultan's Ship I</EN>
+            <DE>Des Sultans Schiff I</DE>
+          </Description>
+          <Description ID="5302057" FontStyle="0">
+            <EN>Schriften der Weisheit</EN>
+            <DE>Schriften der Weisheit</DE>
+          </Description>
+          <Description ID="5304024" FontStyle="0">
+            <EN>Sunken Treasure</EN>
+            <DE>Versunkenes Artefakt</DE>
+          </Description>
+          <Description ID="5304031" FontStyle="0">
+            <EN>The cost factor!</EN>
+            <DE>Der Kostenfaktor</DE>
+          </Description>
+          <Description ID="5304033" FontStyle="0">
+            <EN>Shipwrecked!</EN>
+            <DE>Gestrandet!</DE>
+          </Description>
+          <Description ID="5304035" FontStyle="0">
+            <EN>Assistant</EN>
+            <DE>Assistent </DE>
+          </Description>
+          <Description ID="5304041" FontStyle="0">
+            <EN>Ghost!</EN>
+            <DE>Spuk!</DE>
+          </Description>
+          <Description ID="5304043" FontStyle="0">
+            <EN>Caught in the trap</EN>
+            <DE>In der Falle</DE>
+          </Description>
+          <Description ID="5304064" FontStyle="0">
+            <EN>Forgotten Culture</EN>
+            <DE>Vergessene Kultur</DE>
+          </Description>
+          <Description ID="5304067" FontStyle="0">
+            <EN>Second opinion</EN>
+            <DE>Zweite Meinung</DE>
+          </Description>
+          <Description ID="5304070" FontStyle="0">
+            <EN>A little knowledge is a dangerous thing</EN>
+            <DE>Gefährliches Halbwissen</DE>
+          </Description>
+          <Description ID="5304073" FontStyle="0">
+            <EN>Lost and found</EN>
+            <DE>Verloren und wiedergefunden</DE>
+          </Description>
+          <Description ID="5304076" FontStyle="0">
+            <EN>The missing Treasure ship</EN>
+            <DE>Das vermisste Schatzschiff</DE>
+          </Description>
+          <Description ID="5304083" FontStyle="0">
+            <EN>The devil is in the detail I</EN>
+            <DE>Teufel im Detail I</DE>
+          </Description>
+          <Description ID="5304085" FontStyle="0">
+            <EN>The devil is in the detail II</EN>
+            <DE>Teufel im Detail II</DE>
+          </Description>
+          <Description ID="5304026" FontStyle="0">
+            <EN>Green-eyed monsters</EN>
+            <DE>Neider</DE>
+          </Description>
+          <Description ID="5304028" FontStyle="0">
+            <EN>Enlightenment</EN>
+            <DE>Aufklärung</DE>
+          </Description>
+          <Description ID="5304030" FontStyle="0">
+            <EN>Finders keepers</EN>
+            <DE>Besitzanspruch</DE>
+          </Description>
+          <Description ID="5304037" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erkundung</DE>
+          </Description>
+          <Description ID="5304039" FontStyle="0">
+            <EN>Map error</EN>
+            <DE>Kartenfehler</DE>
+          </Description>
+          <Description ID="5304087" FontStyle="0">
+            <EN>The devil is in the detail III</EN>
+            <DE>Teufel im Detail III</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8132" Name="Expeditionskarte mittel I">
+    <Text ID="8132" FontStyle="0">
+      <EN>Sealed Expedition map</EN>
+      <DE>Versiegelte Expeditionskarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Someone must break the seal... </EN>
+        <DE>Jemand muss das Siegel brechen... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8521" Name="ExpeditionMap Das Geistschiff">
+    <Text ID="8521" FontStyle="0">
+      <EN>Treasure map shrouded in secrecy</EN>
+      <DE>Geheimnisumwitterte Schatzkarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>From the Ship's hobgoblin himself...</EN>
+        <DE>Vom Klabautermann höchstpersönlich...</DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>8150112</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="8150112" FontStyle="0">
+            <EN>Das Geisterschiff II</EN>
+            <DE>Das Geisterschiff II</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8344" Name="Expeditionskarte schwer III">
+    <Text ID="8344" FontStyle="0">
+      <EN>Torn Marine chart</EN>
+      <DE>Zerrissene Seekarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Hopefully this is the more important half! </EN>
+        <DE>Hoffentlich ist dies die wichtigere Hälfte! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8516" Name="Expeditionskarte leicht I">
+    <Text ID="8516" FontStyle="0">
+      <EN>Marine chart covered in algae</EN>
+      <DE>Von Algen überwucherte Seekarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Smells of Fish! </EN>
+        <DE>Riecht nach Fisch! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>80  Honour</EN>
+      <DE>80  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5650000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5650000" FontStyle="0">
+            <EN>Pretty maid</EN>
+            <DE>Schöne Maid</DE>
+          </Description>
+          <Description ID="5650002" FontStyle="0">
+            <EN>New spurs</EN>
+            <DE>Neue Sporen</DE>
+          </Description>
+          <Description ID="5650004" FontStyle="0">
+            <EN>A clever plan</EN>
+            <DE>Ein kühner Plan</DE>
+          </Description>
+          <Description ID="5650006" FontStyle="0">
+            <EN>Mishap on the whaling expedition</EN>
+            <DE>Unglück beim Walfang</DE>
+          </Description>
+          <Description ID="5650008" FontStyle="0">
+            <EN>Heavy Cargo</EN>
+            <DE>Schwere Ladung</DE>
+          </Description>
+          <Description ID="5650010" FontStyle="0">
+            <EN>A wet Medic</EN>
+            <DE>Ein nasser Medicus</DE>
+          </Description>
+          <Description ID="5650012" FontStyle="0">
+            <EN>The Lord's blessing</EN>
+            <DE>Der Segen des Herrn</DE>
+          </Description>
+          <Description ID="5650014" FontStyle="0">
+            <EN>The feast I</EN>
+            <DE>Das Gelage I</DE>
+          </Description>
+          <Description ID="5650020" FontStyle="0">
+            <EN>Nightmares</EN>
+            <DE>Nachtmahre</DE>
+          </Description>
+          <Description ID="5650022" FontStyle="0">
+            <EN>Guests in danger</EN>
+            <DE>Gäste in Gefahr</DE>
+          </Description>
+          <Description ID="5650024" FontStyle="0">
+            <EN>Men overboard!</EN>
+            <DE>Männer über Bord!</DE>
+          </Description>
+          <Description ID="5650026" FontStyle="0">
+            <EN>Dissimilar brothers</EN>
+            <DE>Ungleiche Brüder</DE>
+          </Description>
+          <Description ID="5650034" FontStyle="0">
+            <EN>Money</EN>
+            <DE>Münze</DE>
+          </Description>
+          <Description ID="5650036" FontStyle="0">
+            <EN>Stopped</EN>
+            <DE>Verhindert</DE>
+          </Description>
+          <Description ID="5650038" FontStyle="0">
+            <EN>The missing Smith</EN>
+            <DE>Der vermisste Schmied</DE>
+          </Description>
+          <Description ID="5650042" FontStyle="0">
+            <EN>Drunk at the helm</EN>
+            <DE>Trunkenheit am Steuer</DE>
+          </Description>
+          <Description ID="5650046" FontStyle="0">
+            <EN>The Tournament I</EN>
+            <DE>Das Turnier I</DE>
+          </Description>
+          <Description ID="5650050" FontStyle="0">
+            <EN>The memoirs I</EN>
+            <DE>Die Memoiren I</DE>
+          </Description>
+          <Description ID="5650052" FontStyle="0">
+            <EN>The memoirs II</EN>
+            <DE>Die Memoiren II</DE>
+          </Description>
+          <Description ID="5650056" FontStyle="0">
+            <EN>Pure luxury</EN>
+            <DE>Purer Luxus</DE>
+          </Description>
+          <Description ID="5650058" FontStyle="0">
+            <EN>Support</EN>
+            <DE>Schützenhilfe</DE>
+          </Description>
+          <Description ID="5650060" FontStyle="0">
+            <EN>Before the fall</EN>
+            <DE>Vor dem Fall</DE>
+          </Description>
+          <Description ID="5650062" FontStyle="0">
+            <EN>Too many opportunities</EN>
+            <DE>Zu viele Möglichkeiten</DE>
+          </Description>
+          <Description ID="5650064" FontStyle="0">
+            <EN>The golden spoon</EN>
+            <DE>Der goldene Löffel</DE>
+          </Description>
+          <Description ID="5650066" FontStyle="0">
+            <EN>Crop and bridle</EN>
+            <DE>Gerte und Zaumzeug</DE>
+          </Description>
+          <Description ID="5650068" FontStyle="0">
+            <EN>the Smith and his Journeymen</EN>
+            <DE>Der Schmied und seine Gesellen</DE>
+          </Description>
+          <Description ID="5650070" FontStyle="0">
+            <EN>The braggadocio I</EN>
+            <DE>Prahlhans I</DE>
+          </Description>
+          <Description ID="5650072" FontStyle="0">
+            <EN>The braggadocio II</EN>
+            <DE>Prahlhans II</DE>
+          </Description>
+          <Description ID="5650074" FontStyle="0">
+            <EN>The braggadocio III</EN>
+            <DE>Prahlhans III</DE>
+          </Description>
+          <Description ID="5650018" FontStyle="0">
+            <EN>The portrait</EN>
+            <DE>Das Porträt</DE>
+          </Description>
+          <Description ID="5650028" FontStyle="0">
+            <EN>The contingent</EN>
+            <DE>Das Aufgebot</DE>
+          </Description>
+          <Description ID="5650030" FontStyle="0">
+            <EN>The lothario</EN>
+            <DE>Der Schürzenjäger</DE>
+          </Description>
+          <Description ID="5650032" FontStyle="0">
+            <EN>Drinking buddies</EN>
+            <DE>Zechkumpane</DE>
+          </Description>
+          <Description ID="5650040" FontStyle="0">
+            <EN>Headlong into the adventure</EN>
+            <DE>Hinein ins Abenteuer</DE>
+          </Description>
+          <Description ID="5650044" FontStyle="0">
+            <EN>The thief makes his escape</EN>
+            <DE>Langfinger auf der Flucht</DE>
+          </Description>
+          <Description ID="5650084" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5950002" FontStyle="0">
+            <EN>Confusion on the festive day</EN>
+            <DE>Festtagswirren</DE>
+          </Description>
+          <Description ID="5950007" FontStyle="0">
+            <EN>Friendly favour</EN>
+            <DE>Freundschaftsdienst</DE>
+          </Description>
+          <Description ID="5950003" FontStyle="0">
+            <EN>The game of Kings</EN>
+            <DE>Das Spiel der Könige</DE>
+          </Description>
+          <Description ID="5950009" FontStyle="0">
+            <EN>Unwilling Weapons</EN>
+            <DE>Waffen wider Willen</DE>
+          </Description>
+          <Description ID="5950017" FontStyle="0">
+            <EN>Day of death</EN>
+            <DE>Todestag</DE>
+          </Description>
+          <Description ID="5950020" FontStyle="0">
+            <EN>Heavy loss</EN>
+            <DE>Schwerer Verlust</DE>
+          </Description>
+          <Description ID="5950023" FontStyle="0">
+            <EN>Help for the Academics</EN>
+            <DE>Hilfe für die Akademiker</DE>
+          </Description>
+          <Description ID="5950026" FontStyle="0">
+            <EN>Folly!</EN>
+            <DE>Narretei!</DE>
+          </Description>
+          <Description ID="5950029" FontStyle="0">
+            <EN>Unique Goods</EN>
+            <DE>Einzigartige Waren</DE>
+          </Description>
+          <Description ID="5950041" FontStyle="0">
+            <EN>A big heart</EN>
+            <DE>Ein großes Herz</DE>
+          </Description>
+          <Description ID="5950044" FontStyle="0">
+            <EN>Pious advice</EN>
+            <DE>Frommer Zuspruch</DE>
+          </Description>
+          <Description ID="5950067" FontStyle="0">
+            <EN>Winter news</EN>
+            <DE>Winterliche Bedürfnisse</DE>
+          </Description>
+          <Description ID="5950070" FontStyle="0">
+            <EN>Cold War</EN>
+            <DE>Kalter Krieg</DE>
+          </Description>
+          <Description ID="5950071" FontStyle="0">
+            <EN>A fair wind</EN>
+            <DE>Mast- und Schotbruch</DE>
+          </Description>
+          <Description ID="5950080" FontStyle="0">
+            <EN>Fatal surplus weight</EN>
+            <DE>Fatales Übergewicht</DE>
+          </Description>
+          <Description ID="5950083" FontStyle="0">
+            <EN>Layouts</EN>
+            <DE>Ungeheuerlicher Schaden </DE>
+          </Description>
+          <Description ID="5950086" FontStyle="0">
+            <EN>A look into the stars I</EN>
+            <DE>Blick in die Sterne I</DE>
+          </Description>
+          <Description ID="5950089" FontStyle="0">
+            <EN>A look into the stars II</EN>
+            <DE>Blick in die Sterne II</DE>
+          </Description>
+          <Description ID="5950092" FontStyle="0">
+            <EN>A look into the stars III</EN>
+            <DE>Blick in die Sterne III</DE>
+          </Description>
+          <Description ID="5950096" FontStyle="0">
+            <EN>The informant I</EN>
+            <DE>Der Informant I</DE>
+          </Description>
+          <Description ID="5950102" FontStyle="0">
+            <EN>The forgotten Ship</EN>
+            <DE>Das vergessene Schiff</DE>
+          </Description>
+          <Description ID="5950103" FontStyle="0">
+            <EN>The fool in the barrel</EN>
+            <DE>Der Narr im Fass</DE>
+          </Description>
+          <Description ID="5950107" FontStyle="0">
+            <EN>To he who is deserving</EN>
+            <DE>Jedem, was er verdient</DE>
+          </Description>
+          <Description ID="5950110" FontStyle="0">
+            <EN>Revenge on a swindler</EN>
+            <DE>Vergeltung an einem Schwindler</DE>
+          </Description>
+          <Description ID="5950113" FontStyle="0">
+            <EN>Exasperating setback</EN>
+            <DE>Ärgerliche Verzögerung</DE>
+          </Description>
+          <Description ID="5950116" FontStyle="0">
+            <EN>An important guest I</EN>
+            <DE>Ein wichtiger Gast I</DE>
+          </Description>
+          <Description ID="5950120" FontStyle="0">
+            <EN>Visual feasts</EN>
+            <DE>Optische Schätze</DE>
+          </Description>
+          <Description ID="5950127" FontStyle="0">
+            <EN>A hot trail I</EN>
+            <DE>Eine heiße Spur I</DE>
+          </Description>
+          <Description ID="5950133" FontStyle="0">
+            <EN>A hot trail III</EN>
+            <DE>Eine heiße Spur III</DE>
+          </Description>
+          <Description ID="5950012" FontStyle="0">
+            <EN>High time!</EN>
+            <DE>Höchste Zeit!</DE>
+          </Description>
+          <Description ID="5950032" FontStyle="0">
+            <EN>Spiritual assets</EN>
+            <DE>Geistiges Eigentum</DE>
+          </Description>
+          <Description ID="5950035" FontStyle="0">
+            <EN>Needle in a haystack</EN>
+            <DE>Nadel im Heuhaufen</DE>
+          </Description>
+          <Description ID="5950038" FontStyle="0">
+            <EN>Tricky undertaking</EN>
+            <DE>Heikles Unterfangen</DE>
+          </Description>
+          <Description ID="5950047" FontStyle="0">
+            <EN>From Coast to Coast</EN>
+            <DE>Von Küste zu Küste</DE>
+          </Description>
+          <Description ID="5950124" FontStyle="0">
+            <EN>Ancient Artefacts</EN>
+            <DE>Antike Artefakte</DE>
+          </Description>
+          <Description ID="5950140" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5304000" FontStyle="0">
+            <EN>Liefer_Bauer1</EN>
+            <DE>Liefer_Bauer1</DE>
+          </Description>
+          <Description ID="5304004" FontStyle="0">
+            <EN>Liefer_Bauer2</EN>
+            <DE>Liefer_Bauer2</DE>
+          </Description>
+          <Description ID="5304005" FontStyle="0">
+            <EN>Liefer_Bauer3</EN>
+            <DE>Liefer_Bauer3</DE>
+          </Description>
+          <Description ID="5304006" FontStyle="0">
+            <EN>Liefer_Bauer4</EN>
+            <DE>Liefer_Bauer4</DE>
+          </Description>
+          <Description ID="5304010" FontStyle="0">
+            <EN>Liefer_Bürger1</EN>
+            <DE>Liefer_Bürger1</DE>
+          </Description>
+          <Description ID="5304011" FontStyle="0">
+            <EN>Liefer_Bürger2</EN>
+            <DE>Liefer_Bürger2</DE>
+          </Description>
+          <Description ID="5304012" FontStyle="0">
+            <EN>Liefer_Bürger3</EN>
+            <DE>Liefer_Bürger3</DE>
+          </Description>
+          <Description ID="5304013" FontStyle="0">
+            <EN>Liefer_Bürger4</EN>
+            <DE>Liefer_Bürger4</DE>
+          </Description>
+          <Description ID="5304014" FontStyle="0">
+            <EN>Liefer_Bürger5</EN>
+            <DE>Liefer_Bürger5</DE>
+          </Description>
+          <Description ID="5304015" FontStyle="0">
+            <EN>Liefer_Bürger6</EN>
+            <DE>Liefer_Bürger6</DE>
+          </Description>
+          <Description ID="5304016" FontStyle="0">
+            <EN>Liefer_Patrizier1</EN>
+            <DE>Liefer_Patrizier1</DE>
+          </Description>
+          <Description ID="5304017" FontStyle="0">
+            <EN>Liefer_Patrizier2</EN>
+            <DE>Liefer_Patrizier2</DE>
+          </Description>
+          <Description ID="5304018" FontStyle="0">
+            <EN>Liefer_Patrizier3</EN>
+            <DE>Liefer_Patrizier3</DE>
+          </Description>
+          <Description ID="5304019" FontStyle="0">
+            <EN>Liefer_Patrizier4</EN>
+            <DE>Liefer_Patrizier4</DE>
+          </Description>
+          <Description ID="5304020" FontStyle="0">
+            <EN>Liefer_Patrizier5</EN>
+            <DE>Liefer_Patrizier5</DE>
+          </Description>
+          <Description ID="5304021" FontStyle="0">
+            <EN>Liefer_Patrizier6</EN>
+            <DE>Liefer_Patrizier6</DE>
+          </Description>
+          <Description ID="5304022" FontStyle="0">
+            <EN>Liefer_Patrizier7</EN>
+            <DE>Liefer_Patrizier7</DE>
+          </Description>
+          <Description ID="5304023" FontStyle="0">
+            <EN>Liefer_Patrizier8</EN>
+            <DE>Liefer_Patrizier8</DE>
+          </Description>
+          <Description ID="5304045" FontStyle="0">
+            <EN>Liefer_Adel1</EN>
+            <DE>Liefer_Adel1</DE>
+          </Description>
+          <Description ID="5304046" FontStyle="0">
+            <EN>Liefer_Adel2</EN>
+            <DE>Liefer_Adel2</DE>
+          </Description>
+          <Description ID="5304047" FontStyle="0">
+            <EN>Liefer_Adel3</EN>
+            <DE>Liefer_Adel3</DE>
+          </Description>
+          <Description ID="5304048" FontStyle="0">
+            <EN>Liefer_Adel4</EN>
+            <DE>Liefer_Adel4</DE>
+          </Description>
+          <Description ID="5304049" FontStyle="0">
+            <EN>Liefer_Adel5</EN>
+            <DE>Liefer_Adel5</DE>
+          </Description>
+          <Description ID="5304050" FontStyle="0">
+            <EN>Liefer_Adel6</EN>
+            <DE>Liefer_Adel6</DE>
+          </Description>
+          <Description ID="5304051" FontStyle="0">
+            <EN>Liefer_Adel7</EN>
+            <DE>Liefer_Adel7</DE>
+          </Description>
+          <Description ID="5304052" FontStyle="0">
+            <EN>Liefer_Adel8</EN>
+            <DE>Liefer_Adel8</DE>
+          </Description>
+          <Description ID="5304053" FontStyle="0">
+            <EN>Liefer_Adel9</EN>
+            <DE>Liefer_Adel9</DE>
+          </Description>
+          <Description ID="5304054" FontStyle="0">
+            <EN>Liefer_Adel10</EN>
+            <DE>Liefer_Adel10</DE>
+          </Description>
+          <Description ID="5304055" FontStyle="0">
+            <EN>Liefer_Adel11</EN>
+            <DE>Liefer_Adel11</DE>
+          </Description>
+          <Description ID="5304056" FontStyle="0">
+            <EN>Liefer_Adel12</EN>
+            <DE>Liefer_Adel12</DE>
+          </Description>
+          <Description ID="5302000" FontStyle="0">
+            <EN>Science in crates</EN>
+            <DE>Wissenschaft in Kisten</DE>
+          </Description>
+          <Description ID="5302006" FontStyle="0">
+            <EN>When one goes on a voyage...</EN>
+            <DE>Wenn einer eine Reise tut ...</DE>
+          </Description>
+          <Description ID="5302008" FontStyle="0">
+            <EN>Crazy cultural exchange</EN>
+            <DE>Närrischer Kulturaustausch</DE>
+          </Description>
+          <Description ID="5302010" FontStyle="0">
+            <EN>Delayed goods</EN>
+            <DE>Waren im Verzug</DE>
+          </Description>
+          <Description ID="5302012" FontStyle="0">
+            <EN>Scientific curiosity</EN>
+            <DE>Forscherdrang</DE>
+          </Description>
+          <Description ID="5302014" FontStyle="0">
+            <EN>Driving insights</EN>
+            <DE>Treibende Erkenntnisse</DE>
+          </Description>
+          <Description ID="5302016" FontStyle="0">
+            <EN>The Ghost ship I</EN>
+            <DE>Das Geisterschiff I</DE>
+          </Description>
+          <Description ID="5302020" FontStyle="0">
+            <EN>The Ghost ship II</EN>
+            <DE>Das Geisterschiff II</DE>
+          </Description>
+          <Description ID="5302026" FontStyle="0">
+            <EN>The Ghost ship III</EN>
+            <DE>Das Geisterschiff III</DE>
+          </Description>
+          <Description ID="5302029" FontStyle="0">
+            <EN>Hiatus in Construction work</EN>
+            <DE>Konstruktionslücke</DE>
+          </Description>
+          <Description ID="5302032" FontStyle="0">
+            <EN>The Celestial chart</EN>
+            <DE>Die Sternkarte</DE>
+          </Description>
+          <Description ID="5302035" FontStyle="0">
+            <EN>Over the plank</EN>
+            <DE>Über die Planke</DE>
+          </Description>
+          <Description ID="5302038" FontStyle="0">
+            <EN>Instructive</EN>
+            <DE>Lehrreich </DE>
+          </Description>
+          <Description ID="5302041" FontStyle="0">
+            <EN>Patent espionage</EN>
+            <DE>Patentspionage</DE>
+          </Description>
+          <Description ID="5302044" FontStyle="0">
+            <EN>The Research station</EN>
+            <DE>Die Forschungsstation</DE>
+          </Description>
+          <Description ID="5302047" FontStyle="0">
+            <EN>Training Ship in danger</EN>
+            <DE>Schulschiffe in Gefahr</DE>
+          </Description>
+          <Description ID="5302050" FontStyle="0">
+            <EN>The Sultan's Ship I</EN>
+            <DE>Des Sultans Schiff I</DE>
+          </Description>
+          <Description ID="5302057" FontStyle="0">
+            <EN>Schriften der Weisheit</EN>
+            <DE>Schriften der Weisheit</DE>
+          </Description>
+          <Description ID="5304024" FontStyle="0">
+            <EN>Sunken Treasure</EN>
+            <DE>Versunkenes Artefakt</DE>
+          </Description>
+          <Description ID="5304031" FontStyle="0">
+            <EN>The cost factor!</EN>
+            <DE>Der Kostenfaktor</DE>
+          </Description>
+          <Description ID="5304033" FontStyle="0">
+            <EN>Shipwrecked!</EN>
+            <DE>Gestrandet!</DE>
+          </Description>
+          <Description ID="5304035" FontStyle="0">
+            <EN>Assistant</EN>
+            <DE>Assistent </DE>
+          </Description>
+          <Description ID="5304041" FontStyle="0">
+            <EN>Ghost!</EN>
+            <DE>Spuk!</DE>
+          </Description>
+          <Description ID="5304043" FontStyle="0">
+            <EN>Caught in the trap</EN>
+            <DE>In der Falle</DE>
+          </Description>
+          <Description ID="5304064" FontStyle="0">
+            <EN>Forgotten Culture</EN>
+            <DE>Vergessene Kultur</DE>
+          </Description>
+          <Description ID="5304067" FontStyle="0">
+            <EN>Second opinion</EN>
+            <DE>Zweite Meinung</DE>
+          </Description>
+          <Description ID="5304070" FontStyle="0">
+            <EN>A little knowledge is a dangerous thing</EN>
+            <DE>Gefährliches Halbwissen</DE>
+          </Description>
+          <Description ID="5304073" FontStyle="0">
+            <EN>Lost and found</EN>
+            <DE>Verloren und wiedergefunden</DE>
+          </Description>
+          <Description ID="5304076" FontStyle="0">
+            <EN>The missing Treasure ship</EN>
+            <DE>Das vermisste Schatzschiff</DE>
+          </Description>
+          <Description ID="5304083" FontStyle="0">
+            <EN>The devil is in the detail I</EN>
+            <DE>Teufel im Detail I</DE>
+          </Description>
+          <Description ID="5304085" FontStyle="0">
+            <EN>The devil is in the detail II</EN>
+            <DE>Teufel im Detail II</DE>
+          </Description>
+          <Description ID="5304026" FontStyle="0">
+            <EN>Green-eyed monsters</EN>
+            <DE>Neider</DE>
+          </Description>
+          <Description ID="5304028" FontStyle="0">
+            <EN>Enlightenment</EN>
+            <DE>Aufklärung</DE>
+          </Description>
+          <Description ID="5304030" FontStyle="0">
+            <EN>Finders keepers</EN>
+            <DE>Besitzanspruch</DE>
+          </Description>
+          <Description ID="5304037" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erkundung</DE>
+          </Description>
+          <Description ID="5304039" FontStyle="0">
+            <EN>Map error</EN>
+            <DE>Kartenfehler</DE>
+          </Description>
+          <Description ID="5304087" FontStyle="0">
+            <EN>The devil is in the detail III</EN>
+            <DE>Teufel im Detail III</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8522" Name="ExpeditionMap Wissensdurct III">
+    <Text ID="8522" FontStyle="0">
+      <EN>Way to the Assassins' fortress</EN>
+      <DE>Weg zur Assassinenfeste</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>The mere thought of the Assassins makes me feel queasy... </EN>
+        <DE>Der pure Gedanke an die Assassinen weckt ein mulmiges Gefühl... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources />
+  </Asset>
+  <Asset ID="8341" Name="Expeditionskarte mittel II">
+    <Text ID="8341" FontStyle="0">
+      <EN>Hand-written Treasure map</EN>
+      <DE>Handgeschriebene Schatzkarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Who could make out this scrawl? </EN>
+        <DE>Wer soll dieses Gekrakel bloß entziffern? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8343" Name="Expeditionskarte schwer II">
+    <Text ID="8343" FontStyle="0">
+      <EN>Tattered Map</EN>
+      <DE>Ramponierte Karte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Isn't the most important part missing? </EN>
+        <DE>Fehlt da nicht das wichtigste Stück? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8339" Name="Expeditionskarte leicht II">
+    <Text ID="8339" FontStyle="0">
+      <EN>Treasure map shrouded in secrecy</EN>
+      <DE>Geheimnisumwitterte Schatzkarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Legends surround this Parchment... </EN>
+        <DE>Legenden ranken sich um dieses Pergament... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>80  Honour</EN>
+      <DE>80  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5650000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5650000" FontStyle="0">
+            <EN>Pretty maid</EN>
+            <DE>Schöne Maid</DE>
+          </Description>
+          <Description ID="5650002" FontStyle="0">
+            <EN>New spurs</EN>
+            <DE>Neue Sporen</DE>
+          </Description>
+          <Description ID="5650004" FontStyle="0">
+            <EN>A clever plan</EN>
+            <DE>Ein kühner Plan</DE>
+          </Description>
+          <Description ID="5650006" FontStyle="0">
+            <EN>Mishap on the whaling expedition</EN>
+            <DE>Unglück beim Walfang</DE>
+          </Description>
+          <Description ID="5650008" FontStyle="0">
+            <EN>Heavy Cargo</EN>
+            <DE>Schwere Ladung</DE>
+          </Description>
+          <Description ID="5650010" FontStyle="0">
+            <EN>A wet Medic</EN>
+            <DE>Ein nasser Medicus</DE>
+          </Description>
+          <Description ID="5650012" FontStyle="0">
+            <EN>The Lord's blessing</EN>
+            <DE>Der Segen des Herrn</DE>
+          </Description>
+          <Description ID="5650014" FontStyle="0">
+            <EN>The feast I</EN>
+            <DE>Das Gelage I</DE>
+          </Description>
+          <Description ID="5650020" FontStyle="0">
+            <EN>Nightmares</EN>
+            <DE>Nachtmahre</DE>
+          </Description>
+          <Description ID="5650022" FontStyle="0">
+            <EN>Guests in danger</EN>
+            <DE>Gäste in Gefahr</DE>
+          </Description>
+          <Description ID="5650024" FontStyle="0">
+            <EN>Men overboard!</EN>
+            <DE>Männer über Bord!</DE>
+          </Description>
+          <Description ID="5650026" FontStyle="0">
+            <EN>Dissimilar brothers</EN>
+            <DE>Ungleiche Brüder</DE>
+          </Description>
+          <Description ID="5650034" FontStyle="0">
+            <EN>Money</EN>
+            <DE>Münze</DE>
+          </Description>
+          <Description ID="5650036" FontStyle="0">
+            <EN>Stopped</EN>
+            <DE>Verhindert</DE>
+          </Description>
+          <Description ID="5650038" FontStyle="0">
+            <EN>The missing Smith</EN>
+            <DE>Der vermisste Schmied</DE>
+          </Description>
+          <Description ID="5650042" FontStyle="0">
+            <EN>Drunk at the helm</EN>
+            <DE>Trunkenheit am Steuer</DE>
+          </Description>
+          <Description ID="5650046" FontStyle="0">
+            <EN>The Tournament I</EN>
+            <DE>Das Turnier I</DE>
+          </Description>
+          <Description ID="5650050" FontStyle="0">
+            <EN>The memoirs I</EN>
+            <DE>Die Memoiren I</DE>
+          </Description>
+          <Description ID="5650052" FontStyle="0">
+            <EN>The memoirs II</EN>
+            <DE>Die Memoiren II</DE>
+          </Description>
+          <Description ID="5650056" FontStyle="0">
+            <EN>Pure luxury</EN>
+            <DE>Purer Luxus</DE>
+          </Description>
+          <Description ID="5650058" FontStyle="0">
+            <EN>Support</EN>
+            <DE>Schützenhilfe</DE>
+          </Description>
+          <Description ID="5650060" FontStyle="0">
+            <EN>Before the fall</EN>
+            <DE>Vor dem Fall</DE>
+          </Description>
+          <Description ID="5650062" FontStyle="0">
+            <EN>Too many opportunities</EN>
+            <DE>Zu viele Möglichkeiten</DE>
+          </Description>
+          <Description ID="5650064" FontStyle="0">
+            <EN>The golden spoon</EN>
+            <DE>Der goldene Löffel</DE>
+          </Description>
+          <Description ID="5650066" FontStyle="0">
+            <EN>Crop and bridle</EN>
+            <DE>Gerte und Zaumzeug</DE>
+          </Description>
+          <Description ID="5650068" FontStyle="0">
+            <EN>the Smith and his Journeymen</EN>
+            <DE>Der Schmied und seine Gesellen</DE>
+          </Description>
+          <Description ID="5650070" FontStyle="0">
+            <EN>The braggadocio I</EN>
+            <DE>Prahlhans I</DE>
+          </Description>
+          <Description ID="5650072" FontStyle="0">
+            <EN>The braggadocio II</EN>
+            <DE>Prahlhans II</DE>
+          </Description>
+          <Description ID="5650074" FontStyle="0">
+            <EN>The braggadocio III</EN>
+            <DE>Prahlhans III</DE>
+          </Description>
+          <Description ID="5650018" FontStyle="0">
+            <EN>The portrait</EN>
+            <DE>Das Porträt</DE>
+          </Description>
+          <Description ID="5650028" FontStyle="0">
+            <EN>The contingent</EN>
+            <DE>Das Aufgebot</DE>
+          </Description>
+          <Description ID="5650030" FontStyle="0">
+            <EN>The lothario</EN>
+            <DE>Der Schürzenjäger</DE>
+          </Description>
+          <Description ID="5650032" FontStyle="0">
+            <EN>Drinking buddies</EN>
+            <DE>Zechkumpane</DE>
+          </Description>
+          <Description ID="5650040" FontStyle="0">
+            <EN>Headlong into the adventure</EN>
+            <DE>Hinein ins Abenteuer</DE>
+          </Description>
+          <Description ID="5650044" FontStyle="0">
+            <EN>The thief makes his escape</EN>
+            <DE>Langfinger auf der Flucht</DE>
+          </Description>
+          <Description ID="5650084" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5950002" FontStyle="0">
+            <EN>Confusion on the festive day</EN>
+            <DE>Festtagswirren</DE>
+          </Description>
+          <Description ID="5950007" FontStyle="0">
+            <EN>Friendly favour</EN>
+            <DE>Freundschaftsdienst</DE>
+          </Description>
+          <Description ID="5950003" FontStyle="0">
+            <EN>The game of Kings</EN>
+            <DE>Das Spiel der Könige</DE>
+          </Description>
+          <Description ID="5950009" FontStyle="0">
+            <EN>Unwilling Weapons</EN>
+            <DE>Waffen wider Willen</DE>
+          </Description>
+          <Description ID="5950017" FontStyle="0">
+            <EN>Day of death</EN>
+            <DE>Todestag</DE>
+          </Description>
+          <Description ID="5950020" FontStyle="0">
+            <EN>Heavy loss</EN>
+            <DE>Schwerer Verlust</DE>
+          </Description>
+          <Description ID="5950023" FontStyle="0">
+            <EN>Help for the Academics</EN>
+            <DE>Hilfe für die Akademiker</DE>
+          </Description>
+          <Description ID="5950026" FontStyle="0">
+            <EN>Folly!</EN>
+            <DE>Narretei!</DE>
+          </Description>
+          <Description ID="5950029" FontStyle="0">
+            <EN>Unique Goods</EN>
+            <DE>Einzigartige Waren</DE>
+          </Description>
+          <Description ID="5950041" FontStyle="0">
+            <EN>A big heart</EN>
+            <DE>Ein großes Herz</DE>
+          </Description>
+          <Description ID="5950044" FontStyle="0">
+            <EN>Pious advice</EN>
+            <DE>Frommer Zuspruch</DE>
+          </Description>
+          <Description ID="5950067" FontStyle="0">
+            <EN>Winter news</EN>
+            <DE>Winterliche Bedürfnisse</DE>
+          </Description>
+          <Description ID="5950070" FontStyle="0">
+            <EN>Cold War</EN>
+            <DE>Kalter Krieg</DE>
+          </Description>
+          <Description ID="5950071" FontStyle="0">
+            <EN>A fair wind</EN>
+            <DE>Mast- und Schotbruch</DE>
+          </Description>
+          <Description ID="5950080" FontStyle="0">
+            <EN>Fatal surplus weight</EN>
+            <DE>Fatales Übergewicht</DE>
+          </Description>
+          <Description ID="5950083" FontStyle="0">
+            <EN>Layouts</EN>
+            <DE>Ungeheuerlicher Schaden </DE>
+          </Description>
+          <Description ID="5950086" FontStyle="0">
+            <EN>A look into the stars I</EN>
+            <DE>Blick in die Sterne I</DE>
+          </Description>
+          <Description ID="5950089" FontStyle="0">
+            <EN>A look into the stars II</EN>
+            <DE>Blick in die Sterne II</DE>
+          </Description>
+          <Description ID="5950092" FontStyle="0">
+            <EN>A look into the stars III</EN>
+            <DE>Blick in die Sterne III</DE>
+          </Description>
+          <Description ID="5950096" FontStyle="0">
+            <EN>The informant I</EN>
+            <DE>Der Informant I</DE>
+          </Description>
+          <Description ID="5950102" FontStyle="0">
+            <EN>The forgotten Ship</EN>
+            <DE>Das vergessene Schiff</DE>
+          </Description>
+          <Description ID="5950103" FontStyle="0">
+            <EN>The fool in the barrel</EN>
+            <DE>Der Narr im Fass</DE>
+          </Description>
+          <Description ID="5950107" FontStyle="0">
+            <EN>To he who is deserving</EN>
+            <DE>Jedem, was er verdient</DE>
+          </Description>
+          <Description ID="5950110" FontStyle="0">
+            <EN>Revenge on a swindler</EN>
+            <DE>Vergeltung an einem Schwindler</DE>
+          </Description>
+          <Description ID="5950113" FontStyle="0">
+            <EN>Exasperating setback</EN>
+            <DE>Ärgerliche Verzögerung</DE>
+          </Description>
+          <Description ID="5950116" FontStyle="0">
+            <EN>An important guest I</EN>
+            <DE>Ein wichtiger Gast I</DE>
+          </Description>
+          <Description ID="5950120" FontStyle="0">
+            <EN>Visual feasts</EN>
+            <DE>Optische Schätze</DE>
+          </Description>
+          <Description ID="5950127" FontStyle="0">
+            <EN>A hot trail I</EN>
+            <DE>Eine heiße Spur I</DE>
+          </Description>
+          <Description ID="5950133" FontStyle="0">
+            <EN>A hot trail III</EN>
+            <DE>Eine heiße Spur III</DE>
+          </Description>
+          <Description ID="5950012" FontStyle="0">
+            <EN>High time!</EN>
+            <DE>Höchste Zeit!</DE>
+          </Description>
+          <Description ID="5950032" FontStyle="0">
+            <EN>Spiritual assets</EN>
+            <DE>Geistiges Eigentum</DE>
+          </Description>
+          <Description ID="5950035" FontStyle="0">
+            <EN>Needle in a haystack</EN>
+            <DE>Nadel im Heuhaufen</DE>
+          </Description>
+          <Description ID="5950038" FontStyle="0">
+            <EN>Tricky undertaking</EN>
+            <DE>Heikles Unterfangen</DE>
+          </Description>
+          <Description ID="5950047" FontStyle="0">
+            <EN>From Coast to Coast</EN>
+            <DE>Von Küste zu Küste</DE>
+          </Description>
+          <Description ID="5950124" FontStyle="0">
+            <EN>Ancient Artefacts</EN>
+            <DE>Antike Artefakte</DE>
+          </Description>
+          <Description ID="5950140" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5302000" FontStyle="0">
+            <EN>Science in crates</EN>
+            <DE>Wissenschaft in Kisten</DE>
+          </Description>
+          <Description ID="5302006" FontStyle="0">
+            <EN>When one goes on a voyage...</EN>
+            <DE>Wenn einer eine Reise tut ...</DE>
+          </Description>
+          <Description ID="5302008" FontStyle="0">
+            <EN>Crazy cultural exchange</EN>
+            <DE>Närrischer Kulturaustausch</DE>
+          </Description>
+          <Description ID="5302010" FontStyle="0">
+            <EN>Delayed goods</EN>
+            <DE>Waren im Verzug</DE>
+          </Description>
+          <Description ID="5302012" FontStyle="0">
+            <EN>Scientific curiosity</EN>
+            <DE>Forscherdrang</DE>
+          </Description>
+          <Description ID="5302014" FontStyle="0">
+            <EN>Driving insights</EN>
+            <DE>Treibende Erkenntnisse</DE>
+          </Description>
+          <Description ID="5302016" FontStyle="0">
+            <EN>The Ghost ship I</EN>
+            <DE>Das Geisterschiff I</DE>
+          </Description>
+          <Description ID="5302020" FontStyle="0">
+            <EN>The Ghost ship II</EN>
+            <DE>Das Geisterschiff II</DE>
+          </Description>
+          <Description ID="5302026" FontStyle="0">
+            <EN>The Ghost ship III</EN>
+            <DE>Das Geisterschiff III</DE>
+          </Description>
+          <Description ID="5302029" FontStyle="0">
+            <EN>Hiatus in Construction work</EN>
+            <DE>Konstruktionslücke</DE>
+          </Description>
+          <Description ID="5302032" FontStyle="0">
+            <EN>The Celestial chart</EN>
+            <DE>Die Sternkarte</DE>
+          </Description>
+          <Description ID="5302035" FontStyle="0">
+            <EN>Over the plank</EN>
+            <DE>Über die Planke</DE>
+          </Description>
+          <Description ID="5302038" FontStyle="0">
+            <EN>Instructive</EN>
+            <DE>Lehrreich </DE>
+          </Description>
+          <Description ID="5302041" FontStyle="0">
+            <EN>Patent espionage</EN>
+            <DE>Patentspionage</DE>
+          </Description>
+          <Description ID="5302044" FontStyle="0">
+            <EN>The Research station</EN>
+            <DE>Die Forschungsstation</DE>
+          </Description>
+          <Description ID="5302047" FontStyle="0">
+            <EN>Training Ship in danger</EN>
+            <DE>Schulschiffe in Gefahr</DE>
+          </Description>
+          <Description ID="5302050" FontStyle="0">
+            <EN>The Sultan's Ship I</EN>
+            <DE>Des Sultans Schiff I</DE>
+          </Description>
+          <Description ID="5302057" FontStyle="0">
+            <EN>Schriften der Weisheit</EN>
+            <DE>Schriften der Weisheit</DE>
+          </Description>
+          <Description ID="5304024" FontStyle="0">
+            <EN>Sunken Treasure</EN>
+            <DE>Versunkenes Artefakt</DE>
+          </Description>
+          <Description ID="5304031" FontStyle="0">
+            <EN>The cost factor!</EN>
+            <DE>Der Kostenfaktor</DE>
+          </Description>
+          <Description ID="5304033" FontStyle="0">
+            <EN>Shipwrecked!</EN>
+            <DE>Gestrandet!</DE>
+          </Description>
+          <Description ID="5304035" FontStyle="0">
+            <EN>Assistant</EN>
+            <DE>Assistent </DE>
+          </Description>
+          <Description ID="5304041" FontStyle="0">
+            <EN>Ghost!</EN>
+            <DE>Spuk!</DE>
+          </Description>
+          <Description ID="5304043" FontStyle="0">
+            <EN>Caught in the trap</EN>
+            <DE>In der Falle</DE>
+          </Description>
+          <Description ID="5304064" FontStyle="0">
+            <EN>Forgotten Culture</EN>
+            <DE>Vergessene Kultur</DE>
+          </Description>
+          <Description ID="5304067" FontStyle="0">
+            <EN>Second opinion</EN>
+            <DE>Zweite Meinung</DE>
+          </Description>
+          <Description ID="5304070" FontStyle="0">
+            <EN>A little knowledge is a dangerous thing</EN>
+            <DE>Gefährliches Halbwissen</DE>
+          </Description>
+          <Description ID="5304073" FontStyle="0">
+            <EN>Lost and found</EN>
+            <DE>Verloren und wiedergefunden</DE>
+          </Description>
+          <Description ID="5304076" FontStyle="0">
+            <EN>The missing Treasure ship</EN>
+            <DE>Das vermisste Schatzschiff</DE>
+          </Description>
+          <Description ID="5304083" FontStyle="0">
+            <EN>The devil is in the detail I</EN>
+            <DE>Teufel im Detail I</DE>
+          </Description>
+          <Description ID="5304085" FontStyle="0">
+            <EN>The devil is in the detail II</EN>
+            <DE>Teufel im Detail II</DE>
+          </Description>
+          <Description ID="5304026" FontStyle="0">
+            <EN>Green-eyed monsters</EN>
+            <DE>Neider</DE>
+          </Description>
+          <Description ID="5304028" FontStyle="0">
+            <EN>Enlightenment</EN>
+            <DE>Aufklärung</DE>
+          </Description>
+          <Description ID="5304030" FontStyle="0">
+            <EN>Finders keepers</EN>
+            <DE>Besitzanspruch</DE>
+          </Description>
+          <Description ID="5304037" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erkundung</DE>
+          </Description>
+          <Description ID="5304039" FontStyle="0">
+            <EN>Map error</EN>
+            <DE>Kartenfehler</DE>
+          </Description>
+          <Description ID="5304087" FontStyle="0">
+            <EN>The devil is in the detail III</EN>
+            <DE>Teufel im Detail III</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8107" Name="ExpeditionMap Stein der Weisen">
+    <Text ID="8107" FontStyle="0">
+      <EN>Map of a foreign realm</EN>
+      <DE>Karte fremder Gefilde</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Is the solution to be puzzle to be found there? </EN>
+        <DE>Findet sich dort des Rätsels Lösung? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5301118</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5301118" FontStyle="0">
+            <EN>The Philosopher's stone III</EN>
+            <DE>Stein der Weisen III</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8340" Name="Expeditionskarte leicht III">
+    <Text ID="8340" FontStyle="0">
+      <EN>A very mysterious Treasure map</EN>
+      <DE>Höchst mysteriöse Schatzkarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>What can these cryptic symbols mean? </EN>
+        <DE>Was sollen die kryptischen Zeichen nur bedeuten? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>80  Honour</EN>
+      <DE>80  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5650000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5650000" FontStyle="0">
+            <EN>Pretty maid</EN>
+            <DE>Schöne Maid</DE>
+          </Description>
+          <Description ID="5650002" FontStyle="0">
+            <EN>New spurs</EN>
+            <DE>Neue Sporen</DE>
+          </Description>
+          <Description ID="5650004" FontStyle="0">
+            <EN>A clever plan</EN>
+            <DE>Ein kühner Plan</DE>
+          </Description>
+          <Description ID="5650006" FontStyle="0">
+            <EN>Mishap on the whaling expedition</EN>
+            <DE>Unglück beim Walfang</DE>
+          </Description>
+          <Description ID="5650008" FontStyle="0">
+            <EN>Heavy Cargo</EN>
+            <DE>Schwere Ladung</DE>
+          </Description>
+          <Description ID="5650010" FontStyle="0">
+            <EN>A wet Medic</EN>
+            <DE>Ein nasser Medicus</DE>
+          </Description>
+          <Description ID="5650012" FontStyle="0">
+            <EN>The Lord's blessing</EN>
+            <DE>Der Segen des Herrn</DE>
+          </Description>
+          <Description ID="5650014" FontStyle="0">
+            <EN>The feast I</EN>
+            <DE>Das Gelage I</DE>
+          </Description>
+          <Description ID="5650020" FontStyle="0">
+            <EN>Nightmares</EN>
+            <DE>Nachtmahre</DE>
+          </Description>
+          <Description ID="5650022" FontStyle="0">
+            <EN>Guests in danger</EN>
+            <DE>Gäste in Gefahr</DE>
+          </Description>
+          <Description ID="5650024" FontStyle="0">
+            <EN>Men overboard!</EN>
+            <DE>Männer über Bord!</DE>
+          </Description>
+          <Description ID="5650026" FontStyle="0">
+            <EN>Dissimilar brothers</EN>
+            <DE>Ungleiche Brüder</DE>
+          </Description>
+          <Description ID="5650034" FontStyle="0">
+            <EN>Money</EN>
+            <DE>Münze</DE>
+          </Description>
+          <Description ID="5650036" FontStyle="0">
+            <EN>Stopped</EN>
+            <DE>Verhindert</DE>
+          </Description>
+          <Description ID="5650038" FontStyle="0">
+            <EN>The missing Smith</EN>
+            <DE>Der vermisste Schmied</DE>
+          </Description>
+          <Description ID="5650042" FontStyle="0">
+            <EN>Drunk at the helm</EN>
+            <DE>Trunkenheit am Steuer</DE>
+          </Description>
+          <Description ID="5650046" FontStyle="0">
+            <EN>The Tournament I</EN>
+            <DE>Das Turnier I</DE>
+          </Description>
+          <Description ID="5650050" FontStyle="0">
+            <EN>The memoirs I</EN>
+            <DE>Die Memoiren I</DE>
+          </Description>
+          <Description ID="5650052" FontStyle="0">
+            <EN>The memoirs II</EN>
+            <DE>Die Memoiren II</DE>
+          </Description>
+          <Description ID="5650056" FontStyle="0">
+            <EN>Pure luxury</EN>
+            <DE>Purer Luxus</DE>
+          </Description>
+          <Description ID="5650058" FontStyle="0">
+            <EN>Support</EN>
+            <DE>Schützenhilfe</DE>
+          </Description>
+          <Description ID="5650060" FontStyle="0">
+            <EN>Before the fall</EN>
+            <DE>Vor dem Fall</DE>
+          </Description>
+          <Description ID="5650062" FontStyle="0">
+            <EN>Too many opportunities</EN>
+            <DE>Zu viele Möglichkeiten</DE>
+          </Description>
+          <Description ID="5650064" FontStyle="0">
+            <EN>The golden spoon</EN>
+            <DE>Der goldene Löffel</DE>
+          </Description>
+          <Description ID="5650066" FontStyle="0">
+            <EN>Crop and bridle</EN>
+            <DE>Gerte und Zaumzeug</DE>
+          </Description>
+          <Description ID="5650068" FontStyle="0">
+            <EN>the Smith and his Journeymen</EN>
+            <DE>Der Schmied und seine Gesellen</DE>
+          </Description>
+          <Description ID="5650070" FontStyle="0">
+            <EN>The braggadocio I</EN>
+            <DE>Prahlhans I</DE>
+          </Description>
+          <Description ID="5650072" FontStyle="0">
+            <EN>The braggadocio II</EN>
+            <DE>Prahlhans II</DE>
+          </Description>
+          <Description ID="5650074" FontStyle="0">
+            <EN>The braggadocio III</EN>
+            <DE>Prahlhans III</DE>
+          </Description>
+          <Description ID="5650018" FontStyle="0">
+            <EN>The portrait</EN>
+            <DE>Das Porträt</DE>
+          </Description>
+          <Description ID="5650028" FontStyle="0">
+            <EN>The contingent</EN>
+            <DE>Das Aufgebot</DE>
+          </Description>
+          <Description ID="5650030" FontStyle="0">
+            <EN>The lothario</EN>
+            <DE>Der Schürzenjäger</DE>
+          </Description>
+          <Description ID="5650032" FontStyle="0">
+            <EN>Drinking buddies</EN>
+            <DE>Zechkumpane</DE>
+          </Description>
+          <Description ID="5650040" FontStyle="0">
+            <EN>Headlong into the adventure</EN>
+            <DE>Hinein ins Abenteuer</DE>
+          </Description>
+          <Description ID="5650044" FontStyle="0">
+            <EN>The thief makes his escape</EN>
+            <DE>Langfinger auf der Flucht</DE>
+          </Description>
+          <Description ID="5650084" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5950002" FontStyle="0">
+            <EN>Confusion on the festive day</EN>
+            <DE>Festtagswirren</DE>
+          </Description>
+          <Description ID="5950007" FontStyle="0">
+            <EN>Friendly favour</EN>
+            <DE>Freundschaftsdienst</DE>
+          </Description>
+          <Description ID="5950003" FontStyle="0">
+            <EN>The game of Kings</EN>
+            <DE>Das Spiel der Könige</DE>
+          </Description>
+          <Description ID="5950009" FontStyle="0">
+            <EN>Unwilling Weapons</EN>
+            <DE>Waffen wider Willen</DE>
+          </Description>
+          <Description ID="5950017" FontStyle="0">
+            <EN>Day of death</EN>
+            <DE>Todestag</DE>
+          </Description>
+          <Description ID="5950020" FontStyle="0">
+            <EN>Heavy loss</EN>
+            <DE>Schwerer Verlust</DE>
+          </Description>
+          <Description ID="5950023" FontStyle="0">
+            <EN>Help for the Academics</EN>
+            <DE>Hilfe für die Akademiker</DE>
+          </Description>
+          <Description ID="5950026" FontStyle="0">
+            <EN>Folly!</EN>
+            <DE>Narretei!</DE>
+          </Description>
+          <Description ID="5950029" FontStyle="0">
+            <EN>Unique Goods</EN>
+            <DE>Einzigartige Waren</DE>
+          </Description>
+          <Description ID="5950041" FontStyle="0">
+            <EN>A big heart</EN>
+            <DE>Ein großes Herz</DE>
+          </Description>
+          <Description ID="5950044" FontStyle="0">
+            <EN>Pious advice</EN>
+            <DE>Frommer Zuspruch</DE>
+          </Description>
+          <Description ID="5950067" FontStyle="0">
+            <EN>Winter news</EN>
+            <DE>Winterliche Bedürfnisse</DE>
+          </Description>
+          <Description ID="5950070" FontStyle="0">
+            <EN>Cold War</EN>
+            <DE>Kalter Krieg</DE>
+          </Description>
+          <Description ID="5950071" FontStyle="0">
+            <EN>A fair wind</EN>
+            <DE>Mast- und Schotbruch</DE>
+          </Description>
+          <Description ID="5950080" FontStyle="0">
+            <EN>Fatal surplus weight</EN>
+            <DE>Fatales Übergewicht</DE>
+          </Description>
+          <Description ID="5950083" FontStyle="0">
+            <EN>Layouts</EN>
+            <DE>Ungeheuerlicher Schaden </DE>
+          </Description>
+          <Description ID="5950086" FontStyle="0">
+            <EN>A look into the stars I</EN>
+            <DE>Blick in die Sterne I</DE>
+          </Description>
+          <Description ID="5950089" FontStyle="0">
+            <EN>A look into the stars II</EN>
+            <DE>Blick in die Sterne II</DE>
+          </Description>
+          <Description ID="5950092" FontStyle="0">
+            <EN>A look into the stars III</EN>
+            <DE>Blick in die Sterne III</DE>
+          </Description>
+          <Description ID="5950096" FontStyle="0">
+            <EN>The informant I</EN>
+            <DE>Der Informant I</DE>
+          </Description>
+          <Description ID="5950102" FontStyle="0">
+            <EN>The forgotten Ship</EN>
+            <DE>Das vergessene Schiff</DE>
+          </Description>
+          <Description ID="5950103" FontStyle="0">
+            <EN>The fool in the barrel</EN>
+            <DE>Der Narr im Fass</DE>
+          </Description>
+          <Description ID="5950107" FontStyle="0">
+            <EN>To he who is deserving</EN>
+            <DE>Jedem, was er verdient</DE>
+          </Description>
+          <Description ID="5950110" FontStyle="0">
+            <EN>Revenge on a swindler</EN>
+            <DE>Vergeltung an einem Schwindler</DE>
+          </Description>
+          <Description ID="5950113" FontStyle="0">
+            <EN>Exasperating setback</EN>
+            <DE>Ärgerliche Verzögerung</DE>
+          </Description>
+          <Description ID="5950116" FontStyle="0">
+            <EN>An important guest I</EN>
+            <DE>Ein wichtiger Gast I</DE>
+          </Description>
+          <Description ID="5950120" FontStyle="0">
+            <EN>Visual feasts</EN>
+            <DE>Optische Schätze</DE>
+          </Description>
+          <Description ID="5950127" FontStyle="0">
+            <EN>A hot trail I</EN>
+            <DE>Eine heiße Spur I</DE>
+          </Description>
+          <Description ID="5950133" FontStyle="0">
+            <EN>A hot trail III</EN>
+            <DE>Eine heiße Spur III</DE>
+          </Description>
+          <Description ID="5950012" FontStyle="0">
+            <EN>High time!</EN>
+            <DE>Höchste Zeit!</DE>
+          </Description>
+          <Description ID="5950032" FontStyle="0">
+            <EN>Spiritual assets</EN>
+            <DE>Geistiges Eigentum</DE>
+          </Description>
+          <Description ID="5950035" FontStyle="0">
+            <EN>Needle in a haystack</EN>
+            <DE>Nadel im Heuhaufen</DE>
+          </Description>
+          <Description ID="5950038" FontStyle="0">
+            <EN>Tricky undertaking</EN>
+            <DE>Heikles Unterfangen</DE>
+          </Description>
+          <Description ID="5950047" FontStyle="0">
+            <EN>From Coast to Coast</EN>
+            <DE>Von Küste zu Küste</DE>
+          </Description>
+          <Description ID="5950124" FontStyle="0">
+            <EN>Ancient Artefacts</EN>
+            <DE>Antike Artefakte</DE>
+          </Description>
+          <Description ID="5950140" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5302000" FontStyle="0">
+            <EN>Science in crates</EN>
+            <DE>Wissenschaft in Kisten</DE>
+          </Description>
+          <Description ID="5302006" FontStyle="0">
+            <EN>When one goes on a voyage...</EN>
+            <DE>Wenn einer eine Reise tut ...</DE>
+          </Description>
+          <Description ID="5302008" FontStyle="0">
+            <EN>Crazy cultural exchange</EN>
+            <DE>Närrischer Kulturaustausch</DE>
+          </Description>
+          <Description ID="5302010" FontStyle="0">
+            <EN>Delayed goods</EN>
+            <DE>Waren im Verzug</DE>
+          </Description>
+          <Description ID="5302012" FontStyle="0">
+            <EN>Scientific curiosity</EN>
+            <DE>Forscherdrang</DE>
+          </Description>
+          <Description ID="5302014" FontStyle="0">
+            <EN>Driving insights</EN>
+            <DE>Treibende Erkenntnisse</DE>
+          </Description>
+          <Description ID="5302016" FontStyle="0">
+            <EN>The Ghost ship I</EN>
+            <DE>Das Geisterschiff I</DE>
+          </Description>
+          <Description ID="5302020" FontStyle="0">
+            <EN>The Ghost ship II</EN>
+            <DE>Das Geisterschiff II</DE>
+          </Description>
+          <Description ID="5302026" FontStyle="0">
+            <EN>The Ghost ship III</EN>
+            <DE>Das Geisterschiff III</DE>
+          </Description>
+          <Description ID="5302029" FontStyle="0">
+            <EN>Hiatus in Construction work</EN>
+            <DE>Konstruktionslücke</DE>
+          </Description>
+          <Description ID="5302032" FontStyle="0">
+            <EN>The Celestial chart</EN>
+            <DE>Die Sternkarte</DE>
+          </Description>
+          <Description ID="5302035" FontStyle="0">
+            <EN>Over the plank</EN>
+            <DE>Über die Planke</DE>
+          </Description>
+          <Description ID="5302038" FontStyle="0">
+            <EN>Instructive</EN>
+            <DE>Lehrreich </DE>
+          </Description>
+          <Description ID="5302041" FontStyle="0">
+            <EN>Patent espionage</EN>
+            <DE>Patentspionage</DE>
+          </Description>
+          <Description ID="5302044" FontStyle="0">
+            <EN>The Research station</EN>
+            <DE>Die Forschungsstation</DE>
+          </Description>
+          <Description ID="5302047" FontStyle="0">
+            <EN>Training Ship in danger</EN>
+            <DE>Schulschiffe in Gefahr</DE>
+          </Description>
+          <Description ID="5302050" FontStyle="0">
+            <EN>The Sultan's Ship I</EN>
+            <DE>Des Sultans Schiff I</DE>
+          </Description>
+          <Description ID="5302057" FontStyle="0">
+            <EN>Schriften der Weisheit</EN>
+            <DE>Schriften der Weisheit</DE>
+          </Description>
+          <Description ID="5304024" FontStyle="0">
+            <EN>Sunken Treasure</EN>
+            <DE>Versunkenes Artefakt</DE>
+          </Description>
+          <Description ID="5304031" FontStyle="0">
+            <EN>The cost factor!</EN>
+            <DE>Der Kostenfaktor</DE>
+          </Description>
+          <Description ID="5304033" FontStyle="0">
+            <EN>Shipwrecked!</EN>
+            <DE>Gestrandet!</DE>
+          </Description>
+          <Description ID="5304035" FontStyle="0">
+            <EN>Assistant</EN>
+            <DE>Assistent </DE>
+          </Description>
+          <Description ID="5304041" FontStyle="0">
+            <EN>Ghost!</EN>
+            <DE>Spuk!</DE>
+          </Description>
+          <Description ID="5304043" FontStyle="0">
+            <EN>Caught in the trap</EN>
+            <DE>In der Falle</DE>
+          </Description>
+          <Description ID="5304064" FontStyle="0">
+            <EN>Forgotten Culture</EN>
+            <DE>Vergessene Kultur</DE>
+          </Description>
+          <Description ID="5304067" FontStyle="0">
+            <EN>Second opinion</EN>
+            <DE>Zweite Meinung</DE>
+          </Description>
+          <Description ID="5304070" FontStyle="0">
+            <EN>A little knowledge is a dangerous thing</EN>
+            <DE>Gefährliches Halbwissen</DE>
+          </Description>
+          <Description ID="5304073" FontStyle="0">
+            <EN>Lost and found</EN>
+            <DE>Verloren und wiedergefunden</DE>
+          </Description>
+          <Description ID="5304076" FontStyle="0">
+            <EN>The missing Treasure ship</EN>
+            <DE>Das vermisste Schatzschiff</DE>
+          </Description>
+          <Description ID="5304083" FontStyle="0">
+            <EN>The devil is in the detail I</EN>
+            <DE>Teufel im Detail I</DE>
+          </Description>
+          <Description ID="5304085" FontStyle="0">
+            <EN>The devil is in the detail II</EN>
+            <DE>Teufel im Detail II</DE>
+          </Description>
+          <Description ID="5304026" FontStyle="0">
+            <EN>Green-eyed monsters</EN>
+            <DE>Neider</DE>
+          </Description>
+          <Description ID="5304028" FontStyle="0">
+            <EN>Enlightenment</EN>
+            <DE>Aufklärung</DE>
+          </Description>
+          <Description ID="5304030" FontStyle="0">
+            <EN>Finders keepers</EN>
+            <DE>Besitzanspruch</DE>
+          </Description>
+          <Description ID="5304037" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erkundung</DE>
+          </Description>
+          <Description ID="5304039" FontStyle="0">
+            <EN>Map error</EN>
+            <DE>Kartenfehler</DE>
+          </Description>
+          <Description ID="5304087" FontStyle="0">
+            <EN>The devil is in the detail III</EN>
+            <DE>Teufel im Detail III</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8515" Name="Expeditionskarte mittel III">
+    <Text ID="8515" FontStyle="0">
+      <EN>Treasure map of a dead Nobleman</EN>
+      <DE>Schatzkarte eines toten Edelmanns</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>He took his secret with him to the grave... </EN>
+        <DE>Er nahm sein Geheimnis mit ins Grab... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8112" Name="ExpeditionMap Frauenkloster">
+    <Text ID="8112" FontStyle="0">
+      <EN>Map of a remote Island</EN>
+      <DE>Karte zur abgelegenen Insel</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>A place of peace and contemplation... </EN>
+        <DE>Ein Ort des Friedens und der Besinnung... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5303070</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5303070" FontStyle="0">
+            <EN>The Nunnery II</EN>
+            <DE>Das Frauenkloster II</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8480" Name="Expeditionskarte mittel 0">
+    <Text ID="8480" FontStyle="0">
+      <EN>Blood-spattered Map</EN>
+      <DE>Blutbefleckte Karte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Did not willingly change owners... </EN>
+        <DE>Hat nicht freiwillig den Besitzer gewechselt... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8481" Name="Expeditionskarte schwer 0">
+    <Text ID="8481" FontStyle="0">
+      <EN>Tattered Map</EN>
+      <DE>Zerfledderte Karte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>It will take time to decipher it... </EN>
+        <DE>Es braucht Zeit, sie zu entziffern... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8454" Name="ExpeditionMap Jungbrunnen">
+    <Text ID="8454" FontStyle="0">
+      <EN>The way to eternal life</EN>
+      <DE>Weg zum ewigen Leben</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Is eternal life really desirable? </EN>
+        <DE>Ist ewiges Leben überhaupt erstrebenswert? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>6050062</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="6050062" FontStyle="0">
+            <EN>The search for the Fountain of youth V</EN>
+            <DE>Suche nach dem Jungbrunnen V</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8051" Name="Expeditionskarte schwer I">
+    <Text ID="8051" FontStyle="0">
+      <EN>Yellowing Treasure map</EN>
+      <DE>Vergilbte Schatzkarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Difficult to decipher... </EN>
+        <DE>Kaum zu entziffern... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+</ExpeditionItem>

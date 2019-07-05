@@ -1,0 +1,3300 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Profil</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5308028</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_COOLDOWN</Kommentar>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] braucht noch etwas Zeit, um neue Raubritter auszubilden.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] braucht noch etwas Zeit, um neue Raubritter auszubilden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] needs more time to train new Robber barons.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] needs more time to train new Robber barons.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a besoin de plus de temps pour former de nouveaux Barons pillards.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a besoin de plus de temps pour former de nouveaux Barons pillards.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] necesita más tiempo para entrenar a los nuevos barones ladrones.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] necesita más tiempo para entrenar a los nuevos barones ladrones.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha bisogno di altro tempo per addestrare nuovi Baroni briganti.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha bisogno di altro tempo per addestrare nuovi Baroni briganti.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] potrzebuje więcej czasu na wyszkolenie kolejnych zbójcerzy.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] potrzebuje więcej czasu na wyszkolenie kolejnych zbójcerzy.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] просит еще немного времени, чтобы подготовить новых рыцарей-разбойников.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] просит еще немного времени, чтобы подготовить новых рыцарей-разбойников.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chce trochu času, aby mohl vycvičit nové loupeživé rytíře.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chce trochu času, aby mohl vycvičit nové loupeživé rytíře.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645016</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5308029</GUID>
+              <Kommentar>FUNCTION_QUEST_INVITATION_ACCEPTED</Kommentar>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] stellt ihnen seine besten Raubritter zur Verfügung.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] stellt ihnen seine besten Raubritter zur Verfügung.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] puts his best Robber barons at your disposal.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] puts his best Robber barons at your disposal.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] met ses meilleurs Barons pillards à votre disposition.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] met ses meilleurs Barons pillards à votre disposition.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] pone sus mejores barones ladrones a tu disposición.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] pone sus mejores barones ladrones a tu disposición.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] mette a tua disposizione i suoi migliori Baroni briganti.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] mette a tua disposizione i suoi migliori Baroni briganti.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] oddaje ci do dyspozycji swoich najlepszych zbójcerzy.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] oddaje ci do dyspozycji swoich najlepszych zbójcerzy.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] предлагает вам своих лучших рыцарей-разбойников.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] предлагает вам своих лучших рыцарей-разбойников.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám dává k dispozici své nejlepší loupeživé rytíře.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám dává k dispozici své nejlepší loupeživé rytíře.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645016</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <DefaultTemplate>QuestText</DefaultTemplate>
+      <Groups>
+        <Group>
+          <Name>StandardQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308001</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Bresche</Text>
+                      <LastFinalText>Die Bresche</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The gap</Text>
+                      <LastFinalText>The gap</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Le trou</Text>
+                      <LastFinalText>Le trou</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>La brecha</Text>
+                      <LastFinalText>La brecha</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>La breccia</Text>
+                      <LastFinalText>La breccia</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Dziura</Text>
+                      <LastFinalText>Dziura</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Пролом</Text>
+                      <LastFinalText>Пролом</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Díra</Text>
+                      <LastFinalText>Díra</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The gap</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>La brecha</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Le trou</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308002</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Barnabas tobt vor Wut, bei einem Angriff auf seine Burg, hat der Feind eine Bresche in den Festungswall gesprengt. Zähneknirschend fordert er von Ihnen einige Tonnen Stein zur Reparatur an.
+</Text>
+                      <LastFinalText>Barnabas tobt vor Wut, bei einem Angriff auf seine Burg, hat der Feind eine Bresche in den Festungswall gesprengt. Zähneknirschend fordert er von Ihnen einige Tonnen Stein zur Reparatur an.
+</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Барнаба в ярости, потому что во время атаки на крепость враг пробил брешь в стене крепости. Он скрежещет зубами и требует у вас несколько тонн камня для ремонта.</Text>
+                      <LastFinalText>Барнаба в ярости, потому что во время атаки на крепость враг пробил брешь в стене крепости. Он скрежещет зубами и требует у вас несколько тонн камня для ремонта.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308003</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Barnabas tobt vor Wut, bei einem Angriff auf seine Burg, hat der Feind eine Bresche in den Festungswall gesprengt. Zähneknirschend fordert er von Ihnen einige Tonnen Stein zur Reparatur an.</Text>
+                      <LastFinalText>Barnabas tobt vor Wut, bei einem Angriff auf seine Burg, hat der Feind eine Bresche in den Festungswall gesprengt. Zähneknirschend fordert er von Ihnen einige Tonnen Stein zur Reparatur an.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Барнаба в ярости, потому что во время атаки на крепость враг пробил брешь в стене крепости. Он скрежещет зубами и требует у вас несколько тонн камня для ремонта.</Text>
+                      <LastFinalText>Барнаба в ярости, потому что во время атаки на крепость враг пробил брешь в стене крепости. Он скрежещет зубами и требует у вас несколько тонн камня для ремонта.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308004</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] tobt vor Wut. Bei einem Angriff auf seine Burg hat der Feind eine Bresche in den Festungswall gesprengt. Zähneknirschend fordert er von Ihnen einige Tonnen Stein zur Reparatur an.</Text>
+                      <LastFinalText>[QUEST_SENDER] tobt vor Wut. Bei einem Angriff auf seine Burg hat der Feind eine Bresche in den Festungswall gesprengt. Zähneknirschend fordert er von Ihnen einige Tonnen Stein zur Reparatur an.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] в ярости. Во время атаки на крепость враг пробил брешь в стене крепости. Он скрежещет зубами и требует у вас несколько тонн камня для ремонта.</Text>
+                      <LastFinalText>[QUEST_SENDER] в ярости. Во время атаки на крепость враг пробил брешь в стене крепости. Он скрежещет зубами и требует у вас несколько тонн камня для ремонта.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308005</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Landratten</Text>
+                      <LastFinalText>Landratten</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Landlubbers</Text>
+                      <LastFinalText>Landlubbers</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Les terriens</Text>
+                      <LastFinalText>Les terriens</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Marineros de agua dulce</Text>
+                      <LastFinalText>Marineros de agua dulce</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Marinai d'acqua dolce</Text>
+                      <LastFinalText>Marinai d'acqua dolce</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Szczury lądowe</Text>
+                      <LastFinalText>Szczury lądowe</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Сухопутные крысы</Text>
+                      <LastFinalText>Сухопутные крысы</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Suchozemské krysy</Text>
+                      <LastFinalText>Suchozemské krysy</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Landlubbers</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Marineros de agua dulce</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Les terriens</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308006</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Nicht jeder Ritter taugt als Seemann. Zu Lande und zu Pferde stark und erbarmungslos, fehlt ihnen oft nautisches Geschick. Einige von [QUEST_SENDER]’ Mannen sind gestrandet und wissen nun nicht weiter.</Text>
+                      <LastFinalText>Nicht jeder Ritter taugt als Seemann. Zu Lande und zu Pferde stark und erbarmungslos, fehlt ihnen oft nautisches Geschick. Einige von [QUEST_SENDER]’ Mannen sind gestrandet und wissen nun nicht weiter.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Не из каждого рыцаря получается хороший моряк. На земле, верхом на лошади, они сильны и безжалостны, а вот к мореплаванию они почти не способны. [QUEST_SENDER] говорит, что несколько его людей потерпели крушение и не знают, что им делать дальше.</Text>
+                      <LastFinalText>Не из каждого рыцаря получается хороший моряк. На земле, верхом на лошади, они сильны и безжалостны, а вот к мореплаванию они почти не способны. [QUEST_SENDER] говорит, что несколько его людей потерпели крушение и не знают, что им делать дальше.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308007</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die neue Axt</Text>
+                      <LastFinalText>Die neue Axt</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The new axe</Text>
+                      <LastFinalText>The new axe</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>La nouvelle hache</Text>
+                      <LastFinalText>La nouvelle hache</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El hacha nueva</Text>
+                      <LastFinalText>El hacha nueva</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il nuovo asso</Text>
+                      <LastFinalText>Il nuovo asso</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Nowy topór</Text>
+                      <LastFinalText>Nowy topór</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Новый топор</Text>
+                      <LastFinalText>Новый топор</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Nová sekera</Text>
+                      <LastFinalText>Nová sekera</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The new axe</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El hacha nueva</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>La nouvelle hache</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308008</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Gute Arbeit verrichtet sich nur mit trefflichem Werkzeug. [QUEST_SENDER] will sich eine Axt schmieden lassen und benötigt dazu besten Stahl. Sie sollen ihm dabei behilflich sein.</Text>
+                      <LastFinalText>Gute Arbeit verrichtet sich nur mit trefflichem Werkzeug. [QUEST_SENDER] will sich eine Axt schmieden lassen und benötigt dazu besten Stahl. Sie sollen ihm dabei behilflich sein.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Чтобы хорошо работать, нужны хорошие инструменты. [QUEST_SENDER] хочет выковать себе новый топор, а для этого ему нужна сталь. Вы должны ему в этом помочь.</Text>
+                      <LastFinalText>Чтобы хорошо работать, нужны хорошие инструменты. [QUEST_SENDER] хочет выковать себе новый топор, а для этого ему нужна сталь. Вы должны ему в этом помочь.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308009</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Schützenhilfe</Text>
+                      <LastFinalText>Schützenhilfe</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Support</Text>
+                      <LastFinalText>Support</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Assistance</Text>
+                      <LastFinalText>Assistance</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Ayuda</Text>
+                      <LastFinalText>Ayuda</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Supporto</Text>
+                      <LastFinalText>Supporto</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Wsparcie</Text>
+                      <LastFinalText>Wsparcie</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Помощь в обороне</Text>
+                      <LastFinalText>Помощь в обороне</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Podpora</Text>
+                      <LastFinalText>Podpora</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Support</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Ayuda</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Assistance</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308010</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] und seine Vasallen müssen einiges an schwerem Kriegsgerät ausser Landes schaffen und befürchten Übergriffe von Korsaren, die das wertvolle Gut begehren. Kampfkräftige Unterstützung wäre hilfreich.</Text>
+                      <LastFinalText>[QUEST_SENDER] und seine Vasallen müssen einiges an schwerem Kriegsgerät ausser Landes schaffen und befürchten Übergriffe von Korsaren, die das wertvolle Gut begehren. Kampfkräftige Unterstützung wäre hilfreich.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] и его вассалы должны доставить какое-то военное снаряжение в далекую страну, но они опасаются нападений корсаров, которые наверняка захотят присвоить ценный груз. Военная поддержка им бы не помешала.</Text>
+                      <LastFinalText>[QUEST_SENDER] и его вассалы должны доставить какое-то военное снаряжение в далекую страну, но они опасаются нападений корсаров, которые наверняка захотят присвоить ценный груз. Военная поддержка им бы не помешала.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308011</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Feigling</Text>
+                      <LastFinalText>Der Feigling</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The coward</Text>
+                      <LastFinalText>The coward</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Le lâche</Text>
+                      <LastFinalText>Le lâche</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El cobarde</Text>
+                      <LastFinalText>El cobarde</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Codardia</Text>
+                      <LastFinalText>Codardia</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Tchórz</Text>
+                      <LastFinalText>Tchórz</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Трус</Text>
+                      <LastFinalText>Трус</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Zbabělec</Text>
+                      <LastFinalText>Zbabělec</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The coward</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El cobarde</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Le lâche</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308012</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hasst nichts so sehr wie Feigheit. Unzählige Kämpfe und Schlachten hat er geschlagen. Er würde niemals weichen, doch sein Widersacher ist vor dem Duell geflohen. Stellen Sie den flüchtigen Feigling!</Text>
+                      <LastFinalText>[QUEST_SENDER] hasst nichts so sehr wie Feigheit. Unzählige Kämpfe und Schlachten hat er geschlagen. Er würde niemals weichen, doch sein Widersacher ist vor dem Duell geflohen. Stellen Sie den flüchtigen Feigling!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] больше всего ненавидит трусость. Он побывал во многих сражениях и битвах. Он не знает страха, но вот его противник уклонился от боя. Найдите сбежавшего труса!</Text>
+                      <LastFinalText>[QUEST_SENDER] больше всего ненавидит трусость. Он побывал во многих сражениях и битвах. Он не знает страха, но вот его противник уклонился от боя. Найдите сбежавшего труса!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308013</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Brandpfeile</Text>
+                      <LastFinalText>Brandpfeile</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Flaming arrow</Text>
+                      <LastFinalText>Flaming arrow</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>La flèche enflammée</Text>
+                      <LastFinalText>La flèche enflammée</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Flecha llameante</Text>
+                      <LastFinalText>Flecha llameante</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Frecce infuocate</Text>
+                      <LastFinalText>Frecce infuocate</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Płonąca strzała</Text>
+                      <LastFinalText>Płonąca strzała</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Огненные стрелы</Text>
+                      <LastFinalText>Огненные стрелы</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Ohnivý šíp</Text>
+                      <LastFinalText>Ohnivý šíp</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Flaming arrow</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Flecha llameante</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>La flèche enflammée</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308014</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Um seine Trutzburg mit Brandpfeilen noch besser verteidigen zu können, ist [QUEST_SENDER] auf der Suche nach Werkstoffen für neue Pfeilspitzen und Kohlebecken auf seinen Mauern.</Text>
+                      <LastFinalText>Um seine Trutzburg mit Brandpfeilen noch besser verteidigen zu können, ist [QUEST_SENDER] auf der Suche nach Werkstoffen für neue Pfeilspitzen und Kohlebecken auf seinen Mauern.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] собирается защищать свою крепость с помощью горящих стрел, и теперь ищет материалы, чтобы сделать новые наконечники для стрел и жаровни на стенах.</Text>
+                      <LastFinalText>[QUEST_SENDER] собирается защищать свою крепость с помощью горящих стрел, и теперь ищет материалы, чтобы сделать новые наконечники для стрел и жаровни на стенах.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308015</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Morgendliches Grauen</Text>
+                      <LastFinalText>Morgendliches Grauen</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Morning terror</Text>
+                      <LastFinalText>Morning terror</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Terreur matinale</Text>
+                      <LastFinalText>Terreur matinale</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Terror matutino</Text>
+                      <LastFinalText>Terror matutino</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Terrore mattutino</Text>
+                      <LastFinalText>Terrore mattutino</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Terror o poranku</Text>
+                      <LastFinalText>Terror o poranku</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Утренний кошмар</Text>
+                      <LastFinalText>Утренний кошмар</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Ranní teror</Text>
+                      <LastFinalText>Ranní teror</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Morning terror</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Terror matutino</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Terreur matinale</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308016</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Im Morgengrauen sollen einige Handelsschiffe mit wertvollen Waren sowie deren Geleitschiffe geplündert und gebrandschatzt werden. Da [QUEST_SENDER] jedoch anderweitig beschäftigt ist, verlangt er diesen kleinen Gefallen.</Text>
+                      <LastFinalText>Im Morgengrauen sollen einige Handelsschiffe mit wertvollen Waren sowie deren Geleitschiffe geplündert und gebrandschatzt werden. Da [QUEST_SENDER] jedoch anderweitig beschäftigt ist, verlangt er diesen kleinen Gefallen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>На заре нужно ограбить и сжечь несколько торговых кораблей с ценными товарами, а также корабли сопровождения. Но поскольку [QUEST_SENDER] будет занят, он поручает это дельце вам.</Text>
+                      <LastFinalText>На заре нужно ограбить и сжечь несколько торговых кораблей с ценными товарами, а также корабли сопровождения. Но поскольку [QUEST_SENDER] будет занят, он поручает это дельце вам.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308017</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Damenraub</Text>
+                      <LastFinalText>Damenraub</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Abduction of the women</Text>
+                      <LastFinalText>Abduction of the women</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L’enlèvement des femmes</Text>
+                      <LastFinalText>L’enlèvement des femmes</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Rapto de mujeres</Text>
+                      <LastFinalText>Rapto de mujeres</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il ratto delle donne</Text>
+                      <LastFinalText>Il ratto delle donne</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Porwanie kobiet</Text>
+                      <LastFinalText>Porwanie kobiet</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Похищение дамы</Text>
+                      <LastFinalText>Похищение дамы</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Únos žen</Text>
+                      <LastFinalText>Únos žen</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Abduction of the women</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Rapto de mujeres</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L’enlèvement des femmes</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308018</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER]’ Raubzüge haben ihm einen zweifelhaften Ruf eingebracht. Sie sollen ihn bei einem seiner "Geniestreiche" unterstützen. Hierbei handelt es sich um nichts Geringeres als den Raub der Herzdame eines Rivalen.</Text>
+                      <LastFinalText>[QUEST_SENDER]’ Raubzüge haben ihm einen zweifelhaften Ruf eingebracht. Sie sollen ihn bei einem seiner "Geniestreiche" unterstützen. Hierbei handelt es sich um nichts Geringeres als den Raub der Herzdame eines Rivalen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] знает, что из-за рыцарей-разбойников репутация у него сомнительная. Вы должны поддержать его в одном из ""отчаянных предприятий"". Речь идет, ни много ни мало, о похищении дамы сердца конкурента.</Text>
+                      <LastFinalText>[QUEST_SENDER] знает, что из-за рыцарей-разбойников репутация у него сомнительная. Вы должны поддержать его в одном из ""отчаянных предприятий"". Речь идет, ни много ни мало, о похищении дамы сердца конкурента.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308019</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Geteilte Last ist halbe Last</Text>
+                      <LastFinalText>Geteilte Last ist halbe Last</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>A shared burden is half the burden</Text>
+                      <LastFinalText>A shared burden is half the burden</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Fardeau partagé est moitié moins lourd</Text>
+                      <LastFinalText>Fardeau partagé est moitié moins lourd</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Una carga compartida es más fácil de llevar</Text>
+                      <LastFinalText>Una carga compartida es más fácil de llevar</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Mal comune mezzo gaudio</Text>
+                      <LastFinalText>Mal comune mezzo gaudio</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Wspólny wysiłek</Text>
+                      <LastFinalText>Wspólny wysiłek</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Разделенное бремя -- это половина бремени</Text>
+                      <LastFinalText>Разделенное бремя -- это половина бремени</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Společné břímě je poloviční břímě</Text>
+                      <LastFinalText>Společné břímě je poloviční břímě</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>A shared burden is half the burden</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Una carga compartida es más fácil de llevar</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Fardeau partagé est moitié moins lourd</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308020</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER]' Gier kennt keine Grenzen. Ein schwer beladenes Handelsschiff verlässt die Inselwelt, und es wäre doch schade, wenn es mit all den Schätzen einfach davonsegelte.</Text>
+                      <LastFinalText>[QUEST_SENDER]' Gier kennt keine Grenzen. Ein schwer beladenes Handelsschiff verlässt die Inselwelt, und es wäre doch schade, wenn es mit all den Schätzen einfach davonsegelte.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] беспредельно жаден. Тяжело груженый торговый корабль покидает архипелаг, и будет просто позор, если он так и уплывет со всеми сокровищами.</Text>
+                      <LastFinalText>[QUEST_SENDER] беспредельно жаден. Тяжело груженый торговый корабль покидает архипелаг, и будет просто позор, если он так и уплывет со всеми сокровищами.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308021</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] schäumt vor Wut. Seine nichtsnutzigen Mannen haben sturztrunken einen Korso vorbeifahrender Schiffe einfach ziehen lassen. Doch noch ist Zeit, ihn wieder gnädig zu stimmen.</Text>
+                      <LastFinalText>[QUEST_SENDER] schäumt vor Wut. Seine nichtsnutzigen Mannen haben sturztrunken einen Korso vorbeifahrender Schiffe einfach ziehen lassen. Doch noch ist Zeit, ihn wieder gnädig zu stimmen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] вне себя от ярости. Его никчемные люди перепились и попросту упустили проходившую мимо флотилию. Но все-таки еще есть время, чтобы догнать ее.</Text>
+                      <LastFinalText>[QUEST_SENDER] вне себя от ярости. Его никчемные люди перепились и попросту упустили проходившую мимо флотилию. Но все-таки еще есть время, чтобы догнать ее.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308022</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Verwundet I</Text>
+                      <LastFinalText>Verwundet I</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Wounded I</Text>
+                      <LastFinalText>Wounded I</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Blessé I</Text>
+                      <LastFinalText>Blessé I</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Herido I</Text>
+                      <LastFinalText>Herido I</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Ferito I</Text>
+                      <LastFinalText>Ferito I</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Ranny I</Text>
+                      <LastFinalText>Ranny I</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Раненный I</Text>
+                      <LastFinalText>Раненный I</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Zraněný I</Text>
+                      <LastFinalText>Zraněný I</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Wounded I</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Herido I</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Blessé I</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308023</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] wurde auf seinem letzten Raubzug schwer verwundet, als er von Gier geblendet eine Schatzkammer stürmte. Eine Kräuterhexe, die in Ihrer Siedlung gesehen wurde, sollte ihm Linderung verschaffen können.</Text>
+                      <LastFinalText>[QUEST_SENDER] wurde auf seinem letzten Raubzug schwer verwundet, als er von Gier geblendet eine Schatzkammer stürmte. Eine Kräuterhexe, die in Ihrer Siedlung gesehen wurde, sollte ihm Linderung verschaffen können.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] was seriously wounded during his last raid as pure greed made him force his way into a Treasure chamber. A Herb woman who has been seen in your Settlement should be able to provide some treatment.</Text>
+                      <LastFinalText>[QUEST_SENDER] was seriously wounded during his last raid as pure greed made him force his way into a Treasure chamber. A Herb woman who has been seen in your Settlement should be able to provide some treatment.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] a été gravement blessé durant son dernier périple, alors qu'il tentait de pénétrer dans une chambre au Trésor, par pure avidité. Une Herboriste qui a été aperçue dans votre Colonie devrait pouvoir lui fournir un traitement.</Text>
+                      <LastFinalText>[QUEST_SENDER] a été gravement blessé durant son dernier périple, alors qu'il tentait de pénétrer dans une chambre au Trésor, par pure avidité. Une Herboriste qui a été aperçue dans votre Colonie devrait pouvoir lui fournir un traitement.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] resultó herido de gravedad durante su último golpe, pues la codicia lo llevó a adentrarse en una cámara del tesoro. Una herborista que ha aparecido en tu asentamiento debería poder proporcionarle algún remedio.</Text>
+                      <LastFinalText>[QUEST_SENDER] resultó herido de gravedad durante su último golpe, pues la codicia lo llevó a adentrarse en una cámara del tesoro. Una herborista que ha aparecido en tu asentamiento debería poder proporcionarle algún remedio.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] è stato seriamente ferito durante la sua ultima irruzione mentre, per pura cupidigia, cercava di irrompere nella stanza del Tesoro. Un'Erborista che è stata vista nel tuo Insediamento dovrebbe essere in grado di fornire delle cure appropriate.</Text>
+                      <LastFinalText>[QUEST_SENDER] è stato seriamente ferito durante la sua ultima irruzione mentre, per pura cupidigia, cercava di irrompere nella stanza del Tesoro. Un'Erborista che è stata vista nel tuo Insediamento dovrebbe essere in grado di fornire delle cure appropriate.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] podczas swojego ostatniego najazdu został ciężko ranny - czysta żądza złota zagnała go aż do samego skarbca. W twojej osadzie widziano zielarkę, która może pomóc go wyleczyć.</Text>
+                      <LastFinalText>[QUEST_SENDER] podczas swojego ostatniego najazdu został ciężko ranny - czysta żądza złota zagnała go aż do samego skarbca. W twojej osadzie widziano zielarkę, która może pomóc go wyleczyć.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>[QUEST_SENDER] во время последнего грабежа был тяжело ранен, когда, ослепленный жадностью, штурмовал сокровищницу. Ведьма-травница, которую видели в вашем селении, должна его вылечить.</Text>
+                      <LastFinalText>[QUEST_SENDER] во время последнего грабежа был тяжело ранен, когда, ослепленный жадностью, штурмовал сокровищницу. Ведьма-травница, которую видели в вашем селении, должна его вылечить.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>[QUEST_SENDER] byl během posledního útoku vážně zraněn, protože čistá chamtivost ho donutila prorazit si cestu až k pokladnici. Pomoci by mu mohla jedna baba kořenářka, která byla spatřena ve vaší vesnici.</Text>
+                      <LastFinalText>[QUEST_SENDER] byl během posledního útoku vážně zraněn, protože čistá chamtivost ho donutila prorazit si cestu až k pokladnici. Pomoci by mu mohla jedna baba kořenářka, která byla spatřena ve vaší vesnici.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>[QUEST_SENDER] was seriously wounded during his last raid as pure greed made him force his way into a Treasure chamber. A Herb woman who has been seen in your Settlement should be able to provide some treatment.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>[QUEST_SENDER] resultó herido de gravedad durante su último golpe, pues la codicia lo llevó a adentrarse en una cámara del tesoro. Una herborista que ha aparecido en tu asentamiento debería poder proporcionarle algún remedio.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>[QUEST_SENDER] a été gravement blessé durant son dernier périple, alors qu'il tentait de pénétrer dans une chambre au Trésor, par pure avidité. Une Herboriste qui a été aperçue dans votre Colonie devrait pouvoir lui fournir un traitement.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308024</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Verwundet II</Text>
+                      <LastFinalText>Verwundet II</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Wounded II</Text>
+                      <LastFinalText>Wounded II</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Blessé II</Text>
+                      <LastFinalText>Blessé II</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Herido II</Text>
+                      <LastFinalText>Herido II</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Ferito I</Text>
+                      <LastFinalText>Ferito I</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Ranny II</Text>
+                      <LastFinalText>Ranny II</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Раненный II</Text>
+                      <LastFinalText>Раненный II</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Zraněný II</Text>
+                      <LastFinalText>Zraněný II</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Wounded II</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Herido II</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Blessé II</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308025</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Kräuterhexe benötigt dringend Verbandsmaterial. Die meisten Schnitte sind schnell verheilt, aber einige tiefe Stiche in [QUEST_SENDER]' Leib bereiten der Alten Sorge.</Text>
+                      <LastFinalText>Die Kräuterhexe benötigt dringend Verbandsmaterial. Die meisten Schnitte sind schnell verheilt, aber einige tiefe Stiche in [QUEST_SENDER]' Leib bereiten der Alten Sorge.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Herb woman urgently needs some dressings. Most of the cuts will heal quickly, but some stab wounds to [QUEST_SENDER]'s body are causing her some concern.</Text>
+                      <LastFinalText>The Herb woman urgently needs some dressings. Most of the cuts will heal quickly, but some stab wounds to [QUEST_SENDER]'s body are causing her some concern.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Herboriste a un besoin urgent de pansements. La plupart des plaies cicatriseront rapidement, mais certaines blessures infligées par des lames à [QUEST_SENDER] l'inquiètent davantage.</Text>
+                      <LastFinalText>L'Herboriste a un besoin urgent de pansements. La plupart des plaies cicatriseront rapidement, mais certaines blessures infligées par des lames à [QUEST_SENDER] l'inquiètent davantage.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>La herborista necesita vendas con urgencia. Los cortes se cerrarán pronto, pero las puñaladas que asestaron a [QUEST_SENDER] la tienen preocupada.</Text>
+                      <LastFinalText>La herborista necesita vendas con urgencia. Los cortes se cerrarán pronto, pero las puñaladas que asestaron a [QUEST_SENDER] la tienen preocupada.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Erborista ha urgente bisogno di bende. La maggior parte dei tagli guariranno presto, ma è preoccupata per alcune ferite sul corpo di [QUEST_SENDER].</Text>
+                      <LastFinalText>L'Erborista ha urgente bisogno di bende. La maggior parte dei tagli guariranno presto, ma è preoccupata per alcune ferite sul corpo di [QUEST_SENDER].</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Zielarka pilnie potrzebuje opatrunków. Większość zadrapań zostanie szybko wyleczona, ale niektóre rany kłute, których doznał [QUEST_SENDER] budzą jej niepokój.</Text>
+                      <LastFinalText>Zielarka pilnie potrzebuje opatrunków. Większość zadrapań zostanie szybko wyleczona, ale niektóre rany kłute, których doznał [QUEST_SENDER] budzą jej niepokój.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Ведьме-травнице срочно нужен перевязочный материал. Большинство царапин быстро затянулись, но в нескольких местах [QUEST_SENDER] был ранен серьезно, и старуха беспокоится.</Text>
+                      <LastFinalText>Ведьме-травнице срочно нужен перевязочный материал. Большинство царапин быстро затянулись, но в нескольких местах [QUEST_SENDER] был ранен серьезно, и старуха беспокоится.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Baba kořenářka naléhavě potřebuje nějaké obvazy. Většina řezných ran se zahojí rychle, ale pár bodných zranění na těle postavy jménem [QUEST_SENDER] jí dělá starosti.</Text>
+                      <LastFinalText>Baba kořenářka naléhavě potřebuje nějaké obvazy. Většina řezných ran se zahojí rychle, ale pár bodných zranění na těle postavy jménem [QUEST_SENDER] jí dělá starosti.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Herb woman urgently needs some dressings. Most of the cuts will heal quickly, but some stab wounds to [QUEST_SENDER]'s body are causing her some concern.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>La herborista necesita vendas con urgencia. Los cortes se cerrarán pronto, pero las puñaladas que asestaron a [QUEST_SENDER] la tienen preocupada.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Herboriste a un besoin urgent de pansements. La plupart des plaies cicatriseront rapidement, mais certaines blessures infligées par des lames à [QUEST_SENDER] l'inquiètent davantage.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308026</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Verwundet III</Text>
+                      <LastFinalText>Verwundet III</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Wounded III</Text>
+                      <LastFinalText>Wounded III</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Blessé III</Text>
+                      <LastFinalText>Blessé III</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Herido III</Text>
+                      <LastFinalText>Herido III</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Ferito I</Text>
+                      <LastFinalText>Ferito I</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Ranny III</Text>
+                      <LastFinalText>Ranny III</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Раненный III</Text>
+                      <LastFinalText>Раненный III</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Zraněný III</Text>
+                      <LastFinalText>Zraněný III</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Wounded III</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Herido III</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Blessé III</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308027</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] kommt wieder zu Kräften. Die alte Kräuterhexe hat gute Arbeit geleistet. Dafür soll sie reich belohnt werden. Einige seltene Reagenzien wurden auf hoher See gesichtet, ein Händler muss sie verloren haben.</Text>
+                      <LastFinalText>[QUEST_SENDER] kommt wieder zu Kräften. Die alte Kräuterhexe hat gute Arbeit geleistet. Dafür soll sie reich belohnt werden. Einige seltene Reagenzien wurden auf hoher See gesichtet, ein Händler muss sie verloren haben.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] is now fully recovered. The Herb woman has performed a great service and should be richly rewarded. A few very rare Ingredients were seen floating on the high sea; a Trader must have lost them.</Text>
+                      <LastFinalText>[QUEST_SENDER] is now fully recovered. The Herb woman has performed a great service and should be richly rewarded. A few very rare Ingredients were seen floating on the high sea; a Trader must have lost them.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] est maintenant entièrement rétabli. L'Herboriste lui a rendu un grand service et doit être justement récompensée. Quelques ingrédients très rares ont été repérés en train de dériver à la surface de l'océan ; un Navire marchand a dû les perdre.</Text>
+                      <LastFinalText>[QUEST_SENDER] est maintenant entièrement rétabli. L'Herboriste lui a rendu un grand service et doit être justement récompensée. Quelques ingrédients très rares ont été repérés en train de dériver à la surface de l'océan ; un Navire marchand a dû les perdre.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] se ha recuperado por completo. La herborista ha realizado un gran trabajo y se le debería recompensar con generosidad. Unos componentes poco comunes aparecieron flotando en alta mar; los perdería algún comerciante.</Text>
+                      <LastFinalText>[QUEST_SENDER] se ha recuperado por completo. La herborista ha realizado un gran trabajo y se le debería recompensar con generosidad. Unos componentes poco comunes aparecieron flotando en alta mar; los perdería algún comerciante.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] si è pienamente ristabilito. L'Erborista ha svolto un grande servigio e dovrebbe essere lautamente ricompensata. Sono stati avvistati dei rari Ingredienti galleggiare in Mare aperto. Deve averli persi un Commerciante.</Text>
+                      <LastFinalText>[QUEST_SENDER] si è pienamente ristabilito. L'Erborista ha svolto un grande servigio e dovrebbe essere lautamente ricompensata. Sono stati avvistati dei rari Ingredienti galleggiare in Mare aperto. Deve averli persi un Commerciante.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] w pełni wyzdrowiał. Zielarka wspaniale spełniła swoją rolę i zostanie za to sowicie wynagrodzona. Na morzach widziano skrzynie z bardzo rzadko spotykanymi składnikami, musiały wypaść za burtę z jakiegoś statku kupieckiego.</Text>
+                      <LastFinalText>[QUEST_SENDER] w pełni wyzdrowiał. Zielarka wspaniale spełniła swoją rolę i zostanie za to sowicie wynagrodzona. Na morzach widziano skrzynie z bardzo rzadko spotykanymi składnikami, musiały wypaść za burtę z jakiegoś statku kupieckiego.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>[QUEST_SENDER] снова набрался сил. Старая ведьма отлично справилась со своей работой. За это ее нужно как следует наградить. Некоторые редкие реактивы видели в открытом море, наверное, торговец их потерял.</Text>
+                      <LastFinalText>[QUEST_SENDER] снова набрался сил. Старая ведьма отлично справилась со своей работой. За это ее нужно как следует наградить. Некоторые редкие реактивы видели в открытом море, наверное, торговец их потерял.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>[QUEST_SENDER] se plně zotavil. Baba kořenářka odvedla skvělou práci a měla by za to být štědře odměněna. Někdo na moři viděl plavat vzácné ingredience. Určitě je ztratil nějaký obchodník.</Text>
+                      <LastFinalText>[QUEST_SENDER] se plně zotavil. Baba kořenářka odvedla skvělou práci a měla by za to být štědře odměněna. Někdo na moři viděl plavat vzácné ingredience. Určitě je ztratil nějaký obchodník.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>[QUEST_SENDER] is now fully recovered. The Herb woman has performed a great service and should be richly rewarded. A few very rare Ingredients were seen floating on the high sea; a Trader must have lost them.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>[QUEST_SENDER] se ha recuperado por completo. La herborista ha realizado un gran trabajo y se le debería recompensar con generosidad. Unos componentes poco comunes aparecieron flotando en alta mar; los perdería algún comerciante.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>[QUEST_SENDER] est maintenant entièrement rétabli. L'Herboriste lui a rendu un grand service et doit être justement récompensée. Quelques ingrédients très rares ont été repérés en train de dériver à la surface de l'océan ; un Navire marchand a dû les perdre.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308165</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Verpasste Gelegenheit?</Text>
+                      <LastFinalText>Verpasste Gelegenheit?</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Missed opportunity?</Text>
+                      <LastFinalText>Missed opportunity?</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Une opportunité ratée ?</Text>
+                      <LastFinalText>Une opportunité ratée ?</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>¿Oportunidad perdida?</Text>
+                      <LastFinalText>¿Oportunidad perdida?</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Un'opportunità mancata?</Text>
+                      <LastFinalText>Un'opportunità mancata?</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Stracona okazja?</Text>
+                      <LastFinalText>Stracona okazja?</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Упущенная возможность?</Text>
+                      <LastFinalText>Упущенная возможность?</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Promarněná příležitost?</Text>
+                      <LastFinalText>Promarněná příležitost?</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Missed opportunity?</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>¿Oportunidad perdida?</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Une opportunité ratée ?</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308166</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Herausgefordert</Text>
+                      <LastFinalText>Herausgefordert</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Challenged</Text>
+                      <LastFinalText>Challenged</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Le défi</Text>
+                      <LastFinalText>Le défi</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El desafío</Text>
+                      <LastFinalText>El desafío</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>La sfida</Text>
+                      <LastFinalText>La sfida</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Wyzwany</Text>
+                      <LastFinalText>Wyzwany</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Вызов</Text>
+                      <LastFinalText>Вызов</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Vyzvaný</Text>
+                      <LastFinalText>Vyzvaný</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Challenged</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El desafío</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Le défi</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308167</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Es ist bekannt, dass man [QUEST_SENDER] besser nicht provoziert. Einige Korsaren haben davon jedoch wohl noch nicht gehört und kreuzen in den Gewässern, die [QUEST_SENDER] für sich beansprucht.</Text>
+                      <LastFinalText>Es ist bekannt, dass man [QUEST_SENDER] besser nicht provoziert. Einige Korsaren haben davon jedoch wohl noch nicht gehört und kreuzen in den Gewässern, die [QUEST_SENDER] für sich beansprucht.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] человек известный, и лучше его не провоцировать. Но какие-то корсары, очевидно, об этом не слышали, и заплыли в воды, которые [QUEST_SENDER] облюбовал для себя.</Text>
+                      <LastFinalText>[QUEST_SENDER] человек известный, и лучше его не провоцировать. Но какие-то корсары, очевидно, об этом не слышали, и заплыли в воды, которые [QUEST_SENDER] облюбовал для себя.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308168</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Rätselhaft</Text>
+                      <LastFinalText>Rätselhaft</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Enigmatic</Text>
+                      <LastFinalText>Enigmatic</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Énigmatique</Text>
+                      <LastFinalText>Énigmatique</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Algo enigmático</Text>
+                      <LastFinalText>Algo enigmático</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Che enigma</Text>
+                      <LastFinalText>Che enigma</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Enigmatyczny</Text>
+                      <LastFinalText>Enigmatyczny</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Загадка</Text>
+                      <LastFinalText>Загадка</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Záhadný</Text>
+                      <LastFinalText>Záhadný</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Enigmatic</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Algo enigmático</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Énigmatique</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308169</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Da [QUEST_SENDER]' Mannen eher schlichten Gemüts sind, er aber Größeres mit ihnen vorhat, verlangt er von Ihnen, ein mysteriöses Schatzrätsel zu lösen und den Schatz zugleich auch zu bergen.</Text>
+                      <LastFinalText>Da [QUEST_SENDER]' Mannen eher schlichten Gemüts sind, er aber Größeres mit ihnen vorhat, verlangt er von Ihnen, ein mysteriöses Schatzrätsel zu lösen und den Schatz zugleich auch zu bergen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] знает, что его люди отличаются скверным нравом, и потому требует, чтобы вы разгадали таинственную загадку и защитили от них сокровища.</Text>
+                      <LastFinalText>[QUEST_SENDER] знает, что его люди отличаются скверным нравом, и потому требует, чтобы вы разгадали таинственную загадку и защитили от них сокровища.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308170</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Würfelglück</Text>
+                      <LastFinalText>Würfelglück</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The luck of the dice</Text>
+                      <LastFinalText>The luck of the dice</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>La chance aux dés</Text>
+                      <LastFinalText>La chance aux dés</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>La suerte de los dados</Text>
+                      <LastFinalText>La suerte de los dados</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Fortuna ai dadi</Text>
+                      <LastFinalText>Fortuna ai dadi</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Rzut kośćmi</Text>
+                      <LastFinalText>Rzut kośćmi</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Игрок в кости</Text>
+                      <LastFinalText>Игрок в кости</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Šťastná kostka</Text>
+                      <LastFinalText>Šťastná kostka</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The luck of the dice</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>La suerte de los dados</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>La chance aux dés</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308171</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] gewann beim Würfelspiel ein seltsames Lederetui. Bei näherer Betrachtung stellte sich heraus, dass es sich um eine Schatzkarte handelt, auf der mehrere Verstecke eingezeichnet sind. Eine lohnende Angelegenheit?</Text>
+                      <LastFinalText>[QUEST_SENDER] gewann beim Würfelspiel ein seltsames Lederetui. Bei näherer Betrachtung stellte sich heraus, dass es sich um eine Schatzkarte handelt, auf der mehrere Verstecke eingezeichnet sind. Eine lohnende Angelegenheit?</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] выиграл в кости странный кожаный футляр. При ближайшем рассмотрении оказалось, что в футляре хранилась карта, на которой отмечены несколько мест, где закопаны сокровища. Стоящее дельце?</Text>
+                      <LastFinalText>[QUEST_SENDER] выиграл в кости странный кожаный футляр. При ближайшем рассмотрении оказалось, что в футляре хранилась карта, на которой отмечены несколько мест, где закопаны сокровища. Стоящее дельце?</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308172</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Fehdehandschuh</Text>
+                      <LastFinalText>Der Fehdehandschuh</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The gauntlet</Text>
+                      <LastFinalText>The gauntlet</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Le gantelet</Text>
+                      <LastFinalText>Le gantelet</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El guante</Text>
+                      <LastFinalText>El guante</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il guanto</Text>
+                      <LastFinalText>Il guanto</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Rękawica</Text>
+                      <LastFinalText>Rękawica</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Перчатка</Text>
+                      <LastFinalText>Перчатка</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Rukavice</Text>
+                      <LastFinalText>Rukavice</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The gauntlet</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El guante</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Le gantelet</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308173</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] proviziert oft und gern Blutfehden. Sie haben den Fehdehandschuh des Raubritters gefunden. Er vermisst ihn schon seit geraumer Zeit.</Text>
+                      <LastFinalText>[QUEST_SENDER] proviziert oft und gern Blutfehden. Sie haben den Fehdehandschuh des Raubritters gefunden. Er vermisst ihn schon seit geraumer Zeit.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] обожает кровную месть. Вы обнаружили перчатку-рыцаря разбойника. Он давно уже ее потерял.</Text>
+                      <LastFinalText>[QUEST_SENDER] обожает кровную месть. Вы обнаружили перчатку-рыцаря разбойника. Он давно уже ее потерял.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308174</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Diener</Text>
+                      <LastFinalText>Die Diener</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The attendants</Text>
+                      <LastFinalText>The attendants</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L’assistance</Text>
+                      <LastFinalText>L’assistance</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Los asistentes</Text>
+                      <LastFinalText>Los asistentes</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Gli spettatori</Text>
+                      <LastFinalText>Gli spettatori</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Towarzysze</Text>
+                      <LastFinalText>Towarzysze</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Слуга</Text>
+                      <LastFinalText>Слуга</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Hlídači</Text>
+                      <LastFinalText>Hlídači</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The attendants</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Los asistentes</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L’assistance</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308175</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein solch erfolgreicher Raubritter wie der schreckliche Barnabas gönnt sich freilich auch eine Dienerschaft. Sie haben zwei Diener des Ritters aus dem Wasser gefischt, die wohl unfreiwillig baden gingen.</Text>
+                      <LastFinalText>Ein solch erfolgreicher Raubritter wie der schreckliche Barnabas gönnt sich freilich auch eine Dienerschaft. Sie haben zwei Diener des Ritters aus dem Wasser gefischt, die wohl unfreiwillig baden gingen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Разумеется, у такого успешного рыцаря-разбойника как Барнаба есть прислуга. Вы только что выудили из воды двух его слуг, которые отправились купаться не по собственной воле.</Text>
+                      <LastFinalText>Разумеется, у такого успешного рыцаря-разбойника как Барнаба есть прислуга. Вы только что выудили из воды двух его слуг, которые отправились купаться не по собственной воле.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308176</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Arsenal I</Text>
+                      <LastFinalText>Das Arsenal I</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Arsenal I</Text>
+                      <LastFinalText>The Arsenal I</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Arsenal I</Text>
+                      <LastFinalText>L'Arsenal I</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El arsenal I</Text>
+                      <LastFinalText>El arsenal I</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Arsenale I</Text>
+                      <LastFinalText>L'Arsenale I</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Arsenał I</Text>
+                      <LastFinalText>Arsenał I</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Арсенал I</Text>
+                      <LastFinalText>Арсенал I</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Arzenál I</Text>
+                      <LastFinalText>Arzenál I</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Arsenal I</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El arsenal I</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Arsenal I</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308177</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] ist weithin als Waffennarr und -sammler bekannt. Fast jede erdenkliche Waffengattung findet sich in den Hallen seiner Burg. Einige abgenutzte Stücke sollen nun ausgetauscht werden.</Text>
+                      <LastFinalText>[QUEST_SENDER] ist weithin als Waffennarr und -sammler bekannt. Fast jede erdenkliche Waffengattung findet sich in den Hallen seiner Burg. Einige abgenutzte Stücke sollen nun ausgetauscht werden.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] is widely known as a lover and collector of Weapons. Practically every Weapon imaginable can be found in the halls of his Castle. He now wants to replace some very old and battered pieces.</Text>
+                      <LastFinalText>[QUEST_SENDER] is widely known as a lover and collector of Weapons. Practically every Weapon imaginable can be found in the halls of his Castle. He now wants to replace some very old and battered pieces.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] est amateur et collectionneur d'Armes, et sa réputation n'est plus à faire. Les salles de son Château recèlent presque toutes les Armes possibles et imaginables. Il souhaite maintenant remplacer des pièces anciennes très âgées et usées.</Text>
+                      <LastFinalText>[QUEST_SENDER] est amateur et collectionneur d'Armes, et sa réputation n'est plus à faire. Les salles de son Château recèlent presque toutes les Armes possibles et imaginables. Il souhaite maintenant remplacer des pièces anciennes très âgées et usées.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] es famoso por su amor a las armas, las cuales colecciona. Se puede encontrar prácticamente cualquier arma en las salas de su castillo. Ahora le gustaría reemplazar algunas piezas antiguas y estropeadas.</Text>
+                      <LastFinalText>[QUEST_SENDER] es famoso por su amor a las armas, las cuales colecciona. Se puede encontrar prácticamente cualquier arma en las salas de su castillo. Ahora le gustaría reemplazar algunas piezas antiguas y estropeadas.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] è noto per essere amante e collezionista di Armi. Nelle stanze del suo Castello è possibile trovare praticamente ogni Arma che si possa immaginare. Ora desidera sostituire dei pezzi vecchi e danneggiati.</Text>
+                      <LastFinalText>[QUEST_SENDER] è noto per essere amante e collezionista di Armi. Nelle stanze del suo Castello è possibile trovare praticamente ogni Arma che si possa immaginare. Ora desidera sostituire dei pezzi vecchi e danneggiati.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] to znany miłośnik i kolekcjoner broni. W korytarzach jego zamku można znaleźć praktycznie każdą broń zrobioną przez człowieka. Teraz jednak chciałby zastąpić niektóre bardziej zniszczone eksponaty nowymi egzemplarzami.</Text>
+                      <LastFinalText>[QUEST_SENDER] to znany miłośnik i kolekcjoner broni. W korytarzach jego zamku można znaleźć praktycznie każdą broń zrobioną przez człowieka. Teraz jednak chciałby zastąpić niektóre bardziej zniszczone eksponaty nowymi egzemplarzami.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>[QUEST_SENDER] известен всем как любитель и коллекционер оружия. Почти все мыслимые виды оружия хранятся в залах его крепости. Но некоторые не нужные ему экземпляры он хочет на что-нибудь обменять.</Text>
+                      <LastFinalText>[QUEST_SENDER] известен всем как любитель и коллекционер оружия. Почти все мыслимые виды оружия хранятся в залах его крепости. Но некоторые не нужные ему экземпляры он хочет на что-нибудь обменять.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>[QUEST_SENDER] je proslulý jako velký milovník a sběratel zbraní. V chodbách jeho hradu člověk najde prakticky každou zbraň, jakou si dokáže představit. Nyní chce některé staré a otlučené kousky vyměnit.</Text>
+                      <LastFinalText>[QUEST_SENDER] je proslulý jako velký milovník a sběratel zbraní. V chodbách jeho hradu člověk najde prakticky každou zbraň, jakou si dokáže představit. Nyní chce některé staré a otlučené kousky vyměnit.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>[QUEST_SENDER] is widely known as a lover and collector of Weapons. Practically every Weapon imaginable can be found in the halls of his Castle. He now wants to replace some very old and battered pieces.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>[QUEST_SENDER] es famoso por su amor a las armas, las cuales colecciona. Se puede encontrar prácticamente cualquier arma en las salas de su castillo. Ahora le gustaría reemplazar algunas piezas antiguas y estropeadas.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>[QUEST_SENDER] est amateur et collectionneur d'Armes, et sa réputation n'est plus à faire. Les salles de son Château recèlent presque toutes les Armes possibles et imaginables. Il souhaite maintenant remplacer des pièces anciennes très âgées et usées.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308178</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Arsenal II</Text>
+                      <LastFinalText>Das Arsenal II</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Arsenal II</Text>
+                      <LastFinalText>The Arsenal II</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Arsenal II</Text>
+                      <LastFinalText>L'Arsenal II</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El arsenal II</Text>
+                      <LastFinalText>El arsenal II</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Arsenale II</Text>
+                      <LastFinalText>L'Arsenale II</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Arsenał II</Text>
+                      <LastFinalText>Arsenał II</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Арсенал II</Text>
+                      <LastFinalText>Арсенал II</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Arzenáll II</Text>
+                      <LastFinalText>Arzenáll II</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Arsenal II</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El arsenal II</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Arsenal II</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308179</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Seit langem giert [QUEST_SENDER] nach einer besonderen Waffe – einer Handkanone. Zufällig befindet sich gerade ein Schiff mit solchen Waffen an Bord in der Nähe. Ein gute Gelegenheit, [QUEST_SENDER] zu imponieren.</Text>
+                      <LastFinalText>Seit langem giert [QUEST_SENDER] nach einer besonderen Waffe – einer Handkanone. Zufällig befindet sich gerade ein Schiff mit solchen Waffen an Bord in der Nähe. Ein gute Gelegenheit, [QUEST_SENDER] zu imponieren.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] has been searching for a specific Weapon for some time: a Handgun. It so happens that there is a Ship nearby with just this type of Weapon on board. What a good opportunity to impress [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] has been searching for a specific Weapon for some time: a Handgun. It so happens that there is a Ship nearby with just this type of Weapon on board. What a good opportunity to impress [QUEST_SENDER].</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] recherche une Arme bien particulière depuis déjà longtemps : un Pistolet. Par pure coïncidence, un Navire transportant ce type d'Arme se trouve non loin d'ici... Sans aucun doute, une opportunité idéale pour impressionner [QUEST_SENDER] !</Text>
+                      <LastFinalText>[QUEST_SENDER] recherche une Arme bien particulière depuis déjà longtemps : un Pistolet. Par pure coïncidence, un Navire transportant ce type d'Arme se trouve non loin d'ici... Sans aucun doute, une opportunité idéale pour impressionner [QUEST_SENDER] !</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] lleva un tiempo buscando un arma en concreto: una pistola. Da la casualidad de que cerca de aquí hay un barco cargado con este tipo de armas. Es una oportunidad de oro para impresionar a [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] lleva un tiempo buscando un arma en concreto: una pistola. Da la casualidad de que cerca de aquí hay un barco cargado con este tipo de armas. Es una oportunidad de oro para impresionar a [QUEST_SENDER].</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] cerca da tempo un'Arma particolare: una Pistola. Sembra che una Nave che si trova nelle vicinanze abbia a bordo proprio quel tipo di Arma. Un'ottima opportunità per fare colpo su [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] cerca da tempo un'Arma particolare: una Pistola. Sembra che una Nave che si trova nelle vicinanze abbia a bordo proprio quel tipo di Arma. Un'ottima opportunità per fare colpo su [QUEST_SENDER].</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] od dłuższego czasu szuka bardzo rzadkiej broni: pistoletu skałkowego. Akurat traf chciał, iż nieopodal przepływa statek, na pokładzie którego znajduje się ta broń. Cóż za wspaniała okazja, [QUEST_SENDER] będzie pod wrażeniem.</Text>
+                      <LastFinalText>[QUEST_SENDER] od dłuższego czasu szuka bardzo rzadkiej broni: pistoletu skałkowego. Akurat traf chciał, iż nieopodal przepływa statek, na pokładzie którego znajduje się ta broń. Cóż za wspaniała okazja, [QUEST_SENDER] będzie pod wrażeniem.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>С давних пор мечтает [QUEST_SENDER] об особенном оружии -- ручной пушке. Случайно поблизости оказался корабль с этим оружием на борту. Отличная возможность порадовать его, [QUEST_SENDER] будет счастлив.</Text>
+                      <LastFinalText>С давних пор мечтает [QUEST_SENDER] об особенном оружии -- ручной пушке. Случайно поблизости оказался корабль с этим оружием на борту. Отличная возможность порадовать его, [QUEST_SENDER] будет счастлив.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>[QUEST_SENDER] už nějakou dobu hledá jednu konkrétní zbraň: revolver. Náhoda tomu chtěla, že se zrovna poblíž nachází loď, která přesně tento typ zbraně převáží na své palubě. To by mohla být dobrá příležitost, jak na postavu jménem [QUEST_SENDER] zapůsobit.</Text>
+                      <LastFinalText>[QUEST_SENDER] už nějakou dobu hledá jednu konkrétní zbraň: revolver. Náhoda tomu chtěla, že se zrovna poblíž nachází loď, která přesně tento typ zbraně převáží na své palubě. To by mohla být dobrá příležitost, jak na postavu jménem [QUEST_SENDER] zapůsobit.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>[QUEST_SENDER] has been searching for a specific Weapon for some time: a Handgun. It so happens that there is a Ship nearby with just this type of Weapon on board. What a good opportunity to impress [QUEST_SENDER].</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>[QUEST_SENDER] lleva un tiempo buscando un arma en concreto: una pistola. Da la casualidad de que cerca de aquí hay un barco cargado con este tipo de armas. Es una oportunidad de oro para impresionar a [QUEST_SENDER].</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>[QUEST_SENDER] recherche une Arme bien particulière depuis déjà longtemps : un Pistolet. Par pure coïncidence, un Navire transportant ce type d'Arme se trouve non loin d'ici... Sans aucun doute, une opportunité idéale pour impressionner [QUEST_SENDER] !</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308180</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Arsenal III</Text>
+                      <LastFinalText>Das Arsenal III</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Arsenal III</Text>
+                      <LastFinalText>The Arsenal III</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Arsenal III</Text>
+                      <LastFinalText>L'Arsenal III</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El arsenal III</Text>
+                      <LastFinalText>El arsenal III</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Arsenale III</Text>
+                      <LastFinalText>L'Arsenale III</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Arsenał III</Text>
+                      <LastFinalText>Arsenał III</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Арсенал III</Text>
+                      <LastFinalText>Арсенал III</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Arzenál III</Text>
+                      <LastFinalText>Arzenál III</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Arsenal III</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El arsenal III</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Arsenal III</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308181</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER]' Arsenal ist bald komplett. Um eine geweihte Blutklinge der Assassinen zu bekommen, ist jedoch ein besonderes Ritual erforderlich. Ein Veteran der Assassinen, der es beherrscht, hält sich in Ihrer Stadt auf. </Text>
+                      <LastFinalText>[QUEST_SENDER]' Arsenal ist bald komplett. Um eine geweihte Blutklinge der Assassinen zu bekommen, ist jedoch ein besonderes Ritual erforderlich. Ein Veteran der Assassinen, der es beherrscht, hält sich in Ihrer Stadt auf. </LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER]'s Arsenal is almost complete. However, before he can receive the Assassins' revered Blood sword, he must perform a certain ritual. A veteran of the Assassins capable of performing that ritual is staying in your City. </Text>
+                      <LastFinalText>[QUEST_SENDER]'s Arsenal is almost complete. However, before he can receive the Assassins' revered Blood sword, he must perform a certain ritual. A veteran of the Assassins capable of performing that ritual is staying in your City. </LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Arsenal amassé par [QUEST_SENDER] est presque complet. Toutefois, avant de pouvoir recevoir la vénérable Épée de Sang des Assassins, il doit accomplir un rituel particulier. Un vétéran des Assassins capable d'effectuer ce rituel séjourne actuellement dans votre Ville... </Text>
+                      <LastFinalText>L'Arsenal amassé par [QUEST_SENDER] est presque complet. Toutefois, avant de pouvoir recevoir la vénérable Épée de Sang des Assassins, il doit accomplir un rituel particulier. Un vétéran des Assassins capable d'effectuer ce rituel séjourne actuellement dans votre Ville... </LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El arsenal de [QUEST_SENDER] está casi completo. No obstante, para poder recibir la venerada espada de sangre de los asesinos, debe realizar un ritual. Un asesino veterano capaz de llevar a cabo la ceremonia se encuentra en tu ciudad. </Text>
+                      <LastFinalText>El arsenal de [QUEST_SENDER] está casi completo. No obstante, para poder recibir la venerada espada de sangre de los asesinos, debe realizar un ritual. Un asesino veterano capaz de llevar a cabo la ceremonia se encuentra en tu ciudad. </LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Arsenale di [QUEST_SENDER] è quasi completo. Comunque, prima che possa ricevere la riverita Spada insanguinata degli Assassini, deve eseguire un rituale. Un Assassino veterano in grado di eseguirlo si trova nella tua Città.</Text>
+                      <LastFinalText>L'Arsenale di [QUEST_SENDER] è quasi completo. Comunque, prima che possa ricevere la riverita Spada insanguinata degli Assassini, deve eseguire un rituale. Un Assassino veterano in grado di eseguirlo si trova nella tua Città.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] już prawie ukończył kolekcjonowanie arsenału. Zanim jednak otrzyma czczony przez asasynów Miecz Krwi, musi wziąć udział w pewnym rytuale. W twoim mieście mieszka weteran asasynów, który potrafi go przeprowadzić.</Text>
+                      <LastFinalText>[QUEST_SENDER] już prawie ukończył kolekcjonowanie arsenału. Zanim jednak otrzyma czczony przez asasynów Miecz Krwi, musi wziąć udział w pewnym rytuale. W twoim mieście mieszka weteran asasynów, który potrafi go przeprowadzić.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>В арсенале, который собрал [QUEST_SENDER] уже почти нет изъянов. Но чтобы заполучить священный кровавый клинок ассасинов требуется особый ритуал. Ветеран-ассасин. который живет в вашем городе, владеет этим ритуалом. </Text>
+                      <LastFinalText>В арсенале, который собрал [QUEST_SENDER] уже почти нет изъянов. Но чтобы заполучить священный кровавый клинок ассасинов требуется особый ритуал. Ветеран-ассасин. который живет в вашем городе, владеет этим ритуалом. </LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Arzenál postavy jménem [QUEST_SENDER] je skoro kompletní. Ještě než ale bude moci získat meč uctívaný vrahouhy, musí vykonat určitý rituál. Veterán, který takový rituál umí, žije ve vašem městě.</Text>
+                      <LastFinalText>Arzenál postavy jménem [QUEST_SENDER] je skoro kompletní. Ještě než ale bude moci získat meč uctívaný vrahouhy, musí vykonat určitý rituál. Veterán, který takový rituál umí, žije ve vašem městě.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>[QUEST_SENDER]'s Arsenal is almost complete. However, before he can receive the Assassins' revered Blood sword, he must perform a certain ritual. A veteran of the Assassins capable of performing that ritual is staying in your City. </LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El arsenal de [QUEST_SENDER] está casi completo. No obstante, para poder recibir la venerada espada de sangre de los asesinos, debe realizar un ritual. Un asesino veterano capaz de llevar a cabo la ceremonia se encuentra en tu ciudad. </LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Arsenal amassé par [QUEST_SENDER] est presque complet. Toutefois, avant de pouvoir recevoir la vénérable Épée de Sang des Assassins, il doit accomplir un rituel particulier. Un vétéran des Assassins capable d'effectuer ce rituel séjourne actuellement dans votre Ville... </LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308182</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Arsenal IV</Text>
+                      <LastFinalText>Das Arsenal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Arsenal IV</Text>
+                      <LastFinalText>The Arsenal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Arsenal IV</Text>
+                      <LastFinalText>L'Arsenal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El arsenal IV</Text>
+                      <LastFinalText>El arsenal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Arsenale IV</Text>
+                      <LastFinalText>L'Arsenale IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Arsenał IV</Text>
+                      <LastFinalText>Arsenał IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Арсенал IV</Text>
+                      <LastFinalText>Арсенал IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Arzenál IV</Text>
+                      <LastFinalText>Arzenál IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Arsenal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El arsenal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Arsenal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5308183</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein letztes Stück orientalischer Kriegskunst soll [QUEST_SENDER]’ Sammlung vervollständigen. Die Korsaren verfügen über eine Ballista, die Giftpfeile auf ihre Feinde regnen lässt. Glücklicherweise kreuzen gerade Korsarenschiffe vor der Küste.</Text>
+                      <LastFinalText>Ein letztes Stück orientalischer Kriegskunst soll [QUEST_SENDER]’ Sammlung vervollständigen. Die Korsaren verfügen über eine Ballista, die Giftpfeile auf ihre Feinde regnen lässt. Glücklicherweise kreuzen gerade Korsarenschiffe vor der Küste.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>A final piece of oriental Warfare will complete [QUEST_SENDER]’s collection. The Corsairs have a Ballista, which rains poison arrows down on the enemy. As luck would have it, Corsair ships are just sailing by the Coast.</Text>
+                      <LastFinalText>A final piece of oriental Warfare will complete [QUEST_SENDER]’s collection. The Corsairs have a Ballista, which rains poison arrows down on the enemy. As luck would have it, Corsair ships are just sailing by the Coast.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Une ultime œuvre de guerre de l'Orient permettra à [QUEST_SENDER] de terminer sa collection. Les Corsaires possèdent une Baliste, qui permet de faire s'abattre une pluie de flèches empoisonnées sur l'ennemi. Quelle chance ! Des Navires de Corsaires voguent justement à proximité de la Côte.</Text>
+                      <LastFinalText>Une ultime œuvre de guerre de l'Orient permettra à [QUEST_SENDER] de terminer sa collection. Les Corsaires possèdent une Baliste, qui permet de faire s'abattre une pluie de flèches empoisonnées sur l'ennemi. Quelle chance ! Des Navires de Corsaires voguent justement à proximité de la Côte.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Una última pieza del arte oriental de la guerra completará la colección de [QUEST_SENDER]. Los corsarios tienen una balista, arma que lanza proyectiles envenenados. Da la casualidad de que hay unos barcos corsarios pasando junto a la costa.</Text>
+                      <LastFinalText>Una última pieza del arte oriental de la guerra completará la colección de [QUEST_SENDER]. Los corsarios tienen una balista, arma que lanza proyectiles envenenados. Da la casualidad de que hay unos barcos corsarios pasando junto a la costa.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Un ultimo pezzo usato nelle Guerre in Oriente completerà la collezione di [QUEST_SENDER]. I Corsari possiedono una Balista che scaglia frecce avvelenate contro il nemico. Fortuna vuole che la Navi corsare stiano navigando vicino la Costa.</Text>
+                      <LastFinalText>Un ultimo pezzo usato nelle Guerre in Oriente completerà la collezione di [QUEST_SENDER]. I Corsari possiedono una Balista che scaglia frecce avvelenate contro il nemico. Fortuna vuole che la Navi corsare stiano navigando vicino la Costa.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] uzna swoją kolekcję za kompletną, gdy tylko zdobędzie cud orientalnej sztuki wojennej. Piraci mają balistę, urządzenie zasypujące wrogów zatrutymi strzałami. Co za zbieg okoliczności, piraci akurat przepływają tuż obok!</Text>
+                      <LastFinalText>[QUEST_SENDER] uzna swoją kolekcję za kompletną, gdy tylko zdobędzie cud orientalnej sztuki wojennej. Piraci mają balistę, urządzenie zasypujące wrogów zatrutymi strzałami. Co za zbieg okoliczności, piraci akurat przepływają tuż obok!</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>[QUEST_SENDER] мечтает, чтобы еще один шедевр восточного искусства украсил его коллекцию. Корсары используют баллисту, осыпающую их врагов отравленными стрелами. По счастью, корсары как раз курсируют вдоль побережья.</Text>
+                      <LastFinalText>[QUEST_SENDER] мечтает, чтобы еще один шедевр восточного искусства украсил его коллекцию. Корсары используют баллисту, осыпающую их врагов отравленными стрелами. По счастью, корсары как раз курсируют вдоль побережья.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>S posledním orientálním válečným kouskem bude sbírka postavy jménem [QUEST_SENDER] kompletní. Korzáří mají balistu, který nepřítele zaplavuje otrávenými šípy. A náhoda tomu chtěla, že jejich lodě zrovna proplouvají kolem pobřeží.</Text>
+                      <LastFinalText>S posledním orientálním válečným kouskem bude sbírka postavy jménem [QUEST_SENDER] kompletní. Korzáří mají balistu, který nepřítele zaplavuje otrávenými šípy. A náhoda tomu chtěla, že jejich lodě zrovna proplouvají kolem pobřeží.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>A final piece of oriental Warfare will complete [QUEST_SENDER]’s collection. The Corsairs have a Ballista, which rains poison arrows down on the enemy. As luck would have it, Corsair ships are just sailing by the Coast.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Una última pieza del arte oriental de la guerra completará la colección de [QUEST_SENDER]. Los corsarios tienen una balista, arma que lanza proyectiles envenenados. Da la casualidad de que hay unos barcos corsarios pasando junto a la costa.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Une ultime œuvre de guerre de l'Orient permettra à [QUEST_SENDER] de terminer sa collection. Les Corsaires possèdent une Baliste, qui permet de faire s'abattre une pluie de flèches empoisonnées sur l'ennemi. Quelle chance ! Des Navires de Corsaires voguent justement à proximité de la Côte.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645016</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>HelperQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>FirstSelection</Name>
+              <GUIDRangeMin>-1001</GUIDRangeMin>
+              <GUIDRangeMax>-1001</GUIDRangeMax>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5308160</GUID>
+                      <Kommentar>Questname</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Raubritter anwerben</Text>
+                          <LastFinalText>Raubritter anwerben</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>Enlist Robber barons</Text>
+                          <LastFinalText>Enlist Robber barons</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>Recrutez des Barons pillards</Text>
+                          <LastFinalText>Recrutez des Barons pillards</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>Reclutar barones ladrones</Text>
+                          <LastFinalText>Reclutar barones ladrones</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>Recluta i Baroni briganti</Text>
+                          <LastFinalText>Recluta i Baroni briganti</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>Zaciąg zbójcerzy</Text>
+                          <LastFinalText>Zaciąg zbójcerzy</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>Вербовка рыцарей-разбойников</Text>
+                          <LastFinalText>Вербовка рыцарей-разбойников</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>Pomoc loupeživých rytířů</Text>
+                          <LastFinalText>Pomoc loupeživých rytířů</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645016</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5308161</GUID>
+                      <Kommentar>Infotext</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Die Bereitstellung bestimmter Waren ermöglicht das Anheuern von Raubrittern.</Text>
+                          <LastFinalText>Die Bereitstellung bestimmter Waren ermöglicht das Anheuern von Raubrittern.</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>The availability of certain Goods will enable you to enlist Robber barons.</Text>
+                          <LastFinalText>The availability of certain Goods will enable you to enlist Robber barons.</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>La disponibilité de certaines Marchandises vous permet de recruter des Barons pillards.</Text>
+                          <LastFinalText>La disponibilité de certaines Marchandises vous permet de recruter des Barons pillards.</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>La disponibilidad de ciertos bienes te permitirá reclutar barones ladrones.</Text>
+                          <LastFinalText>La disponibilidad de ciertos bienes te permitirá reclutar barones ladrones.</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>La disponibilità di alcune Merci permetterà di reclutare i Baroni briganti.</Text>
+                          <LastFinalText>La disponibilità di alcune Merci permetterà di reclutare i Baroni briganti.</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>Dostępność określonych towarów pozwala ci na rekrutowanie zbójcerzy.</Text>
+                          <LastFinalText>Dostępność określonych towarów pozwala ci na rekrutowanie zbójcerzy.</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>Поставка определенных товаров сделает возможным набор рыцарей-разбойников.</Text>
+                          <LastFinalText>Поставка определенных товаров сделает возможным набор рыцарей-разбойников.</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>Díky dostupnosti určitého zboží budete moci naverbovat loupeživé rytíře.</Text>
+                          <LastFinalText>Díky dostupnosti určitého zboží budete moci naverbovat loupeživé rytíře.</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645016</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5308162</GUID>
+                      <Kommentar>Storytext</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[QUEST_SENDER] und seine Mordbuben sind berüchtigte Kämpfer. Binden Sie seine Raubritterburg mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Sorgen Sie dafür, dass die benötigten Waren vor Ort sind, und starten Sie im Gebäudemenü die Truppenausbildung. Wenig später steht Ihnen ein Trupp Raubritter zur Verfügung.</Text>
+                          <LastFinalText>[QUEST_SENDER] und seine Mordbuben sind berüchtigte Kämpfer. Binden Sie seine Raubritterburg mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Sorgen Sie dafür, dass die benötigten Waren vor Ort sind, und starten Sie im Gebäudemenü die Truppenausbildung. Wenig später steht Ihnen ein Trupp Raubritter zur Verfügung.</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>[QUEST_SENDER] and his murderous knaves are notorious fighters. Create a Road connection between the Robber barons' castle and one of your Trade buildings to take advantage of this![CR]Make sure that the required Goods are on site and start training your Troops in the Buildings menu. A Troop of Robber barons will be available to you shortly afterwards.</Text>
+                          <LastFinalText>[QUEST_SENDER] and his murderous knaves are notorious fighters. Create a Road connection between the Robber barons' castle and one of your Trade buildings to take advantage of this![CR]Make sure that the required Goods are on site and start training your Troops in the Buildings menu. A Troop of Robber barons will be available to you shortly afterwards.</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>[QUEST_SENDER] et ses crapules sanguinaires sont de redoutables combattants. Créez une Route entre le Château des Barons pillards et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Assurez-vous que les Marchandises requises sont disponibles et commencez à entraîner vos Troupes dans le menu Bâtiments. Une Troupe de Barons pillards sera alors bientôt à votre disposition.</Text>
+                          <LastFinalText>[QUEST_SENDER] et ses crapules sanguinaires sont de redoutables combattants. Créez une Route entre le Château des Barons pillards et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Assurez-vous que les Marchandises requises sont disponibles et commencez à entraîner vos Troupes dans le menu Bâtiments. Une Troupe de Barons pillards sera alors bientôt à votre disposition.</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>[QUEST_SENDER] y sus feroces sicarios son luchadores reconocidos. ¡Crea un camino de acceso entre el castillo del barón ladrón y uno de tus edificios comerciales para sacarle partido![CR]Asegúrate de tener los bienes necesarios y empieza a entrenar tus tropas yendo al menú Edificios. Enseguida tendrás a tu disposición una tropa de barones ladrones.</Text>
+                          <LastFinalText>[QUEST_SENDER] y sus feroces sicarios son luchadores reconocidos. ¡Crea un camino de acceso entre el castillo del barón ladrón y uno de tus edificios comerciales para sacarle partido![CR]Asegúrate de tener los bienes necesarios y empieza a entrenar tus tropas yendo al menú Edificios. Enseguida tendrás a tu disposición una tropa de barones ladrones.</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER] e i suoi feroci briganti sono famosi guerrieri. Crea una Strada che colleghi il Castello del Barone brigante a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Assicurati che le Merci necessarie siano sul luogo e inizia l'addestramento delle Truppe dal Menu Edifici e presto avrai a disposizione una Truppa di Baroni briganti.</Text>
+                          <LastFinalText>[QUEST_SENDER] e i suoi feroci briganti sono famosi guerrieri. Crea una Strada che colleghi il Castello del Barone brigante a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Assicurati che le Merci necessarie siano sul luogo e inizia l'addestramento delle Truppe dal Menu Edifici e presto avrai a disposizione una Truppa di Baroni briganti.</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>[QUEST_SENDER] i jego morderczy pachołkowie to zaprawieni w bojach wojownicy. Wybuduj drogę pomiędzy zamkiem zbójcerzy a jedną ze swoich budowli handlowych i wykorzystaj to![CR]Upewnij się, że masz na miejscu niezbędne towary i zacznij trenować nowych żołnierzy za pośrednictwem menu budowli. Wkrótce potem przybędzie do ciebie oddział zbójcerzy.</Text>
+                          <LastFinalText>[QUEST_SENDER] i jego morderczy pachołkowie to zaprawieni w bojach wojownicy. Wybuduj drogę pomiędzy zamkiem zbójcerzy a jedną ze swoich budowli handlowych i wykorzystaj to![CR]Upewnij się, że masz na miejscu niezbędne towary i zacznij trenować nowych żołnierzy za pośrednictwem menu budowli. Wkrótce potem przybędzie do ciebie oddział zbójcerzy.</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>[QUEST_SENDER] и его душегубы - внушающие ужас воины. Проведите улицу от крепости рыцарей-разбойников до торговых зданий, только тогда она начнет приносить вам пользу![CR]Позаботьтесь о том, чтобы в крепости были все необходимые товары, и начните обучение воинов в меню здания. Через некоторое время в вашем распоряжении будет отряд рыцарей разбойников.</Text>
+                          <LastFinalText>[QUEST_SENDER] и его душегубы - внушающие ужас воины. Проведите улицу от крепости рыцарей-разбойников до торговых зданий, только тогда она начнет приносить вам пользу![CR]Позаботьтесь о том, чтобы в крепости были все необходимые товары, и начните обучение воинов в меню здания. Через некоторое время в вашем распоряжении будет отряд рыцарей разбойников.</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>[QUEST_SENDER] a jeho kumpáni jsou notoricky známí lotři. Využijte toho a vybudujte mezi hradem loupeživých rytířů a jednou z vašich obchodních budov cestu![CR]Postarejte se o to, aby požadované zboží bylo na místě, a s výcvikem vojáků započněte v nabídce budov. Krátce poté budete mít k dispozici oddíl loupeživých rytířů.</Text>
+                          <LastFinalText>[QUEST_SENDER] a jeho kumpáni jsou notoricky známí lotři. Využijte toho a vybudujte mezi hradem loupeživých rytířů a jednou z vašich obchodních budov cestu![CR]Postarejte se o to, aby požadované zboží bylo na místě, a s výcvikem vojáků započněte v nabídce budov. Krátce poté budete mít k dispozici oddíl loupeživých rytířů.</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645016</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Character Audio</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Barnabas</Sprecher>
+                      <Intonation>barsch</Intonation>
+                    </Sound>
+                    <Standard>
+                      <GUID>5308163</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Meine Mordbuben willst du haben? Pah! Aber nicht, ohne dass du was springen lässt!</Text>
+                          <LastFinalText>Meine Mordbuben willst du haben? Pah! Aber nicht, ohne dass du was springen lässt!</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>You want my murderous knaves? Pah! Only if you fork out for them!</Text>
+                          <LastFinalText>You want my murderous knaves? Pah! Only if you fork out for them!</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>Vous voulez l'aide de mes crapules sanguinaires ? Pah ! Seulement si vous allongez l'argent !</Text>
+                          <LastFinalText>Vous voulez l'aide de mes crapules sanguinaires ? Pah ! Seulement si vous allongez l'argent !</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>¿Quieres a mis feroces sicarios? ¡Bah! ¡Solo si aflojas la pasta!</Text>
+                          <LastFinalText>¿Quieres a mis feroces sicarios? ¡Bah! ¡Solo si aflojas la pasta!</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>Vuoi i miei feroci briganti? Bah! Solo se sborsi un bel po' di quattrini!</Text>
+                          <LastFinalText>Vuoi i miei feroci briganti? Bah! Solo se sborsi un bel po' di quattrini!</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>Chcesz moich morderców? Pfff! Tylko jeśli wykaszlesz za nich złoto!</Text>
+                          <LastFinalText>Chcesz moich morderców? Pfff! Tylko jeśli wykaszlesz za nich złoto!</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>Значит, тебе нужны мои душегубы? Пхе! Впрочем, ничего особенного!</Text>
+                          <LastFinalText>Значит, тебе нужны мои душегубы? Пхе! Впрочем, ничего особенного!</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>Vy toužíte po mých krvelačných kumpánech? Heh! Ledaže byste za ně vysolil pěkný balík!</Text>
+                          <LastFinalText>Vy toužíte po mých krvelačných kumpánech? Heh! Ledaže byste za ně vysolil pěkný balík!</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645016</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>CharacterText</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Barnabas</Sprecher>
+                    </Sound>
+                    <Standard>
+                      <GUID>5308164</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Wenn Sie für die Ausbildung aufkommen, ist [THIRDPARTY_SENDER_PLAYER] bereit, Ihnen einige Männer zur Verfügung zu stellen.</Text>
+                          <LastFinalText>Wenn Sie für die Ausbildung aufkommen, ist [THIRDPARTY_SENDER_PLAYER] bereit, Ihnen einige Männer zur Verfügung zu stellen.</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] is prepared to give you some men if you pay for their training.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is prepared to give you some men if you pay for their training.</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] est prêt à vous confier ses hommes si vous financez leur entraînement.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est prêt à vous confier ses hommes si vous financez leur entraînement.</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] está dispuesto a darte algunos hombres si pagas por su entrenamiento.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está dispuesto a darte algunos hombres si pagas por su entrenamiento.</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] è pronto a darti degli uomini se paghi per il loro addestramento.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è pronto a darti degli uomini se paghi per il loro addestramento.</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] może oddać ci swoich ludzi, jeśli tylko zapłacisz za ich szkolenie.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] może oddać ci swoich ludzi, jeśli tylko zapłacisz za ich szkolenie.</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>Если позаботитесь об их образовании, [THIRDPARTY_SENDER_PLAYER] готов предоставить нескольких человек в ваше распоряжение.</Text>
+                          <LastFinalText>Если позаботитесь об их образовании, [THIRDPARTY_SENDER_PLAYER] готов предоставить нескольких человек в ваше распоряжение.</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] vám rád poskytne svoje muže, pokud zaplatíte za jejich výcvik.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám rád poskytne svoje muže, pokud zaplatíte za jejich výcvik.</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645016</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

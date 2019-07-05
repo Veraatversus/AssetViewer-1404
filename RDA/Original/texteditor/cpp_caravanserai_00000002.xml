@@ -1,0 +1,3124 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Profil</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5300020</GUID>
+              <Kommentar>FUNCTION_INVITATION_ACCEPTED</Kommentar>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] schickt seine Kamele los.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] schickt seine Kamele los.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] sends off his Camels.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] sends off his Camels.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] envoie ses Chameaux.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] envoie ses Chameaux.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] manda a sus camellos.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] manda a sus camellos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fa partire i suoi Cammelli.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fa partire i suoi Cammelli.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wysyła swoje wielbłądy.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wysyła swoje wielbłądy.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] отправляет своего верблюда.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] отправляет своего верблюда.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] posílá své velbloudy.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] posílá své velbloudy.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645002</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5300021</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_COOLDOWN</Kommentar>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erbittet etwas Zeit, damit sich seine Kamele ausruhen können. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] erbittet etwas Zeit, damit sich seine Kamele ausruhen können. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] asks for some time so his Camels may rest. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] asks for some time so his Camels may rest. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous demande de laisser ses Chameaux se reposer. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous demande de laisser ses Chameaux se reposer. </LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] pide tiempo para que sus camellos descansen. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] pide tiempo para que sus camellos descansen. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chiede del tempo per fare riposare i suoi Cammelli.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chiede del tempo per fare riposare i suoi Cammelli.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] prosi o trochę czasu, jego wielbłądy muszą odpocząć.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] prosi o trochę czasu, jego wielbłądy muszą odpocząć.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] просит немного времени, чтобы дать отдохнуть верблюдам. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] просит немного времени, чтобы дать отдохнуть верблюдам. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chce trochu času, aby si jeho velbloudi mohli odpočinout.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chce trochu času, aby si jeho velbloudi mohli odpočinout.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645002</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5300022</GUID>
+              <Kommentar>FUNCTION_RUNNING</Kommentar>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]s Karawane ist bereits auf dem Weg.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]s Karawane ist bereits auf dem Weg.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]'s caravan is on the way.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]'s caravan is on the way.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>La Caravane de [THIRDPARTY_SENDER_PLAYER] est en route.</Text>
+                  <LastFinalText>La Caravane de [THIRDPARTY_SENDER_PLAYER] est en route.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La caravana de [THIRDPARTY_SENDER_PLAYER] está en camino.</Text>
+                  <LastFinalText>La caravana de [THIRDPARTY_SENDER_PLAYER] está en camino.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La carovana di [THIRDPARTY_SENDER_PLAYER] è in cammino.</Text>
+                  <LastFinalText>La carovana di [THIRDPARTY_SENDER_PLAYER] è in cammino.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Wyruszyła karawana, na czele której stoi [THIRDPARTY_SENDER_PLAYER].</Text>
+                  <LastFinalText>Wyruszyła karawana, na czele której stoi [THIRDPARTY_SENDER_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] отправил караван в путь.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] отправил караван в путь.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Czech>
+                  <Text>Karavana postavy jménem [THIRDPARTY_SENDER_PLAYER] je na cestě.</Text>
+                  <LastFinalText>Karavana postavy jménem [THIRDPARTY_SENDER_PLAYER] je na cestě.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645002</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>StandardQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300024</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] benötigt exotische Waren für diverse Beduinenfürsten. Insbesondere Hanf aus dem Okzident und der vorzügliche gesalzene Fisch stehen hoch im Kurs. </Text>
+                      <LastFinalText>[QUEST_SENDER] benötigt exotische Waren für diverse Beduinenfürsten. Insbesondere Hanf aus dem Okzident und der vorzügliche gesalzene Fisch stehen hoch im Kurs. </LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER]у нужны экзотические товары для вождей бедуинов. Особенно ценятся западная конопля и соленая рыба. </Text>
+                      <LastFinalText>[QUEST_SENDER]у нужны экзотические товары для вождей бедуинов. Особенно ценятся западная конопля и соленая рыба. </LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300025</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Handel mit den Beduinen</Text>
+                      <LastFinalText>Handel mit den Beduinen</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Trade with the Bedouins</Text>
+                      <LastFinalText>Trade with the Bedouins</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Commerce avec les Bédouins</Text>
+                      <LastFinalText>Commerce avec les Bédouins</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Comercio con los beduinos</Text>
+                      <LastFinalText>Comercio con los beduinos</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Commerciare con i Beduini</Text>
+                      <LastFinalText>Commerciare con i Beduini</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Handel z Beduinami</Text>
+                      <LastFinalText>Handel z Beduinami</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Торговля с бедуинами</Text>
+                      <LastFinalText>Торговля с бедуинами</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Obchodování s beduíny</Text>
+                      <LastFinalText>Obchodování s beduíny</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Trade with the Bedouins</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Comercio con los beduinos</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Commerce avec les Bédouins</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300027</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] versprach dem Sultan vollmundig, jegliche Ware aus dem Okzident zu niedrigen Preisen beschaffen zu können. Leider fehlen ihm jetzt große Warenmengen. Helfen Sie ihm!</Text>
+                      <LastFinalText>[QUEST_SENDER] versprach dem Sultan vollmundig, jegliche Ware aus dem Okzident zu niedrigen Preisen beschaffen zu können. Leider fehlen ihm jetzt große Warenmengen. Helfen Sie ihm!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] пообещал султану, что будет доставлять ему лучшие товары Запада по самым низким ценам. К сожалению, многих товаров у него просто нет. Помогите ему!</Text>
+                      <LastFinalText>[QUEST_SENDER] пообещал султану, что будет доставлять ему лучшие товары Запада по самым низким ценам. К сожалению, многих товаров у него просто нет. Помогите ему!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300028</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Vollmundige Versprechungen</Text>
+                      <LastFinalText>Vollmundige Versprechungen</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Talk is cheap</Text>
+                      <LastFinalText>Talk is cheap</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Parler ne coûte rien</Text>
+                      <LastFinalText>Parler ne coûte rien</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Hablar es fácil</Text>
+                      <LastFinalText>Hablar es fácil</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Tra il dire e il fare... </Text>
+                      <LastFinalText>Tra il dire e il fare... </LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Słowa niewiele warte</Text>
+                      <LastFinalText>Słowa niewiele warte</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Вкусные обещания</Text>
+                      <LastFinalText>Вкусные обещания</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Za zeptání člověk nic nedá</Text>
+                      <LastFinalText>Za zeptání člověk nic nedá</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Talk is cheap</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Hablar es fácil</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Parler ne coûte rien</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300030</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] ist zu Ohren gekommen, dass ein Handelsschiff mit wertvollen Waren in Seenot ist. Würden Sie [QUEST_SENDER] für einen guten Preis das Treibgut besorgen?</Text>
+                      <LastFinalText>[QUEST_SENDER] ist zu Ohren gekommen, dass ein Handelsschiff mit wertvollen Waren in Seenot ist. Würden Sie [QUEST_SENDER] für einen guten Preis das Treibgut besorgen?</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] прослышал, что в море терпит бедствие торговый корабль с ценными товарами. Может быть, вы согласитесь за приличное вознаграждение доставить [QUEST_SENDER]у упавшие в море товары?</Text>
+                      <LastFinalText>[QUEST_SENDER] прослышал, что в море терпит бедствие торговый корабль с ценными товарами. Может быть, вы согласитесь за приличное вознаграждение доставить [QUEST_SENDER]у упавшие в море товары?</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300031</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Treibende Schätze</Text>
+                      <LastFinalText>Treibende Schätze</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Floating Treasures</Text>
+                      <LastFinalText>Floating Treasures</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Trésors flottants</Text>
+                      <LastFinalText>Trésors flottants</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Tesoros flotantes</Text>
+                      <LastFinalText>Tesoros flotantes</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Tesori galleggianti</Text>
+                      <LastFinalText>Tesori galleggianti</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Pływające skarby</Text>
+                      <LastFinalText>Pływające skarby</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Бегущие сокровища</Text>
+                      <LastFinalText>Бегущие сокровища</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Plovoucí poklady</Text>
+                      <LastFinalText>Plovoucí poklady</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Floating Treasures</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Tesoros flotantes</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Trésors flottants</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300033</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>So gut [QUEST_SENDER] als Verkäufer und Händler auch ist, mit Schiffen kennt er sich nicht aus. Zwei Stammkunden schwätzte er ein Schiff auf, das leckschlug. Retten Sie die Kunden!</Text>
+                      <LastFinalText>So gut [QUEST_SENDER] als Verkäufer und Händler auch ist, mit Schiffen kennt er sich nicht aus. Zwei Stammkunden schwätzte er ein Schiff auf, das leckschlug. Retten Sie die Kunden!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] замечательный, очень опытный торговец, но вот с кораблями обращаться он совсем не умеет. Он навязал двум постоянным клиентам корабль, который дал течь. Спасите клиентов!</Text>
+                      <LastFinalText>[QUEST_SENDER] замечательный, очень опытный торговец, но вот с кораблями обращаться он совсем не умеет. Он навязал двум постоянным клиентам корабль, который дал течь. Спасите клиентов!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300034</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das marode Schiff</Text>
+                      <LastFinalText>Das marode Schiff</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The ramshackle Ship</Text>
+                      <LastFinalText>The ramshackle Ship</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Le navire délabré</Text>
+                      <LastFinalText>Le navire délabré</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El barco destartalado</Text>
+                      <LastFinalText>El barco destartalado</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave decrepita</Text>
+                      <LastFinalText>La Nave decrepita</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Rozklekotany statek</Text>
+                      <LastFinalText>Rozklekotany statek</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Утомленный корабль</Text>
+                      <LastFinalText>Утомленный корабль</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Polorozpadlá loď</Text>
+                      <LastFinalText>Polorozpadlá loď</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The ramshackle Ship</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El barco destartalado</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Le navire délabré</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300036</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Auf dem Landweg hat [QUEST_SENDER] die Handelsrouten und Wegelagerer weitestgehend im Griff. Schwierig ist der Transport übers Meer. Korsarenübergriffe häufen sich. Eskortieren Sie sein Handelsschiff.</Text>
+                      <LastFinalText>Auf dem Landweg hat [QUEST_SENDER] die Handelsrouten und Wegelagerer weitestgehend im Griff. Schwierig ist der Transport übers Meer. Korsarenübergriffe häufen sich. Eskortieren Sie sein Handelsschiff.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>На земле у [QUEST_SENDER]а проложены прекрасные, надежные торговые маршруты. Гораздо труднее с передвижением по морю. Корабли повсюду подстерегают корсары. Эскортируйте его торговый корабль.</Text>
+                      <LastFinalText>На земле у [QUEST_SENDER]а проложены прекрасные, надежные торговые маршруты. Гораздо труднее с передвижением по морю. Корабли повсюду подстерегают корсары. Эскортируйте его торговый корабль.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300037</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Geleitschutz</Text>
+                      <LastFinalText>Geleitschutz</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Escort</Text>
+                      <LastFinalText>Escort</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L’escorte</Text>
+                      <LastFinalText>L’escorte</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Escolta</Text>
+                      <LastFinalText>Escolta</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Scorta</Text>
+                      <LastFinalText>Scorta</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Eskorta</Text>
+                      <LastFinalText>Eskorta</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Сопровождение</Text>
+                      <LastFinalText>Сопровождение</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Doprovod</Text>
+                      <LastFinalText>Doprovod</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Escort</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Escolta</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L’escorte</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300039</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat einem Konkurrenten einen sicher geglaubten Auftrag vor der Nase weggeschnappt. Nun fürchtet er die Rache des Händlers. Schützen Sie Schiff und Fracht vor möglichen Angriffen!</Text>
+                      <LastFinalText>[QUEST_SENDER] hat einem Konkurrenten einen sicher geglaubten Auftrag vor der Nase weggeschnappt. Nun fürchtet er die Rache des Händlers. Schützen Sie Schiff und Fracht vor möglichen Angriffen!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] перехватил под носом у конкурента верную сделку. Теперь он очень боится гнева торговца. Вам придется защитить корабль и груз от возможной атаки!</Text>
+                      <LastFinalText>[QUEST_SENDER] перехватил под носом у конкурента верную сделку. Теперь он очень боится гнева торговца. Вам придется защитить корабль и груз от возможной атаки!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300040</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Rivalisierende Händler</Text>
+                      <LastFinalText>Rivalisierende Händler</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Rival Traders</Text>
+                      <LastFinalText>Rival Traders</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Les marchands du fleuve</Text>
+                      <LastFinalText>Les marchands du fleuve</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Comerciantes rivales</Text>
+                      <LastFinalText>Comerciantes rivales</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Commercianti rivali</Text>
+                      <LastFinalText>Commercianti rivali</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Konkurencja</Text>
+                      <LastFinalText>Konkurencja</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Торговец-конкурент</Text>
+                      <LastFinalText>Торговец-конкурент</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Soupeřící obchodníci</Text>
+                      <LastFinalText>Soupeřící obchodníci</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Rival Traders</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Comerciantes rivales</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Les marchands du fleuve</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300042</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die marodierenden Korsaren haben wieder einmal ein Handelsschiff [QUEST_SENDER]s geplündert. Er bittet Sie, die Laderäume seines Schiffes wieder aufzufüllen, damit er den Auftrag fristgerecht ausführen kann.</Text>
+                      <LastFinalText>Die marodierenden Korsaren haben wieder einmal ein Handelsschiff [QUEST_SENDER]s geplündert. Er bittet Sie, die Laderäume seines Schiffes wieder aufzufüllen, damit er den Auftrag fristgerecht ausführen kann.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Проклятые корсары снова ограбили корабль [QUEST_SENDER]а. Он просит вас заново загрузить трюмы его корабля, чтобы в срок выполнить данное ему поручение.</Text>
+                      <LastFinalText>Проклятые корсары снова ограбили корабль [QUEST_SENDER]а. Он просит вас заново загрузить трюмы его корабля, чтобы в срок выполнить данное ему поручение.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300043</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Termingeschäfte</Text>
+                      <LastFinalText>Termingeschäfte</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Deadline</Text>
+                      <LastFinalText>Deadline</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>La date limite</Text>
+                      <LastFinalText>La date limite</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Plazo de entrega</Text>
+                      <LastFinalText>Plazo de entrega</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Scadenza</Text>
+                      <LastFinalText>Scadenza</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Ostateczny termin</Text>
+                      <LastFinalText>Ostateczny termin</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Особые сделки</Text>
+                      <LastFinalText>Особые сделки</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Konečný termín</Text>
+                      <LastFinalText>Konečný termín</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Deadline</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Plazo de entrega</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>La date limite</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300045</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Spion, der einem skrupellosen Konkurrenten [QUEST_SENDER]s immer wieder Handelsrouten und Warenmengen verrät, ist in Ihrer Stadt gesichtet worden. Finden Sie ihn und bringen ihn zu [QUEST_SENDER].</Text>
+                      <LastFinalText>Ein Spion, der einem skrupellosen Konkurrenten [QUEST_SENDER]s immer wieder Handelsrouten und Warenmengen verrät, ist in Ihrer Stadt gesichtet worden. Finden Sie ihn und bringen ihn zu [QUEST_SENDER].</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>В вашем городе видели шпиона, который докладывает конкурентам о торговых маршрутах и товарах [QUEST_SENDER]а. Найдите его и доставьте к [QUEST_SENDER]у.</Text>
+                      <LastFinalText>В вашем городе видели шпиона, который докладывает конкурентам о торговых маршрутах и товарах [QUEST_SENDER]а. Найдите его и доставьте к [QUEST_SENDER]у.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300046</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Warenflüsterer</Text>
+                      <LastFinalText>Der Warenflüsterer</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Goods whisperer</Text>
+                      <LastFinalText>The Goods whisperer</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Le chuchoteur</Text>
+                      <LastFinalText>Le chuchoteur</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El susurrador de bienes</Text>
+                      <LastFinalText>El susurrador de bienes</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Chi sussurrava alle Merci</Text>
+                      <LastFinalText>Chi sussurrava alle Merci</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Zaklinacz dóbr</Text>
+                      <LastFinalText>Zaklinacz dóbr</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Шептун</Text>
+                      <LastFinalText>Шептун</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Pomlouvač zboží</Text>
+                      <LastFinalText>Pomlouvač zboží</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Goods whisperer</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El susurrador de bienes</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Le chuchoteur</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300048</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Nach den immer häufiger werdenden Übergriffen der letzten Zeit ist das Maß für [QUEST_SENDER] voll. Er bittet Sie, für einen guten Preis diese Heuschrecken der Meere zu jagen.</Text>
+                      <LastFinalText>Nach den immer häufiger werdenden Übergriffen der letzten Zeit ist das Maß für [QUEST_SENDER] voll. Er bittet Sie, für einen guten Preis diese Heuschrecken der Meere zu jagen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>За последнее время корсары столько раз нападали на корабли [QUEST_SENDER]а, что чаша его терпения переполнилась. Он просит вас, разумеется, за соответствующее вознаграждение, покончить с этой морской саранчой.</Text>
+                      <LastFinalText>За последнее время корсары столько раз нападали на корабли [QUEST_SENDER]а, что чаша его терпения переполнилась. Он просит вас, разумеется, за соответствующее вознаграждение, покончить с этой морской саранчой.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300049</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Heuschrecken der Meere</Text>
+                      <LastFinalText>Heuschrecken der Meere</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Ocean raiders</Text>
+                      <LastFinalText>Ocean raiders</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Les pillards des mers</Text>
+                      <LastFinalText>Les pillards des mers</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Asaltantes del océano</Text>
+                      <LastFinalText>Asaltantes del océano</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Predatori dell'oceano</Text>
+                      <LastFinalText>Predatori dell'oceano</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Łupieżcy oceanów</Text>
+                      <LastFinalText>Łupieżcy oceanów</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Океанская саранча</Text>
+                      <LastFinalText>Океанская саранча</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Mořští vlci</Text>
+                      <LastFinalText>Mořští vlci</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Ocean raiders</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Asaltantes del océano</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Les pillards des mers</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300051</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Sie haben die Töchter eines orientalischen Edelmannes gerettet. Wenn Sie sie zu [QUEST_SENDER] bringen, könnten diese seine Verhandlungsposition bei Geschäften mit dem Vater deutlich verbessern. Es soll Ihr Schaden nicht sein!</Text>
+                      <LastFinalText>Sie haben die Töchter eines orientalischen Edelmannes gerettet. Wenn Sie sie zu [QUEST_SENDER] bringen, könnten diese seine Verhandlungsposition bei Geschäften mit dem Vater deutlich verbessern. Es soll Ihr Schaden nicht sein!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Вы спасли дочь восточного вельможи! Если вы доставите ее [QUEST_SENDER]у, он сможет существенно улучшить условия сделки с ее отцом. И ничего позорного в этом нет!</Text>
+                      <LastFinalText>Вы спасли дочь восточного вельможи! Если вы доставите ее [QUEST_SENDER]у, он сможет существенно улучшить условия сделки с ее отцом. И ничего позорного в этом нет!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300054</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Kisten stammen von einem reich beladenen Handelsschiff aus Fernost. [QUEST_SENDER] ist sehr an den besonderen Waren interessiert und wird Ihnen ein Angebot machen, das Sie kaum ablehnen können.</Text>
+                      <LastFinalText>Die Kisten stammen von einem reich beladenen Handelsschiff aus Fernost. [QUEST_SENDER] ist sehr an den besonderen Waren interessiert und wird Ihnen ein Angebot machen, das Sie kaum ablehnen können.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Эти ящики - с тяжело груженого торгового судна с Дальнего Востока. [QUEST_SENDER] очень интересуется определенными товарами и собирается сделать вам предложение, от которого вы не сможете отказаться.</Text>
+                      <LastFinalText>Эти ящики - с тяжело груженого торгового судна с Дальнего Востока. [QUEST_SENDER] очень интересуется определенными товарами и собирается сделать вам предложение, от которого вы не сможете отказаться.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300055</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ware aus Fernost</Text>
+                      <LastFinalText>Ware aus Fernost</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Goos from the Far East</Text>
+                      <LastFinalText>Goos from the Far East</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Viscosités d’Extrême Orient</Text>
+                      <LastFinalText>Viscosités d’Extrême Orient</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Bienes del Lejano Oriente</Text>
+                      <LastFinalText>Bienes del Lejano Oriente</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Merci dal lontano Oriente</Text>
+                      <LastFinalText>Merci dal lontano Oriente</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Galaretka z Dalekiego Wschodu</Text>
+                      <LastFinalText>Galaretka z Dalekiego Wschodu</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Товары с Дальнего Востока</Text>
+                      <LastFinalText>Товары с Дальнего Востока</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Zboží z dálného východu</Text>
+                      <LastFinalText>Zboží z dálného východu</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Goos from the Far East</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Bienes del Lejano Oriente</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Viscosités d’Extrême Orient</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300057</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Sie sind auf die Überreste eines lang vermissten Handelsschiffs von [QUEST_SENDER] getroffen. Bringen Sie ihm die Trümmer und damit Gewissheit ob des Verlustes des Schiffes!</Text>
+                      <LastFinalText>Sie sind auf die Überreste eines lang vermissten Handelsschiffs von [QUEST_SENDER] getroffen. Bringen Sie ihm die Trümmer und damit Gewissheit ob des Verlustes des Schiffes!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>Вы наткнулись на обломки давно пропавшего корабля [QUEST_SENDER]а. Доставьте их ему, чтобы у него не оставалось никаких сомнений в судьбе корабля!</Text>
+                      <LastFinalText>Вы наткнулись на обломки давно пропавшего корабля [QUEST_SENDER]а. Доставьте их ему, чтобы у него не оставалось никаких сомнений в судьбе корабля!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300058</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Wrackteile</Text>
+                      <LastFinalText>Wrackteile</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Pieces of a wreck</Text>
+                      <LastFinalText>Pieces of a wreck</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Morceaux d’épave</Text>
+                      <LastFinalText>Morceaux d’épave</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Restos de un naufragio</Text>
+                      <LastFinalText>Restos de un naufragio</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Parti di un relitto</Text>
+                      <LastFinalText>Parti di un relitto</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Kawałki wraku</Text>
+                      <LastFinalText>Kawałki wraku</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Обломки корабля</Text>
+                      <LastFinalText>Обломки корабля</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Pozůstatky vraku</Text>
+                      <LastFinalText>Pozůstatky vraku</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Pieces of a wreck</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Restos de un naufragio</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Morceaux d’épave</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300060</GUID>
+                  <Version>Patch02</Version>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] möchte neue und schnellere Handelsrouten erschließen. Er bittet Sie, eine Expedition zu einer Insel zu starten und für Ihn zu kartographieren. Sie wissen ja: [QUEST_SENDER] zahlt gut!</Text>
+                      <LastFinalText>[QUEST_SENDER] möchte neue und schnellere Handelsrouten erschließen. Er bittet Sie, eine Expedition zu einer Insel zu starten und für Ihn zu kartographieren. Sie wissen ja: [QUEST_SENDER] zahlt gut!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] хочет проложить новые торговые маршруты. Он просит вас снарядить экспедицию к одному острову и подготовить подробную карту тех мест. Вы ведь знаете: [QUEST_SENDER] отлично платит!</Text>
+                      <LastFinalText>[QUEST_SENDER] хочет проложить новые торговые маршруты. Он просит вас снарядить экспедицию к одному острову и подготовить подробную карту тех мест. Вы ведь знаете: [QUEST_SENDER] отлично платит!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300061</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Neue Wege</Text>
+                      <LastFinalText>Neue Wege</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>New Paths</Text>
+                      <LastFinalText>New Paths</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Nouvelles voies</Text>
+                      <LastFinalText>Nouvelles voies</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Nuevas rutas</Text>
+                      <LastFinalText>Nuevas rutas</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Nuovi sentieri</Text>
+                      <LastFinalText>Nuovi sentieri</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Nowe ścieżki</Text>
+                      <LastFinalText>Nowe ścieżki</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Новые пути</Text>
+                      <LastFinalText>Новые пути</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Nové cesty</Text>
+                      <LastFinalText>Nové cesty</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>New Paths</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Nuevas rutas</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Nouvelles voies</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300063</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat einen Architekten aus dem Abendland bestellt, um seine Karawanserei auszubauen und sicherer zu machen. Leider ist das Schiff bei der Überfahrt gesunken. Suchen Sie den Architekten und bringen ihn an sein Ziel.</Text>
+                      <LastFinalText>[QUEST_SENDER] hat einen Architekten aus dem Abendland bestellt, um seine Karawanserei auszubauen und sicherer zu machen. Leider ist das Schiff bei der Überfahrt gesunken. Suchen Sie den Architekten und bringen ihn an sein Ziel.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] has commissioned an Architect from the Occident to upgrade and fortify his Caravanserai. Unfortunately, the Ship sank during the crossing. Can you find the Architect and bring him safely to his destination?</Text>
+                      <LastFinalText>[QUEST_SENDER] has commissioned an Architect from the Occident to upgrade and fortify his Caravanserai. Unfortunately, the Ship sank during the crossing. Can you find the Architect and bring him safely to his destination?</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] a confié à un Architecte de l'Occident la tâche d'améliorer et fortifier son Caravanserai. Malheureusement, le Navire transportant l'Architecte a sombré durant la traversée. Pouvez-vous retrouver l'Architecte et l'escorter jusqu'à sa destination ?</Text>
+                      <LastFinalText>[QUEST_SENDER] a confié à un Architecte de l'Occident la tâche d'améliorer et fortifier son Caravanserai. Malheureusement, le Navire transportant l'Architecte a sombré durant la traversée. Pouvez-vous retrouver l'Architecte et l'escorter jusqu'à sa destination ?</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] le ha encargado a un arquitecto occidental que mejore y fortifique su caravasar. Por desgracia, el barco se hundió durante la travesía. ¿Puedes buscar al arquitecto y llevarlo sano y salvo a su destino?</Text>
+                      <LastFinalText>[QUEST_SENDER] le ha encargado a un arquitecto occidental que mejore y fortifique su caravasar. Por desgracia, el barco se hundió durante la travesía. ¿Puedes buscar al arquitecto y llevarlo sano y salvo a su destino?</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] ha incaricato un Architetto dall'Occidente di migliorare e fortificare il suo Caravanserraglio. Sfortunatamente la Nave è affondata durante la traversata. Puoi trovare l'Architetto e portarlo sano e salvo a destinazione?</Text>
+                      <LastFinalText>[QUEST_SENDER] ha incaricato un Architetto dall'Occidente di migliorare e fortificare il suo Caravanserraglio. Sfortunatamente la Nave è affondata durante la traversata. Puoi trovare l'Architetto e portarlo sano e salvo a destinazione?</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] zamówił usługi u orientalnego architekta, który miał ulepszyć i ufortyfikować jego kawaranseraj. Niestety statek zatonął podczas przeprawy. Czy możesz odszukać architekta i odeskortować go bezpiecznie do celu?</Text>
+                      <LastFinalText>[QUEST_SENDER] zamówił usługi u orientalnego architekta, który miał ulepszyć i ufortyfikować jego kawaranseraj. Niestety statek zatonął podczas przeprawy. Czy możesz odszukać architekta i odeskortować go bezpiecznie do celu?</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>[QUEST_SENDER] нанял архитектора с Запада, чтобы тот укрепил караван-сарай и сделал его безопаснее. К сожалению, корабль затонул. Найдите архитектора и привезите его на место.</Text>
+                      <LastFinalText>[QUEST_SENDER] нанял архитектора с Запада, чтобы тот укрепил караван-сарай и сделал его безопаснее. К сожалению, корабль затонул. Найдите архитектора и привезите его на место.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>[QUEST_SENDER] pověřil architekta ze Západu, aby vylepšil a opevnil jeho karavanseráj. Loď se bohužel během přeplavby potopila. Najdete toho architekta a zajistíte mu bezpečnou cestu na místo určení?</Text>
+                      <LastFinalText>[QUEST_SENDER] pověřil architekta ze Západu, aby vylepšil a opevnil jeho karavanseráj. Loď se bohužel během přeplavby potopila. Najdete toho architekta a zajistíte mu bezpečnou cestu na místo určení?</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>[QUEST_SENDER] has commissioned an Architect from the Occident to upgrade and fortify his Caravanserai. Unfortunately, the Ship sank during the crossing. Can you find the Architect and bring him safely to his destination?</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>[QUEST_SENDER] le ha encargado a un arquitecto occidental que mejore y fortifique su caravasar. Por desgracia, el barco se hundió durante la travesía. ¿Puedes buscar al arquitecto y llevarlo sano y salvo a su destino?</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>[QUEST_SENDER] a confié à un Architecte de l'Occident la tâche d'améliorer et fortifier son Caravanserai. Malheureusement, le Navire transportant l'Architecte a sombré durant la traversée. Pouvez-vous retrouver l'Architecte et l'escorter jusqu'à sa destination ?</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300064</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ausbau der Karawanserei I</Text>
+                      <LastFinalText>Ausbau der Karawanserei I</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The expansion of the Caravanserai I</Text>
+                      <LastFinalText>The expansion of the Caravanserai I</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'expansion du Caravanserai I</Text>
+                      <LastFinalText>L'expansion du Caravanserai I</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>La expansión del caravasar I</Text>
+                      <LastFinalText>La expansión del caravasar I</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'ampliamento del Caravanserraglio I</Text>
+                      <LastFinalText>L'ampliamento del Caravanserraglio I</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Rozbudowa karawanseraju I</Text>
+                      <LastFinalText>Rozbudowa karawanseraju I</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Улучшение караван-сарая I</Text>
+                      <LastFinalText>Улучшение караван-сарая I</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Rozšíření karavanseráje I</Text>
+                      <LastFinalText>Rozšíření karavanseráje I</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The expansion of the Caravanserai I</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>La expansión del caravasar I</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'expansion du Caravanserai I</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300066</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Architekt fühlt sich unter den Fremden nicht sicher. Entnervt gibt [QUEST_SENDER] Ihnen den Auftrag, einen Ritter aus Ihrer Stadt zum Schutz des Architekten zu suchen.</Text>
+                      <LastFinalText>Der Architekt fühlt sich unter den Fremden nicht sicher. Entnervt gibt [QUEST_SENDER] Ihnen den Auftrag, einen Ritter aus Ihrer Stadt zum Schutz des Architekten zu suchen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Architect feels uneasy among so many foreigners. [QUEST_SENDER] is anxious and assigns you the task of finding a Knight in your City to protect the Architect.</Text>
+                      <LastFinalText>The Architect feels uneasy among so many foreigners. [QUEST_SENDER] is anxious and assigns you the task of finding a Knight in your City to protect the Architect.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Architecte se sent mal à l'aise parmi tant d'étrangers. [QUEST_SENDER] est anxieux et vous confie la tâche de trouver un Chevalier dans votre Ville afin de veiller sur l'Architecte.</Text>
+                      <LastFinalText>L'Architecte se sent mal à l'aise parmi tant d'étrangers. [QUEST_SENDER] est anxieux et vous confie la tâche de trouver un Chevalier dans votre Ville afin de veiller sur l'Architecte.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El arquitecto se siente fuera de lugar entre tantos desconocidos. [QUEST_SENDER] empieza a angustiarse y te pide que busques a un caballero en tu ciudad para proteger al arquitecto.</Text>
+                      <LastFinalText>El arquitecto se siente fuera de lugar entre tantos desconocidos. [QUEST_SENDER] empieza a angustiarse y te pide que busques a un caballero en tu ciudad para proteger al arquitecto.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Architetto non si sente a suo agio tra tanti stranieri. [QUEST_SENDER] è preoccupato e ti assegna il compito di trovare un Cavaliere della tua Città che protegga l'Architetto.</Text>
+                      <LastFinalText>L'Architetto non si sente a suo agio tra tanti stranieri. [QUEST_SENDER] è preoccupato e ti assegna il compito di trovare un Cavaliere della tua Città che protegga l'Architetto.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Architekt źle się czuje wśród aż tylu cudzoziemców. [QUEST_SENDER] ze zniecierpliwieniem zleca ci odnalezienie w twoim mieście rycerza, który mógłby chronić architekta.</Text>
+                      <LastFinalText>Architekt źle się czuje wśród aż tylu cudzoziemców. [QUEST_SENDER] ze zniecierpliwieniem zleca ci odnalezienie w twoim mieście rycerza, który mógłby chronić architekta.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Архитектор плохо чувствует себя среди чужеземцев. Расстроенный, [QUEST_SENDER] дает вам поручение отыскать в вашем городе рыцаря для защиты архитектора.</Text>
+                      <LastFinalText>Архитектор плохо чувствует себя среди чужеземцев. Расстроенный, [QUEST_SENDER] дает вам поручение отыскать в вашем городе рыцаря для защиты архитектора.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Architekt se mezi tolika cizinci necítí dobře. [QUEST_SENDER] je plný obav a chce po vás, abyste ve svém městě našel rytíře, který by architekta chránil.</Text>
+                      <LastFinalText>Architekt se mezi tolika cizinci necítí dobře. [QUEST_SENDER] je plný obav a chce po vás, abyste ve svém městě našel rytíře, který by architekta chránil.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Architect feels uneasy among so many foreigners. [QUEST_SENDER] is anxious and assigns you the task of finding a Knight in your City to protect the Architect.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El arquitecto se siente fuera de lugar entre tantos desconocidos. [QUEST_SENDER] empieza a angustiarse y te pide que busques a un caballero en tu ciudad para proteger al arquitecto.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Architecte se sent mal à l'aise parmi tant d'étrangers. [QUEST_SENDER] est anxieux et vous confie la tâche de trouver un Chevalier dans votre Ville afin de veiller sur l'Architecte.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300067</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ausbau der Karawanserei II</Text>
+                      <LastFinalText>Ausbau der Karawanserei II</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The expansion of the Caravanserai II</Text>
+                      <LastFinalText>The expansion of the Caravanserai II</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'expansion du Caravanserai II</Text>
+                      <LastFinalText>L'expansion du Caravanserai II</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>La expansión del caravasar II</Text>
+                      <LastFinalText>La expansión del caravasar II</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'ampliamento del Caravanserraglio II</Text>
+                      <LastFinalText>L'ampliamento del Caravanserraglio II</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Rozbudowa karawanseraju II</Text>
+                      <LastFinalText>Rozbudowa karawanseraju II</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Улучшение караван-сарая II</Text>
+                      <LastFinalText>Улучшение караван-сарая II</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Rozšíření karavanseráje II</Text>
+                      <LastFinalText>Rozšíření karavanseráje II</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The expansion of the Caravanserai II</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>La expansión del caravasar II</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'expansion du Caravanserai II</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300069</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Architekt hat die Pläne für den Ausbau fertig. [QUEST_SENDER] wird selbst als Bauherr fungieren, da er den unbequemen Mann los sein will. Allerdings benötigt er noch einige Waren für den Bau.</Text>
+                      <LastFinalText>Der Architekt hat die Pläne für den Ausbau fertig. [QUEST_SENDER] wird selbst als Bauherr fungieren, da er den unbequemen Mann los sein will. Allerdings benötigt er noch einige Waren für den Bau.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Architect has prepared the plans for the upgrade. [QUEST_SENDER] himself will build it, as he wants to be rid of the unhappy Architect. However, he requires the appropriate Goods to build it.</Text>
+                      <LastFinalText>The Architect has prepared the plans for the upgrade. [QUEST_SENDER] himself will build it, as he wants to be rid of the unhappy Architect. However, he requires the appropriate Goods to build it.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Architecte a préparé les Plans de l'amélioration. [QUEST_SENDER] le construira en personne, car il ne souhaite plus traiter avec l'Architecte mécontent. Toutefois, il a besoin des Marchandises adéquates pour mettre les Plans de l'Architecte en œuvre.</Text>
+                      <LastFinalText>L'Architecte a préparé les Plans de l'amélioration. [QUEST_SENDER] le construira en personne, car il ne souhaite plus traiter avec l'Architecte mécontent. Toutefois, il a besoin des Marchandises adéquates pour mettre les Plans de l'Architecte en œuvre.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El arquitecto ha preparado los planos de la mejora. El propio [QUEST_SENDER] se encargará de la construcción, pues quiere deshacerse del desdichado arquitecto. Aun así, necesita los bienes apropiados para la obra.</Text>
+                      <LastFinalText>El arquitecto ha preparado los planos de la mejora. El propio [QUEST_SENDER] se encargará de la construcción, pues quiere deshacerse del desdichado arquitecto. Aun así, necesita los bienes apropiados para la obra.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Architetto ha preparato i piani per l'ampliamento. [QUEST_SENDER] vuole costruirlo da solo, infatti vuole liberarsi dell'Architetto scontento. Ha comunque bisogno delle Merci necessarie per costruirlo.</Text>
+                      <LastFinalText>L'Architetto ha preparato i piani per l'ampliamento. [QUEST_SENDER] vuole costruirlo da solo, infatti vuole liberarsi dell'Architetto scontento. Ha comunque bisogno delle Merci necessarie per costruirlo.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Architekt przygotował już plany rozbudowy. [QUEST_SENDER] planuje samodzielne jej wykonanie, chce się już pozbyć wiecznie narzekającego architekta. Potrzebne mu będą jednak pewne materiały budowlane.</Text>
+                      <LastFinalText>Architekt przygotował już plany rozbudowy. [QUEST_SENDER] planuje samodzielne jej wykonanie, chce się już pozbyć wiecznie narzekającego architekta. Potrzebne mu będą jednak pewne materiały budowlane.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Архитектор подготовил проект для улучшения. [QUEST_SENDER] будет сам руководить строительством, поскольку хочет отпустить неудобного гостя. Однако, для строительства ему нужны еще некоторые товары.</Text>
+                      <LastFinalText>Архитектор подготовил проект для улучшения. [QUEST_SENDER] будет сам руководить строительством, поскольку хочет отпустить неудобного гостя. Однако, для строительства ему нужны еще некоторые товары.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Architekt připravil plány na vylepšení. [QUEST_SENDER] se výstavby zhostí sám, protože se chce nespokojeného architekta zbavit. Potřebuje k tomu však patřičné věci.</Text>
+                      <LastFinalText>Architekt připravil plány na vylepšení. [QUEST_SENDER] se výstavby zhostí sám, protože se chce nespokojeného architekta zbavit. Potřebuje k tomu však patřičné věci.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Architect has prepared the plans for the upgrade. [QUEST_SENDER] himself will build it, as he wants to be rid of the unhappy Architect. However, he requires the appropriate Goods to build it.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El arquitecto ha preparado los planos de la mejora. El propio [QUEST_SENDER] se encargará de la construcción, pues quiere deshacerse del desdichado arquitecto. Aun así, necesita los bienes apropiados para la obra.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Architecte a préparé les Plans de l'amélioration. [QUEST_SENDER] le construira en personne, car il ne souhaite plus traiter avec l'Architecte mécontent. Toutefois, il a besoin des Marchandises adéquates pour mettre les Plans de l'Architecte en œuvre.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300070</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ausbau der Karawanserei III</Text>
+                      <LastFinalText>Ausbau der Karawanserei III</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The expansion of the Caravanserai III</Text>
+                      <LastFinalText>The expansion of the Caravanserai III</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'expansion du Caravanserai III</Text>
+                      <LastFinalText>L'expansion du Caravanserai III</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>La expansión del caravasar III</Text>
+                      <LastFinalText>La expansión del caravasar III</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'ampliamento del Caravanserraglio III</Text>
+                      <LastFinalText>L'ampliamento del Caravanserraglio III</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Rozbudowa karawanseraju III</Text>
+                      <LastFinalText>Rozbudowa karawanseraju III</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Улучшение караван-сарая III</Text>
+                      <LastFinalText>Улучшение караван-сарая III</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Rozšíření karavanseráje III</Text>
+                      <LastFinalText>Rozšíření karavanseráje III</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The expansion of the Caravanserai III</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>La expansión del caravasar III</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'expansion du Caravanserai III</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300072</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat bei einem Geschäft eine alte Schatzkarte als Zahlungsmittel akzeptiert. Leider ist nicht klar, um welche Insel es sich handelt. Sorgen Sie dafür, dass das Geschäft sich lohnt.</Text>
+                      <LastFinalText>[QUEST_SENDER] hat bei einem Geschäft eine alte Schatzkarte als Zahlungsmittel akzeptiert. Leider ist nicht klar, um welche Insel es sich handelt. Sorgen Sie dafür, dass das Geschäft sich lohnt.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>[QUEST_SENDER] в качестве платы в какой-то сделке получил старую карту сокровищ. К сожалению, не вполне понятно, о каком острове идет речь. Позаботьтесь о том, чтобы сделка оказалась выгодной.</Text>
+                      <LastFinalText>[QUEST_SENDER] в качестве платы в какой-то сделке получил старую карту сокровищ. К сожалению, не вполне понятно, о каком острове идет речь. Позаботьтесь о том, чтобы сделка оказалась выгодной.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300073</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die verwitterte Schatzkarte</Text>
+                      <LastFinalText>Die verwitterte Schatzkarte</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The weathered Treasure map</Text>
+                      <LastFinalText>The weathered Treasure map</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>La vieille carte au trésor</Text>
+                      <LastFinalText>La vieille carte au trésor</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El viejo mapa del tesoro</Text>
+                      <LastFinalText>El viejo mapa del tesoro</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Mappa scolorita del tesoro</Text>
+                      <LastFinalText>La Mappa scolorita del tesoro</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Zniszczona mapa skarbu</Text>
+                      <LastFinalText>Zniszczona mapa skarbu</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Потрепанная карта сокровищ</Text>
+                      <LastFinalText>Потрепанная карта сокровищ</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Vybledlá mapa pokladu</Text>
+                      <LastFinalText>Vybledlá mapa pokladu</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The weathered Treasure map</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El viejo mapa del tesoro</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>La vieille carte au trésor</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300079</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Gehilfe aus [QUEST_SENDER]s Karawanserei ist mit allen wichtigen Geschäftsberichten verschwunden. Auf einer der von [QUEST_SENDER] angegebenen Inseln muss er sein. Statten Sie eine Suchexpedition aus!</Text>
+                      <LastFinalText>Der Gehilfe aus [QUEST_SENDER]s Karawanserei ist mit allen wichtigen Geschäftsberichten verschwunden. Auf einer der von [QUEST_SENDER] angegebenen Inseln muss er sein. Statten Sie eine Suchexpedition aus!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Assistant from [QUEST_SENDER]'s Caravanserai has vanished with all the important financial statements. He must be on one of the Islands indicated by [QUEST_SENDER]. Mount a search party!</Text>
+                      <LastFinalText>The Assistant from [QUEST_SENDER]'s Caravanserai has vanished with all the important financial statements. He must be on one of the Islands indicated by [QUEST_SENDER]. Mount a search party!</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Assistant du Caravanserai de [QUEST_SENDER] a disparu en emportant les documents financiers importants. Il doit se trouver sur l'une des Îles dont vous a parlé [QUEST_SENDER]. À vous d'organiser les recherches !</Text>
+                      <LastFinalText>L'Assistant du Caravanserai de [QUEST_SENDER] a disparu en emportant les documents financiers importants. Il doit se trouver sur l'une des Îles dont vous a parlé [QUEST_SENDER]. À vous d'organiser les recherches !</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El asistente del caravasar de [QUEST_SENDER] ha desaparecido y se ha llevado unos importantes informes financieros. Debe de estar en una de las islas indicadas por [QUEST_SENDER]. ¡Organiza una partida de búsqueda!</Text>
+                      <LastFinalText>El asistente del caravasar de [QUEST_SENDER] ha desaparecido y se ha llevado unos importantes informes financieros. Debe de estar en una de las islas indicadas por [QUEST_SENDER]. ¡Organiza una partida de búsqueda!</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Assistente del Caravanserraglio di [QUEST_SENDER] è scomparso con importanti documenti finanziari. Dev'essere su una delle Isole indicate da [QUEST_SENDER]. Organizza le ricerche!</Text>
+                      <LastFinalText>L'Assistente del Caravanserraglio di [QUEST_SENDER] è scomparso con importanti documenti finanziari. Dev'essere su una delle Isole indicate da [QUEST_SENDER]. Organizza le ricerche!</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Pewien zaufany człowiek pracujący w karawanseraju, którego panem jest [QUEST_SENDER], zniknął razem ze wszystkimi ważnymi dokumentami. Musi znajdować się na jednej z wysp, które wskazał [QUEST_SENDER]. Zorganizuj wyprawę poszukiwawczą!</Text>
+                      <LastFinalText>Pewien zaufany człowiek pracujący w karawanseraju, którego panem jest [QUEST_SENDER], zniknął razem ze wszystkimi ważnymi dokumentami. Musi znajdować się na jednej z wysp, które wskazał [QUEST_SENDER]. Zorganizuj wyprawę poszukiwawczą!</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>[QUEST_SENDER] утверждает, что помощник скрылся из его караван-сарая со всеми важными отчетами о сделках. [QUEST_SENDER] считает, что воришка должен быть на одном из указанных им островов. Снарядите поисковую экспедицию!</Text>
+                      <LastFinalText>[QUEST_SENDER] утверждает, что помощник скрылся из его караван-сарая со всеми важными отчетами о сделках. [QUEST_SENDER] считает, что воришка должен быть на одном из указанных им островов. Снарядите поисковую экспедицию!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Pomocník z karavanseráje postavy jménem [QUEST_SENDER] zmizel se všemi důležitými účetními výpisy. Určitě bude na jednom z ostrovů, o kterých mluvil [QUEST_SENDER]. Uspořádejte pátrací akci!</Text>
+                      <LastFinalText>Pomocník z karavanseráje postavy jménem [QUEST_SENDER] zmizel se všemi důležitými účetními výpisy. Určitě bude na jednom z ostrovů, o kterých mluvil [QUEST_SENDER]. Uspořádejte pátrací akci!</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Assistant from [QUEST_SENDER]'s Caravanserai has vanished with all the important financial statements. He must be on one of the Islands indicated by [QUEST_SENDER]. Mount a search party!</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El asistente del caravasar de [QUEST_SENDER] ha desaparecido y se ha llevado unos importantes informes financieros. Debe de estar en una de las islas indicadas por [QUEST_SENDER]. ¡Organiza una partida de búsqueda!</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Assistant du Caravanserai de [QUEST_SENDER] a disparu en emportant les documents financiers importants. Il doit se trouver sur l'une des Îles dont vous a parlé [QUEST_SENDER]. À vous d'organiser les recherches !</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300080</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der untreue Gehilfe I</Text>
+                      <LastFinalText>Der untreue Gehilfe I</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The disloyal Assistant I</Text>
+                      <LastFinalText>The disloyal Assistant I</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Assistant déloyal I</Text>
+                      <LastFinalText>L'Assistant déloyal I</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El asistente desleal I</Text>
+                      <LastFinalText>El asistente desleal I</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Assistente sleale I</Text>
+                      <LastFinalText>L'Assistente sleale I</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Nielojalny zausznik I</Text>
+                      <LastFinalText>Nielojalny zausznik I</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Помощник-предатель I</Text>
+                      <LastFinalText>Помощник-предатель I</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Nevěrný pomocník I</Text>
+                      <LastFinalText>Nevěrný pomocník I</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The disloyal Assistant I</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El asistente desleal I</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Assistant déloyal I</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300082</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Sie haben den Gehilfe gefunden. Er erzählt [QUEST_SENDER], er sei von Korsaren entführt und danach ins Meer geworfen worden. Der ist erzürnt und bittet Sie, Jagd auf die Korsaren zu machen.</Text>
+                      <LastFinalText>Sie haben den Gehilfe gefunden. Er erzählt [QUEST_SENDER], er sei von Korsaren entführt und danach ins Meer geworfen worden. Der ist erzürnt und bittet Sie, Jagd auf die Korsaren zu machen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>You have found the Assistant. He tells [QUEST_SENDER] you that he was kidnapped by the Corsairs and was then thrown into the Sea. He is incensed, and asks you to set out in pursuit of the Corsairs.</Text>
+                      <LastFinalText>You have found the Assistant. He tells [QUEST_SENDER] you that he was kidnapped by the Corsairs and was then thrown into the Sea. He is incensed, and asks you to set out in pursuit of the Corsairs.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Vous avez retrouvé l'Assistant ! Il explique à [QUEST_SENDER] qu'il a été enlevé par les Corsaires, puis jeté à la Mer. Il est furieux, et vous demande de vous lancer à la poursuite des Corsaires.</Text>
+                      <LastFinalText>Vous avez retrouvé l'Assistant ! Il explique à [QUEST_SENDER] qu'il a été enlevé par les Corsaires, puis jeté à la Mer. Il est furieux, et vous demande de vous lancer à la poursuite des Corsaires.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Has encontrado al asistente. Asegura que los corsarios lo secuestraron y que después lo arrojaron al mar. [QUEST_SENDER] está furioso y te pide que partas en busca de los corsarios.</Text>
+                      <LastFinalText>Has encontrado al asistente. Asegura que los corsarios lo secuestraron y que después lo arrojaron al mar. [QUEST_SENDER] está furioso y te pide que partas en busca de los corsarios.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Hai trovato l'Assistente. Questi racconta a [QUEST_SENDER] di essere stato rapito dai Corsari e poi gettato in Mare. È furibondo e ti chiede di inseguire i Corsari.</Text>
+                      <LastFinalText>Hai trovato l'Assistente. Questi racconta a [QUEST_SENDER] di essere stato rapito dai Corsari e poi gettato in Mare. È furibondo e ti chiede di inseguire i Corsari.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Znajdujesz zausznika. Zarzeka się na wszystkie świętości, że został porwany przez piratów i wrzucony do morza. Płonie gniewem i prosi cię o pościg za piratami.</Text>
+                      <LastFinalText>Znajdujesz zausznika. Zarzeka się na wszystkie świętości, że został porwany przez piratów i wrzucony do morza. Płonie gniewem i prosi cię o pościg za piratami.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Вы нашли помощника. [QUEST_SENDER] выяснил, что его украли корсары, а потом выбросили в море. Он в ярости и просит вас найти корсаров.</Text>
+                      <LastFinalText>Вы нашли помощника. [QUEST_SENDER] выяснил, что его украли корсары, а потом выбросили в море. Он в ярости и просит вас найти корсаров.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Podařilo se vám najít toho pomocníka. Postavě jménem [QUEST_SENDER] řekl, že ho unesli korzáři a hodili ho do moře. Pořádně ho to naštvalo a žádá vás, abyste ty korzáry dostihl.</Text>
+                      <LastFinalText>Podařilo se vám najít toho pomocníka. Postavě jménem [QUEST_SENDER] řekl, že ho unesli korzáři a hodili ho do moře. Pořádně ho to naštvalo a žádá vás, abyste ty korzáry dostihl.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>You have found the Assistant. He tells [QUEST_SENDER] you that he was kidnapped by the Corsairs and was then thrown into the Sea. He is incensed, and asks you to set out in pursuit of the Corsairs.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Has encontrado al asistente. Asegura que los corsarios lo secuestraron y que después lo arrojaron al mar. [QUEST_SENDER] está furioso y te pide que partas en busca de los corsarios.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Vous avez retrouvé l'Assistant ! Il explique à [QUEST_SENDER] qu'il a été enlevé par les Corsaires, puis jeté à la Mer. Il est furieux, et vous demande de vous lancer à la poursuite des Corsaires.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300083</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der untreue Gehilfe II</Text>
+                      <LastFinalText>Der untreue Gehilfe II</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The disloyal Assistant II</Text>
+                      <LastFinalText>The disloyal Assistant II</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Assistant déloyal II</Text>
+                      <LastFinalText>L'Assistant déloyal II</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El asistente desleal II</Text>
+                      <LastFinalText>El asistente desleal II</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Assistente sleale II</Text>
+                      <LastFinalText>L'Assistente sleale II</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Nielojalny zausznik II</Text>
+                      <LastFinalText>Nielojalny zausznik II</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Помощник-предатель II</Text>
+                      <LastFinalText>Помощник-предатель II</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Nevěrný pomocník II</Text>
+                      <LastFinalText>Nevěrný pomocník II</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The disloyal Assistant II</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El asistente desleal II</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Assistant déloyal II</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300085</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Korsarenanführer ist erzürnt über die Jagd auf seine Schiffe. Der Gehilfe hatte scheinbar gelogen. [QUEST_SENDER] wurde getäuscht, aber die Korsaren sinnen auf Rache. Helfen Sie, ihre Seeblockade zu brechen.</Text>
+                      <LastFinalText>Der Korsarenanführer ist erzürnt über die Jagd auf seine Schiffe. Der Gehilfe hatte scheinbar gelogen. [QUEST_SENDER] wurde getäuscht, aber die Korsaren sinnen auf Rache. Helfen Sie, ihre Seeblockade zu brechen.</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The Corsair leader is angry to learn that his Ships are being pursued. It appears that Assistant was lying. [QUEST_SENDER] was tricked, but the Corsairs are out for revenge. Help break their Naval blockade.</Text>
+                      <LastFinalText>The Corsair leader is angry to learn that his Ships are being pursued. It appears that Assistant was lying. [QUEST_SENDER] was tricked, but the Corsairs are out for revenge. Help break their Naval blockade.</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Le Chef des Corsaires est très contrarié d'apprendre que ses Navires ont été pris en chasse. Il semble que l'Assistant vous a menti. [QUEST_SENDER] a été berné, mais les Corsaires sont désormais déterminés à se venger. Participez à la destruction de leur Barrage naval.</Text>
+                      <LastFinalText>Le Chef des Corsaires est très contrarié d'apprendre que ses Navires ont été pris en chasse. Il semble que l'Assistant vous a menti. [QUEST_SENDER] a été berné, mais les Corsaires sont désormais déterminés à se venger. Participez à la destruction de leur Barrage naval.</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El líder corsario monta en cólera al saber que están persiguiendo a sus barcos. Parece que el asistente mintió. Engañaron a [QUEST_SENDER], pero los corsarios claman venganza. Ayuda a romper el bloqueo naval.</Text>
+                      <LastFinalText>El líder corsario monta en cólera al saber que están persiguiendo a sus barcos. Parece que el asistente mintió. Engañaron a [QUEST_SENDER], pero los corsarios claman venganza. Ayuda a romper el bloqueo naval.</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Capo dei Corsari è molto arrabbiato nel constatare che le sue Navi sono inseguite. Pare che l'Assistente abbia mentito, ma i Corsari ora vogliono vendicarsi. Aiuta a sfondare il Blocco navale.</Text>
+                      <LastFinalText>Il Capo dei Corsari è molto arrabbiato nel constatare che le sue Navi sono inseguite. Pare che l'Assistente abbia mentito, ma i Corsari ora vogliono vendicarsi. Aiuta a sfondare il Blocco navale.</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Przywódca piratów jest zdziwiony i zły, że ścigasz jego statki. Wygląda na to, że zausznik kłamał. [QUEST_SENDER] dał się oszukać, ale piraci dyszą żądzą zemsty. Pomóż przełamać ich blokadę morską.</Text>
+                      <LastFinalText>Przywódca piratów jest zdziwiony i zły, że ścigasz jego statki. Wygląda na to, że zausznik kłamał. [QUEST_SENDER] dał się oszukać, ale piraci dyszą żądzą zemsty. Pomóż przełamać ich blokadę morską.</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Предводитель корсаров в ярости из-за того, что вы устроили охоту на его корабли. Судя по всему, помощник соврал. [QUEST_SENDER] ошибся, но теперь корсары жаждут отомстить. Помогите прорвать морскую блокаду.</Text>
+                      <LastFinalText>Предводитель корсаров в ярости из-за того, что вы устроили охоту на его корабли. Судя по всему, помощник соврал. [QUEST_SENDER] ошибся, но теперь корсары жаждут отомстить. Помогите прорвать морскую блокаду.</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Vůdce korzárů nebyl moc rád, když se dozvěděl, že jeho lodě jsou pronásledovány. Zdá se, že ten pomocník lhal. [QUEST_SENDER] byl ošálen, ale korzáři touží po pomstě. Pomozte s prolomením jejich přístavního zátarasu.</Text>
+                      <LastFinalText>Vůdce korzárů nebyl moc rád, když se dozvěděl, že jeho lodě jsou pronásledovány. Zdá se, že ten pomocník lhal. [QUEST_SENDER] byl ošálen, ale korzáři touží po pomstě. Pomozte s prolomením jejich přístavního zátarasu.</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The Corsair leader is angry to learn that his Ships are being pursued. It appears that Assistant was lying. [QUEST_SENDER] was tricked, but the Corsairs are out for revenge. Help break their Naval blockade.</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El líder corsario monta en cólera al saber que están persiguiendo a sus barcos. Parece que el asistente mintió. Engañaron a [QUEST_SENDER], pero los corsarios claman venganza. Ayuda a romper el bloqueo naval.</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Le Chef des Corsaires est très contrarié d'apprendre que ses Navires ont été pris en chasse. Il semble que l'Assistant vous a menti. [QUEST_SENDER] a été berné, mais les Corsaires sont désormais déterminés à se venger. Participez à la destruction de leur Barrage naval.</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300086</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der untreue Gehilfe III</Text>
+                      <LastFinalText>Der untreue Gehilfe III</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The disloyal Assistant III</Text>
+                      <LastFinalText>The disloyal Assistant III</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Assistant déloyal III</Text>
+                      <LastFinalText>L'Assistant déloyal III</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El asistente desleal III</Text>
+                      <LastFinalText>El asistente desleal III</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Assistente sleale III</Text>
+                      <LastFinalText>L'Assistente sleale III</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Nielojalny zausznik III</Text>
+                      <LastFinalText>Nielojalny zausznik III</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Помощник-предатель III</Text>
+                      <LastFinalText>Помощник-предатель III</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Nevěrný pomocník III</Text>
+                      <LastFinalText>Nevěrný pomocník III</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The disloyal Assistant III</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El asistente desleal III</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Assistant déloyal III</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300087</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der untreue Gehilfe IV</Text>
+                      <LastFinalText>Der untreue Gehilfe IV</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>The disloyal Assistant IV</Text>
+                      <LastFinalText>The disloyal Assistant IV</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>L'Assistant déloyal IV</Text>
+                      <LastFinalText>L'Assistant déloyal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>El asistente desleal IV</Text>
+                      <LastFinalText>El asistente desleal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Assistente sleale IV</Text>
+                      <LastFinalText>L'Assistente sleale IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Nielojalny zausznik IV</Text>
+                      <LastFinalText>Nielojalny zausznik IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Помощник-предатель IV</Text>
+                      <LastFinalText>Помощник-предатель IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Nevěrný pomocník IV</Text>
+                      <LastFinalText>Nevěrný pomocník IV</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>The disloyal Assistant IV</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>El asistente desleal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>L'Assistant déloyal IV</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300088</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] scheint den Korsaren wirklich Unrecht getan zu haben: Der Gehilfe versucht, mit einigen Schätzen erneut zu fliehen. Versenken Sie das Schiff dieser verlogenen Natter!</Text>
+                      <LastFinalText>[QUEST_SENDER] scheint den Korsaren wirklich Unrecht getan zu haben: Der Gehilfe versucht, mit einigen Schätzen erneut zu fliehen. Versenken Sie das Schiff dieser verlogenen Natter!</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] seems to have really done the Corsairs an injustice: the Assistant tries to escape again with some Treasure. Sink the devious snake's Ship!</Text>
+                      <LastFinalText>[QUEST_SENDER] seems to have really done the Corsairs an injustice: the Assistant tries to escape again with some Treasure. Sink the devious snake's Ship!</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] semble s'être montré vraiment injuste à l'égard des Corsaires : l'Assistant essaie à nouveau de s'échapper, cette fois en emportant un Trésor. Coulez le Navire de ce Traître perfide !</Text>
+                      <LastFinalText>[QUEST_SENDER] semble s'être montré vraiment injuste à l'égard des Corsaires : l'Assistant essaie à nouveau de s'échapper, cette fois en emportant un Trésor. Coulez le Navire de ce Traître perfide !</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] parece haber sido muy injusto con los corsarios: el asistente intenta escapar de nuevo con algunas joyas. ¡Hunde el barco de esa sabandija!</Text>
+                      <LastFinalText>[QUEST_SENDER] parece haber sido muy injusto con los corsarios: el asistente intenta escapar de nuevo con algunas joyas. ¡Hunde el barco de esa sabandija!</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Sembra che [QUEST_SENDER] abbia davvero fatto un'ingiustizia ai Corsari: l'Assistente cerca di scappare di nuovo con un Tesoro. Affonda la Nave di quella serpe!</Text>
+                      <LastFinalText>Sembra che [QUEST_SENDER] abbia davvero fatto un'ingiustizia ai Corsari: l'Assistente cerca di scappare di nuovo con un Tesoro. Affonda la Nave di quella serpe!</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>[QUEST_SENDER] rzeczywiście niewłaściwie ocenił piratów: zausznik próbuje znów uciec ze skarbem. Zatop statek tego zdradzieckiego węża!</Text>
+                      <LastFinalText>[QUEST_SENDER] rzeczywiście niewłaściwie ocenił piratów: zausznik próbuje znów uciec ze skarbem. Zatop statek tego zdradzieckiego węża!</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Кажется, [QUEST_SENDER] действительно зря обвинял корсаров: помощник попытался скрыться с очередной порцией сокровищ. Потопите корабль этого гнусного лжеца!</Text>
+                      <LastFinalText>Кажется, [QUEST_SENDER] действительно зря обвинял корсаров: помощник попытался скрыться с очередной порцией сокровищ. Потопите корабль этого гнусного лжеца!</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Zdá se, že [QUEST_SENDER] korzárům opravdu křivdil: pomocník se opět snaží uniknout s pokladem. Potopte loď toho prohnaného hada!</Text>
+                      <LastFinalText>Zdá se, že [QUEST_SENDER] korzárům opravdu křivdil: pomocník se opět snaží uniknout s pokladem. Potopte loď toho prohnaného hada!</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>[QUEST_SENDER] seems to have really done the Corsairs an injustice: the Assistant tries to escape again with some Treasure. Sink the devious snake's Ship!</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>[QUEST_SENDER] parece haber sido muy injusto con los corsarios: el asistente intenta escapar de nuevo con algunas joyas. ¡Hunde el barco de esa sabandija!</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>[QUEST_SENDER] semble s'être montré vraiment injuste à l'égard des Corsaires : l'Assistant essaie à nouveau de s'échapper, cette fois en emportant un Trésor. Coulez le Navire de ce Traître perfide !</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5300089</GUID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Geschäftstüchtig</Text>
+                      <LastFinalText>Geschäftstüchtig</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Enterprising</Text>
+                      <LastFinalText>Enterprising</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>Entreprise</Text>
+                      <LastFinalText>Entreprise</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Espíritu emprendedor</Text>
+                      <LastFinalText>Espíritu emprendedor</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'impresa</Text>
+                      <LastFinalText>L'impresa</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Przedsiębiorstwo</Text>
+                      <LastFinalText>Przedsiębiorstwo</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Russian>
+                      <Text>Деловитый</Text>
+                      <LastFinalText>Деловитый</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <Czech>
+                      <Text>Podnikavý</Text>
+                      <LastFinalText>Podnikavý</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <EnglishUS>
+                      <LastFinalText>Enterprising</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <LastFinalText>Espíritu emprendedor</LastFinalText>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <LastFinalText>Entreprise</LastFinalText>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </LocaText>
+                  <SprecherAuswahl>1645002</SprecherAuswahl>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Helperquests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>FirstSelection</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5300071</GUID>
+                      <Kommentar>Questname</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Exotische Waren</Text>
+                          <LastFinalText>Exotische Waren</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>Exotic goods</Text>
+                          <LastFinalText>Exotic goods</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>Marchandises exotiques</Text>
+                          <LastFinalText>Marchandises exotiques</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>Bienes exóticos</Text>
+                          <LastFinalText>Bienes exóticos</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>Merci esotiche</Text>
+                          <LastFinalText>Merci esotiche</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>Towary egzotyczne</Text>
+                          <LastFinalText>Towary egzotyczne</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>Экзотические товары</Text>
+                          <LastFinalText>Экзотические товары</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>Exotické zboží</Text>
+                          <LastFinalText>Exotické zboží</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645002</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5300076</GUID>
+                      <Kommentar>Infotext</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Karawanenführer [QUEST_SENDER] beliefert Sie mit exotischen Waren.</Text>
+                          <LastFinalText>Karawanenführer [QUEST_SENDER] beliefert Sie mit exotischen Waren.</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>Caravan driver [QUEST_SENDER] provides you with Exotic goods.</Text>
+                          <LastFinalText>Caravan driver [QUEST_SENDER] provides you with Exotic goods.</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>Le conducteur de Caravane [QUEST_SENDER] vous fournit des Marchandises exotiques.</Text>
+                          <LastFinalText>Le conducteur de Caravane [QUEST_SENDER] vous fournit des Marchandises exotiques.</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text> [QUEST_SENDER], líder de la caravana, te proporciona bienes exóticos.</Text>
+                          <LastFinalText> [QUEST_SENDER], líder de la caravana, te proporciona bienes exóticos.</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER], il Capo carovana, ti fornisce delle Merci esotiche.</Text>
+                          <LastFinalText>[QUEST_SENDER], il Capo carovana, ti fornisce delle Merci esotiche.</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>Prowadzący karawanę, której panem jest [QUEST_SENDER], może ci sprzedać egzotyczne towary.</Text>
+                          <LastFinalText>Prowadzący karawanę, której panem jest [QUEST_SENDER], może ci sprzedać egzotyczne towary.</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>Караванщик [QUEST_SENDER] снабдит вас экзотическими товарами.</Text>
+                          <LastFinalText>Караванщик [QUEST_SENDER] снабдит вас экзотическими товарами.</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>Řidič karavany [QUEST_SENDER] vás zásobuje exotickým zbožím.</Text>
+                          <LastFinalText>Řidič karavany [QUEST_SENDER] vás zásobuje exotickým zbožím.</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645002</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5300077</GUID>
+                      <Kommentar>Storytext</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[QUEST_SENDER] ist für seine außergewöhnlichen Waren bekannt. Binden Sie seine Karawanserei mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren.[CR] [CR]Wählen Sie im Gebäudemenü jene Waren aus, die Sie kaufen möchten. Sofort wird eine Karawane aufbrechen und Ihnen die Bestellung liefern.</Text>
+                          <LastFinalText>[QUEST_SENDER] ist für seine außergewöhnlichen Waren bekannt. Binden Sie seine Karawanserei mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren.[CR] [CR]Wählen Sie im Gebäudemenü jene Waren aus, die Sie kaufen möchten. Sofort wird eine Karawane aufbrechen und Ihnen die Bestellung liefern.</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>[QUEST_SENDER] is famous for his unusual Goods. Create a Road connection between his Caravanserai and one of your Trade buildings to take advantage of this![CR]Go to the Buildings menu to select the Goods you would like to buy. A Caravan will set out immediately to deliver your order.</Text>
+                          <LastFinalText>[QUEST_SENDER] is famous for his unusual Goods. Create a Road connection between his Caravanserai and one of your Trade buildings to take advantage of this![CR]Go to the Buildings menu to select the Goods you would like to buy. A Caravan will set out immediately to deliver your order.</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>[QUEST_SENDER] est réputé pour ses Marchandises inhabituelles. Créez une Route entre son Caravanserai et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Accédez au menu Bâtiments et sélectionnez les Marchandises que vous voulez acheter. Une Caravane partira immédiatement pour livrer votre commande.</Text>
+                          <LastFinalText>[QUEST_SENDER] est réputé pour ses Marchandises inhabituelles. Créez une Route entre son Caravanserai et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Accédez au menu Bâtiments et sélectionnez les Marchandises que vous voulez acheter. Une Caravane partira immédiatement pour livrer votre commande.</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>[QUEST_SENDER] es famoso por sus bienes fuera de lo común. ¡Crea un camino de acceso entre el caravasar y uno de tus edificios comerciales para sacarle partido![CR]Ve al menú Edificios y selecciona los bienes que quieras comprar. Saldrá inmediatamente una caravana para entregarte el pedido.</Text>
+                          <LastFinalText>[QUEST_SENDER] es famoso por sus bienes fuera de lo común. ¡Crea un camino de acceso entre el caravasar y uno de tus edificios comerciales para sacarle partido![CR]Ve al menú Edificios y selecciona los bienes que quieras comprar. Saldrá inmediatamente una caravana para entregarte el pedido.</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER] è famoso per le sue Merci inusuali. Crea una Strada che colleghi il suo Caravanserraglio a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Dal Menu Edifici seleziona le Merci che vuoi acquistare. Una Carovana consegnerà il tuo ordine immediatamente.</Text>
+                          <LastFinalText>[QUEST_SENDER] è famoso per le sue Merci inusuali. Crea una Strada che colleghi il suo Caravanserraglio a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Dal Menu Edifici seleziona le Merci che vuoi acquistare. Una Carovana consegnerà il tuo ordine immediatamente.</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>[QUEST_SENDER] słynie ze swoich nietypowych towarów. Połącz drogą jego karawanseraj i jedną ze swoich budowli handlowych, aby to wykorzystać![CR]Udaj się do menu budynku i wybierz dobra, które chcesz kupić. Karawana z twoim zamówieniem zostanie wysłana natychmiast.</Text>
+                          <LastFinalText>[QUEST_SENDER] słynie ze swoich nietypowych towarów. Połącz drogą jego karawanseraj i jedną ze swoich budowli handlowych, aby to wykorzystać![CR]Udaj się do menu budynku i wybierz dobra, które chcesz kupić. Karawana z twoim zamówieniem zostanie wysłana natychmiast.</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>[QUEST_SENDER] известен своим необычным ассортиментом товаров. Проведите улицу от караван-сарая до торговых зданий, только тогда он начнет приносить вам пользу![CR]Выберите в меню здания товар, который вы хотите купить. К вам сразу же будет направлен караван, груженый товарами.</Text>
+                          <LastFinalText>[QUEST_SENDER] известен своим необычным ассортиментом товаров. Проведите улицу от караван-сарая до торговых зданий, только тогда он начнет приносить вам пользу![CR]Выберите в меню здания товар, который вы хотите купить. К вам сразу же будет направлен караван, груженый товарами.</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>[QUEST_SENDER] je proslulý vým netradičním zbožím. Využijte toho a vybudujte mezi jeho karavanserájem a jednou z vašich obchodních budov cestu![CR]Přejděte do nabídky budov a vyberte si zboží, které byste rád koupil. Poté bude s vaší objednávkou ihned vypravena karavana.</Text>
+                          <LastFinalText>[QUEST_SENDER] je proslulý vým netradičním zbožím. Využijte toho a vybudujte mezi jeho karavanserájem a jednou z vašich obchodních budov cestu![CR]Přejděte do nabídky budov a vyberte si zboží, které byste rád koupil. Poté bude s vaší objednávkou ihned vypravena karavana.</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645002</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Character Audio</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Karim</Sprecher>
+                      <Intonation>geschäftig</Intonation>
+                    </Sound>
+                    <Standard>
+                      <GUID>5300074</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Ah, willkommen! Kann ich Euch vielleicht zu einem kleinen Geschäft überreden?</Text>
+                          <LastFinalText>Ah, willkommen! Kann ich Euch vielleicht zu einem kleinen Geschäft überreden?</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>Ah, welcome! Can I interest you in a little commercial Transaction?</Text>
+                          <LastFinalText>Ah, welcome! Can I interest you in a little commercial Transaction?</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>Ah, Sahib ! Puis-je vous proposer une modeste Transaction commerciale ?</Text>
+                          <LastFinalText>Ah, Sahib ! Puis-je vous proposer une modeste Transaction commerciale ?</LastFinalText>
+                          <Status>Edit</Status>
+                        </French>
+                        <Spanish>
+                          <Text>¡Ah, sahib! ¿Te interesaría una pequeña transacción comercial?</Text>
+                          <LastFinalText>¡Ah, sahib! ¿Te interesaría una pequeña transacción comercial?</LastFinalText>
+                          <Status>Edit</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>Ah, Sahib! Ti interessa a una piccola Transazione commerciale?</Text>
+                          <LastFinalText>Ah, Sahib! Ti interessa a una piccola Transazione commerciale?</LastFinalText>
+                          <Status>Edit</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>Ach, witaj! Może pohandlujemy?</Text>
+                          <LastFinalText>Ach, witaj! Może pohandlujemy?</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>Ах, добро пожаловать! Не желаете ли совершить сделку?</Text>
+                          <LastFinalText>Ах, добро пожаловать! Не желаете ли совершить сделку?</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>Ach, vítejte! Neměl byste zájem o malý obchod?</Text>
+                          <LastFinalText>Ach, vítejte! Neměl byste zájem o malý obchod?</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645002</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>CharacterText</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Karim</Sprecher>
+                    </Sound>
+                    <Standard>
+                      <GUID>5300075</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] würde sich geehrt fühlen, Sie mit Waren beliefern zu dürfen.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] würde sich geehrt fühlen, Sie mit Waren beliefern zu dürfen.</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] would be honoured to provide you with some Goods.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] would be honoured to provide you with some Goods.</LastFinalText>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] serait honoré de vous fournir des Marchandises.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] serait honoré de vous fournir des Marchandises.</LastFinalText>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] estaría encantado de proporcionarte algunos bienes.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] estaría encantado de proporcionarte algunos bienes.</LastFinalText>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] sarebbe onorato di fornirti alcune Merci.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] sarebbe onorato di fornirti alcune Merci.</LastFinalText>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] mówi, że twoja obecność w karawanseraju to wielki zaszczyt.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] mówi, że twoja obecność w karawanseraju to wielki zaszczyt.</LastFinalText>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Russian>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] считает, что для него большая честь снабжать вас товарами.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] считает, что для него большая честь снабжать вас товарами.</LastFinalText>
+                          <Status>Final</Status>
+                        </Russian>
+                        <Czech>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] by byl poctěn, kdyby vám mohl opatřit nějaké zboží.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] by byl poctěn, kdyby vám mohl opatřit nějaké zboží.</LastFinalText>
+                          <Status>Final</Status>
+                        </Czech>
+                      </LocaText>
+                      <SprecherAuswahl>1645002</SprecherAuswahl>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

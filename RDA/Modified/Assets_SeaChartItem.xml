@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SeaChartItem>
+  <Asset ID="8745" Name="Seekarte">
+    <Text ID="8745" FontStyle="0">
+      <EN>Master Mariner's Chart</EN>
+      <DE>Meisterhafte Seekarte</DE>
+      <Icon FileIndex="47" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>To the edges of the known world… </EN>
+        <DE>Bis an die Grenzen der bekannten Welt.... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>150  Honour</EN>
+      <DE>150  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources />
+  </Asset>
+</SeaChartItem>

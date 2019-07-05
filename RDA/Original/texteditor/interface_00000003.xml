@@ -1,0 +1,4092 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Mainmenu</Name>
+      <GUIDRangeMin>100000</GUIDRangeMin>
+      <GUIDRangeMax>124999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/MainMenu.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>Central Interface</Name>
+      <GUIDRangeMin>125000</GUIDRangeMin>
+      <GUIDRangeMax>149999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/CentralInterface.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>Object Menus</Name>
+      <GUIDRangeMin>150000</GUIDRangeMin>
+      <GUIDRangeMax>174999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/ObjectMenus.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>Fullscreen Menus</Name>
+      <GUIDRangeMin>175000</GUIDRangeMin>
+      <GUIDRangeMax>197999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/FullscreenMenus.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>Text Tags</Name>
+      <GUIDRangeMin>198000</GUIDRangeMin>
+      <GUIDRangeMax>199699</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198001</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESOURCES]</Text>
+                  <LastFinalText>[RESOURCES]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESOURCES]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198002</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[REQUIREMENTS]</Text>
+                  <LastFinalText>[REQUIREMENTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[REQUIREMENTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198003</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[PROGRESS]</Text>
+                  <LastFinalText>[PROGRESS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[PROGRESS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198004</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SETPLAYERCOLOR]</Text>
+                  <LastFinalText>[SETPLAYERCOLOR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SETPLAYERCOLOR]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198006</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[VARIABLE]</Text>
+                  <LastFinalText>[VARIABLE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[VARIABLE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198007</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[GUIDCOUNTER]</Text>
+                  <LastFinalText>[GUIDCOUNTER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GUIDCOUNTER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198008</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[TASKSTATUS]</Text>
+                  <LastFinalText>[TASKSTATUS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[TASKSTATUS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198009</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COUNTDOWN]</Text>
+                  <LastFinalText>[COUNTDOWN]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[COUNTDOWN]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198010</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[KEYID]</Text>
+                  <LastFinalText>[KEYID]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[KEYID]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198011</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[PLAYERNAME]</Text>
+                  <LastFinalText>[PLAYERNAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[PLAYERNAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198014</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[GUIDNAME]</Text>
+                  <LastFinalText>[GUIDNAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GUIDNAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198020</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_HITPOINTS_CUR]</Text>
+                  <LastFinalText>[SEL_HANDLE_HITPOINTS_CUR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_HITPOINTS_CUR]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198021</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_HITPOINTS_MAX]</Text>
+                  <LastFinalText>[SEL_HANDLE_HITPOINTS_MAX]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_HITPOINTS_MAX]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198024</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SPEAKTEXT]</Text>
+                  <LastFinalText>[SPEAKTEXT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SPEAKTEXT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198025</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MSGQUEUE_CITYNAME]</Text>
+                  <LastFinalText>[MSGQUEUE_CITYNAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MSGQUEUE_CITYNAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198026</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MSGQUEUE_GUIDNAME]</Text>
+                  <LastFinalText>[MSGQUEUE_GUIDNAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MSGQUEUE_GUIDNAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198028</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[BUILDING_COSTS]</Text>
+                  <LastFinalText>[BUILDING_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[BUILDING_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198029</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[INHABITANT_PRECONDITIONS]</Text>
+                  <LastFinalText>[INHABITANT_PRECONDITIONS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[INHABITANT_PRECONDITIONS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198030</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[HIGHEST_CIV_INHABITANTS]</Text>
+                  <LastFinalText>[HIGHEST_CIV_INHABITANTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[HIGHEST_CIV_INHABITANTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198031</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_INHABITANTS]</Text>
+                  <LastFinalText>[NUM_INHABITANTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_INHABITANTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198032</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[WEALTH]</Text>
+                  <LastFinalText>[WEALTH]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[WEALTH]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198033</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESOURCES_FERTILE]</Text>
+                  <LastFinalText>[RESOURCES_FERTILE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESOURCES_FERTILE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198034</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESOURCES]</Text>
+                  <LastFinalText>[RESOURCES]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESOURCES]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198035</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_HITPOINTS]</Text>
+                  <LastFinalText>[SEL_HANDLE_HITPOINTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_HITPOINTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198046</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_WAREHOUSE_CAPACITY]</Text>
+                  <LastFinalText>[SEL_HANDLE_WAREHOUSE_CAPACITY]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_WAREHOUSE_CAPACITY]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198048</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_NUMBER]</Text>
+                  <LastFinalText>[FLOWCONTROL_VARIABLE_VALUE_NUMBER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_NUMBER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198049</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_TEXTID]</Text>
+                  <LastFinalText>[FLOWCONTROL_VARIABLE_VALUE_TEXTID]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_TEXTID]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198050</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SHIP_COSTS]</Text>
+                  <LastFinalText>[SHIP_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SHIP_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198051</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[UNIT_COSTS]</Text>
+                  <LastFinalText>[UNIT_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[UNIT_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198052</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_ACTIVE_PLAYER]</Text>
+                  <LastFinalText>[THIRDPARTY_ACTIVE_PLAYER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_ACTIVE_PLAYER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198053</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_PASSIVE_PLAYER]</Text>
+                  <LastFinalText>[THIRDPARTY_PASSIVE_PLAYER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_PASSIVE_PLAYER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198054</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_RESIDENT_LEVEL]</Text>
+                  <LastFinalText>[THIRDPARTY_RESIDENT_LEVEL]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_RESIDENT_LEVEL]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198055</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_TRIBUTE]</Text>
+                  <LastFinalText>[THIRDPARTY_TRIBUTE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_TRIBUTE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198056</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198057</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_THIRD_PLAYER]</Text>
+                  <LastFinalText>[THIRDPARTY_THIRD_PLAYER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_THIRD_PLAYER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198058</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_CITY]</Text>
+                  <LastFinalText>[THIRDPARTY_CITY]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_CITY]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198059</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MSGQUEUE_WARESAMOUNT]</Text>
+                  <LastFinalText>[MSGQUEUE_WARESAMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MSGQUEUE_WARESAMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198060</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MSGQUEUE_MONEYAMOUNT]</Text>
+                  <LastFinalText>[MSGQUEUE_MONEYAMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MSGQUEUE_MONEYAMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198062</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MSGQUEUE_TREATYPARTNER]</Text>
+                  <LastFinalText>[MSGQUEUE_TREATYPARTNER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MSGQUEUE_TREATYPARTNER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198071</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[TRADELOG_ENTRY]</Text>
+                  <LastFinalText>[TRADELOG_ENTRY]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[TRADELOG_ENTRY]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198072</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[TRADELOG_ENTRY_SHORT]</Text>
+                  <LastFinalText>[TRADELOG_ENTRY_SHORT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[TRADELOG_ENTRY_SHORT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198073</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[HANDLE_NAME]</Text>
+                  <LastFinalText>[HANDLE_NAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[HANDLE_NAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198083</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[PLAYERDESCRIPTION]</Text>
+                  <LastFinalText>[PLAYERDESCRIPTION]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[PLAYERDESCRIPTION]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198086</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_OBJECT]</Text>
+                  <LastFinalText>[THIRDPARTY_OBJECT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_OBJECT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198092</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MULTIPLAYER_LEVELNAME]</Text>
+                  <LastFinalText>[MULTIPLAYER_LEVELNAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MULTIPLAYER_LEVELNAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198095</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[PROGRESSBARVALUE]</Text>
+                  <LastFinalText>[PROGRESSBARVALUE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[PROGRESSBARVALUE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198096</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_WARES]</Text>
+                  <LastFinalText>[THIRDPARTY_WARES]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_WARES]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198097</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[UPGRADE_COSTS]</Text>
+                  <LastFinalText>[UPGRADE_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[UPGRADE_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198098</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[UPGRADE_INFO]</Text>
+                  <LastFinalText>[UPGRADE_INFO]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[UPGRADE_INFO]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198100</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[BINDING]</Text>
+                  <LastFinalText>[BINDING]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[BINDING]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198102</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SCENARIONAME]</Text>
+                  <LastFinalText>[SCENARIONAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SCENARIONAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198103</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[VICTORYCONDITION_CAPITAL]</Text>
+                  <LastFinalText>[VICTORYCONDITION_CAPITAL]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[VICTORYCONDITION_CAPITAL]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198104</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[VICTORYCONDITION_CITIZENS]</Text>
+                  <LastFinalText>[VICTORYCONDITION_CITIZENS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[VICTORYCONDITION_CITIZENS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198105</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[VICTORYCONDITION_QUESTS]</Text>
+                  <LastFinalText>[VICTORYCONDITION_QUESTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[VICTORYCONDITION_QUESTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198109</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_PLAYER]</Text>
+                  <LastFinalText>[SEL_HANDLE_PLAYER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_PLAYER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198112</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[VICTORYPLAYERNAME]</Text>
+                  <LastFinalText>[VICTORYPLAYERNAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[VICTORYPLAYERNAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198113</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[VICTORYREASON]</Text>
+                  <LastFinalText>[VICTORYREASON]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[VICTORYREASON]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198116</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MSGQUEUE_IMPROVEDMINE]</Text>
+                  <LastFinalText>[MSGQUEUE_IMPROVEDMINE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MSGQUEUE_IMPROVEDMINE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198117</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[LAPTOPBATTERY]</Text>
+                  <LastFinalText>[LAPTOPBATTERY]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[LAPTOPBATTERY]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198198</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[LAPTOPWLAN]</Text>
+                  <LastFinalText>[LAPTOPWLAN]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[LAPTOPWLAN]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198119</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[TRIGGERARRAY_VALUE]</Text>
+                  <LastFinalText>[TRIGGERARRAY_VALUE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[TRIGGERARRAY_VALUE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198120</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[TRIGGERARRAY_TEXT]</Text>
+                  <LastFinalText>[TRIGGERARRAY_TEXT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[TRIGGERARRAY_TEXT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198121</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CAMPAIGNINFO]</Text>
+                  <LastFinalText>[CAMPAIGNINFO]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CAMPAIGNINFO]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198126</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_DIFFICULTY_TEXT]</Text>
+                  <LastFinalText>[CURRENT_DIFFICULTY_TEXT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_DIFFICULTY_TEXT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198127</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[ABLTIMER]</Text>
+                  <LastFinalText>[ABLTIMER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[ABLTIMER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198128</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[ABLVARIABLE]</Text>
+                  <LastFinalText>[ABLVARIABLE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[ABLVARIABLE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198129</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[HIGHLIGHTED_GAMEVERSION_NAME]</Text>
+                  <LastFinalText>[HIGHLIGHTED_GAMEVERSION_NAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[HIGHLIGHTED_GAMEVERSION_NAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198130</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SCHEDULED_GAMEVERSION_NAME]</Text>
+                  <LastFinalText>[SCHEDULED_GAMEVERSION_NAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SCHEDULED_GAMEVERSION_NAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198131</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[FILECHECKINFO]</Text>
+                  <LastFinalText>[FILECHECKINFO]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[FILECHECKINFO]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198133</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[PROFILE_PLAYERNAME]</Text>
+                  <LastFinalText>[PROFILE_PLAYERNAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[PROFILE_PLAYERNAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198134</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[BUILDING_MAINTENANCE]</Text>
+                  <LastFinalText>[BUILDING_MAINTENANCE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[BUILDING_MAINTENANCE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198135</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[MONEY_INCOME]</Text>
+                  <LastFinalText>[MONEY_INCOME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[MONEY_INCOME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198136</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SHIP_MAINTENANCE]</Text>
+                  <LastFinalText>[SHIP_MAINTENANCE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SHIP_MAINTENANCE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198137</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_BALANCE]</Text>
+                  <LastFinalText>[CURRENT_BALANCE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_BALANCE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198138</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_CITIZENS]</Text>
+                  <LastFinalText>[NUM_CITIZENS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_CITIZENS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198139</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_PEASANTS]</Text>
+                  <LastFinalText>[NUM_PEASANTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_PEASANTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198140</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_WOOD_AMOUNT]</Text>
+                  <LastFinalText>[CURRENT_WOOD_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_WOOD_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198141</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_TOOL_AMOUNT]</Text>
+                  <LastFinalText>[CURRENT_TOOL_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_TOOL_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198142</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_CITY_NAME]</Text>
+                  <LastFinalText>[CURRENT_CITY_NAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_CITY_NAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[COLOR 0xFFFFA928]Name of the island in view[DEFAULTCOLOR]</Text>
+                      <LastFinalText>[COLOR 0xFFFFA928]Name of the island in view[DEFAULTCOLOR]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[COLOR 0xFFFFA928]Name of the island in view[DEFAULTCOLOR]</Text>
+                    </English>
+                    <Russian>
+                      <Text>[COLOR 0xFFFFA928]Название видимого острова[DEFAULTCOLOR]</Text>
+                      <LastFinalText>[COLOR 0xFFFFA928]Название видимого острова[DEFAULTCOLOR]</LastFinalText>
+                    </Russian>
+                    <Czech>
+                      <Text>[COLOR 0xFFFFA928]Název zobrazeného ostrova[DEFAULTCOLOR]</Text>
+                      <LastFinalText>[COLOR 0xFFFFA928]Název zobrazeného ostrova[DEFAULTCOLOR]</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198143</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESERVED_WOOD_AMOUNT]</Text>
+                  <LastFinalText>[RESERVED_WOOD_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESERVED_WOOD_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198144</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESERVED_TOOLS_AMOUNT]</Text>
+                  <LastFinalText>[RESERVED_TOOLS_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESERVED_TOOLS_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198145</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_LEVEL_INCOME light]</Text>
+                  <LastFinalText>[SEL_BUILDING_LEVEL_INCOME light]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_LEVEL_INCOME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198146</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_EFFICIENCY]</Text>
+                  <LastFinalText>[SEL_BUILDING_EFFICIENCY]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_EFFICIENCY]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198147</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_RAW_MATERIAL1_AMOUNT]</Text>
+                  <LastFinalText>[SEL_BUILDING_RAW_MATERIAL1_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_RAW_MATERIAL1_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198148</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_RAW_MATERIAL2_AMOUNT]</Text>
+                  <LastFinalText>[SEL_BUILDING_RAW_MATERIAL2_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_RAW_MATERIAL2_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198149</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_PRODUCED_AMOUNT]</Text>
+                  <LastFinalText>[SEL_BUILDING_PRODUCED_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_PRODUCED_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198150</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_WAREHOUSE_ISLAND_INCOME]</Text>
+                  <LastFinalText>[SEL_WAREHOUSE_ISLAND_INCOME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_WAREHOUSE_ISLAND_INCOME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198151</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_WAREHOUSE_ISLAND_COSTS]</Text>
+                  <LastFinalText>[SEL_WAREHOUSE_ISLAND_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_WAREHOUSE_ISLAND_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198152</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_WAREHOUSE_ISLAND_BALANCE]</Text>
+                  <LastFinalText>[SEL_WAREHOUSE_ISLAND_BALANCE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_WAREHOUSE_ISLAND_BALANCE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198153</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_WAREHOUSE_CITY_NAME]</Text>
+                  <LastFinalText>[SEL_WAREHOUSE_CITY_NAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_WAREHOUSE_CITY_NAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198154</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_SHIP_WAREHOUSE_CITY_NAME]</Text>
+                  <LastFinalText>[SEL_SHIP_WAREHOUSE_CITY_NAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_SHIP_WAREHOUSE_CITY_NAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198155</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_DESCRIPTION]</Text>
+                  <LastFinalText>[QUEST_DESCRIPTION]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_DESCRIPTION]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198199</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_HONOUR]</Text>
+                  <LastFinalText>[CURRENT_HONOUR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_HONOUR]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198200</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESERVED_MONEY]</Text>
+                  <LastFinalText>[RESERVED_MONEY]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESERVED_MONEY]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198201</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESERVED_HONOUR]</Text>
+                  <LastFinalText>[RESERVED_HONOUR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESERVED_HONOUR]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198202</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[HONOUR_BY_PEASANTS]</Text>
+                  <LastFinalText>[HONOUR_BY_PEASANTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[HONOUR_BY_PEASANTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198203</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[HONOUR_BY_CITIZENS]</Text>
+                  <LastFinalText>[HONOUR_BY_CITIZENS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[HONOUR_BY_CITIZENS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198204</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[GOLD_COINS_BY_PEASANTS]</Text>
+                  <LastFinalText>[GOLD_COINS_BY_PEASANTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GOLD_COINS_BY_PEASANTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198205</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[GOLD_COINS_BY_CITIZENS]</Text>
+                  <LastFinalText>[GOLD_COINS_BY_CITIZENS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GOLD_COINS_BY_CITIZENS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198206</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_STONE_AMOUNT]</Text>
+                  <LastFinalText>[CURRENT_STONE_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_STONE_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198207</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESERVED_STONE_AMOUNT]</Text>
+                  <LastFinalText>[RESERVED_STONE_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESERVED_STONE_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198208</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_GLASS_AMOUNT]</Text>
+                  <LastFinalText>[CURRENT_GLASS_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_GLASS_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198209</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESERVED_GLASS_AMOUNT]</Text>
+                  <LastFinalText>[RESERVED_GLASS_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESERVED_GLASS_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198210</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_MOSAIC_AMOUNT]</Text>
+                  <LastFinalText>[CURRENT_MOSAIC_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENT_MOSAIC_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198211</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[RESERVED_MOSAIC_AMOUNT]</Text>
+                  <LastFinalText>[RESERVED_MOSAIC_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[RESERVED_MOSAIC_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198212</GUID>
+              <Kommentar>Standard Rot</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COLOR FFF73939]</Text>
+                  <LastFinalText>[COLOR FFF73939]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[COLOR FFF73939]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198213</GUID>
+              <Kommentar>Standard Grün</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COLOR FF20D224]</Text>
+                  <LastFinalText>[COLOR FF20D224]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[COLOR FF20D224]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198214</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_CARTCOUNT]</Text>
+                  <LastFinalText>[SEL_HANDLE_CARTCOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_CARTCOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198215</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Schiffsliste</Text>
+                  <LastFinalText>Schiffsliste</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Schiffsliste</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[SHIP_LISTBOX_TOOLTIP]</Text>
+                      <LastFinalText>[SHIP_LISTBOX_TOOLTIP]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[SHIP_LISTBOX_TOOLTIP]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198216</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_ATTACKSTRENGTH]</Text>
+                  <LastFinalText>[SEL_HANDLE_ATTACKSTRENGTH]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_ATTACKSTRENGTH]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198217</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SHIP_LOAD_CAPACITY]</Text>
+                  <LastFinalText>[SHIP_LOAD_CAPACITY]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SHIP_LOAD_CAPACITY]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198218</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[GOLD_COINS_BY_PATRICIANS]</Text>
+                  <LastFinalText>[GOLD_COINS_BY_PATRICIANS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GOLD_COINS_BY_PATRICIANS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198219</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_ISLAND_COUNT]</Text>
+                  <LastFinalText>[SEL_BUILDING_ISLAND_COUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_ISLAND_COUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198220</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_RESIDENTS_COUNT]</Text>
+                  <LastFinalText>[SEL_BUILDING_RESIDENTS_COUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_RESIDENTS_COUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198221</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_BUILDING_UPGRADABLE_COUNT]</Text>
+                  <LastFinalText>[SEL_BUILDING_UPGRADABLE_COUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_BUILDING_UPGRADABLE_COUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198222</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SELECTED_HANDLE_PLAYER_DIPLOMACY_STATUS]</Text>
+                  <LastFinalText>[SELECTED_HANDLE_PLAYER_DIPLOMACY_STATUS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SELECTED_HANDLE_PLAYER_DIPLOMACY_STATUS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198223</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HANDLE_MAINTENANCE]</Text>
+                  <LastFinalText>[SEL_HANDLE_MAINTENANCE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HANDLE_MAINTENANCE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198224</GUID>
+              <Kommentar>Standard Rot auf hellem Grund</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COLOR FFB6341A]</Text>
+                  <LastFinalText>[COLOR FFB6341A]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[COLOR FFD4450D]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198225</GUID>
+              <Kommentar>Standard Grün auf hellem Grund</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COLOR FF357313]</Text>
+                  <LastFinalText>[COLOR FF357313]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[COLOR FF275D00]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198226</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_QUEST_REWARD]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198227</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENTSHIPCOUNT]</Text>
+                  <LastFinalText>[CURRENTSHIPCOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[CURRENTSHIPCOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198228</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SUPPORTEDSHIPLIMIT]</Text>
+                  <LastFinalText>[SUPPORTEDSHIPLIMIT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SUPPORTEDSHIPLIMIT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198229</GUID>
+              <Kommentar>first quest reward of selected message</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_REWARD 0]</Text>
+                  <LastFinalText>[THIRDPARTY_REWARD 0]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_REWARD 0]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 0]</Text>
+                      <LastFinalText>[THIRDPARTY_REWARD_TOOLTIP 0]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 0]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198230</GUID>
+              <Kommentar>second quest reward of selected message</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_REWARD 1]</Text>
+                  <LastFinalText>[THIRDPARTY_REWARD 1]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_REWARD 1]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 1]</Text>
+                      <LastFinalText>[THIRDPARTY_REWARD_TOOLTIP 1]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 1]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198231</GUID>
+              <Kommentar>third quest reward of selected message</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_REWARD 2]</Text>
+                  <LastFinalText>[THIRDPARTY_REWARD 2]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_REWARD 2]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 2]</Text>
+                      <LastFinalText>[THIRDPARTY_REWARD_TOOLTIP 2]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 2]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198232</GUID>
+              <Kommentar>fourth quest reward of selected message</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_REWARD 3]</Text>
+                  <LastFinalText>[THIRDPARTY_REWARD 3]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_REWARD 3]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 3]</Text>
+                      <LastFinalText>[THIRDPARTY_REWARD_TOOLTIP 3]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[THIRDPARTY_REWARD_TOOLTIP 3]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198233</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_FARM_FARMFIELD_COSTS]</Text>
+                  <LastFinalText>[SEL_FARM_FARMFIELD_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_FARM_FARMFIELD_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198234</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_FARM_CULTIVATION_COSTS]</Text>
+                  <LastFinalText>[SEL_FARM_CULTIVATION_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_FARM_CULTIVATION_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198235</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_RESOURCE_AMOUNT]</Text>
+                  <LastFinalText>[SEL_RESOURCE_AMOUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_RESOURCE_AMOUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198236</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_NEUTRALBUILDING_USER]</Text>
+                  <LastFinalText>[SEL_NEUTRALBUILDING_USER]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_NEUTRALBUILDING_USER]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198237</GUID>
+              <Kommentar>Quest-Warenmenge wenig</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                  <LastFinalText>[NATIVE_QUEST_AMOUNT 0]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 0]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+            <SubAsset>
+              <GUIDOffset>30000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 0]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+            <SubAsset>
+              <GUIDOffset>50000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 0]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 0]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198238</GUID>
+              <Kommentar>Quest-Warenmenge mittel</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                  <LastFinalText>[NATIVE_QUEST_AMOUNT 1]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 1]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+            <SubAsset>
+              <GUIDOffset>30000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 1]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+            <SubAsset>
+              <GUIDOffset>50000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 1]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 1]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198239</GUID>
+              <Kommentar>Quest-Warenmenge viel</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                  <LastFinalText>[NATIVE_QUEST_AMOUNT 2]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+          <SubAssets>
+            <SubAsset>
+              <GUIDOffset>10000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 2]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+            <SubAsset>
+              <GUIDOffset>30000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 2]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+            <SubAsset>
+              <GUIDOffset>50000000</GUIDOffset>
+              <Values>
+                <Standard>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                      <LastFinalText>[NATIVE_QUEST_AMOUNT 2]</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>[NATIVE_QUEST_AMOUNT 2]</Text>
+                    </English>
+                  </LocaText>
+                </Text>
+              </Values>
+            </SubAsset>
+          </SubAssets>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198240</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[ACTIVE_TRADE_COSTS]</Text>
+                  <LastFinalText>[ACTIVE_TRADE_COSTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[ACTIVE_TRADE_COSTS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198000</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[ACTIVETRADE_GOLDCOST]</Text>
+                  <LastFinalText>[ACTIVETRADE_GOLDCOST]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[ACTIVETRADE_GOLDCOST]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198005</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[ACTIVETRADE_HONOURCOST]</Text>
+                  <LastFinalText>[ACTIVETRADE_HONOURCOST]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[ACTIVETRADE_HONOURCOST]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198241</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[ACTIVETRADE_INFO_TEXT]</Text>
+                  <LastFinalText>[ACTIVETRADE_INFO_TEXT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[ACTIVETRADE_INFO_TEXT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198242</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HOSPICE_BEGGING_LETTER_COUNT]</Text>
+                  <LastFinalText>[SEL_HOSPICE_BEGGING_LETTER_COUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_HOSPICE_BEGGING_LETTER_COUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198243</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_PREFERRED_GOODS]</Text>
+                  <LastFinalText>[THIRDPARTY_PREFERRED_GOODS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_PREFERRED_GOODS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198244</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_WAREHOUSE_CITIZEN_COUNT]</Text>
+                  <LastFinalText>[SEL_WAREHOUSE_CITIZEN_COUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_WAREHOUSE_CITIZEN_COUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198245</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_WAREHOUSE_BUILDING_COUNT]</Text>
+                  <LastFinalText>[SEL_WAREHOUSE_BUILDING_COUNT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_WAREHOUSE_BUILDING_COUNT]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198246</GUID>
+              <Kommentar>Laufende Kosten für alle milit. Einheiten</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[ARMY_MAINTENANCE]</Text>
+                  <LastFinalText>[ARMY_MAINTENANCE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[ARMY_MAINTENANCE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198247</GUID>
+              <Kommentar>Laufende Kosten für alle Bettler</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[BEGGAR_MAINTENANCE]</Text>
+                  <LastFinalText>[BEGGAR_MAINTENANCE]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[BEGGAR_MAINTENANCE]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198248</GUID>
+              <Kommentar>Anzahl Patrizier</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_PATRICIANS]</Text>
+                  <LastFinalText>[NUM_PATRICIANS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_PATRICIANS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198249</GUID>
+              <Kommentar>Anzahl Adelige</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_NOBLEMEN]</Text>
+                  <LastFinalText>[NUM_NOBLEMEN]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_NOBLEMEN]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198250</GUID>
+              <Kommentar>Anzahl Hospiz-Bettler</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_BEGGARS]</Text>
+                  <LastFinalText>[NUM_BEGGARS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_BEGGARS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198251</GUID>
+              <Kommentar>Anzahl Nomaden</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_NOMADS]</Text>
+                  <LastFinalText>[NUM_NOMADS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_NOMADS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198252</GUID>
+              <Kommentar>Anzahl Gesandte</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[NUM_AMBASSADORS]</Text>
+                  <LastFinalText>[NUM_AMBASSADORS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[NUM_AMBASSADORS]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198253</GUID>
+              <Kommentar>Name des eskortierten Schiffs im Schiffsmenü</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_SHIP_ESCORT_TARGET]</Text>
+                  <LastFinalText>[SEL_SHIP_ESCORT_TARGET]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_SHIP_ESCORT_TARGET]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198254</GUID>
+              <Kommentar>Name der aktuellen Route im Schiffsmenü</Kommentar>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_SHIP_ROUTENAME]</Text>
+                  <LastFinalText>[SEL_SHIP_ROUTENAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[SEL_SHIP_ROUTENAME]</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198255</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_CENTER_UPGRADE_CHARGES]</Text>
+                  <LastFinalText>[SEL_CENTER_UPGRADE_CHARGES]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198256</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[SEL_HOUSE_BUILDING_COUNT_RATIO]</Text>
+                  <LastFinalText>[SEL_HOUSE_BUILDING_COUNT_RATIO]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198257</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COLOR FF707070]</Text>
+                  <LastFinalText>[COLOR FF707070]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </English>
+                <French>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </French>
+                <Spanish>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Spanish>
+                <Italian>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Italian>
+                <Chinese>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Chinese>
+                <Polish>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Polish>
+                <Czech>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Czech>
+                <Russian>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Russian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198258</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COLOR 0xFFF6D401]</Text>
+                  <LastFinalText>[COLOR 0xFFF6D401]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </English>
+                <French>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </French>
+                <Spanish>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Spanish>
+                <Italian>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Italian>
+                <Chinese>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Chinese>
+                <Polish>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Polish>
+                <Czech>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Czech>
+                <Russian>
+                  <Text>Text:[COLOR FF707070]</Text>
+                </Russian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198259</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[COLOR 0xFF909090]</Text>
+                  <LastFinalText>[COLOR 0xFF909090]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198260</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[CURRENT_BALANCE light]</Text>
+                  <LastFinalText>[CURRENT_BALANCE light]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198261</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_INFOTEXT]</Text>
+                  <LastFinalText>[QUEST_INFOTEXT]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198262</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </English>
+                <French>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </Italian>
+                <Chinese>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </Chinese>
+                <Polish>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </Polish>
+                <Czech>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </Czech>
+                <Russian>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </Russian>
+                <EnglishUS>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </EnglishUS>
+                <SpanishUS>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </SpanishUS>
+                <FrenchUS>
+                  <Text>[GAMEVERSION]</Text>
+                  <LastFinalText>[GAMEVERSION]</LastFinalText>
+                </FrenchUS>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>198263</GUID>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </English>
+                <French>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </Italian>
+                <Chinese>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </Chinese>
+                <Polish>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </Polish>
+                <Czech>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </Czech>
+                <Russian>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </Russian>
+                <EnglishUS>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </EnglishUS>
+                <SpanishUS>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </SpanishUS>
+                <FrenchUS>
+                  <Text>[PLAYER_PROFILE_NAME]</Text>
+                  <LastFinalText>[PLAYER_PROFILE_NAME]</LastFinalText>
+                </FrenchUS>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Text Filter</Name>
+      <GUIDRangeMin>199700</GUIDRangeMin>
+      <GUIDRangeMax>199999</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>199700</GUID>
+              <Kommentar>Filter for Numbers</Kommentar>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                </English>
+                <French>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                </Italian>
+                <Polish>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                </Polish>
+                <Russian>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                </Russian>
+                <Czech>
+                  <Text>-1234567890</Text>
+                  <LastFinalText>-1234567890</LastFinalText>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>199701</GUID>
+              <Kommentar>Filter for positive Numbers</Kommentar>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                </English>
+                <French>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                </Italian>
+                <Polish>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                </Polish>
+                <Russian>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                </Russian>
+                <Czech>
+                  <Text>1234567890</Text>
+                  <LastFinalText>1234567890</LastFinalText>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

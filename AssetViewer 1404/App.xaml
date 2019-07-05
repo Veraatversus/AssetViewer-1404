@@ -1,0 +1,25 @@
+﻿<Application
+  x:Class="AssetViewer1404.App"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  xmlns:converter="clr-namespace:AssetViewer1404.Converter"
+  xmlns:data="clr-namespace:AssetViewer1404.Data"
+  xmlns:local="clr-namespace:AssetViewer1404"
+  StartupUri="MainWindow.xaml">
+  <Application.Resources>
+    <converter:IconPictureConverter x:Key="IconPictureConverter" />
+    <DataTemplate DataType="{x:Type data:Description}">
+      <Grid SnapsToDevicePixels="True">
+        <TextBlock
+          Margin="0,1,0,1"
+          local:TextBlockExtensions.DescFontStyle="{Binding FontStyle}"
+          Foreground="#FFFFE4AD"
+          Text="{Binding CurrentLang}"
+          TextWrapping="Wrap" />
+      </Grid>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type data:Icon}">
+      <Image Source="{Binding Converter={StaticResource IconPictureConverter}}" />
+    </DataTemplate>
+  </Application.Resources>
+</Application>
