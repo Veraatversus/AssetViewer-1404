@@ -90,7 +90,6 @@ namespace RDA.Data {
             this.Text = new Description("137594");
           }
           else {
-
           }
           break;
 
@@ -134,7 +133,7 @@ namespace RDA.Data {
 
         case "TollBalancing":
           this.Additionals = new List<Upgrade>();
-         
+
           if (element.Element("TollMoney") != null) {
             this.Additionals.Add(new Upgrade(element.Element("TollMoney")));
           }

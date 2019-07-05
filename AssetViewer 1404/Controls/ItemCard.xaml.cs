@@ -25,12 +25,9 @@ namespace AssetViewer1404.Controls {
       get { return (Asset)GetValue(SelectedAssetProperty); }
       set { SetValue(SelectedAssetProperty, value); }
     }
+
     public Description ItemQualityString => GetItemQuailityString();
 
-    private Description GetItemQuailityString() {
-      var selection = this.SelectedAsset?.ItemQuality ?? "A";
-      return RarityExtensions.RarityToDescription(selection);
-    }
     public LinearGradientBrush RarityBrush {
       get {
         var selection = this.SelectedAsset?.ItemQuality ?? "A";
@@ -58,6 +55,7 @@ namespace AssetViewer1404.Controls {
         }
       }
     }
+
     #endregion Properties
 
     #region Fields
@@ -95,7 +93,10 @@ namespace AssetViewer1404.Controls {
       (d as ItemCard).RaisePropertyChanged(nameof(RarityBrush));
       (d as ItemCard).RaisePropertyChanged(nameof(ItemQualityString));
     }
-
+    private Description GetItemQuailityString() {
+      var selection = this.SelectedAsset?.ItemQuality ?? "A";
+      return RarityExtensions.RarityToDescription(selection);
+    }
     private void ItemCard_Unloaded(object sender, RoutedEventArgs e) {
       if (Application.Current.MainWindow is MainWindow main) {
         main.ComboBoxLanguage.SelectionChanged -= this.ComboBoxLanguage_SelectionChanged;

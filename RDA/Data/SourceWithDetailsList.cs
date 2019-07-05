@@ -22,7 +22,7 @@ namespace RDA.Data {
 
     public void AddSourceAsset(XElement element, HashSet<XElement> details = default) {
       var assetID = element.XPathSelectElement("Values/Standard/GUID").Value;
-                     
+
       if (element.Element("Template").Value == "Quest") {
         if (element.XPathSelectElement("Asset/Values/Quest/QuestSender") == null) {
           element.XPathSelectElement("Asset/Values/Quest").Add(new XElement("QuestSender", "Quest"));

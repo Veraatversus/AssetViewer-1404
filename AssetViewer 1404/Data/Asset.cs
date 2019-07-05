@@ -41,10 +41,12 @@ namespace AssetViewer1404.Data {
     public List<Upgrade> TollBalancing { get; set; }
     public List<Upgrade> Seed { get; set; }
     public List<Upgrade> Sources { get; set; }
+
     public IEnumerable<Upgrade> AllUpgrades => typeof(Asset)
 .GetProperties()
 .Where(p => p.PropertyType == typeof(List<Upgrade>)/* && p.Name != nameof(Sources)*/)
 .SelectMany(l => (l.GetValue(this) as List<Upgrade>) ?? Enumerable.Empty<Upgrade>());
+
     #endregion Properties
 
     #region Constructors

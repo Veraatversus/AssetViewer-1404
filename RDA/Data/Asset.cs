@@ -15,6 +15,8 @@ namespace RDA.Data {
 
     #region Properties
 
+    public static ConcurrentDictionary<string, SourceWithDetailsList> SavedSources { get; set; } = new ConcurrentDictionary<string, SourceWithDetailsList>();
+
     [XmlAttribute]
     public string ID { get; set; }
 
@@ -173,7 +175,11 @@ namespace RDA.Data {
         this.Sources = sources.Select(s => new TempSource(s)).ToList();
       }
     }
-    public static ConcurrentDictionary<string, SourceWithDetailsList> SavedSources { get; set; } = new ConcurrentDictionary<string, SourceWithDetailsList>();
+
+    #endregion Constructors
+
+    #region Methods
+
     private SourceWithDetailsList FindSources(string id, Details mainDetails = default, SourceWithDetailsList inResult = default) {
       mainDetails = (mainDetails == default) ? new Details() : mainDetails;
       mainDetails.PreviousIDs.Add(id);
@@ -213,6 +219,7 @@ namespace RDA.Data {
             case "BoardersItem":    //doesnt know
               //Ignore
               break;
+
             case "WinConditionQuest":
             case "Treibgut_Quest":
             case "Schiffbruechigen_Quest":
@@ -262,6 +269,7 @@ namespace RDA.Data {
             case "KriegsschiffJagd":
               result.AddSourceAsset(element.GetProxyElement("Quest"), new HashSet<XElement> { element.GetProxyElement("Quest") });
               break;
+
             case "EasyCSP":
             case "HardCSP":
             case "MediumCSP":
@@ -269,22 +277,23 @@ namespace RDA.Data {
                 result.AddSourceAsset(element.GetProxyElement("ShipDrop"), new HashSet<XElement> { element.GetProxyElement("ShipDrop") });
               }
               else {
-
               }
               break;
+
             case "ExpeditionItem":
               if (element.XPathSelectElement("Values/ExpeditionBalancing/ExpeditionReward")?.Value == id ||
                   element.XPathSelectElement("Values/ExpeditionBalancing/ExpeditionItemReward")?.Value == id) {
                 result.AddSourceAsset(element.GetProxyElement("Expedition"), new HashSet<XElement> { element.GetProxyElement("Expedition") });
               }
               else {
-
               }
               break;
+
             case "Corsair":
             case "Harbour":
-                result.AddSourceAsset(element.GetProxyElement("Harbor"), new HashSet<XElement> { element });
-                break;
+              result.AddSourceAsset(element.GetProxyElement("Harbor"), new HashSet<XElement> { element });
+              break;
+
             case "Reward":
             case "RewardPool":
               if (SavedSources.ContainsKey(key)) {
@@ -309,11 +318,6 @@ namespace RDA.Data {
       }
       return mainResult;
     }
-
-
-    #endregion Constructors
-
-    #region Methods
 
     private void ProcessElement_TollBalancing(XElement element) {
       if (element.HasElements) {

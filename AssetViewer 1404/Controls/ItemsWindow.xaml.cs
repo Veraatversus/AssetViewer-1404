@@ -19,6 +19,8 @@ namespace AssetViewer1404.Controls {
 
     public ItemsHolder ItemsHolder { get; } = new ItemsHolder();
 
+    public Description ResetButtonText => App.Descriptions[10];
+
     #endregion Properties
 
     #region Constructors
@@ -84,7 +86,7 @@ namespace AssetViewer1404.Controls {
       ItemsHolder.IsRefreshingUi = false;
       ItemsHolder.UpdateUI();
     }
-    public Description ResetButtonText => App.Descriptions[10];
+
     #endregion Methods
   }
 }
