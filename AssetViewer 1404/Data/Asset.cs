@@ -19,7 +19,7 @@ namespace AssetViewer1404.Data {
     public string Cooldown { get; set; }
     public string EffectDuration { get; private set; }
     public string UtilizationCount { get; private set; }
-    public List<Description> AffectTargets { get; set; }
+    public List<Description> AffectTargets { get; set; } = new List<Description>();
     public List<Description> TargetCategories { get; set; } = new List<Description>();
     public List<Upgrade> CostUpgrades { get; set; }
     public List<Upgrade> HitpointUpgrade { get; set; }
@@ -40,11 +40,12 @@ namespace AssetViewer1404.Data {
     public List<Upgrade> MilitaryUnitUpgrade { get; set; }
     public List<Upgrade> TollBalancing { get; set; }
     public List<Upgrade> Seed { get; set; }
-    public List<Upgrade> Sources { get; set; }
+    public List<Upgrade> Sources { get; set; } = new List<Upgrade>();
+    public Description AffectTargetsInfo => AffectTargets.Join(", ").InsertBefore("Affects", "Beeinflusst");
 
     public IEnumerable<Upgrade> AllUpgrades => typeof(Asset)
 .GetProperties()
-.Where(p => p.PropertyType == typeof(List<Upgrade>)/* && p.Name != nameof(Sources)*/)
+.Where(p => p.PropertyType == typeof(List<Upgrade>) && p.Name != nameof(Sources))
 .SelectMany(l => (l.GetValue(this) as List<Upgrade>) ?? Enumerable.Empty<Upgrade>());
 
     #endregion Properties
@@ -103,7 +104,7 @@ namespace AssetViewer1404.Data {
         this.ProductionUpgrade = asset.Element("ProductionUpgrade").Elements().Select(s => new Upgrade(s)).ToList();
       }
       if (asset.Element("PublicBuildingUpgrade")?.HasElements ?? false) {
-        this.ProductionUpgrade = asset.Element("PublicBuildingUpgrade").Elements().Select(s => new Upgrade(s)).ToList();
+        this.PublicBuildingUpgrade = asset.Element("PublicBuildingUpgrade").Elements().Select(s => new Upgrade(s)).ToList();
       }
       if (asset.Element("WarehouseUpgrade")?.HasElements ?? false) {
         this.WarehouseUpgrade = asset.Element("WarehouseUpgrade").Elements().Select(s => new Upgrade(s)).ToList();

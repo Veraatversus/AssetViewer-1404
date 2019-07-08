@@ -1,611 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RepairShipItem>
-  <Asset ID="8204" Name="Selbstreparatur sehr viel">
-    <Text ID="8204" FontStyle="0">
-      <EN>Excellent Ship's Carpenter</EN>
-      <DE>Exzellenter Schiffszimmermann</DE>
-      <Icon FileIndex="65" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Temporarily repairs damage on board Ship automatically. Where there's a will, there's a way! </EN>
-        <DE>Repariert vorübergehend selbstständig Beschädigungen an Bord eines Schiffes. Geht nicht, gibt's nicht! </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>B</ItemQuality>
-    <ItemType ID="137575" FontStyle="0">
-      <EN>Ship Item</EN>
-      <DE>Schiffs-Item</DE>
-    </ItemType>
-    <ItemCategory>Ship</ItemCategory>
-    <ItemTarget>Object</ItemTarget>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>150  Honour</EN>
-      <DE>150  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <Cooldown>420000</Cooldown>
-    <EffectDuration>120000</EffectDuration>
-    <AffectTargets />
-    <TargetCategories />
-    <ShipRepairUpgrade>
-      <Upgrade>
-        <Text ID="137663" FontStyle="0">
-          <EN>Ship repair:</EN>
-          <DE>Schiffsreparatur:</DE>
-        </Text>
-        <Value>+200</Value>
-      </Upgrade>
-    </ShipRepairUpgrade>
-    <Upgrade />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>5750000</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
-        </Text>
-        <Details>
-          <Description ID="5750000" FontStyle="0">
-            <EN>Nip in the bud</EN>
-            <DE>Im Keim ersticken</DE>
-          </Description>
-          <Description ID="5750002" FontStyle="0">
-            <EN>All-seeing eyes</EN>
-            <DE>Allsehendes Auge</DE>
-          </Description>
-          <Description ID="5750004" FontStyle="0">
-            <EN>That's all the thanks you get</EN>
-            <DE>Undank ist der Welt Lohn</DE>
-          </Description>
-          <Description ID="5750006" FontStyle="0">
-            <EN>It is the will of God!</EN>
-            <DE>Deus vult!</DE>
-          </Description>
-          <Description ID="5750008" FontStyle="0">
-            <EN>Righteous anger</EN>
-            <DE>Gerechter Zorn</DE>
-          </Description>
-          <Description ID="5750010" FontStyle="0">
-            <EN>Sense of duty</EN>
-            <DE>Pflichtbewußtsein</DE>
-          </Description>
-          <Description ID="5750012" FontStyle="0">
-            <EN>For Faith and justice</EN>
-            <DE>Für Glauben und Gerechtigkeit</DE>
-          </Description>
-          <Description ID="5750014" FontStyle="0">
-            <EN>Demonstration of power</EN>
-            <DE>Machtdemonstration</DE>
-          </Description>
-          <Description ID="5750016" FontStyle="0">
-            <EN>Feint!</EN>
-            <DE>Narrenvertrag</DE>
-          </Description>
-          <Description ID="5750018" FontStyle="0">
-            <EN>In the service of the Lord</EN>
-            <DE>Im Dienste des Herrn</DE>
-          </Description>
-          <Description ID="5750024" FontStyle="0">
-            <EN>Scapegoat</EN>
-            <DE>Bauernopfer</DE>
-          </Description>
-          <Description ID="5750026" FontStyle="0">
-            <EN>Disarmed!</EN>
-            <DE>Entwaffnet!</DE>
-          </Description>
-          <Description ID="5750028" FontStyle="0">
-            <EN>Good fortune</EN>
-            <DE>Glückes Geschick</DE>
-          </Description>
-          <Description ID="5750030" FontStyle="0">
-            <EN>O come all ye mercenaries!</EN>
-            <DE>Söldner her!</DE>
-          </Description>
-          <Description ID="5750044" FontStyle="0">
-            <EN>Not unpunished…</EN>
-            <DE>Aasfresser</DE>
-          </Description>
-          <Description ID="5750046" FontStyle="0">
-            <EN>A good lesson</EN>
-            <DE>Denkzettel</DE>
-          </Description>
-          <Description ID="5750048" FontStyle="0">
-            <EN>Bring them in line</EN>
-            <DE>In die Schranken weisen</DE>
-          </Description>
-          <Description ID="5750050" FontStyle="0">
-            <EN>The Hammer of Witches I</EN>
-            <DE>Hexenhammer I</DE>
-          </Description>
-          <Description ID="5750052" FontStyle="0">
-            <EN>The Hammer of Witches II</EN>
-            <DE>Hexenhammer II</DE>
-          </Description>
-          <Description ID="5750056" FontStyle="0">
-            <EN>The writing of History I</EN>
-            <DE>Geschichtsschreibung I</DE>
-          </Description>
-          <Description ID="5750058" FontStyle="0">
-            <EN>The writing of History II</EN>
-            <DE>Geschichtsschreibung II</DE>
-          </Description>
-          <Description ID="5750060" FontStyle="0">
-            <EN>The writing of History III</EN>
-            <DE>Geschichtsschreibung III</DE>
-          </Description>
-          <Description ID="5750064" FontStyle="0">
-            <EN>The writing of History V</EN>
-            <DE>Geschichtsschreibung V</DE>
-          </Description>
-          <Description ID="5750068" FontStyle="0">
-            <EN>The Devil's work I</EN>
-            <DE>Teufelswerk I</DE>
-          </Description>
-          <Description ID="5750070" FontStyle="0">
-            <EN>The Devil's work III</EN>
-            <DE>Teufelswerk II</DE>
-          </Description>
-          <Description ID="5750074" FontStyle="0">
-            <EN>The Devil's work III</EN>
-            <DE>Teufelswerk III</DE>
-          </Description>
-          <Description ID="5750075" FontStyle="0">
-            <EN>The Devil's work IV</EN>
-            <DE>Teufelswerk IV</DE>
-          </Description>
-          <Description ID="5750077" FontStyle="0">
-            <EN>The Devil's work V</EN>
-            <DE>Teufelswerk V</DE>
-          </Description>
-          <Description ID="5750083" FontStyle="0">
-            <EN>A matter of time</EN>
-            <DE>Eine Frage der Zeit</DE>
-          </Description>
-          <Description ID="5750085" FontStyle="0">
-            <EN>False accusations</EN>
-            <DE>Falsche Anschuldigungen</DE>
-          </Description>
-          <Description ID="5750020" FontStyle="0">
-            <EN>Inner order</EN>
-            <DE>Innere Ordnung</DE>
-          </Description>
-          <Description ID="5750022" FontStyle="0">
-            <EN>Friend or foe?</EN>
-            <DE>Freund oder Feind?</DE>
-          </Description>
-          <Description ID="5750032" FontStyle="0">
-            <EN>Power games</EN>
-            <DE>Machtspiele</DE>
-          </Description>
-          <Description ID="5750034" FontStyle="0">
-            <EN>Divine claim</EN>
-            <DE>Heiliger Anspruch</DE>
-          </Description>
-          <Description ID="5750036" FontStyle="0">
-            <EN>Unstoppable</EN>
-            <DE>Unaufhaltsam</DE>
-          </Description>
-          <Description ID="5750038" FontStyle="0">
-            <EN>The balance of power</EN>
-            <DE>Zünglein an der Waage</DE>
-          </Description>
-          <Description ID="5750040" FontStyle="0">
-            <EN>Punishment must be meted out</EN>
-            <DE>Angemessene Buße</DE>
-          </Description>
-          <Description ID="5750042" FontStyle="0">
-            <EN>For the good of the People</EN>
-            <DE>Zum Wohle des Volkes</DE>
-          </Description>
-          <Description ID="5750062" FontStyle="0">
-            <EN>The writing of History IV</EN>
-            <DE>Geschichtsschreibung IV</DE>
-          </Description>
-          <Description ID="5750087" FontStyle="0">
-            <EN>The tenth</EN>
-            <DE>Der Zehnte</DE>
-          </Description>
-          <Description ID="5750099" FontStyle="0">
-            <EN>Distress call</EN>
-            <DE>Hilferuf</DE>
-          </Description>
-          <Description ID="6350000" FontStyle="0">
-            <EN>The rumour</EN>
-            <DE>Das Gerücht</DE>
-          </Description>
-          <Description ID="6350002" FontStyle="0">
-            <EN>Stroke of luck</EN>
-            <DE>Glückliche Fügung</DE>
-          </Description>
-          <Description ID="6350004" FontStyle="0">
-            <EN>Funeral service</EN>
-            <DE>Trauerfeier</DE>
-          </Description>
-          <Description ID="6350006" FontStyle="0">
-            <EN>Costly robes</EN>
-            <DE>Kostbare  Roben</DE>
-          </Description>
-          <Description ID="6350007" FontStyle="0">
-            <EN>Lucky survivors</EN>
-            <DE>Glückliche Überlebende</DE>
-          </Description>
-          <Description ID="6350010" FontStyle="0">
-            <EN>Sabotage</EN>
-            <DE>Sabotage</DE>
-          </Description>
-          <Description ID="6350012" FontStyle="0">
-            <EN>Badly advised</EN>
-            <DE>Schlecht beraten</DE>
-          </Description>
-          <Description ID="6350032" FontStyle="0">
-            <EN>Collision</EN>
-            <DE>Kollision </DE>
-          </Description>
-          <Description ID="6350014" FontStyle="0">
-            <EN>Rough Ropes</EN>
-            <DE>Spröde Taue </DE>
-          </Description>
-          <Description ID="6350036" FontStyle="0">
-            <EN>Shallows</EN>
-            <DE>Untiefen</DE>
-          </Description>
-          <Description ID="6350015" FontStyle="0">
-            <EN>Too late?</EN>
-            <DE>Zu spät?</DE>
-          </Description>
-          <Description ID="6350026" FontStyle="0">
-            <EN>Cruel Sea</EN>
-            <DE>Tückische See</DE>
-          </Description>
-          <Description ID="6350022" FontStyle="0">
-            <EN>Short process</EN>
-            <DE>Kurzer Prozess</DE>
-          </Description>
-          <Description ID="6350034" FontStyle="0">
-            <EN>Heavy burden</EN>
-            <DE>Schwere Bürde</DE>
-          </Description>
-          <Description ID="6350020" FontStyle="0">
-            <EN>Sacrilege</EN>
-            <DE>Sakrileg</DE>
-          </Description>
-          <Description ID="6350040" FontStyle="0">
-            <EN>Hospitality I</EN>
-            <DE>Gastfreundschaft I</DE>
-          </Description>
-          <Description ID="6350044" FontStyle="0">
-            <EN>Show your Colours I</EN>
-            <DE>Flagge zeigen I</DE>
-          </Description>
-          <Description ID="6350046" FontStyle="0">
-            <EN>Show your Colours II</EN>
-            <DE>Flagge zeigen II</DE>
-          </Description>
-          <Description ID="6350050" FontStyle="0">
-            <EN>A matter of trust I</EN>
-            <DE>Eine Frage des Vertrauens I</DE>
-          </Description>
-          <Description ID="6350052" FontStyle="0">
-            <EN>A matter of trust II</EN>
-            <DE>Eine Frage des Vertrauens II</DE>
-          </Description>
-          <Description ID="6350054" FontStyle="0">
-            <EN>A matter of trust III</EN>
-            <DE>Eine Frage des Vertrauen III</DE>
-          </Description>
-          <Description ID="6350060" FontStyle="0">
-            <EN>Deceit II</EN>
-            <DE>Täuschung II</DE>
-          </Description>
-          <Description ID="6350064" FontStyle="0">
-            <EN>Against the Pirates</EN>
-            <DE>Wider die Piraten!</DE>
-          </Description>
-          <Description ID="6350066" FontStyle="0">
-            <EN>Incorrigible traitor</EN>
-            <DE>Uneinsichtiger Verräter</DE>
-          </Description>
-          <Description ID="6350068" FontStyle="0">
-            <EN>Stroke of luck</EN>
-            <DE>Glückliche Fügung</DE>
-          </Description>
-          <Description ID="6350070" FontStyle="0">
-            <EN>Whoever finds it…</EN>
-            <DE>Wer es findet ...</DE>
-          </Description>
-          <Description ID="6350072" FontStyle="0">
-            <EN>Thieves</EN>
-            <DE>Diebe</DE>
-          </Description>
-          <Description ID="6350030" FontStyle="0">
-            <EN>No honour among thieves</EN>
-            <DE>Keine Ehre unter Dieben</DE>
-          </Description>
-          <Description ID="6350028" FontStyle="0">
-            <EN>Conspiracy</EN>
-            <DE>Verschwörung</DE>
-          </Description>
-          <Description ID="6350018" FontStyle="0">
-            <EN>The rightful owner</EN>
-            <DE>Der rechtmäßige Besitzer</DE>
-          </Description>
-          <Description ID="6350024" FontStyle="0">
-            <EN>Warmonger</EN>
-            <DE>Kriegstreiber</DE>
-          </Description>
-          <Description ID="6350038" FontStyle="0">
-            <EN>The legation</EN>
-            <DE>Die Gesandtschaft</DE>
-          </Description>
-          <Description ID="6350078" FontStyle="0">
-            <EN>Distress call</EN>
-            <DE>Hilferuf</DE>
-          </Description>
-          <Description ID="6050000" FontStyle="0">
-            <EN>Blue seduction</EN>
-            <DE>Blaue Verführung</DE>
-          </Description>
-          <Description ID="6050002" FontStyle="0">
-            <EN>The Baroness in Fur</EN>
-            <DE>Die Baronessa im Pelz</DE>
-          </Description>
-          <Description ID="6050004" FontStyle="0">
-            <EN>Masked ball</EN>
-            <DE>Maskenball</DE>
-          </Description>
-          <Description ID="6050006" FontStyle="0">
-            <EN>A mania for Pearls</EN>
-            <DE>Perlenwahn</DE>
-          </Description>
-          <Description ID="6050008" FontStyle="0">
-            <EN>Trading Skills</EN>
-            <DE>Handelsgeschick</DE>
-          </Description>
-          <Description ID="6050012" FontStyle="0">
-            <EN>To save a Spy</EN>
-            <DE>Verlorene Informationen</DE>
-          </Description>
-          <Description ID="6050010" FontStyle="0">
-            <EN>Punishment à la Zanchi </EN>
-            <DE>Strafe à la Zanchi </DE>
-          </Description>
-          <Description ID="6050014" FontStyle="0">
-            <EN>Lost sanctuaries</EN>
-            <DE>Verlorene Heiligtümer</DE>
-          </Description>
-          <Description ID="6050016" FontStyle="0">
-            <EN>In the right light</EN>
-            <DE>Im rechten Licht</DE>
-          </Description>
-          <Description ID="6050018" FontStyle="0">
-            <EN>A good dead</EN>
-            <DE>Eine gute Tat</DE>
-          </Description>
-          <Description ID="6050020" FontStyle="0">
-            <EN>Perfume of roses</EN>
-            <DE>Rosenduft</DE>
-          </Description>
-          <Description ID="6050022" FontStyle="0">
-            <EN>Stranded beauty</EN>
-            <DE>Gestrandete Schönheit</DE>
-          </Description>
-          <Description ID="6050032" FontStyle="0">
-            <EN>Sweet herbs</EN>
-            <DE>Schöne Kräuter</DE>
-          </Description>
-          <Description ID="6050034" FontStyle="0">
-            <EN>The example</EN>
-            <DE>Das Exempel </DE>
-          </Description>
-          <Description ID="6050036" FontStyle="0">
-            <EN>A pack of lies</EN>
-            <DE>Alles Lüge</DE>
-          </Description>
-          <Description ID="6050040" FontStyle="0">
-            <EN>The great Feast I</EN>
-            <DE>Das große Fest I</DE>
-          </Description>
-          <Description ID="6050042" FontStyle="0">
-            <EN>The great Feast II</EN>
-            <DE>Das große Fest II</DE>
-          </Description>
-          <Description ID="6050043" FontStyle="0">
-            <EN>The great Feast III</EN>
-            <DE>Das große Fest III</DE>
-          </Description>
-          <Description ID="6050048" FontStyle="0">
-            <EN>A blaze of glory II</EN>
-            <DE>Glanz und Gloria II</DE>
-          </Description>
-          <Description ID="6050050" FontStyle="0">
-            <EN>A blaze of glory I</EN>
-            <DE>Glanz und Gloria I</DE>
-          </Description>
-          <Description ID="6050054" FontStyle="0">
-            <EN>The search for the Fountain of youth I</EN>
-            <DE>Suche nach dem Jungbrunnen I</DE>
-          </Description>
-          <Description ID="6050056" FontStyle="0">
-            <EN>The search for the Fountain of youth II</EN>
-            <DE>Suche nach dem Jungbrunnen II</DE>
-          </Description>
-          <Description ID="6050058" FontStyle="0">
-            <EN>The search for the Fountain of youth III</EN>
-            <DE>Such nach dem Jungbrunnen III</DE>
-          </Description>
-          <Description ID="6050060" FontStyle="0">
-            <EN>The search for the Fountain of youth IV</EN>
-            <DE>Suche nach dem Jungbrunnen IV</DE>
-          </Description>
-          <Description ID="6050066" FontStyle="0">
-            <EN>Roundabout routes I</EN>
-            <DE>Auf Umwegen I</DE>
-          </Description>
-          <Description ID="6050070" FontStyle="0">
-            <EN>Compliments</EN>
-            <DE>Komplimente</DE>
-          </Description>
-          <Description ID="6050072" FontStyle="0">
-            <EN>Shared deception</EN>
-            <DE>Verteilter Betrug</DE>
-          </Description>
-          <Description ID="6050074" FontStyle="0">
-            <EN>Assumptions</EN>
-            <DE>Anmaßungen </DE>
-          </Description>
-          <Description ID="6050076" FontStyle="0">
-            <EN>Later find</EN>
-            <DE>Später Fund</DE>
-          </Description>
-          <Description ID="6050078" FontStyle="0">
-            <EN>The law of the Sea</EN>
-            <DE>Das Gesetz der See</DE>
-          </Description>
-          <Description ID="6050024" FontStyle="0">
-            <EN>Failed list</EN>
-            <DE>Gescheiterte List</DE>
-          </Description>
-          <Description ID="6050026" FontStyle="0">
-            <EN>An art under threat</EN>
-            <DE>Bedrohte Kunst</DE>
-          </Description>
-          <Description ID="6050028" FontStyle="0">
-            <EN>Treasures on their travels</EN>
-            <DE>Schätze auf Reisen</DE>
-          </Description>
-          <Description ID="6050030" FontStyle="0">
-            <EN>Lists and Ships</EN>
-            <DE>List und Schiffe</DE>
-          </Description>
-          <Description ID="6050038" FontStyle="0">
-            <EN>Merciless</EN>
-            <DE>Erbarmungslos</DE>
-          </Description>
-          <Description ID="6050084" FontStyle="0">
-            <EN>Distress call</EN>
-            <DE>Hilferuf</DE>
-          </Description>
-          <Description ID="8250512" FontStyle="0">
-            <EN>Friend or foe</EN>
-            <DE>Freund oder Feind</DE>
-          </Description>
-          <Description ID="8250516" FontStyle="0">
-            <EN>Security measures</EN>
-            <DE>Sicherheitsmaßnahmen</DE>
-          </Description>
-          <Description ID="8250519" FontStyle="0">
-            <EN>Compassion for a Corsair</EN>
-            <DE>Barmherzigkeit für einen Korsaren</DE>
-          </Description>
-          <Description ID="8250522" FontStyle="0">
-            <EN>Corsair literature</EN>
-            <DE>Korsarenliteratur</DE>
-          </Description>
-          <Description ID="8250525" FontStyle="0">
-            <EN>Equal opportunities at Sea</EN>
-            <DE>Chancengleichheit auf See</DE>
-          </Description>
-          <Description ID="8250528" FontStyle="0">
-            <EN>Ransom demand</EN>
-            <DE>Lösegeldforderung</DE>
-          </Description>
-          <Description ID="8250531" FontStyle="0">
-            <EN>Golden ballast</EN>
-            <DE>Güldener Ballast</DE>
-          </Description>
-          <Description ID="8250534" FontStyle="0">
-            <EN>Over-zealous Corsairs</EN>
-            <DE>Übereifrige Korsaren</DE>
-          </Description>
-          <Description ID="8250537" FontStyle="0">
-            <EN>Collision with a stranger</EN>
-            <DE>Kollision mit einer Unbekannten</DE>
-          </Description>
-          <Description ID="8250549" FontStyle="0">
-            <EN>Rum at the helm</EN>
-            <DE>Rum am Rad</DE>
-          </Description>
-          <Description ID="8250552" FontStyle="0">
-            <EN>Supplies for the Suppliers</EN>
-            <DE>Versorgung für die Versorgung</DE>
-          </Description>
-          <Description ID="8250555" FontStyle="0">
-            <EN>Reinforcing the planks</EN>
-            <DE>Verstärkung der Planken</DE>
-          </Description>
-          <Description ID="8250558" FontStyle="0">
-            <EN>The secret base</EN>
-            <DE>Der geheime Stützpunkt</DE>
-          </Description>
-          <Description ID="8250570" FontStyle="0">
-            <EN>Bearer of bad news</EN>
-            <DE>Unheilsbote</DE>
-          </Description>
-          <Description ID="8250573" FontStyle="0">
-            <EN>Four walk the plank</EN>
-            <DE>Vier über die Planke</DE>
-          </Description>
-          <Description ID="8250579" FontStyle="0">
-            <EN>Information</EN>
-            <DE>Informationen</DE>
-          </Description>
-          <Description ID="8250582" FontStyle="0">
-            <EN>Unmasking of a Spy</EN>
-            <DE>Enthüllung eines Spions</DE>
-          </Description>
-          <Description ID="8250585" FontStyle="0">
-            <EN>Exploration</EN>
-            <DE>Erschließung</DE>
-          </Description>
-          <Description ID="8250588" FontStyle="0">
-            <EN>The arch-enemy</EN>
-            <DE>Der Erzfeind</DE>
-          </Description>
-          <Description ID="8250591" FontStyle="0">
-            <EN>Captivity</EN>
-            <DE>Geiselhaft</DE>
-          </Description>
-          <Description ID="8250540" FontStyle="0">
-            <EN>The Corsair hunter</EN>
-            <DE>Der Korsarenjäger</DE>
-          </Description>
-          <Description ID="8250543" FontStyle="0">
-            <EN>Letter of marque in sight</EN>
-            <DE>Kaperbrief in Aussicht</DE>
-          </Description>
-          <Description ID="8250546" FontStyle="0">
-            <EN>Escort for a Trader</EN>
-            <DE>Eskorte für einen Händler</DE>
-          </Description>
-          <Description ID="8250561" FontStyle="0">
-            <EN>The dishonourable Corsair</EN>
-            <DE>Der unehrliche Korsar</DE>
-          </Description>
-          <Description ID="8250564" FontStyle="0">
-            <EN>Blockade attempt</EN>
-            <DE>Blockadeversuch</DE>
-          </Description>
-          <Description ID="8250567" FontStyle="0">
-            <EN>High treason</EN>
-            <DE>Hochverrat</DE>
-          </Description>
-          <Description ID="8250576" FontStyle="0">
-            <EN>Hard times</EN>
-            <DE>Schwere Zeiten</DE>
-          </Description>
-          <Description ID="8250608" FontStyle="0">
-            <EN>Uncharted reefs</EN>
-            <DE>Unbekannte Riffe</DE>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
   <Asset ID="8060" Name="Selbstreparatur wenig">
     <Text ID="8060" FontStyle="0">
       <EN>Passable Ship's carpenter</EN>
@@ -840,20 +234,20 @@
             <DE>Reise in die Vergangenheit III</DE>
           </Description>
           <Description ID="5550106" FontStyle="0">
-            <EN>Marie von  I</EN>
-            <DE>Marie von  I</DE>
+            <EN>Marie von [QUEST_CITY] I</EN>
+            <DE>Marie von [QUEST_CITY] I</DE>
           </Description>
           <Description ID="5550110" FontStyle="0">
-            <EN>Marie von  II</EN>
-            <DE>Marie von  II</DE>
+            <EN>Marie von [QUEST_CITY] II</EN>
+            <DE>Marie von [QUEST_CITY] II</DE>
           </Description>
           <Description ID="5550112" FontStyle="0">
-            <EN>Marie von  III</EN>
-            <DE>Marie von  III</DE>
+            <EN>Marie von [QUEST_CITY] III</EN>
+            <DE>Marie von [QUEST_CITY] III</DE>
           </Description>
           <Description ID="5550115" FontStyle="0">
-            <EN>Marie von  IV</EN>
-            <DE>Marie von  IV</DE>
+            <EN>Marie von [QUEST_EXECUTIONCITY] IV</EN>
+            <DE>Marie von [QUEST_EXECUTIONCITY] IV</DE>
           </Description>
           <Description ID="5550124" FontStyle="0">
             <EN>Saviour in distress</EN>
@@ -888,8 +282,8 @@
             <DE>Freundschaftsdienst</DE>
           </Description>
           <Description ID="5550118" FontStyle="0">
-            <EN>Marie von  V</EN>
-            <DE>Marie von  V</DE>
+            <EN>Marie von [QUEST_CITY] V</EN>
+            <DE>Marie von [QUEST_CITY] V</DE>
           </Description>
           <Description ID="5550127" FontStyle="0">
             <EN>The Artefact</EN>
@@ -1964,8 +1358,8 @@
             <DE>Hoffnungsschimmer II</DE>
           </Description>
           <Description ID="5850052" FontStyle="0">
-            <EN>'s sister I</EN>
-            <DE>s Schwester I</DE>
+            <EN>[QUEST_SENDER]'s sister I</EN>
+            <DE>[QUEST_SENDER]s Schwester I</DE>
           </Description>
           <Description ID="5850066" FontStyle="0">
             <EN>Furs Furs Furs I</EN>
@@ -3609,8 +3003,8 @@
             <DE>Des einen Freud...</DE>
           </Description>
           <Description ID="6600610" FontStyle="0">
-            <EN>The Captain of </EN>
-            <DE>Der Hauptmann von </DE>
+            <EN>The Captain of [QUEST_CITY]</EN>
+            <DE>Der Hauptmann von [QUEST_CITY]</DE>
           </Description>
           <Description ID="6600612" FontStyle="0">
             <EN>Spiteful bed-chamber</EN>
@@ -3924,6 +3318,612 @@
           <Description ID="6606205" FontStyle="0">
             <EN>Bitter tears</EN>
             <DE>Verschmähter Tropfen</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8204" Name="Selbstreparatur sehr viel">
+    <Text ID="8204" FontStyle="0">
+      <EN>Excellent Ship's Carpenter</EN>
+      <DE>Exzellenter Schiffszimmermann</DE>
+      <Icon FileIndex="65" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Temporarily repairs damage on board Ship automatically. Where there's a will, there's a way! </EN>
+        <DE>Repariert vorübergehend selbstständig Beschädigungen an Bord eines Schiffes. Geht nicht, gibt's nicht! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>150  Honour</EN>
+      <DE>150  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <Cooldown>420000</Cooldown>
+    <EffectDuration>120000</EffectDuration>
+    <AffectTargets />
+    <TargetCategories />
+    <ShipRepairUpgrade>
+      <Upgrade>
+        <Text ID="137663" FontStyle="0">
+          <EN>Ship repair:</EN>
+          <DE>Schiffsreparatur:</DE>
+        </Text>
+        <Value>+200</Value>
+      </Upgrade>
+    </ShipRepairUpgrade>
+    <Upgrade />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5750000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5750000" FontStyle="0">
+            <EN>Nip in the bud</EN>
+            <DE>Im Keim ersticken</DE>
+          </Description>
+          <Description ID="5750002" FontStyle="0">
+            <EN>All-seeing eyes</EN>
+            <DE>Allsehendes Auge</DE>
+          </Description>
+          <Description ID="5750004" FontStyle="0">
+            <EN>That's all the thanks you get</EN>
+            <DE>Undank ist der Welt Lohn</DE>
+          </Description>
+          <Description ID="5750006" FontStyle="0">
+            <EN>It is the will of God!</EN>
+            <DE>Deus vult!</DE>
+          </Description>
+          <Description ID="5750008" FontStyle="0">
+            <EN>Righteous anger</EN>
+            <DE>Gerechter Zorn</DE>
+          </Description>
+          <Description ID="5750010" FontStyle="0">
+            <EN>Sense of duty</EN>
+            <DE>Pflichtbewußtsein</DE>
+          </Description>
+          <Description ID="5750012" FontStyle="0">
+            <EN>For Faith and justice</EN>
+            <DE>Für Glauben und Gerechtigkeit</DE>
+          </Description>
+          <Description ID="5750014" FontStyle="0">
+            <EN>Demonstration of power</EN>
+            <DE>Machtdemonstration</DE>
+          </Description>
+          <Description ID="5750016" FontStyle="0">
+            <EN>Feint!</EN>
+            <DE>Narrenvertrag</DE>
+          </Description>
+          <Description ID="5750018" FontStyle="0">
+            <EN>In the service of the Lord</EN>
+            <DE>Im Dienste des Herrn</DE>
+          </Description>
+          <Description ID="5750024" FontStyle="0">
+            <EN>Scapegoat</EN>
+            <DE>Bauernopfer</DE>
+          </Description>
+          <Description ID="5750026" FontStyle="0">
+            <EN>Disarmed!</EN>
+            <DE>Entwaffnet!</DE>
+          </Description>
+          <Description ID="5750028" FontStyle="0">
+            <EN>Good fortune</EN>
+            <DE>Glückes Geschick</DE>
+          </Description>
+          <Description ID="5750030" FontStyle="0">
+            <EN>O come all ye mercenaries!</EN>
+            <DE>Söldner her!</DE>
+          </Description>
+          <Description ID="5750044" FontStyle="0">
+            <EN>Not unpunished…</EN>
+            <DE>Aasfresser</DE>
+          </Description>
+          <Description ID="5750046" FontStyle="0">
+            <EN>A good lesson</EN>
+            <DE>Denkzettel</DE>
+          </Description>
+          <Description ID="5750048" FontStyle="0">
+            <EN>Bring them in line</EN>
+            <DE>In die Schranken weisen</DE>
+          </Description>
+          <Description ID="5750050" FontStyle="0">
+            <EN>The Hammer of Witches I</EN>
+            <DE>Hexenhammer I</DE>
+          </Description>
+          <Description ID="5750052" FontStyle="0">
+            <EN>The Hammer of Witches II</EN>
+            <DE>Hexenhammer II</DE>
+          </Description>
+          <Description ID="5750056" FontStyle="0">
+            <EN>The writing of History I</EN>
+            <DE>Geschichtsschreibung I</DE>
+          </Description>
+          <Description ID="5750058" FontStyle="0">
+            <EN>The writing of History II</EN>
+            <DE>Geschichtsschreibung II</DE>
+          </Description>
+          <Description ID="5750060" FontStyle="0">
+            <EN>The writing of History III</EN>
+            <DE>Geschichtsschreibung III</DE>
+          </Description>
+          <Description ID="5750064" FontStyle="0">
+            <EN>The writing of History V</EN>
+            <DE>Geschichtsschreibung V</DE>
+          </Description>
+          <Description ID="5750068" FontStyle="0">
+            <EN>The Devil's work I</EN>
+            <DE>Teufelswerk I</DE>
+          </Description>
+          <Description ID="5750070" FontStyle="0">
+            <EN>The Devil's work III</EN>
+            <DE>Teufelswerk II</DE>
+          </Description>
+          <Description ID="5750074" FontStyle="0">
+            <EN>The Devil's work III</EN>
+            <DE>Teufelswerk III</DE>
+          </Description>
+          <Description ID="5750075" FontStyle="0">
+            <EN>The Devil's work IV</EN>
+            <DE>Teufelswerk IV</DE>
+          </Description>
+          <Description ID="5750077" FontStyle="0">
+            <EN>The Devil's work V</EN>
+            <DE>Teufelswerk V</DE>
+          </Description>
+          <Description ID="5750083" FontStyle="0">
+            <EN>A matter of time</EN>
+            <DE>Eine Frage der Zeit</DE>
+          </Description>
+          <Description ID="5750085" FontStyle="0">
+            <EN>False accusations</EN>
+            <DE>Falsche Anschuldigungen</DE>
+          </Description>
+          <Description ID="5750020" FontStyle="0">
+            <EN>Inner order</EN>
+            <DE>Innere Ordnung</DE>
+          </Description>
+          <Description ID="5750022" FontStyle="0">
+            <EN>Friend or foe?</EN>
+            <DE>Freund oder Feind?</DE>
+          </Description>
+          <Description ID="5750032" FontStyle="0">
+            <EN>Power games</EN>
+            <DE>Machtspiele</DE>
+          </Description>
+          <Description ID="5750034" FontStyle="0">
+            <EN>Divine claim</EN>
+            <DE>Heiliger Anspruch</DE>
+          </Description>
+          <Description ID="5750036" FontStyle="0">
+            <EN>Unstoppable</EN>
+            <DE>Unaufhaltsam</DE>
+          </Description>
+          <Description ID="5750038" FontStyle="0">
+            <EN>The balance of power</EN>
+            <DE>Zünglein an der Waage</DE>
+          </Description>
+          <Description ID="5750040" FontStyle="0">
+            <EN>Punishment must be meted out</EN>
+            <DE>Angemessene Buße</DE>
+          </Description>
+          <Description ID="5750042" FontStyle="0">
+            <EN>For the good of the People</EN>
+            <DE>Zum Wohle des Volkes</DE>
+          </Description>
+          <Description ID="5750062" FontStyle="0">
+            <EN>The writing of History IV</EN>
+            <DE>Geschichtsschreibung IV</DE>
+          </Description>
+          <Description ID="5750087" FontStyle="0">
+            <EN>The tenth</EN>
+            <DE>Der Zehnte</DE>
+          </Description>
+          <Description ID="5750099" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="6350000" FontStyle="0">
+            <EN>The rumour</EN>
+            <DE>Das Gerücht</DE>
+          </Description>
+          <Description ID="6350002" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350004" FontStyle="0">
+            <EN>Funeral service</EN>
+            <DE>Trauerfeier</DE>
+          </Description>
+          <Description ID="6350006" FontStyle="0">
+            <EN>Costly robes</EN>
+            <DE>Kostbare  Roben</DE>
+          </Description>
+          <Description ID="6350007" FontStyle="0">
+            <EN>Lucky survivors</EN>
+            <DE>Glückliche Überlebende</DE>
+          </Description>
+          <Description ID="6350010" FontStyle="0">
+            <EN>Sabotage</EN>
+            <DE>Sabotage</DE>
+          </Description>
+          <Description ID="6350012" FontStyle="0">
+            <EN>Badly advised</EN>
+            <DE>Schlecht beraten</DE>
+          </Description>
+          <Description ID="6350032" FontStyle="0">
+            <EN>Collision</EN>
+            <DE>Kollision </DE>
+          </Description>
+          <Description ID="6350014" FontStyle="0">
+            <EN>Rough Ropes</EN>
+            <DE>Spröde Taue </DE>
+          </Description>
+          <Description ID="6350036" FontStyle="0">
+            <EN>Shallows</EN>
+            <DE>Untiefen</DE>
+          </Description>
+          <Description ID="6350015" FontStyle="0">
+            <EN>Too late?</EN>
+            <DE>Zu spät?</DE>
+          </Description>
+          <Description ID="6350026" FontStyle="0">
+            <EN>Cruel Sea</EN>
+            <DE>Tückische See</DE>
+          </Description>
+          <Description ID="6350022" FontStyle="0">
+            <EN>Short process</EN>
+            <DE>Kurzer Prozess</DE>
+          </Description>
+          <Description ID="6350034" FontStyle="0">
+            <EN>Heavy burden</EN>
+            <DE>Schwere Bürde</DE>
+          </Description>
+          <Description ID="6350020" FontStyle="0">
+            <EN>Sacrilege</EN>
+            <DE>Sakrileg</DE>
+          </Description>
+          <Description ID="6350040" FontStyle="0">
+            <EN>Hospitality I</EN>
+            <DE>Gastfreundschaft I</DE>
+          </Description>
+          <Description ID="6350044" FontStyle="0">
+            <EN>Show your Colours I</EN>
+            <DE>Flagge zeigen I</DE>
+          </Description>
+          <Description ID="6350046" FontStyle="0">
+            <EN>Show your Colours II</EN>
+            <DE>Flagge zeigen II</DE>
+          </Description>
+          <Description ID="6350050" FontStyle="0">
+            <EN>A matter of trust I</EN>
+            <DE>Eine Frage des Vertrauens I</DE>
+          </Description>
+          <Description ID="6350052" FontStyle="0">
+            <EN>A matter of trust II</EN>
+            <DE>Eine Frage des Vertrauens II</DE>
+          </Description>
+          <Description ID="6350054" FontStyle="0">
+            <EN>A matter of trust III</EN>
+            <DE>Eine Frage des Vertrauen III</DE>
+          </Description>
+          <Description ID="6350060" FontStyle="0">
+            <EN>Deceit II</EN>
+            <DE>Täuschung II</DE>
+          </Description>
+          <Description ID="6350064" FontStyle="0">
+            <EN>Against the Pirates</EN>
+            <DE>Wider die Piraten!</DE>
+          </Description>
+          <Description ID="6350066" FontStyle="0">
+            <EN>Incorrigible traitor</EN>
+            <DE>Uneinsichtiger Verräter</DE>
+          </Description>
+          <Description ID="6350068" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350070" FontStyle="0">
+            <EN>Whoever finds it…</EN>
+            <DE>Wer es findet ...</DE>
+          </Description>
+          <Description ID="6350072" FontStyle="0">
+            <EN>Thieves</EN>
+            <DE>Diebe</DE>
+          </Description>
+          <Description ID="6350030" FontStyle="0">
+            <EN>No honour among thieves</EN>
+            <DE>Keine Ehre unter Dieben</DE>
+          </Description>
+          <Description ID="6350028" FontStyle="0">
+            <EN>Conspiracy</EN>
+            <DE>Verschwörung</DE>
+          </Description>
+          <Description ID="6350018" FontStyle="0">
+            <EN>The rightful owner</EN>
+            <DE>Der rechtmäßige Besitzer</DE>
+          </Description>
+          <Description ID="6350024" FontStyle="0">
+            <EN>Warmonger</EN>
+            <DE>Kriegstreiber</DE>
+          </Description>
+          <Description ID="6350038" FontStyle="0">
+            <EN>The legation</EN>
+            <DE>Die Gesandtschaft</DE>
+          </Description>
+          <Description ID="6350078" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="6050000" FontStyle="0">
+            <EN>Blue seduction</EN>
+            <DE>Blaue Verführung</DE>
+          </Description>
+          <Description ID="6050002" FontStyle="0">
+            <EN>The Baroness in Fur</EN>
+            <DE>Die Baronessa im Pelz</DE>
+          </Description>
+          <Description ID="6050004" FontStyle="0">
+            <EN>Masked ball</EN>
+            <DE>Maskenball</DE>
+          </Description>
+          <Description ID="6050006" FontStyle="0">
+            <EN>A mania for Pearls</EN>
+            <DE>Perlenwahn</DE>
+          </Description>
+          <Description ID="6050008" FontStyle="0">
+            <EN>Trading Skills</EN>
+            <DE>Handelsgeschick</DE>
+          </Description>
+          <Description ID="6050012" FontStyle="0">
+            <EN>To save a Spy</EN>
+            <DE>Verlorene Informationen</DE>
+          </Description>
+          <Description ID="6050010" FontStyle="0">
+            <EN>Punishment à la Zanchi </EN>
+            <DE>Strafe à la Zanchi </DE>
+          </Description>
+          <Description ID="6050014" FontStyle="0">
+            <EN>Lost sanctuaries</EN>
+            <DE>Verlorene Heiligtümer</DE>
+          </Description>
+          <Description ID="6050016" FontStyle="0">
+            <EN>In the right light</EN>
+            <DE>Im rechten Licht</DE>
+          </Description>
+          <Description ID="6050018" FontStyle="0">
+            <EN>A good dead</EN>
+            <DE>Eine gute Tat</DE>
+          </Description>
+          <Description ID="6050020" FontStyle="0">
+            <EN>Perfume of roses</EN>
+            <DE>Rosenduft</DE>
+          </Description>
+          <Description ID="6050022" FontStyle="0">
+            <EN>Stranded beauty</EN>
+            <DE>Gestrandete Schönheit</DE>
+          </Description>
+          <Description ID="6050032" FontStyle="0">
+            <EN>Sweet herbs</EN>
+            <DE>Schöne Kräuter</DE>
+          </Description>
+          <Description ID="6050034" FontStyle="0">
+            <EN>The example</EN>
+            <DE>Das Exempel </DE>
+          </Description>
+          <Description ID="6050036" FontStyle="0">
+            <EN>A pack of lies</EN>
+            <DE>Alles Lüge</DE>
+          </Description>
+          <Description ID="6050040" FontStyle="0">
+            <EN>The great Feast I</EN>
+            <DE>Das große Fest I</DE>
+          </Description>
+          <Description ID="6050042" FontStyle="0">
+            <EN>The great Feast II</EN>
+            <DE>Das große Fest II</DE>
+          </Description>
+          <Description ID="6050043" FontStyle="0">
+            <EN>The great Feast III</EN>
+            <DE>Das große Fest III</DE>
+          </Description>
+          <Description ID="6050048" FontStyle="0">
+            <EN>A blaze of glory II</EN>
+            <DE>Glanz und Gloria II</DE>
+          </Description>
+          <Description ID="6050050" FontStyle="0">
+            <EN>A blaze of glory I</EN>
+            <DE>Glanz und Gloria I</DE>
+          </Description>
+          <Description ID="6050054" FontStyle="0">
+            <EN>The search for the Fountain of youth I</EN>
+            <DE>Suche nach dem Jungbrunnen I</DE>
+          </Description>
+          <Description ID="6050056" FontStyle="0">
+            <EN>The search for the Fountain of youth II</EN>
+            <DE>Suche nach dem Jungbrunnen II</DE>
+          </Description>
+          <Description ID="6050058" FontStyle="0">
+            <EN>The search for the Fountain of youth III</EN>
+            <DE>Such nach dem Jungbrunnen III</DE>
+          </Description>
+          <Description ID="6050060" FontStyle="0">
+            <EN>The search for the Fountain of youth IV</EN>
+            <DE>Suche nach dem Jungbrunnen IV</DE>
+          </Description>
+          <Description ID="6050066" FontStyle="0">
+            <EN>Roundabout routes I</EN>
+            <DE>Auf Umwegen I</DE>
+          </Description>
+          <Description ID="6050070" FontStyle="0">
+            <EN>Compliments</EN>
+            <DE>Komplimente</DE>
+          </Description>
+          <Description ID="6050072" FontStyle="0">
+            <EN>Shared deception</EN>
+            <DE>Verteilter Betrug</DE>
+          </Description>
+          <Description ID="6050074" FontStyle="0">
+            <EN>Assumptions</EN>
+            <DE>Anmaßungen </DE>
+          </Description>
+          <Description ID="6050076" FontStyle="0">
+            <EN>Later find</EN>
+            <DE>Später Fund</DE>
+          </Description>
+          <Description ID="6050078" FontStyle="0">
+            <EN>The law of the Sea</EN>
+            <DE>Das Gesetz der See</DE>
+          </Description>
+          <Description ID="6050024" FontStyle="0">
+            <EN>Failed list</EN>
+            <DE>Gescheiterte List</DE>
+          </Description>
+          <Description ID="6050026" FontStyle="0">
+            <EN>An art under threat</EN>
+            <DE>Bedrohte Kunst</DE>
+          </Description>
+          <Description ID="6050028" FontStyle="0">
+            <EN>Treasures on their travels</EN>
+            <DE>Schätze auf Reisen</DE>
+          </Description>
+          <Description ID="6050030" FontStyle="0">
+            <EN>Lists and Ships</EN>
+            <DE>List und Schiffe</DE>
+          </Description>
+          <Description ID="6050038" FontStyle="0">
+            <EN>Merciless</EN>
+            <DE>Erbarmungslos</DE>
+          </Description>
+          <Description ID="6050084" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="8250512" FontStyle="0">
+            <EN>Friend or foe</EN>
+            <DE>Freund oder Feind</DE>
+          </Description>
+          <Description ID="8250516" FontStyle="0">
+            <EN>Security measures</EN>
+            <DE>Sicherheitsmaßnahmen</DE>
+          </Description>
+          <Description ID="8250519" FontStyle="0">
+            <EN>Compassion for a Corsair</EN>
+            <DE>Barmherzigkeit für einen Korsaren</DE>
+          </Description>
+          <Description ID="8250522" FontStyle="0">
+            <EN>Corsair literature</EN>
+            <DE>Korsarenliteratur</DE>
+          </Description>
+          <Description ID="8250525" FontStyle="0">
+            <EN>Equal opportunities at Sea</EN>
+            <DE>Chancengleichheit auf See</DE>
+          </Description>
+          <Description ID="8250528" FontStyle="0">
+            <EN>Ransom demand</EN>
+            <DE>Lösegeldforderung</DE>
+          </Description>
+          <Description ID="8250531" FontStyle="0">
+            <EN>Golden ballast</EN>
+            <DE>Güldener Ballast</DE>
+          </Description>
+          <Description ID="8250534" FontStyle="0">
+            <EN>Over-zealous Corsairs</EN>
+            <DE>Übereifrige Korsaren</DE>
+          </Description>
+          <Description ID="8250537" FontStyle="0">
+            <EN>Collision with a stranger</EN>
+            <DE>Kollision mit einer Unbekannten</DE>
+          </Description>
+          <Description ID="8250549" FontStyle="0">
+            <EN>Rum at the helm</EN>
+            <DE>Rum am Rad</DE>
+          </Description>
+          <Description ID="8250552" FontStyle="0">
+            <EN>Supplies for the Suppliers</EN>
+            <DE>Versorgung für die Versorgung</DE>
+          </Description>
+          <Description ID="8250555" FontStyle="0">
+            <EN>Reinforcing the planks</EN>
+            <DE>Verstärkung der Planken</DE>
+          </Description>
+          <Description ID="8250558" FontStyle="0">
+            <EN>The secret base</EN>
+            <DE>Der geheime Stützpunkt</DE>
+          </Description>
+          <Description ID="8250570" FontStyle="0">
+            <EN>Bearer of bad news</EN>
+            <DE>Unheilsbote</DE>
+          </Description>
+          <Description ID="8250573" FontStyle="0">
+            <EN>Four walk the plank</EN>
+            <DE>Vier über die Planke</DE>
+          </Description>
+          <Description ID="8250579" FontStyle="0">
+            <EN>Information</EN>
+            <DE>Informationen</DE>
+          </Description>
+          <Description ID="8250582" FontStyle="0">
+            <EN>Unmasking of a Spy</EN>
+            <DE>Enthüllung eines Spions</DE>
+          </Description>
+          <Description ID="8250585" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erschließung</DE>
+          </Description>
+          <Description ID="8250588" FontStyle="0">
+            <EN>The arch-enemy</EN>
+            <DE>Der Erzfeind</DE>
+          </Description>
+          <Description ID="8250591" FontStyle="0">
+            <EN>Captivity</EN>
+            <DE>Geiselhaft</DE>
+          </Description>
+          <Description ID="8250540" FontStyle="0">
+            <EN>The Corsair hunter</EN>
+            <DE>Der Korsarenjäger</DE>
+          </Description>
+          <Description ID="8250543" FontStyle="0">
+            <EN>Letter of marque in sight</EN>
+            <DE>Kaperbrief in Aussicht</DE>
+          </Description>
+          <Description ID="8250546" FontStyle="0">
+            <EN>Escort for a Trader</EN>
+            <DE>Eskorte für einen Händler</DE>
+          </Description>
+          <Description ID="8250561" FontStyle="0">
+            <EN>The dishonourable Corsair</EN>
+            <DE>Der unehrliche Korsar</DE>
+          </Description>
+          <Description ID="8250564" FontStyle="0">
+            <EN>Blockade attempt</EN>
+            <DE>Blockadeversuch</DE>
+          </Description>
+          <Description ID="8250567" FontStyle="0">
+            <EN>High treason</EN>
+            <DE>Hochverrat</DE>
+          </Description>
+          <Description ID="8250576" FontStyle="0">
+            <EN>Hard times</EN>
+            <DE>Schwere Zeiten</DE>
+          </Description>
+          <Description ID="8250608" FontStyle="0">
+            <EN>Uncharted reefs</EN>
+            <DE>Unbekannte Riffe</DE>
           </Description>
         </Details>
       </TempSource>

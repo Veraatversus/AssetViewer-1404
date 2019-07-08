@@ -85,6 +85,7 @@ namespace AssetViewer1404.Controls {
       this.ListBoxItems.SelectedIndex = 0;
       ItemsHolder.IsRefreshingUi = false;
       ItemsHolder.UpdateUI();
+      this.PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(""));
     }
 
     #endregion Methods

@@ -1,8 +1,7 @@
 ﻿using RDA.Data;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics;
+using System.Data;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -20,6 +19,7 @@ namespace RDA {
     public static XElement Game { get; private set; }
     public static XElement QuestConfig { get; private set; }
     public static XElement TextEditor { get; private set; }
+    public static XElement DataSets { get; private set; }
     public static Dictionary<string, XElement> IconFilemap { get; private set; }
     public static Dictionary<string, XElement> Icons { get; private set; }
     public static Dictionary<string, string> NamesToId { get; private set; } = new Dictionary<string, string>();
@@ -33,16 +33,17 @@ namespace RDA {
       Console.WriteLine("Load Asset.xml");
       PathViewer = new DirectoryInfo(Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase).Replace(@"file:\", String.Empty)).Parent.Parent.Parent.FullName + @"\AssetViewer 1404";
       PathRoot = new DirectoryInfo(Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase).Replace(@"file:\", String.Empty)).Parent.Parent.FullName;
-      ProcessingIcons();
       Features = XmlLoader.LoadXml(PathRoot + @"\Original\features\features.xml");
       Ai = XmlLoader.LoadXml(PathRoot + @"\Original\ai\aiprofiles.xml");
       Game = XmlLoader.LoadXml(PathRoot + @"\Original\game\assets.xml");
       QuestConfig = XmlLoader.LoadXml(PathRoot + @"\Original\questconfig\quests.xml");
       TextEditor = XmlLoader.LoadXml(PathRoot + @"\Original\texteditor\guids.xml");
+      DataSets = XDocument.Load(PathRoot + @"\Original\game\datasets.xml").Root;
+
       ProcessingTextEditorFolder();
 
       ProcessingCustomText();
-
+      ProcessingIcons();
     }
 
     #endregion Methods
@@ -148,6 +149,17 @@ namespace RDA {
       Console.WriteLine("Processing: Icons");
       IconFilemap = XmlLoader.LoadXml(PathRoot + @"\Original\gui\iconfilemap.xml").Descendants("IconFile").ToDictionary(i => i.Element("IconFileID").Value);
       Icons = XmlLoader.LoadXml(PathRoot + @"\Original\gui\icons.xml").Elements().ToDictionary(i => i.Element("GUID").Value);
+      foreach (var item in DataSets.Descendants("Item").Where(i => i.Element("Icon") != null)) {
+        string id = item.Element("Name").Value;
+        if (NamesToId.ContainsKey(item.Element("Name").Value)) {
+          id = NamesToId[item.Element("Name").Value];
+        }
+        if (!Icons.ContainsKey(id)) {
+          Icons.Add(id, item);
+        }
+        else {
+        }
+      }
     }
 
     private static void ProcessingText(String path) {
@@ -158,7 +170,7 @@ namespace RDA {
       foreach (var value in values) {
         var id = value.XPathSelectElement("Values/Standard/GUID").Value;
         if (!Text.ContainsKey(id)) {
-          var languages = new Dictionary<Languages, (string,List<string>)>();
+          var languages = new Dictionary<Languages, (string, List<string>)>();
           foreach (var item in value.XPathSelectElement("Values/Text/LocaText")?.Elements() ?? Enumerable.Empty<XElement>()) {
             if (item.Element("Text") != null) {
               (string text, List<string> subtexts) tuble;

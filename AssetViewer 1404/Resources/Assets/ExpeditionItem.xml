@@ -45,6 +45,76 @@
       </TempSource>
     </Sources>
   </Asset>
+  <Asset ID="8344" Name="Expeditionskarte schwer III">
+    <Text ID="8344" FontStyle="0">
+      <EN>Torn Marine chart</EN>
+      <DE>Zerrissene Seekarte</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Hopefully this is the more important half! </EN>
+        <DE>Hoffentlich ist dies die wichtigere Hälfte! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
   <Asset ID="8520" Name="ExpeditionMap Des Kaisers Gnade">
     <Text ID="8520" FontStyle="0">
       <EN>Map to exile</EN>
@@ -701,16 +771,16 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8344" Name="Expeditionskarte schwer III">
-    <Text ID="8344" FontStyle="0">
-      <EN>Torn Marine chart</EN>
-      <DE>Zerrissene Seekarte</DE>
+  <Asset ID="8343" Name="Expeditionskarte schwer II">
+    <Text ID="8343" FontStyle="0">
+      <EN>Tattered Map</EN>
+      <DE>Ramponierte Karte</DE>
       <Icon FileIndex="36" Width="64" Height="64">
         <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
       </Icon>
       <AdditionalInformation FontStyle="0">
-        <EN>Hopefully this is the more important half! </EN>
-        <DE>Hoffentlich ist dies die wichtigere Hälfte! </DE>
+        <EN>Isn't the most important part missing? </EN>
+        <DE>Fehlt da nicht das wichtigste Stück? </DE>
       </AdditionalInformation>
     </Text>
     <ItemQuality>C</ItemQuality>
@@ -1418,6 +1488,51 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources />
   </Asset>
+  <Asset ID="8107" Name="ExpeditionMap Stein der Weisen">
+    <Text ID="8107" FontStyle="0">
+      <EN>Map of a foreign realm</EN>
+      <DE>Karte fremder Gefilde</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Is the solution to be puzzle to be found there? </EN>
+        <DE>Findet sich dort des Rätsels Lösung? </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>30  Honour</EN>
+      <DE>30  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5301118</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5301118" FontStyle="0">
+            <EN>The Philosopher's stone III</EN>
+            <DE>Stein der Weisen III</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
   <Asset ID="8341" Name="Expeditionskarte mittel II">
     <Text ID="8341" FontStyle="0">
       <EN>Hand-written Treasure map</EN>
@@ -1488,16 +1603,16 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8343" Name="Expeditionskarte schwer II">
-    <Text ID="8343" FontStyle="0">
-      <EN>Tattered Map</EN>
-      <DE>Ramponierte Karte</DE>
+  <Asset ID="8112" Name="ExpeditionMap Frauenkloster">
+    <Text ID="8112" FontStyle="0">
+      <EN>Map of a remote Island</EN>
+      <DE>Karte zur abgelegenen Insel</DE>
       <Icon FileIndex="36" Width="64" Height="64">
         <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
       </Icon>
       <AdditionalInformation FontStyle="0">
-        <EN>Isn't the most important part missing? </EN>
-        <DE>Fehlt da nicht das wichtigste Stück? </DE>
+        <EN>A place of peace and contemplation... </EN>
+        <DE>Ein Ort des Friedens und der Besinnung... </DE>
       </AdditionalInformation>
     </Text>
     <ItemQuality>C</ItemQuality>
@@ -1519,40 +1634,15 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources>
       <TempSource>
-        <ID>1645081</ID>
-        <Text ID="1645081" FontStyle="0">
-          <EN>Ship Drop - Hassan ben Sahid</EN>
-          <DE>Schiff Drop - Hassan ben Sahid</DE>
-          <Icon FileIndex="170" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
+        <ID>5303070</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
         </Text>
         <Details>
-          <Description ID="1645081" FontStyle="0">
-            <EN>Hassan ben Sahid</EN>
-            <DE>Hassan ben Sahid</DE>
-            <Icon FileIndex="170" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-      <TempSource>
-        <ID>1645081</ID>
-        <Text ID="1645081" FontStyle="0">
-          <EN>Harbour - Hassan ben Sahid</EN>
-          <DE>Hafen - Hassan ben Sahid</DE>
-          <Icon FileIndex="170" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645081" FontStyle="0">
-            <EN>Hassan ben Sahid</EN>
-            <DE>Hassan ben Sahid</DE>
-            <Icon FileIndex="170" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
+          <Description ID="5303070" FontStyle="0">
+            <EN>The Nunnery II</EN>
+            <DE>Das Frauenkloster II</DE>
           </Description>
         </Details>
       </TempSource>
@@ -2054,16 +2144,16 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8107" Name="ExpeditionMap Stein der Weisen">
-    <Text ID="8107" FontStyle="0">
-      <EN>Map of a foreign realm</EN>
-      <DE>Karte fremder Gefilde</DE>
+  <Asset ID="8454" Name="ExpeditionMap Jungbrunnen">
+    <Text ID="8454" FontStyle="0">
+      <EN>The way to eternal life</EN>
+      <DE>Weg zum ewigen Leben</DE>
       <Icon FileIndex="36" Width="64" Height="64">
         <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
       </Icon>
       <AdditionalInformation FontStyle="0">
-        <EN>Is the solution to be puzzle to be found there? </EN>
-        <DE>Findet sich dort des Rätsels Lösung? </DE>
+        <EN>Is eternal life really desirable? </EN>
+        <DE>Ist ewiges Leben überhaupt erstrebenswert? </DE>
       </AdditionalInformation>
     </Text>
     <ItemQuality>C</ItemQuality>
@@ -2085,15 +2175,85 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources>
       <TempSource>
-        <ID>5301118</ID>
+        <ID>6050062</ID>
         <Text ID="" FontStyle="0">
           <EN>Quest</EN>
           <DE>Quest</DE>
         </Text>
         <Details>
-          <Description ID="5301118" FontStyle="0">
-            <EN>The Philosopher's stone III</EN>
-            <DE>Stein der Weisen III</DE>
+          <Description ID="6050062" FontStyle="0">
+            <EN>The search for the Fountain of youth V</EN>
+            <DE>Suche nach dem Jungbrunnen V</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8515" Name="Expeditionskarte mittel III">
+    <Text ID="8515" FontStyle="0">
+      <EN>Treasure map of a dead Nobleman</EN>
+      <DE>Schatzkarte eines toten Edelmanns</DE>
+      <Icon FileIndex="36" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>He took his secret with him to the grave... </EN>
+        <DE>Er nahm sein Geheimnis mit ins Grab... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
           </Description>
         </Details>
       </TempSource>
@@ -2595,191 +2755,6 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8515" Name="Expeditionskarte mittel III">
-    <Text ID="8515" FontStyle="0">
-      <EN>Treasure map of a dead Nobleman</EN>
-      <DE>Schatzkarte eines toten Edelmanns</DE>
-      <Icon FileIndex="36" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>He took his secret with him to the grave... </EN>
-        <DE>Er nahm sein Geheimnis mit ins Grab... </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>C</ItemQuality>
-    <ItemType ID="137575" FontStyle="0">
-      <EN>Ship Item</EN>
-      <DE>Schiffs-Item</DE>
-    </ItemType>
-    <ItemCategory>Ship</ItemCategory>
-    <ItemTarget>Object</ItemTarget>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>50  Honour</EN>
-      <DE>50  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>1645081</ID>
-        <Text ID="1645081" FontStyle="0">
-          <EN>Ship Drop - Hassan ben Sahid</EN>
-          <DE>Schiff Drop - Hassan ben Sahid</DE>
-          <Icon FileIndex="170" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645081" FontStyle="0">
-            <EN>Hassan ben Sahid</EN>
-            <DE>Hassan ben Sahid</DE>
-            <Icon FileIndex="170" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-      <TempSource>
-        <ID>1645081</ID>
-        <Text ID="1645081" FontStyle="0">
-          <EN>Harbour - Hassan ben Sahid</EN>
-          <DE>Hafen - Hassan ben Sahid</DE>
-          <Icon FileIndex="170" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645081" FontStyle="0">
-            <EN>Hassan ben Sahid</EN>
-            <DE>Hassan ben Sahid</DE>
-            <Icon FileIndex="170" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
-  <Asset ID="8112" Name="ExpeditionMap Frauenkloster">
-    <Text ID="8112" FontStyle="0">
-      <EN>Map of a remote Island</EN>
-      <DE>Karte zur abgelegenen Insel</DE>
-      <Icon FileIndex="36" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>A place of peace and contemplation... </EN>
-        <DE>Ein Ort des Friedens und der Besinnung... </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>C</ItemQuality>
-    <ItemType ID="137575" FontStyle="0">
-      <EN>Ship Item</EN>
-      <DE>Schiffs-Item</DE>
-    </ItemType>
-    <ItemCategory>Ship</ItemCategory>
-    <ItemTarget>Object</ItemTarget>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>30  Honour</EN>
-      <DE>30  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>5303070</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
-        </Text>
-        <Details>
-          <Description ID="5303070" FontStyle="0">
-            <EN>The Nunnery II</EN>
-            <DE>Das Frauenkloster II</DE>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
-  <Asset ID="8480" Name="Expeditionskarte mittel 0">
-    <Text ID="8480" FontStyle="0">
-      <EN>Blood-spattered Map</EN>
-      <DE>Blutbefleckte Karte</DE>
-      <Icon FileIndex="36" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Did not willingly change owners... </EN>
-        <DE>Hat nicht freiwillig den Besitzer gewechselt... </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>C</ItemQuality>
-    <ItemType ID="137575" FontStyle="0">
-      <EN>Ship Item</EN>
-      <DE>Schiffs-Item</DE>
-    </ItemType>
-    <ItemCategory>Ship</ItemCategory>
-    <ItemTarget>Object</ItemTarget>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>50  Honour</EN>
-      <DE>50  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>1645081</ID>
-        <Text ID="1645081" FontStyle="0">
-          <EN>Ship Drop - Hassan ben Sahid</EN>
-          <DE>Schiff Drop - Hassan ben Sahid</DE>
-          <Icon FileIndex="170" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645081" FontStyle="0">
-            <EN>Hassan ben Sahid</EN>
-            <DE>Hassan ben Sahid</DE>
-            <Icon FileIndex="170" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-      <TempSource>
-        <ID>1645081</ID>
-        <Text ID="1645081" FontStyle="0">
-          <EN>Harbour - Hassan ben Sahid</EN>
-          <DE>Hafen - Hassan ben Sahid</DE>
-          <Icon FileIndex="170" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645081" FontStyle="0">
-            <EN>Hassan ben Sahid</EN>
-            <DE>Hassan ben Sahid</DE>
-            <Icon FileIndex="170" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
   <Asset ID="8481" Name="Expeditionskarte schwer 0">
     <Text ID="8481" FontStyle="0">
       <EN>Tattered Map</EN>
@@ -2850,16 +2825,16 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8454" Name="ExpeditionMap Jungbrunnen">
-    <Text ID="8454" FontStyle="0">
-      <EN>The way to eternal life</EN>
-      <DE>Weg zum ewigen Leben</DE>
+  <Asset ID="8480" Name="Expeditionskarte mittel 0">
+    <Text ID="8480" FontStyle="0">
+      <EN>Blood-spattered Map</EN>
+      <DE>Blutbefleckte Karte</DE>
       <Icon FileIndex="36" Width="64" Height="64">
         <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
       </Icon>
       <AdditionalInformation FontStyle="0">
-        <EN>Is eternal life really desirable? </EN>
-        <DE>Ist ewiges Leben überhaupt erstrebenswert? </DE>
+        <EN>Did not willingly change owners... </EN>
+        <DE>Hat nicht freiwillig den Besitzer gewechselt... </DE>
       </AdditionalInformation>
     </Text>
     <ItemQuality>C</ItemQuality>
@@ -2870,8 +2845,8 @@
     <ItemCategory>Ship</ItemCategory>
     <ItemTarget>Object</ItemTarget>
     <HonourPrice ID="140009" FontStyle="0">
-      <EN>30  Honour</EN>
-      <DE>30  Ruhm</DE>
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
       <Icon FileIndex="245" Width="46" Height="46">
         <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
       </Icon>
@@ -2881,15 +2856,40 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources>
       <TempSource>
-        <ID>6050062</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
         </Text>
         <Details>
-          <Description ID="6050062" FontStyle="0">
-            <EN>The search for the Fountain of youth V</EN>
-            <DE>Suche nach dem Jungbrunnen V</DE>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon FileIndex="170" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon FileIndex="170" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
           </Description>
         </Details>
       </TempSource>

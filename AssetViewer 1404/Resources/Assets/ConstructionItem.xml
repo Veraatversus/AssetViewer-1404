@@ -141,20 +141,20 @@
             <DE>Reise in die Vergangenheit III</DE>
           </Description>
           <Description ID="5550106" FontStyle="0">
-            <EN>Marie von  I</EN>
-            <DE>Marie von  I</DE>
+            <EN>Marie von [QUEST_CITY] I</EN>
+            <DE>Marie von [QUEST_CITY] I</DE>
           </Description>
           <Description ID="5550110" FontStyle="0">
-            <EN>Marie von  II</EN>
-            <DE>Marie von  II</DE>
+            <EN>Marie von [QUEST_CITY] II</EN>
+            <DE>Marie von [QUEST_CITY] II</DE>
           </Description>
           <Description ID="5550112" FontStyle="0">
-            <EN>Marie von  III</EN>
-            <DE>Marie von  III</DE>
+            <EN>Marie von [QUEST_CITY] III</EN>
+            <DE>Marie von [QUEST_CITY] III</DE>
           </Description>
           <Description ID="5550115" FontStyle="0">
-            <EN>Marie von  IV</EN>
-            <DE>Marie von  IV</DE>
+            <EN>Marie von [QUEST_EXECUTIONCITY] IV</EN>
+            <DE>Marie von [QUEST_EXECUTIONCITY] IV</DE>
           </Description>
           <Description ID="5550124" FontStyle="0">
             <EN>Saviour in distress</EN>
@@ -189,8 +189,8 @@
             <DE>Freundschaftsdienst</DE>
           </Description>
           <Description ID="5550118" FontStyle="0">
-            <EN>Marie von  V</EN>
-            <DE>Marie von  V</DE>
+            <EN>Marie von [QUEST_CITY] V</EN>
+            <DE>Marie von [QUEST_CITY] V</DE>
           </Description>
           <Description ID="5550127" FontStyle="0">
             <EN>The Artefact</EN>
@@ -500,58 +500,6 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8091" Name="Oriental shipyard">
-    <Text ID="8091" FontStyle="0">
-      <EN>Construction plan for Oriental shipyard</EN>
-      <DE>Bauplan Orientalische Werft</DE>
-      <Icon FileIndex="76" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Proud Oriental ships are built here... </EN>
-        <DE>Stolze Schiffe des Orients werden hier gefertigt... </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>C</ItemQuality>
-    <ItemType ID="137705" FontStyle="0">
-      <EN>You can use a Construction plan to build a particular Building in a Settlement. </EN>
-      <DE>Mit Hilfe eines Bauplans kann ein bestimmtes Gebäude in einer Siedlung errichtet werden. </DE>
-    </ItemType>
-    <ItemCategory>Warehouse</ItemCategory>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>80  Honour</EN>
-      <DE>80  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>5302057</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
-        </Text>
-        <Details>
-          <Description ID="5302057" FontStyle="0">
-            <EN>Schriften der Weisheit</EN>
-            <DE>Schriften der Weisheit</DE>
-          </Description>
-          <Description ID="5302025" FontStyle="0">
-            <EN>The Ghost ship IV</EN>
-            <DE>Das Geisterschiff IV</DE>
-          </Description>
-          <Description ID="5302053" FontStyle="0">
-            <EN>The Sultan's Ship II</EN>
-            <DE>Des Sultans Schiff II</DE>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
   <Asset ID="8088" Name="Imperial cathedral part0">
     <Text ID="8088" FontStyle="0">
       <EN>Construction plan for Imperial cathedral foundation</EN>
@@ -756,6 +704,58 @@
             <EN>Roundabout routes II</EN>
             <DE>Auf Umwegen II</DE>
           </Description>
+          <Description ID="5302057" FontStyle="0">
+            <EN>Schriften der Weisheit</EN>
+            <DE>Schriften der Weisheit</DE>
+          </Description>
+          <Description ID="5302025" FontStyle="0">
+            <EN>The Ghost ship IV</EN>
+            <DE>Das Geisterschiff IV</DE>
+          </Description>
+          <Description ID="5302053" FontStyle="0">
+            <EN>The Sultan's Ship II</EN>
+            <DE>Des Sultans Schiff II</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8091" Name="Oriental shipyard">
+    <Text ID="8091" FontStyle="0">
+      <EN>Construction plan for Oriental shipyard</EN>
+      <DE>Bauplan Orientalische Werft</DE>
+      <Icon FileIndex="76" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Proud Oriental ships are built here... </EN>
+        <DE>Stolze Schiffe des Orients werden hier gefertigt... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137705" FontStyle="0">
+      <EN>You can use a Construction plan to build a particular Building in a Settlement. </EN>
+      <DE>Mit Hilfe eines Bauplans kann ein bestimmtes Gebäude in einer Siedlung errichtet werden. </DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>80  Honour</EN>
+      <DE>80  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5302057</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
           <Description ID="5302057" FontStyle="0">
             <EN>Schriften der Weisheit</EN>
             <DE>Schriften der Weisheit</DE>
@@ -1036,16 +1036,16 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8101" Name="Warmachine builder">
-    <Text ID="8101" FontStyle="0">
-      <EN>Construction plan for War machines workshop</EN>
-      <DE>Bauplan Kriegsmaschinenwerkstatt</DE>
-      <Icon FileIndex="91" Width="46" Height="46">
+  <Asset ID="8089" Name="Sultan mosque part0">
+    <Text ID="8089" FontStyle="0">
+      <EN>Construction plan for Sultan's mosque foundation</EN>
+      <DE>Bauplan Sultansmoschee Fundament</DE>
+      <Icon FileIndex="146" Width="46" Height="46">
         <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
       </Icon>
       <AdditionalInformation FontStyle="0">
-        <EN>Blast holes in the Walls! </EN>
-        <DE>Auf dass die Mauern bersten! </DE>
+        <EN>The masterpiece of Oriental architecture... </EN>
+        <DE>Das Meisterstück orientalischer Baukunst... </DE>
       </AdditionalInformation>
     </Text>
     <ItemQuality>C</ItemQuality>
@@ -1055,8 +1055,8 @@
     </ItemType>
     <ItemCategory>Warehouse</ItemCategory>
     <HonourPrice ID="140009" FontStyle="0">
-      <EN>60  Honour</EN>
-      <DE>60  Ruhm</DE>
+      <EN>300  Honour</EN>
+      <DE>300  Ruhm</DE>
       <Icon FileIndex="245" Width="46" Height="46">
         <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
       </Icon>
@@ -1066,12 +1066,60 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources>
       <TempSource>
-        <ID>5302057</ID>
+        <ID>5950012</ID>
         <Text ID="" FontStyle="0">
           <EN>Quest</EN>
           <DE>Quest</DE>
         </Text>
         <Details>
+          <Description ID="5950012" FontStyle="0">
+            <EN>High time!</EN>
+            <DE>Höchste Zeit!</DE>
+          </Description>
+          <Description ID="5950032" FontStyle="0">
+            <EN>Spiritual assets</EN>
+            <DE>Geistiges Eigentum</DE>
+          </Description>
+          <Description ID="5950035" FontStyle="0">
+            <EN>Needle in a haystack</EN>
+            <DE>Nadel im Heuhaufen</DE>
+          </Description>
+          <Description ID="5950038" FontStyle="0">
+            <EN>Tricky undertaking</EN>
+            <DE>Heikles Unterfangen</DE>
+          </Description>
+          <Description ID="5950047" FontStyle="0">
+            <EN>From Coast to Coast</EN>
+            <DE>Von Küste zu Küste</DE>
+          </Description>
+          <Description ID="5950124" FontStyle="0">
+            <EN>Ancient Artefacts</EN>
+            <DE>Antike Artefakte</DE>
+          </Description>
+          <Description ID="5950140" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5950137" FontStyle="0">
+            <EN>Miracle in the Sand</EN>
+            <DE>Wunder im Sand</DE>
+          </Description>
+          <Description ID="5950095" FontStyle="0">
+            <EN>A look into the stars IV</EN>
+            <DE>Blick in die Sterne IV</DE>
+          </Description>
+          <Description ID="5950098" FontStyle="0">
+            <EN>The informant II</EN>
+            <DE>Der Informant II</DE>
+          </Description>
+          <Description ID="5950119" FontStyle="0">
+            <EN>An important guest II</EN>
+            <DE>Ein wichtiger Gast II</DE>
+          </Description>
+          <Description ID="5950136" FontStyle="0">
+            <EN>A hot trail IV</EN>
+            <DE>Eine heiße Spur IV</DE>
+          </Description>
           <Description ID="5302057" FontStyle="0">
             <EN>Schriften der Weisheit</EN>
             <DE>Schriften der Weisheit</DE>
@@ -1205,8 +1253,8 @@
             <DE>Hoffnungsschimmer II</DE>
           </Description>
           <Description ID="5850052" FontStyle="0">
-            <EN>'s sister I</EN>
-            <DE>s Schwester I</DE>
+            <EN>[QUEST_SENDER]'s sister I</EN>
+            <DE>[QUEST_SENDER]s Schwester I</DE>
           </Description>
           <Description ID="5850066" FontStyle="0">
             <EN>Furs Furs Furs I</EN>
@@ -1296,16 +1344,16 @@
       </TempSource>
     </Sources>
   </Asset>
-  <Asset ID="8089" Name="Sultan mosque part0">
-    <Text ID="8089" FontStyle="0">
-      <EN>Construction plan for Sultan's mosque foundation</EN>
-      <DE>Bauplan Sultansmoschee Fundament</DE>
-      <Icon FileIndex="146" Width="46" Height="46">
+  <Asset ID="8101" Name="Warmachine builder">
+    <Text ID="8101" FontStyle="0">
+      <EN>Construction plan for War machines workshop</EN>
+      <DE>Bauplan Kriegsmaschinenwerkstatt</DE>
+      <Icon FileIndex="91" Width="46" Height="46">
         <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
       </Icon>
       <AdditionalInformation FontStyle="0">
-        <EN>The masterpiece of Oriental architecture... </EN>
-        <DE>Das Meisterstück orientalischer Baukunst... </DE>
+        <EN>Blast holes in the Walls! </EN>
+        <DE>Auf dass die Mauern bersten! </DE>
       </AdditionalInformation>
     </Text>
     <ItemQuality>C</ItemQuality>
@@ -1315,8 +1363,8 @@
     </ItemType>
     <ItemCategory>Warehouse</ItemCategory>
     <HonourPrice ID="140009" FontStyle="0">
-      <EN>300  Honour</EN>
-      <DE>300  Ruhm</DE>
+      <EN>60  Honour</EN>
+      <DE>60  Ruhm</DE>
       <Icon FileIndex="245" Width="46" Height="46">
         <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
       </Icon>
@@ -1326,60 +1374,12 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources>
       <TempSource>
-        <ID>5950012</ID>
+        <ID>5302057</ID>
         <Text ID="" FontStyle="0">
           <EN>Quest</EN>
           <DE>Quest</DE>
         </Text>
         <Details>
-          <Description ID="5950012" FontStyle="0">
-            <EN>High time!</EN>
-            <DE>Höchste Zeit!</DE>
-          </Description>
-          <Description ID="5950032" FontStyle="0">
-            <EN>Spiritual assets</EN>
-            <DE>Geistiges Eigentum</DE>
-          </Description>
-          <Description ID="5950035" FontStyle="0">
-            <EN>Needle in a haystack</EN>
-            <DE>Nadel im Heuhaufen</DE>
-          </Description>
-          <Description ID="5950038" FontStyle="0">
-            <EN>Tricky undertaking</EN>
-            <DE>Heikles Unterfangen</DE>
-          </Description>
-          <Description ID="5950047" FontStyle="0">
-            <EN>From Coast to Coast</EN>
-            <DE>Von Küste zu Küste</DE>
-          </Description>
-          <Description ID="5950124" FontStyle="0">
-            <EN>Ancient Artefacts</EN>
-            <DE>Antike Artefakte</DE>
-          </Description>
-          <Description ID="5950140" FontStyle="0">
-            <EN>Distress call</EN>
-            <DE>Hilferuf</DE>
-          </Description>
-          <Description ID="5950137" FontStyle="0">
-            <EN>Miracle in the Sand</EN>
-            <DE>Wunder im Sand</DE>
-          </Description>
-          <Description ID="5950095" FontStyle="0">
-            <EN>A look into the stars IV</EN>
-            <DE>Blick in die Sterne IV</DE>
-          </Description>
-          <Description ID="5950098" FontStyle="0">
-            <EN>The informant II</EN>
-            <DE>Der Informant II</DE>
-          </Description>
-          <Description ID="5950119" FontStyle="0">
-            <EN>An important guest II</EN>
-            <DE>Ein wichtiger Gast II</DE>
-          </Description>
-          <Description ID="5950136" FontStyle="0">
-            <EN>A hot trail IV</EN>
-            <DE>Eine heiße Spur IV</DE>
-          </Description>
           <Description ID="5302057" FontStyle="0">
             <EN>Schriften der Weisheit</EN>
             <DE>Schriften der Weisheit</DE>
@@ -1417,6 +1417,58 @@
     <HonourPrice ID="140009" FontStyle="0">
       <EN>50  Honour</EN>
       <DE>50  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5302057</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5302057" FontStyle="0">
+            <EN>Schriften der Weisheit</EN>
+            <DE>Schriften der Weisheit</DE>
+          </Description>
+          <Description ID="5302025" FontStyle="0">
+            <EN>The Ghost ship IV</EN>
+            <DE>Das Geisterschiff IV</DE>
+          </Description>
+          <Description ID="5302053" FontStyle="0">
+            <EN>The Sultan's Ship II</EN>
+            <DE>Des Sultans Schiff II</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8090" Name="Large shipyard">
+    <Text ID="8090" FontStyle="0">
+      <EN>Construction plan for Large shipyard</EN>
+      <DE>Bauplan Große Werft</DE>
+      <Icon FileIndex="75" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Large ships can be launched from here... </EN>
+        <DE>Große Schiffe können hier vom Stapel laufen... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137705" FontStyle="0">
+      <EN>You can use a Construction plan to build a particular Building in a Settlement. </EN>
+      <DE>Mit Hilfe eines Bauplans kann ein bestimmtes Gebäude in einer Siedlung errichtet werden. </DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>70  Honour</EN>
+      <DE>70  Ruhm</DE>
       <Icon FileIndex="245" Width="46" Height="46">
         <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
       </Icon>
@@ -1748,58 +1800,6 @@
             <EN>The Sultan's Ship I</EN>
             <DE>Des Sultans Schiff I</DE>
           </Description>
-          <Description ID="5302057" FontStyle="0">
-            <EN>Schriften der Weisheit</EN>
-            <DE>Schriften der Weisheit</DE>
-          </Description>
-          <Description ID="5302025" FontStyle="0">
-            <EN>The Ghost ship IV</EN>
-            <DE>Das Geisterschiff IV</DE>
-          </Description>
-          <Description ID="5302053" FontStyle="0">
-            <EN>The Sultan's Ship II</EN>
-            <DE>Des Sultans Schiff II</DE>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
-  <Asset ID="8090" Name="Large shipyard">
-    <Text ID="8090" FontStyle="0">
-      <EN>Construction plan for Large shipyard</EN>
-      <DE>Bauplan Große Werft</DE>
-      <Icon FileIndex="75" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Large ships can be launched from here... </EN>
-        <DE>Große Schiffe können hier vom Stapel laufen... </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>C</ItemQuality>
-    <ItemType ID="137705" FontStyle="0">
-      <EN>You can use a Construction plan to build a particular Building in a Settlement. </EN>
-      <DE>Mit Hilfe eines Bauplans kann ein bestimmtes Gebäude in einer Siedlung errichtet werden. </DE>
-    </ItemType>
-    <ItemCategory>Warehouse</ItemCategory>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>70  Honour</EN>
-      <DE>70  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>5302057</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
-        </Text>
-        <Details>
           <Description ID="5302057" FontStyle="0">
             <EN>Schriften der Weisheit</EN>
             <DE>Schriften der Weisheit</DE>

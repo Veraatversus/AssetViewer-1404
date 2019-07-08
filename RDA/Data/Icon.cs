@@ -31,8 +31,8 @@ namespace RDA.Data {
     public Icon(string guid) {
       if (Engine.Icons.ContainsKey(guid)) {
         var icon = Engine.Icons[guid];
-        FileIndex = icon.Element("Icons").Elements().First().Element("IconIndex")?.Value ?? "0";
-        var iconmap = Engine.IconFilemap[icon.Element("Icons").Elements().First().Element("IconFileID").Value];
+        FileIndex = icon.Descendants("IconIndex")?.FirstOrDefault()?.Value ?? "0";
+        var iconmap = Engine.IconFilemap[icon.Descendants("IconFileID").First().Value];
         Filename = iconmap.Element("IconFilename").Value;
         Width = iconmap.Element("IconWidth").Value;
         Height = iconmap.Element("IconHeight").Value;

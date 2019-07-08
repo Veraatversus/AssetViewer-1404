@@ -3,6 +3,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Serialization;
@@ -508,6 +509,17 @@ namespace RDA.Data {
       if (element.Element("ItemType")?.Value is string itemtype) {
         if (Engine.NamesToId.ContainsKey(itemtype)) {
           this.ItemType = new Description(itemtype);
+        }
+        else {
+          this.ItemType = new Description(itemtype, itemtype);
+        }
+
+        var r = new Regex("(\\[)(GUIDNAME)(\\s+)(\\d+)(\\])", RegexOptions.IgnoreCase | RegexOptions.Singleline);
+        var matches = r.Matches(this.ItemType.DE).Cast<Match>();
+        if (matches.Any()) {
+          foreach (var match in matches) {
+            this.ItemType.Replace(match.ToString(), new Description(match.Groups[4].Value));
+          }
         }
         this.IsQuestItem = element.Element("IsQuestItem")?.Value == "1";
         this.IsPassiveItem = element.Element("Passive")?.Value == "1";

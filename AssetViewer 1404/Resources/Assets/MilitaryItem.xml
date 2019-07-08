@@ -33,6 +33,9 @@
       <Description ID="137625" FontStyle="0">
         <EN>Armies and Fort buildings</EN>
         <DE>Armeen und Festungsanlagen</DE>
+        <Icon FileIndex="105" Width="46" Height="46">
+          <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+        </Icon>
       </Description>
     </TargetCategories>
     <UnitUpgrade>

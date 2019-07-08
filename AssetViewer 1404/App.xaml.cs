@@ -1,9 +1,7 @@
 ﻿using AssetViewer1404.Data;
 using System.Collections.Generic;
-
+using System.Globalization;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Media;
 
 namespace AssetViewer1404 {
 
@@ -32,6 +30,10 @@ namespace AssetViewer1404 {
       [9] = new Description("Sort by", "Sortieren nach"),
       [10] = new Description("Reset Filters", "Filter zurücksetzen"),
       [11] = new Description("Source", "Quelle"),
+      [12] = new Description("Only available items ", "Nur verfügbare Items "),
+      [13] = new Description("Sort by", "Sortieren nach"),
+      [14] = new Description("Affect Building", "Beeinflusst Gebäude"),
+      [15] = new Description("Item Category", "Item Kategorie"),
       [100] = new Description("Common", "Gewöhnlich"),
       [101] = new Description("Rare", "Selten"),
       [102] = new Description("Epic", "Episch"),
@@ -39,6 +41,14 @@ namespace AssetViewer1404 {
 
     #endregion Fields
 
-  
+    #region Constructors
+
+    public App() {
+      if (CultureInfo.CurrentCulture.ThreeLetterWindowsLanguageName == "DEU") {
+        Language = Languages.German;
+      }
+    }
+
+    #endregion Constructors
   }
 }

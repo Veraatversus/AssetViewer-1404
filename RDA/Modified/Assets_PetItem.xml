@@ -1,96 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PetItem>
-  <Asset ID="8134" Name="Schwertfisch">
-    <Text ID="8134" FontStyle="0">
-      <EN>Swordfish as swift as an arrow</EN>
-      <DE>Pfeilschneller Schwertfisch</DE>
-      <Icon FileIndex="38" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Would also be nice in the Galley... </EN>
-        <DE>Würde sich auch in der Kombüse gut machen... </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>C</ItemQuality>
-    <ItemType ID="137712" FontStyle="0">
-      <EN>This animal follows your Ship like a true companion. </EN>
-      <DE>Dieses Tier folgt Ihrem Schiff als treuer Begleiter. </DE>
-    </ItemType>
-    <ItemCategory>Ship</ItemCategory>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>750  Honour</EN>
-      <DE>750  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>true</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>1645001</ID>
-        <Text ID="1645001" FontStyle="0">
-          <EN>Harbour - Grand Vizier Al Zahir</EN>
-          <DE>Hafen - Großwesir Al Zahir</DE>
-          <Icon FileIndex="168" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645001" FontStyle="0">
-            <EN>Grand Vizier Al Zahir</EN>
-            <DE>Großwesir Al Zahir</DE>
-            <Icon FileIndex="168" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-      <TempSource>
-        <ID>8450095</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
-        </Text>
-        <Details>
-          <Description ID="8450095" FontStyle="0">
-            <EN>The big Feast V</EN>
-            <DE>Das große Fest V</DE>
-          </Description>
-          <Description ID="8450113" FontStyle="0">
-            <EN>The false chronicler VI</EN>
-            <DE>Die falschen Chronisten VI</DE>
-          </Description>
-          <Description ID="8450128" FontStyle="0">
-            <EN>Influenza with consequences V</EN>
-            <DE>Schleichende Krankheit V</DE>
-          </Description>
-          <Description ID="8450145" FontStyle="0">
-            <EN>The planned coup d'etat VI</EN>
-            <DE>Verschwörer VI</DE>
-          </Description>
-          <Description ID="8450157" FontStyle="0">
-            <EN>The false Crest IV</EN>
-            <DE>Das gefälschte Wappen IV</DE>
-          </Description>
-          <Description ID="8450164" FontStyle="0">
-            <EN>Al Hamra IV</EN>
-            <DE>Al Hamra IV</DE>
-          </Description>
-          <Description ID="8450170" FontStyle="0">
-            <EN>For posterity IV</EN>
-            <DE>Für die Nachwelt IV</DE>
-          </Description>
-          <Description ID="8450182" FontStyle="0">
-            <EN>Harmony VI</EN>
-            <DE>Einklang VI</DE>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
   <Asset ID="8080" Name="Delfin">
     <Text ID="8080" FontStyle="0">
       <EN>Playful dolphin</EN>
@@ -292,6 +201,97 @@
           <Description ID="8350219" FontStyle="0">
             <EN>Honour and Glory</EN>
             <DE>Ruhm und Ehre</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8134" Name="Schwertfisch">
+    <Text ID="8134" FontStyle="0">
+      <EN>Swordfish as swift as an arrow</EN>
+      <DE>Pfeilschneller Schwertfisch</DE>
+      <Icon FileIndex="38" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Would also be nice in the Galley... </EN>
+        <DE>Würde sich auch in der Kombüse gut machen... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137712" FontStyle="0">
+      <EN>This animal follows your Ship like a true companion. </EN>
+      <DE>Dieses Tier folgt Ihrem Schiff als treuer Begleiter. </DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>750  Honour</EN>
+      <DE>750  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>true</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon FileIndex="168" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon FileIndex="168" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>8450095</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="8450095" FontStyle="0">
+            <EN>The big Feast V</EN>
+            <DE>Das große Fest V</DE>
+          </Description>
+          <Description ID="8450113" FontStyle="0">
+            <EN>The false chronicler VI</EN>
+            <DE>Die falschen Chronisten VI</DE>
+          </Description>
+          <Description ID="8450128" FontStyle="0">
+            <EN>Influenza with consequences V</EN>
+            <DE>Schleichende Krankheit V</DE>
+          </Description>
+          <Description ID="8450145" FontStyle="0">
+            <EN>The planned coup d'etat VI</EN>
+            <DE>Verschwörer VI</DE>
+          </Description>
+          <Description ID="8450157" FontStyle="0">
+            <EN>The false Crest IV</EN>
+            <DE>Das gefälschte Wappen IV</DE>
+          </Description>
+          <Description ID="8450164" FontStyle="0">
+            <EN>Al Hamra IV</EN>
+            <DE>Al Hamra IV</DE>
+          </Description>
+          <Description ID="8450170" FontStyle="0">
+            <EN>For posterity IV</EN>
+            <DE>Für die Nachwelt IV</DE>
+          </Description>
+          <Description ID="8450182" FontStyle="0">
+            <EN>Harmony VI</EN>
+            <DE>Einklang VI</DE>
           </Description>
         </Details>
       </TempSource>

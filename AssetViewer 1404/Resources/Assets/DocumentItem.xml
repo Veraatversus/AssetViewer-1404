@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DocumentItem>
-  <Asset ID="8388" Name="DummyDocument">
-    <Text ID="8388" FontStyle="0">
-      <EN>Document04</EN>
-      <DE>Dokument04</DE>
+  <Asset ID="8385" Name="DummyDocument">
+    <Text ID="8385" FontStyle="0">
+      <EN>Document01</EN>
+      <DE>Dokument01</DE>
     </Text>
     <ItemQuality>Document</ItemQuality>
     <ItemType ID="137779" FontStyle="0">
@@ -34,6 +34,23 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources />
   </Asset>
+  <Asset ID="8388" Name="DummyDocument">
+    <Text ID="8388" FontStyle="0">
+      <EN>Document04</EN>
+      <DE>Dokument04</DE>
+    </Text>
+    <ItemQuality>Document</ItemQuality>
+    <ItemType ID="137779" FontStyle="0">
+      <EN>A document contains written information which is worth reading. 
+</EN>
+      <DE>Ein Dokument beinhaltet schriftliche Informationen, die es zu lesen lohnt. </DE>
+    </ItemType>
+    <ItemCategory>Document</ItemCategory>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources />
+  </Asset>
   <Asset ID="8391" Name="DummyDocument">
     <Text ID="8391" FontStyle="0">
       <EN>Document07</EN>
@@ -51,27 +68,10 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources />
   </Asset>
-  <Asset ID="8385" Name="DummyDocument">
-    <Text ID="8385" FontStyle="0">
-      <EN>Document01</EN>
-      <DE>Dokument01</DE>
-    </Text>
-    <ItemQuality>Document</ItemQuality>
-    <ItemType ID="137779" FontStyle="0">
-      <EN>A document contains written information which is worth reading. 
-</EN>
-      <DE>Ein Dokument beinhaltet schriftliche Informationen, die es zu lesen lohnt. </DE>
-    </ItemType>
-    <ItemCategory>Document</ItemCategory>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources />
-  </Asset>
-  <Asset ID="8389" Name="DummyDocument">
-    <Text ID="8389" FontStyle="0">
-      <EN>Document05</EN>
-      <DE>Dokument05</DE>
+  <Asset ID="8386" Name="DummyDocument">
+    <Text ID="8386" FontStyle="0">
+      <EN>Document02</EN>
+      <DE>Dokument02</DE>
     </Text>
     <ItemQuality>Document</ItemQuality>
     <ItemType ID="137779" FontStyle="0">
@@ -115,6 +115,23 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources />
   </Asset>
+  <Asset ID="8389" Name="DummyDocument">
+    <Text ID="8389" FontStyle="0">
+      <EN>Document05</EN>
+      <DE>Dokument05</DE>
+    </Text>
+    <ItemQuality>Document</ItemQuality>
+    <ItemType ID="137779" FontStyle="0">
+      <EN>A document contains written information which is worth reading. 
+</EN>
+      <DE>Ein Dokument beinhaltet schriftliche Informationen, die es zu lesen lohnt. </DE>
+    </ItemType>
+    <ItemCategory>Document</ItemCategory>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources />
+  </Asset>
   <Asset ID="8392" Name="DummyDocument">
     <Text ID="8392" FontStyle="0">
       <EN>Document08</EN>
@@ -132,27 +149,10 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources />
   </Asset>
-  <Asset ID="8386" Name="DummyDocument">
-    <Text ID="8386" FontStyle="0">
-      <EN>Document02</EN>
-      <DE>Dokument02</DE>
-    </Text>
-    <ItemQuality>Document</ItemQuality>
-    <ItemType ID="137779" FontStyle="0">
-      <EN>A document contains written information which is worth reading. 
-</EN>
-      <DE>Ein Dokument beinhaltet schriftliche Informationen, die es zu lesen lohnt. </DE>
-    </ItemType>
-    <ItemCategory>Document</ItemCategory>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources />
-  </Asset>
-  <Asset ID="8394" Name="DummyDocument">
-    <Text ID="8394" FontStyle="0">
-      <EN>Document10</EN>
-      <DE>Dokument10</DE>
+  <Asset ID="8387" Name="DummyDocument">
+    <Text ID="8387" FontStyle="0">
+      <EN>Document03</EN>
+      <DE>Dokument03</DE>
     </Text>
     <ItemQuality>Document</ItemQuality>
     <ItemType ID="137779" FontStyle="0">
@@ -183,10 +183,10 @@
     <IsPassiveItem>false</IsPassiveItem>
     <Sources />
   </Asset>
-  <Asset ID="8387" Name="DummyDocument">
-    <Text ID="8387" FontStyle="0">
-      <EN>Document03</EN>
-      <DE>Dokument03</DE>
+  <Asset ID="8394" Name="DummyDocument">
+    <Text ID="8394" FontStyle="0">
+      <EN>Document10</EN>
+      <DE>Dokument10</DE>
     </Text>
     <ItemQuality>Document</ItemQuality>
     <ItemType ID="137779" FontStyle="0">

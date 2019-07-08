@@ -1,369 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PopulationItem>
-  <Asset ID="8284" Name="Aufstiegsbeschränkungen Gesandte">
-    <Text ID="8284" FontStyle="0">
-      <EN>The Scholars' Abacus</EN>
-      <DE>Abakus der Gelehrten</DE>
-      <Icon FileIndex="27" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Grants additional diplomatic status to the Nomads in a Settlement. Knowledge is power! </EN>
-        <DE>Gewährt den Nomaden einer Siedlung zusätzliche Diplomatenstati. Wissen ist Macht! </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>B</ItemQuality>
-    <ItemCategory>Warehouse</ItemCategory>
-    <ItemTarget>Island</ItemTarget>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>1400  Honour</EN>
-      <DE>1400  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <Cooldown>3900000</Cooldown>
-    <EffectDuration>300000</EffectDuration>
-    <TargetCategories />
-    <GlobalUpgrade>
-      <Upgrade>
-        <Text ID="137743" FontStyle="0">
-          <EN>Additional Ascension rights:</EN>
-          <DE>Zusätzliche Aufstiegsrechte:</DE>
-        </Text>
-        <Value />
-        <Additionals>
-          <Upgrade>
-            <Text ID="125017" FontStyle="0">
-              <EN>Envoys</EN>
-              <DE>Gesandte</DE>
-              <Icon FileIndex="201" Width="46" Height="46">
-                <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-              </Icon>
-            </Text>
-            <Value>+10%</Value>
-          </Upgrade>
-        </Additionals>
-      </Upgrade>
-    </GlobalUpgrade>
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>5950012</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
-        </Text>
-        <Details>
-          <Description ID="5950012" FontStyle="0">
-            <EN>High time!</EN>
-            <DE>Höchste Zeit!</DE>
-          </Description>
-          <Description ID="5950032" FontStyle="0">
-            <EN>Spiritual assets</EN>
-            <DE>Geistiges Eigentum</DE>
-          </Description>
-          <Description ID="5950035" FontStyle="0">
-            <EN>Needle in a haystack</EN>
-            <DE>Nadel im Heuhaufen</DE>
-          </Description>
-          <Description ID="5950038" FontStyle="0">
-            <EN>Tricky undertaking</EN>
-            <DE>Heikles Unterfangen</DE>
-          </Description>
-          <Description ID="5950047" FontStyle="0">
-            <EN>From Coast to Coast</EN>
-            <DE>Von Küste zu Küste</DE>
-          </Description>
-          <Description ID="5950124" FontStyle="0">
-            <EN>Ancient Artefacts</EN>
-            <DE>Antike Artefakte</DE>
-          </Description>
-          <Description ID="5950140" FontStyle="0">
-            <EN>Distress call</EN>
-            <DE>Hilferuf</DE>
-          </Description>
-          <Description ID="5950137" FontStyle="0">
-            <EN>Miracle in the Sand</EN>
-            <DE>Wunder im Sand</DE>
-          </Description>
-          <Description ID="5950095" FontStyle="0">
-            <EN>A look into the stars IV</EN>
-            <DE>Blick in die Sterne IV</DE>
-          </Description>
-          <Description ID="5950098" FontStyle="0">
-            <EN>The informant II</EN>
-            <DE>Der Informant II</DE>
-          </Description>
-          <Description ID="5950119" FontStyle="0">
-            <EN>An important guest II</EN>
-            <DE>Ein wichtiger Gast II</DE>
-          </Description>
-          <Description ID="5950136" FontStyle="0">
-            <EN>A hot trail IV</EN>
-            <DE>Eine heiße Spur IV</DE>
-          </Description>
-          <Description ID="8450095" FontStyle="0">
-            <EN>The big Feast V</EN>
-            <DE>Das große Fest V</DE>
-          </Description>
-          <Description ID="8450113" FontStyle="0">
-            <EN>The false chronicler VI</EN>
-            <DE>Die falschen Chronisten VI</DE>
-          </Description>
-          <Description ID="8450128" FontStyle="0">
-            <EN>Influenza with consequences V</EN>
-            <DE>Schleichende Krankheit V</DE>
-          </Description>
-          <Description ID="8450145" FontStyle="0">
-            <EN>The planned coup d'etat VI</EN>
-            <DE>Verschwörer VI</DE>
-          </Description>
-          <Description ID="8450157" FontStyle="0">
-            <EN>The false Crest IV</EN>
-            <DE>Das gefälschte Wappen IV</DE>
-          </Description>
-          <Description ID="8450164" FontStyle="0">
-            <EN>Al Hamra IV</EN>
-            <DE>Al Hamra IV</DE>
-          </Description>
-          <Description ID="8450170" FontStyle="0">
-            <EN>For posterity IV</EN>
-            <DE>Für die Nachwelt IV</DE>
-          </Description>
-          <Description ID="8450182" FontStyle="0">
-            <EN>Harmony VI</EN>
-            <DE>Einklang VI</DE>
-          </Description>
-        </Details>
-      </TempSource>
-      <TempSource>
-        <ID>1645001</ID>
-        <Text ID="1645001" FontStyle="0">
-          <EN>Harbour - Grand Vizier Al Zahir</EN>
-          <DE>Hafen - Großwesir Al Zahir</DE>
-          <Icon FileIndex="168" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645001" FontStyle="0">
-            <EN>Grand Vizier Al Zahir</EN>
-            <DE>Großwesir Al Zahir</DE>
-            <Icon FileIndex="168" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
-  <Asset ID="8282" Name="Aufstiegsbeschränkungen Patrizier">
-    <Text ID="8282" FontStyle="0">
-      <EN>The Merchant's seal</EN>
-      <DE>Siegel der Handelsherren</DE>
-      <Icon FileIndex="28" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Grants additional Trade privileges to the Citizens in a Settlement. Money makes the world go round! </EN>
-        <DE>Gewährt den Bürgern einer Siedlung zusätzliche Handelsprivilegien. Geld regiert die Welt! </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>B</ItemQuality>
-    <ItemCategory>Warehouse</ItemCategory>
-    <ItemTarget>Island</ItemTarget>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>1400  Honour</EN>
-      <DE>1400  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <Cooldown>3900000</Cooldown>
-    <EffectDuration>300000</EffectDuration>
-    <TargetCategories />
-    <GlobalUpgrade>
-      <Upgrade>
-        <Text ID="137743" FontStyle="0">
-          <EN>Additional Ascension rights:</EN>
-          <DE>Zusätzliche Aufstiegsrechte:</DE>
-        </Text>
-        <Value />
-        <Additionals>
-          <Upgrade>
-            <Text ID="125003" FontStyle="0">
-              <EN>Patricians</EN>
-              <DE>Patrizier</DE>
-              <AdditionalInformation FontStyle="0">
-                <EN> Patricians</EN>
-                <DE> Patrizier</DE>
-              </AdditionalInformation>
-            </Text>
-            <Value>+10%</Value>
-          </Upgrade>
-        </Additionals>
-      </Upgrade>
-    </GlobalUpgrade>
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>6606204</ID>
-        <Text ID="6602034" FontStyle="0">
-          <EN>Quest - An ambitious Inhabitant</EN>
-          <DE>Quest - Ein ehrgeiziger Bewohner</DE>
-        </Text>
-        <Details>
-          <Description ID="6606204" FontStyle="0">
-            <EN> secure</EN>
-            <DE>Sicheres </DE>
-          </Description>
-        </Details>
-      </TempSource>
-      <TempSource>
-        <ID>6150014</ID>
-        <Text ID="" FontStyle="0">
-          <EN>Quest</EN>
-          <DE>Quest</DE>
-        </Text>
-        <Details>
-          <Description ID="6150014" FontStyle="0">
-            <EN>Unsafe routes</EN>
-            <DE>Unsichere Routen</DE>
-          </Description>
-          <Description ID="6150022" FontStyle="0">
-            <EN>Loose tongues</EN>
-            <DE>Gelöste Zunge</DE>
-          </Description>
-          <Description ID="6150032" FontStyle="0">
-            <EN>The special offer</EN>
-            <DE>Das Sonderangebot</DE>
-          </Description>
-          <Description ID="6150034" FontStyle="0">
-            <EN>The competition never sleeps</EN>
-            <DE>Die Konkurrenz schläft nicht</DE>
-          </Description>
-          <Description ID="6150046" FontStyle="0">
-            <EN>Success breeds envy</EN>
-            <DE>Erfolg schafft Neider</DE>
-          </Description>
-          <Description ID="6150048" FontStyle="0">
-            <EN>On behalf of the family</EN>
-            <DE>Im Auftrag der Familie</DE>
-          </Description>
-          <Description ID="6150056" FontStyle="0">
-            <EN>The secret tip</EN>
-            <DE>Der Geheimtip</DE>
-          </Description>
-          <Description ID="6150082" FontStyle="0">
-            <EN>Distress call</EN>
-            <DE>Hilferuf</DE>
-          </Description>
-          <Description ID="6150078" FontStyle="0">
-            <EN>Measure the Empire</EN>
-            <DE>Reich bemessen</DE>
-          </Description>
-          <Description ID="6150080" FontStyle="0">
-            <EN>Signs of success</EN>
-            <DE>Manifest des Erfolgs</DE>
-          </Description>
-          <Description ID="6150020" FontStyle="0">
-            <EN>Economic espionage II</EN>
-            <DE>Wirtschaftsspionage II</DE>
-          </Description>
-          <Description ID="6150030" FontStyle="0">
-            <EN>Bribery attempt III</EN>
-            <DE>Bestechungsversuche III</DE>
-          </Description>
-          <Description ID="6150068" FontStyle="0">
-            <EN>Raw nerves IV</EN>
-            <DE>Die Nerven liegen blank IV</DE>
-          </Description>
-          <Description ID="6150076" FontStyle="0">
-            <EN>Ethical boundaries IV</EN>
-            <DE>Moralische Grenzen IV</DE>
-          </Description>
-          <Description ID="8350103" FontStyle="0">
-            <EN>Thirst for knowledge V</EN>
-            <DE>Abenteuerlust  V</DE>
-          </Description>
-          <Description ID="8350121" FontStyle="0">
-            <EN>Enemy in your own ranks VI</EN>
-            <DE>Das Komplott VI</DE>
-          </Description>
-          <Description ID="8350135" FontStyle="0">
-            <EN>The Imperial garden V</EN>
-            <DE>Der kaiserliche Garten V</DE>
-          </Description>
-          <Description ID="8350156" FontStyle="0">
-            <EN>The Emperor's mercy VII</EN>
-            <DE>Des Kaisers Gnade VII</DE>
-          </Description>
-          <Description ID="8350163" FontStyle="0">
-            <EN>The game board of power IV</EN>
-            <DE>Spielbrett der Macht IV</DE>
-          </Description>
-          <Description ID="8350175" FontStyle="0">
-            <EN>Imperial grandeur VI</EN>
-            <DE>Kaiserwürden VI</DE>
-          </Description>
-          <Description ID="8350183" FontStyle="0">
-            <EN>Joined forces IV</EN>
-            <DE>Geeinte Klingen IV</DE>
-          </Description>
-          <Description ID="8350199" FontStyle="0">
-            <EN>Court intrigue V</EN>
-            <DE>Höfische Intrige V</DE>
-          </Description>
-          <Description ID="8350209" FontStyle="0">
-            <EN>For Empire and Crown</EN>
-            <DE>Für Reich und Krone</DE>
-          </Description>
-          <Description ID="8350211" FontStyle="0">
-            <EN>Inner strength</EN>
-            <DE>Innere Stärke</DE>
-          </Description>
-          <Description ID="8350213" FontStyle="0">
-            <EN>Nurturing the Alliance</EN>
-            <DE>Bündnispflege </DE>
-          </Description>
-          <Description ID="8350215" FontStyle="0">
-            <EN>Knowledge is Power</EN>
-            <DE>Wissen ist Macht</DE>
-          </Description>
-          <Description ID="8350217" FontStyle="0">
-            <EN>Secure bonds</EN>
-            <DE>Sichere Bande</DE>
-          </Description>
-          <Description ID="8350219" FontStyle="0">
-            <EN>Honour and Glory</EN>
-            <DE>Ruhm und Ehre</DE>
-          </Description>
-        </Details>
-      </TempSource>
-      <TempSource>
-        <ID>1645000</ID>
-        <Text ID="1645000" FontStyle="0">
-          <EN>Harbour - Lord Richard Northburgh</EN>
-          <DE>Hafen - Lord Richard Northburgh</DE>
-          <Icon FileIndex="169" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645000" FontStyle="0">
-            <EN>Lord Richard Northburgh</EN>
-            <DE>Lord Richard Northburgh</DE>
-            <Icon FileIndex="169" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
   <Asset ID="8281" Name="Aufstiegsbeschränkungen Bürger">
     <Text ID="8281" FontStyle="0">
       <EN>Gold City key</EN>
@@ -377,6 +13,10 @@
       </AdditionalInformation>
     </Text>
     <ItemQuality>B</ItemQuality>
+    <ItemType ID="" FontStyle="0">
+      <EN>PopulationUpgrade</EN>
+      <DE>PopulationUpgrade</DE>
+    </ItemType>
     <ItemCategory>Warehouse</ItemCategory>
     <ItemTarget>Island</ItemTarget>
     <HonourPrice ID="140009" FontStyle="0">
@@ -401,6 +41,9 @@
             <Text ID="125002" FontStyle="0">
               <EN>Citizens</EN>
               <DE>Bürger</DE>
+              <Icon FileIndex="197" Width="46" Height="46">
+                <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+              </Icon>
               <AdditionalInformation FontStyle="0">
                 <EN> Citizens</EN>
                 <DE> Bürger</DE>
@@ -725,6 +368,10 @@
         <DE>Gewährt den Patriziern einer Siedlung zusätzliche Adelstitel. Erlangt Zugang zu höchsten Kreisen! </DE>
       </AdditionalInformation>
     </Text>
+    <ItemType ID="" FontStyle="0">
+      <EN>PopulationUpgrade</EN>
+      <DE>PopulationUpgrade</DE>
+    </ItemType>
     <ItemCategory>Warehouse</ItemCategory>
     <ItemTarget>Island</ItemTarget>
     <HonourPrice ID="140009" FontStyle="0">
@@ -749,6 +396,9 @@
             <Text ID="125004" FontStyle="0">
               <EN>Noblemen</EN>
               <DE>Adlige</DE>
+              <Icon FileIndex="199" Width="46" Height="46">
+                <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+              </Icon>
               <AdditionalInformation FontStyle="0">
                 <EN> Noblemen</EN>
                 <DE> Adlige</DE>
@@ -909,6 +559,381 @@
             <EN>Lord Richard Northburgh</EN>
             <DE>Lord Richard Northburgh</DE>
             <Icon FileIndex="169" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8282" Name="Aufstiegsbeschränkungen Patrizier">
+    <Text ID="8282" FontStyle="0">
+      <EN>The Merchant's seal</EN>
+      <DE>Siegel der Handelsherren</DE>
+      <Icon FileIndex="28" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Grants additional Trade privileges to the Citizens in a Settlement. Money makes the world go round! </EN>
+        <DE>Gewährt den Bürgern einer Siedlung zusätzliche Handelsprivilegien. Geld regiert die Welt! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="" FontStyle="0">
+      <EN>PopulationUpgrade</EN>
+      <DE>PopulationUpgrade</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <ItemTarget>Island</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>1400  Honour</EN>
+      <DE>1400  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <Cooldown>3900000</Cooldown>
+    <EffectDuration>300000</EffectDuration>
+    <TargetCategories />
+    <GlobalUpgrade>
+      <Upgrade>
+        <Text ID="137743" FontStyle="0">
+          <EN>Additional Ascension rights:</EN>
+          <DE>Zusätzliche Aufstiegsrechte:</DE>
+        </Text>
+        <Value />
+        <Additionals>
+          <Upgrade>
+            <Text ID="125003" FontStyle="0">
+              <EN>Patricians</EN>
+              <DE>Patrizier</DE>
+              <Icon FileIndex="198" Width="46" Height="46">
+                <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+              </Icon>
+              <AdditionalInformation FontStyle="0">
+                <EN> Patricians</EN>
+                <DE> Patrizier</DE>
+              </AdditionalInformation>
+            </Text>
+            <Value>+10%</Value>
+          </Upgrade>
+        </Additionals>
+      </Upgrade>
+    </GlobalUpgrade>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>6606204</ID>
+        <Text ID="6602034" FontStyle="0">
+          <EN>Quest - An ambitious Inhabitant</EN>
+          <DE>Quest - Ein ehrgeiziger Bewohner</DE>
+        </Text>
+        <Details>
+          <Description ID="6606204" FontStyle="0">
+            <EN>[QUEST_CITY] secure</EN>
+            <DE>Sicheres [QUEST_CITY]</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>6150014</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="6150014" FontStyle="0">
+            <EN>Unsafe routes</EN>
+            <DE>Unsichere Routen</DE>
+          </Description>
+          <Description ID="6150022" FontStyle="0">
+            <EN>Loose tongues</EN>
+            <DE>Gelöste Zunge</DE>
+          </Description>
+          <Description ID="6150032" FontStyle="0">
+            <EN>The special offer</EN>
+            <DE>Das Sonderangebot</DE>
+          </Description>
+          <Description ID="6150034" FontStyle="0">
+            <EN>The competition never sleeps</EN>
+            <DE>Die Konkurrenz schläft nicht</DE>
+          </Description>
+          <Description ID="6150046" FontStyle="0">
+            <EN>Success breeds envy</EN>
+            <DE>Erfolg schafft Neider</DE>
+          </Description>
+          <Description ID="6150048" FontStyle="0">
+            <EN>On behalf of the family</EN>
+            <DE>Im Auftrag der Familie</DE>
+          </Description>
+          <Description ID="6150056" FontStyle="0">
+            <EN>The secret tip</EN>
+            <DE>Der Geheimtip</DE>
+          </Description>
+          <Description ID="6150082" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="6150078" FontStyle="0">
+            <EN>Measure the Empire</EN>
+            <DE>Reich bemessen</DE>
+          </Description>
+          <Description ID="6150080" FontStyle="0">
+            <EN>Signs of success</EN>
+            <DE>Manifest des Erfolgs</DE>
+          </Description>
+          <Description ID="6150020" FontStyle="0">
+            <EN>Economic espionage II</EN>
+            <DE>Wirtschaftsspionage II</DE>
+          </Description>
+          <Description ID="6150030" FontStyle="0">
+            <EN>Bribery attempt III</EN>
+            <DE>Bestechungsversuche III</DE>
+          </Description>
+          <Description ID="6150068" FontStyle="0">
+            <EN>Raw nerves IV</EN>
+            <DE>Die Nerven liegen blank IV</DE>
+          </Description>
+          <Description ID="6150076" FontStyle="0">
+            <EN>Ethical boundaries IV</EN>
+            <DE>Moralische Grenzen IV</DE>
+          </Description>
+          <Description ID="8350103" FontStyle="0">
+            <EN>Thirst for knowledge V</EN>
+            <DE>Abenteuerlust  V</DE>
+          </Description>
+          <Description ID="8350121" FontStyle="0">
+            <EN>Enemy in your own ranks VI</EN>
+            <DE>Das Komplott VI</DE>
+          </Description>
+          <Description ID="8350135" FontStyle="0">
+            <EN>The Imperial garden V</EN>
+            <DE>Der kaiserliche Garten V</DE>
+          </Description>
+          <Description ID="8350156" FontStyle="0">
+            <EN>The Emperor's mercy VII</EN>
+            <DE>Des Kaisers Gnade VII</DE>
+          </Description>
+          <Description ID="8350163" FontStyle="0">
+            <EN>The game board of power IV</EN>
+            <DE>Spielbrett der Macht IV</DE>
+          </Description>
+          <Description ID="8350175" FontStyle="0">
+            <EN>Imperial grandeur VI</EN>
+            <DE>Kaiserwürden VI</DE>
+          </Description>
+          <Description ID="8350183" FontStyle="0">
+            <EN>Joined forces IV</EN>
+            <DE>Geeinte Klingen IV</DE>
+          </Description>
+          <Description ID="8350199" FontStyle="0">
+            <EN>Court intrigue V</EN>
+            <DE>Höfische Intrige V</DE>
+          </Description>
+          <Description ID="8350209" FontStyle="0">
+            <EN>For Empire and Crown</EN>
+            <DE>Für Reich und Krone</DE>
+          </Description>
+          <Description ID="8350211" FontStyle="0">
+            <EN>Inner strength</EN>
+            <DE>Innere Stärke</DE>
+          </Description>
+          <Description ID="8350213" FontStyle="0">
+            <EN>Nurturing the Alliance</EN>
+            <DE>Bündnispflege </DE>
+          </Description>
+          <Description ID="8350215" FontStyle="0">
+            <EN>Knowledge is Power</EN>
+            <DE>Wissen ist Macht</DE>
+          </Description>
+          <Description ID="8350217" FontStyle="0">
+            <EN>Secure bonds</EN>
+            <DE>Sichere Bande</DE>
+          </Description>
+          <Description ID="8350219" FontStyle="0">
+            <EN>Honour and Glory</EN>
+            <DE>Ruhm und Ehre</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645000</ID>
+        <Text ID="1645000" FontStyle="0">
+          <EN>Harbour - Lord Richard Northburgh</EN>
+          <DE>Hafen - Lord Richard Northburgh</DE>
+          <Icon FileIndex="169" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645000" FontStyle="0">
+            <EN>Lord Richard Northburgh</EN>
+            <DE>Lord Richard Northburgh</DE>
+            <Icon FileIndex="169" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8284" Name="Aufstiegsbeschränkungen Gesandte">
+    <Text ID="8284" FontStyle="0">
+      <EN>The Scholars' Abacus</EN>
+      <DE>Abakus der Gelehrten</DE>
+      <Icon FileIndex="27" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Grants additional diplomatic status to the Nomads in a Settlement. Knowledge is power! </EN>
+        <DE>Gewährt den Nomaden einer Siedlung zusätzliche Diplomatenstati. Wissen ist Macht! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="" FontStyle="0">
+      <EN>PopulationUpgrade</EN>
+      <DE>PopulationUpgrade</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <ItemTarget>Island</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>1400  Honour</EN>
+      <DE>1400  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <Cooldown>3900000</Cooldown>
+    <EffectDuration>300000</EffectDuration>
+    <TargetCategories />
+    <GlobalUpgrade>
+      <Upgrade>
+        <Text ID="137743" FontStyle="0">
+          <EN>Additional Ascension rights:</EN>
+          <DE>Zusätzliche Aufstiegsrechte:</DE>
+        </Text>
+        <Value />
+        <Additionals>
+          <Upgrade>
+            <Text ID="125017" FontStyle="0">
+              <EN>Envoys</EN>
+              <DE>Gesandte</DE>
+              <Icon FileIndex="201" Width="46" Height="46">
+                <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+              </Icon>
+            </Text>
+            <Value>+10%</Value>
+          </Upgrade>
+        </Additionals>
+      </Upgrade>
+    </GlobalUpgrade>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5950012</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5950012" FontStyle="0">
+            <EN>High time!</EN>
+            <DE>Höchste Zeit!</DE>
+          </Description>
+          <Description ID="5950032" FontStyle="0">
+            <EN>Spiritual assets</EN>
+            <DE>Geistiges Eigentum</DE>
+          </Description>
+          <Description ID="5950035" FontStyle="0">
+            <EN>Needle in a haystack</EN>
+            <DE>Nadel im Heuhaufen</DE>
+          </Description>
+          <Description ID="5950038" FontStyle="0">
+            <EN>Tricky undertaking</EN>
+            <DE>Heikles Unterfangen</DE>
+          </Description>
+          <Description ID="5950047" FontStyle="0">
+            <EN>From Coast to Coast</EN>
+            <DE>Von Küste zu Küste</DE>
+          </Description>
+          <Description ID="5950124" FontStyle="0">
+            <EN>Ancient Artefacts</EN>
+            <DE>Antike Artefakte</DE>
+          </Description>
+          <Description ID="5950140" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="5950137" FontStyle="0">
+            <EN>Miracle in the Sand</EN>
+            <DE>Wunder im Sand</DE>
+          </Description>
+          <Description ID="5950095" FontStyle="0">
+            <EN>A look into the stars IV</EN>
+            <DE>Blick in die Sterne IV</DE>
+          </Description>
+          <Description ID="5950098" FontStyle="0">
+            <EN>The informant II</EN>
+            <DE>Der Informant II</DE>
+          </Description>
+          <Description ID="5950119" FontStyle="0">
+            <EN>An important guest II</EN>
+            <DE>Ein wichtiger Gast II</DE>
+          </Description>
+          <Description ID="5950136" FontStyle="0">
+            <EN>A hot trail IV</EN>
+            <DE>Eine heiße Spur IV</DE>
+          </Description>
+          <Description ID="8450095" FontStyle="0">
+            <EN>The big Feast V</EN>
+            <DE>Das große Fest V</DE>
+          </Description>
+          <Description ID="8450113" FontStyle="0">
+            <EN>The false chronicler VI</EN>
+            <DE>Die falschen Chronisten VI</DE>
+          </Description>
+          <Description ID="8450128" FontStyle="0">
+            <EN>Influenza with consequences V</EN>
+            <DE>Schleichende Krankheit V</DE>
+          </Description>
+          <Description ID="8450145" FontStyle="0">
+            <EN>The planned coup d'etat VI</EN>
+            <DE>Verschwörer VI</DE>
+          </Description>
+          <Description ID="8450157" FontStyle="0">
+            <EN>The false Crest IV</EN>
+            <DE>Das gefälschte Wappen IV</DE>
+          </Description>
+          <Description ID="8450164" FontStyle="0">
+            <EN>Al Hamra IV</EN>
+            <DE>Al Hamra IV</DE>
+          </Description>
+          <Description ID="8450170" FontStyle="0">
+            <EN>For posterity IV</EN>
+            <DE>Für die Nachwelt IV</DE>
+          </Description>
+          <Description ID="8450182" FontStyle="0">
+            <EN>Harmony VI</EN>
+            <DE>Einklang VI</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon FileIndex="168" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon FileIndex="168" Width="46" Height="46">
               <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
             </Icon>
           </Description>

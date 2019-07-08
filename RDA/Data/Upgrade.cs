@@ -73,7 +73,6 @@ namespace RDA.Data {
         case "TaxUpgradePercent":
         case "AmbassadorUpgradeRightBonus":
         case "BeggarUpgradeRightBonus":
-        case "PrestigePoints":
         case "DamageCloseCombatMax":
         case "DamageCloseCombatMin":
         case "DamageRangeCombatMax":
@@ -97,6 +96,7 @@ namespace RDA.Data {
           this.Text.Replace("[FERTILITYNAME]", new Description(element.Value));
           break;
 
+        case "PrestigePoints":
         case "MinTradeAmountForTollGeneration":
           value = Int32.Parse(element.Value);
           break;

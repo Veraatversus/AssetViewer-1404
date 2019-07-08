@@ -29,11 +29,13 @@ namespace AssetViewer1404.Data.Filters {
     public ItemsHolder() {
       StandardFilters.Add("Upgrades", new UpgradesFilter(this));
       StandardFilters.Add("Rarities", new RaritiesFilter(this));
-      //StandardFilters.Add("Available", new AvailableFilter(this) { SelectedValue = true });;
+      StandardFilters.Add("Available", new AvailableFilter(this) { SelectedValue = true });
+      ;
       //StandardFilters.Add("Equipped", new EquippedFilter(this));
+      StandardFilters.Add("ItemCategory", new ItemCategoryFilter(this));
       StandardFilters.Add("SearchText", new SearchTextFilter(this));
-      //StandardFilters.Add("TargetBuilding", new TargetBuildingFilter(this));
-      //StandardFilters.Add("Order", new OrderFilter(this));
+      StandardFilters.Add("TargetBuilding", new TargetBuildingFilter(this));
+      StandardFilters.Add("Order", new OrderFilter(this));
 
       CustomFilters = new ObservableCollection<FilterHolder>(new[] { new FilterHolder(this) });
     }

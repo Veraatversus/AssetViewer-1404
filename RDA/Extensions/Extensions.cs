@@ -26,10 +26,11 @@ namespace RDA {
       });
     }
     public static string RemoveTags(this string item) {
-      var matches = TagRegex.Matches(item).Cast<Match>().Select(m => m.Value).Distinct().OrderByDescending(s => s.Length);
-      foreach (var tag in matches) {
-        item = item.Replace(tag, "");
-      }
+      //var matches = TagRegex.Matches(item).Cast<Match>().Select(m => m.Value).Distinct().OrderByDescending(s => s.Length);
+      //foreach (var tag in matches) {
+      //  item = item.Replace(tag, "");
+      //}
+      item = item.Replace("[CR]", "");
       return item;
     }
     public static XElement GetProxyElement(this XElement element, string proxyName) {

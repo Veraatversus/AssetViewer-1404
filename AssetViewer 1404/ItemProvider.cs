@@ -5,7 +5,6 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Xml.Linq;
-using System.Xml.Serialization;
 
 namespace AssetViewer1404 {
 
@@ -22,7 +21,6 @@ namespace AssetViewer1404 {
     #region Constructors
 
     static ItemProvider() {
-
       //  using (var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("AssetViewer.Resources.Assets.RewardPools.xml"))
       //  using (var reader = new StreamReader(stream)) {
       //    var document = XDocument.Parse(reader.ReadToEnd()).Root;
@@ -61,14 +59,13 @@ namespace AssetViewer1404 {
         using (var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream(str))
         using (var reader = new StreamReader(stream)) {
           var document = XDocument.Parse(reader.ReadToEnd()).Root;
-          foreach (var item in document.Elements().Select(a=> new Asset(a))) {
+          foreach (var item in document.Elements().Select(a => new Asset(a))) {
             if (!Items.ContainsKey(item.ID)) {
               Items.Add(item.ID, item);
             }
             else {
               Debug.WriteLine(item.ID);
             }
-           
           }
         }
       }

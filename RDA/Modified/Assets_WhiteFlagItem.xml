@@ -1,58 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <WhiteFlagItem>
-  <Asset ID="8074" Name="Weiße Flagge">
-    <Text ID="8074" FontStyle="0">
-      <EN>White flag with holes in it</EN>
-      <DE>Löchrige weiße Flagge</DE>
-      <Icon FileIndex="41" Width="64" Height="64">
-        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
-      </Icon>
-      <AdditionalInformation FontStyle="0">
-        <EN>Has strange burn holes... </EN>
-        <DE>Hat seltsamerweise Brandlöcher... </DE>
-      </AdditionalInformation>
-    </Text>
-    <ItemQuality>C</ItemQuality>
-    <ItemType ID="137575" FontStyle="0">
-      <EN>Ship Item</EN>
-      <DE>Schiffs-Item</DE>
-    </ItemType>
-    <ItemCategory>Ship</ItemCategory>
-    <ItemTarget>Object</ItemTarget>
-    <HonourPrice ID="140009" FontStyle="0">
-      <EN>50  Honour</EN>
-      <DE>50  Ruhm</DE>
-      <Icon FileIndex="245" Width="46" Height="46">
-        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-      </Icon>
-    </HonourPrice>
-    <EffectDuration>600000</EffectDuration>
-    <UtilizationCount>1</UtilizationCount>
-    <TargetCategories />
-    <IsQuestItem>false</IsQuestItem>
-    <IsPassiveItem>false</IsPassiveItem>
-    <Sources>
-      <TempSource>
-        <ID>1645001</ID>
-        <Text ID="1645001" FontStyle="0">
-          <EN>Harbour - Grand Vizier Al Zahir</EN>
-          <DE>Hafen - Großwesir Al Zahir</DE>
-          <Icon FileIndex="168" Width="46" Height="46">
-            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-          </Icon>
-        </Text>
-        <Details>
-          <Description ID="1645001" FontStyle="0">
-            <EN>Grand Vizier Al Zahir</EN>
-            <DE>Großwesir Al Zahir</DE>
-            <Icon FileIndex="168" Width="46" Height="46">
-              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
-            </Icon>
-          </Description>
-        </Details>
-      </TempSource>
-    </Sources>
-  </Asset>
   <Asset ID="8127" Name="mittel Weiße Flagge">
     <Text ID="8127" FontStyle="0">
       <EN>Undamaged White flag</EN>
@@ -298,6 +245,59 @@
           </Description>
         </Details>
       </TempSource>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon FileIndex="168" Width="46" Height="46">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon FileIndex="168" Width="46" Height="46">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8074" Name="Weiße Flagge">
+    <Text ID="8074" FontStyle="0">
+      <EN>White flag with holes in it</EN>
+      <DE>Löchrige weiße Flagge</DE>
+      <Icon FileIndex="41" Width="64" Height="64">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation FontStyle="0">
+        <EN>Has strange burn holes... </EN>
+        <DE>Hat seltsamerweise Brandlöcher... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon FileIndex="245" Width="46" Height="46">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <EffectDuration>600000</EffectDuration>
+    <UtilizationCount>1</UtilizationCount>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
       <TempSource>
         <ID>1645001</ID>
         <Text ID="1645001" FontStyle="0">
@@ -578,8 +578,8 @@
             <DE>Hoffnungsschimmer III</DE>
           </Description>
           <Description ID="5850054" FontStyle="0">
-            <EN>'s sister II</EN>
-            <DE>s Schwester II</DE>
+            <EN>[QUEST_SENDER]'s sister II</EN>
+            <DE>[QUEST_SENDER]s Schwester II</DE>
           </Description>
           <Description ID="5850067" FontStyle="0">
             <EN>Furs Furs Furs II</EN>
@@ -1581,8 +1581,8 @@
             <DE>Hoffnungsschimmer II</DE>
           </Description>
           <Description ID="5850052" FontStyle="0">
-            <EN>'s sister I</EN>
-            <DE>s Schwester I</DE>
+            <EN>[QUEST_SENDER]'s sister I</EN>
+            <DE>[QUEST_SENDER]s Schwester I</DE>
           </Description>
           <Description ID="5850066" FontStyle="0">
             <EN>Furs Furs Furs I</EN>

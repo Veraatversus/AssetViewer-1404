@@ -53,6 +53,11 @@ namespace AssetViewer1404.Data {
 
     #region Methods
 
+    public Description InsertBefore(String en, String de) {
+      this.EN = $"{en} {this.EN}";
+      this.DE = $"{de} {this.DE}";
+      return this;
+    }
     public override string ToString() {
       return CurrentLang;
     }

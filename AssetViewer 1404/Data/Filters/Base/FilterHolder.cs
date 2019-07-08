@@ -29,14 +29,15 @@ namespace AssetViewer1404.Data.Filters {
     public FilterHolder(ItemsHolder holder) {
       Filters.Add(new UpgradesFilter(holder));
       Filters.Add(new SourcesFilter(holder));
+      Filters.Add(new ItemCategoryFilter(holder));
       //Filters.Add(new ItemTypesFilter(holder));
       //Filters.Add(new TargetsFilter(holder));
       //Filters.Add(new ReleaseVersionsFilter(holder));
       Filters.Add(new RaritiesFilter(holder));
-      //Filters.Add(new AvailableFilter(holder) { SelectedValue = true });
+      Filters.Add(new AvailableFilter(holder) { SelectedValue = true });
       //Filters.Add(new EquippedFilter(holder));
       Filters.Add(new SearchTextFilter(holder));
-      //Filters.Add(new TargetBuildingFilter(holder));
+      Filters.Add(new TargetBuildingFilter(holder));
     }
 
     #endregion Constructors
