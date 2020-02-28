@@ -1,0 +1,67 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>01 Black market trader ok</Name>
+      <GUIDRangeMin>6000000</GUIDRangeMin>
+      <GUIDRangeMax>6099999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_BlackMarketTrader.xml</FileName>
+    </Group>
+    <Group>
+      <Name>02 Pirate ok</Name>
+      <GUIDRangeMin>6100000</GUIDRangeMin>
+      <GUIDRangeMax>6199999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_Pirate.xml</FileName>
+    </Group>
+    <Group>
+      <Name>03 Raider ok</Name>
+      <GUIDRangeMin>6200000</GUIDRangeMin>
+      <GUIDRangeMax>6299999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_Raider.xml</FileName>
+    </Group>
+    <Group>
+      <Name>04 Eco Warrior ok</Name>
+      <GUIDRangeMin>6300000</GUIDRangeMin>
+      <GUIDRangeMax>6399999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_EcoWarrior.xml</FileName>
+    </Group>
+    <Group>
+      <Name>05 Oil Baron ok</Name>
+      <GUIDRangeMin>6400000</GUIDRangeMin>
+      <GUIDRangeMax>6499999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_OilBaron.xml</FileName>
+    </Group>
+    <Group>
+      <Name>06 Rival ok</Name>
+      <GUIDRangeMin>6500000</GUIDRangeMin>
+      <GUIDRangeMax>6599999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_Rival.xml</FileName>
+    </Group>
+    <Group>
+      <Name>07 Supporter ok</Name>
+      <GUIDRangeMin>6600000</GUIDRangeMin>
+      <GUIDRangeMax>6699999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_Supporter.xml</FileName>
+      <DefaultTemplate>Character Audio</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>08 Scientist ok</Name>
+      <GUIDRangeMin>6700000</GUIDRangeMin>
+      <GUIDRangeMax>6799999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_Scientist.xml</FileName>
+      <DefaultTemplate>Character Audio</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>09 Aquanaut ok</Name>
+      <GUIDRangeMin>6800000</GUIDRangeMin>
+      <GUIDRangeMax>6899999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_Aquanauts.xml</FileName>
+    </Group>
+    <Group>
+      <Name>02 Pirate2 (World Event) ok</Name>
+      <GUIDRangeMin>6900000</GUIDRangeMin>
+      <GUIDRangeMax>6999999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/Audios_Pirate2.xml</FileName>
+    </Group>
+  </Groups>
+</Group>

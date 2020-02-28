@@ -1,0 +1,2189 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Text</Name>
+      <GUIDRangeMin>41100000</GUIDRangeMin>
+      <GUIDRangeMax>41100999</GUIDRangeMax>
+      <DefaultTemplate>News Text</DefaultTemplate>
+      <Groups>
+        <Group>
+          <Name>Shares</Name>
+          <GUIDRangeMin>41100000</GUIDRangeMin>
+          <GUIDRangeMax>41100009</GUIDRangeMax>
+          <Assets>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720009</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720010</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720011</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <MsgSound>98861</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100000</GUID>
+                  <Version>Addon01</Version>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2011-11-23 16:32</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Feindliche Übernahme!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Hostile takeover!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <French>
+                      <Text>Acquisition hostile !</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Acquisizione ostile!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Oferta pública de adquisición hostil!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Wrogie przejęcie!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Nepřátelské převzetí!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                    <Russian>
+                      <Text>Враждебный захват!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                  </LocaText>
+                  <LastGermanText>Feindliche Übernahme</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[MSGQUEUE_PLAYERNAME] hat in [MSGQUEUE_CITYNAME] die Herrschaft übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>[MSGQUEUE_PLAYERNAME] has taken over [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>[MSGQUEUE_PLAYERNAME] захватывает город [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>[MSGQUEUE_PLAYERNAME] a pris le contrôle de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>[MSGQUEUE_PLAYERNAME] ha conquistato [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>[MSGQUEUE_PLAYERNAME] se ha hecho con el control de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>[MSGQUEUE_PLAYERNAME] przejmuje miasto [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[MSGQUEUE_PLAYERNAME] přebírá [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720003</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720004</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720005</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <MsgSound>98861</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100001</GUID>
+                  <Kommentar>Mitspieler kauft Aktie des Spielers</Kommentar>
+                  <Version>Addon01</Version>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2011-11-23 17:40</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Aktie verloren!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Share lost!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Участок потерян!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Action perdue !</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Quota perduta!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Has perdido una acción!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Utracono udział!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Podíl ztracen!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Feindliche Übernahme</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[PLAYERNAME2] hat in [MSGQUEUE_CITYNAME] eine Ihrer Aktien übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>[PLAYERNAME2] has acquired one of your Shares in [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>[PLAYERNAME2] захватывает один из ваших участков в городе [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>[PLAYERNAME2] a acquis une de vos actions de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>[PLAYERNAME2] ha acquisito una delle tue quote di [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>[PLAYERNAME2] ha adquirido una de tus acciones de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>[PLAYERNAME2] pozyskuje jeden z twoich udziałów w mieście [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] získává jeden z vašich podílů ve městě [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720015</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720016</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720017</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <MsgSound>98861</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100002</GUID>
+                  <Kommentar>Spieler kauft neutrale Aktie</Kommentar>
+                  <Version>Addon01</Version>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2011-11-23 17:43</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Freie Aktie übernommen</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Unowned Share acquired</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Захвачен незанятый участок</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Action non détenue acquise</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Acquisita quota libera</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Adquirida acción desconocida</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Pozyskano wolny udział</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Získán neutrální podíl</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Neutrale Aktie übernommen</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[PLAYERNAME2] hat in [MSGQUEUE_CITYNAME] eine freie Aktie übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>[PLAYERNAME2] has acquired one unowned Share in [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>[PLAYERNAME2] захватывает один незанятый участок в городе [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>[PLAYERNAME2] a acquis une action non détenue de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>[PLAYERNAME2] ha acquisito una quota libera di [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>[PLAYERNAME2] ha adquirido una acción desconocida de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>[PLAYERNAME2] pozyskuje wolny udział w mieście [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] získává jeden z vašich podílů ve městě [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720006</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720007</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720008</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <MsgSound>98861</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100003</GUID>
+                  <Kommentar>Mitspieler kauft Aktie und hat damit die Mehrheit</Kommentar>
+                  <Version>Addon01</Version>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2011-11-23 17:44</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Feindliche Aktienmehrheit!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Hostile Share majority!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Врагам принадлежит большинство участков!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Majorité d’actions hostile !</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Quota di maggioranza ostile!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Mayoría de acciones hostiles!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Wrogie udziały większościowe!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Nepřítel vlastní většinu podílů!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Feindliche Aktienmehrheit</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[PLAYERNAME2] hat in [MSGQUEUE_CITYNAME] die Mehrheit der Aktien übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>[PLAYERNAME2] has acquired the majority of Shares in [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>[PLAYERNAME2] захватывает большинство участков в городе [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>[PLAYERNAME2] a acquis la majorité des actions de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>[PLAYERNAME2] ha acquisito le quote di maggioranza di [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>[PLAYERNAME2] ha adquirido la mayoría de las acciones de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>[PLAYERNAME2] pozyskuje udziały większościowe w mieście [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] získává jeden z vašich podílů ve městě [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <MsgSound>98861</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100004</GUID>
+                  <Kommentar>Mitspieler kauft Aktie eines Dritten</Kommentar>
+                  <Version>Addon01</Version>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2011-11-23 17:45</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Aktie übernommen</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Share acquired</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Участок захвачен</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Action acquise</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Quota acquisita</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Acción adquirida</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Pozyskano udział</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Podíl získán</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[PLAYERNAME2] hat in [MSGQUEUE_CITYNAME] eine Aktie von [MSGQUEUE_TREATYPARTNER] übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>[PLAYERNAME2] has taken one of [MSGQUEUE_TREATYPARTNER]'s Shares in [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>[PLAYERNAME2] захватывает один из участков [MSGQUEUE_TREATYPARTNER] в городе [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>[PLAYERNAME2] a acquis une des actions de [MSGQUEUE_CITYNAME] qui appartenait à [MSGQUEUE_TREATYPARTNER].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>[PLAYERNAME2] ha acquisito una delle quote di [MSGQUEUE_TREATYPARTNER] di [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>[PLAYERNAME2] se ha hecho con una de las acciones de [MSGQUEUE_TREATYPARTNER] de la ciudad de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>[MSGQUEUE_TREATYPARTNER] sprzedaje jeden udział w mieście [MSGQUEUE_CITYNAME] osobie znanej jako [PLAYERNAME2].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] získává jeden z podílů od [MSGQUEUE_TREATYPARTNER] ve městě [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720000</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720001</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720002</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <MsgSound>98861</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100007</GUID>
+                  <Kommentar>Drite Partei kauft neutrale Aktie in Spielerstadt</Kommentar>
+                  <Version>Addon01</Version>
+                  <Creator>sewenig</Creator>
+                  <CreationTime>2012-05-14 17:20</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Freie Aktie verloren</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Unowned Share lost</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Потерян нейтральный участок</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Action non détenue perdue</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Persa quota libera</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Perdida acción desconocida</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Utrata wolnego udziału</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Neutrální podíl ztracen</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Aktie in [MSGQUEUE_CITYNAME] übernommen</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[PLAYERNAME2] hat in Ihrer Siedlung [MSGQUEUE_CITYNAME] eine freie Aktie übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>[PLAYERNAME2] has acquired one of the unowned Shares in your Settlement of [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>[PLAYERNAME2] захватывает один из незанятых участков в вашем поселении [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>[PLAYERNAME2] a acquis une des actions non détenues de votre colonie de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>[PLAYERNAME2] ha acquisito una delle quote libere del tuo Insediamento di [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>[PLAYERNAME2] ha adquirido una de las acciones desconocidas de tu asentamiento de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>[PLAYERNAME2] pozyskuje jeden z wolnych udziałów w należącym do ciebie mieście [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] získává jeden z neutrálních podílů ve městě [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                      <LastGermanText>[PLAYERNAME2] hat in [MSGQUEUE_CITYNAME] eine freie Aktie übernommen.</LastGermanText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <MsgSound>98892</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100008</GUID>
+                  <Version>Addon01</Version>
+                  <Creator>sewenig</Creator>
+                  <CreationTime>2012-05-16 12:45</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Übernahme geglückt</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Successful takeover</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Захват успешен</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Prise de contrôle réussie</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Acquisizioni riuscite</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Oferta pública de adquisición completada</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Przejęcie zakończone sukcesem</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Úspěšné převzetí</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Feindliche Übernahme</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Sie haben in [MSGQUEUE_CITYNAME] die Herrschaft übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>You have taken over [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Вы захватили город [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Vous avez pris le contrôle de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>Hai conquistato [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>Te has hecho con el control de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Przejmujesz miasto [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>Podařilo se vám převzít [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                      <LastGermanText>[MSGQUEUE_PLAYERNAME] hat in [MSGQUEUE_CITYNAME] die Herrschaft übernommen.</LastGermanText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720012</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>41720013</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <MsgSound>98892</MsgSound>
+                  <Category>Shares</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100009</GUID>
+                  <Kommentar>Spieler kauft Aktie und hat damit die Mehrreit</Kommentar>
+                  <Version>Addon01</Version>
+                  <Creator>sewenig</Creator>
+                  <CreationTime>2012-05-16 12:48</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Aktienmehrheit</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Majority of Shares</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Преимущество по участкам</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Majorité des actions</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Quote di maggioranza</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Mayoría de acciones</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Udziały większościowe</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Většina podílů</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[PLAYERNAME2] hat in [MSGQUEUE_CITYNAME] die Mehrheit der Aktien übernommen.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>[PLAYERNAME2] has acquired the majority of the Shares in [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>[PLAYERNAME2] захватывает большинство участков в [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>[PLAYERNAME2] a acquis la majorité des actions de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>[PLAYERNAME2] ha acquisito le quote di maggioranza di [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>[PLAYERNAME2] ha adquirido la mayoría de las acciones de  [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>[PLAYERNAME2] pozyskuje udziały większościowe w mieście [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] získává většinu podílů ve městě [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Population</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>2050510</AudioGUID>
+                    </Item>
+                    <Item>
+                      <AudioGUID>2050511</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <Category>Population</Category>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100005</GUID>
+                  <Kommentar>new population class</Kommentar>
+                  <Version>Addon01</Version>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2012-01-24 11:42</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Genies</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Geniuses</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Text>Génies</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>3</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Geni</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>3</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Genios</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>3</ExportCount>
+                    </Spanish>
+                    <Czech>
+                      <Text>Géniové</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>3</ExportCount>
+                    </Czech>
+                    <Polish>
+                      <Text>Geniusze</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>3</ExportCount>
+                    </Polish>
+                    <Russian>
+                      <Text>Гении</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>3</ExportCount>
+                    </Russian>
+                  </LocaText>
+                  <LastGermanText>Forscher</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Neue Bevölkerungsgruppe eingezogen: [MSGQUEUE_CITYNAME]</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>New Population group detected in: [MSGQUEUE_CITYNAME]</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                        <French>
+                          <Text>Nouveau groupe de population détecté à : [MSGQUEUE_CITYNAME]</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>Nuovo Gruppo di popolazione rilevato a: [MSGQUEUE_CITYNAME]</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>Nuevo grupo de población detectado en: [MSGQUEUE_CITYNAME]</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </Spanish>
+                        <Czech>
+                          <Text>Nová skupina obyvatel vznikla ve městě [MSGQUEUE_CITYNAME]</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </Czech>
+                        <Polish>
+                          <Text>[MSGQUEUE_CITYNAME] - pojawiła się nowa grupa ludności.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </Polish>
+                        <Russian>
+                          <Text>В городе [MSGQUEUE_CITYNAME] появилась новая группа населения.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </Russian>
+                      </LocaText>
+                      <LastGermanText>Neue Bevölkerungsstufe eingezogen: [MSGQUEUE_CITYNAME]</LastGermanText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Disaster</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720019</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <Category>Disasters</Category>
+                  <Background>data/config/gui/backgrounds/prototype/newsbar/newsbar_entry_warning.bkg</Background>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100006</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-03-13 15:06</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2012-07-17 16:25</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Tsunami Sichtung!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Tsunami sighting!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Замечено цунами!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Tsunami !</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Avvistato tsunami!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Tsunami a la vista!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Zauważono tsunami!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Blíží se vlna!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Tsunami Warnung!</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Ein Tsunami bedroht Inseln in diesem Sektor.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>A Tsunami threatens Islands in the sector.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Цунами угрожает островам в секторе.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Un tsunami menace les îles du secteur.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>Uno tsunami minaccia le Isole nel settore.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>Un tsunami amenaza las islas del sector.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Tsunami zagraża wyspom w tym sektorze.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>Přílivová vlna ohrožuje ostrovy v oblasti.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                      <LastGermanText>Ein Tsunami bedroht ihre Inseln.</LastGermanText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage>
+                  <Audios>
+                    <Item>
+                      <AudioGUID>41720018</AudioGUID>
+                    </Item>
+                  </Audios>
+                  <Category>Disasters</Category>
+                  <Background>data/config/gui/backgrounds/prototype/newsbar/newsbar_entry_warning.bkg</Background>
+                </IngameMessage>
+                <Standard>
+                  <GUID>41100011</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-05-29 11:44</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2012-07-17 16:25</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Tsunami Warnung!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Tsunami warning!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Угроза цунами!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Alerte au tsunami !</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Allarme tsunami!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Peligro de tsunami!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Ostrzeżenie przed tsunami!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Varování před vlnou!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Tsunami Warnung!</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Die Sensoren registrieren seismische Aktivitäten.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>The sensors are registering seismic activity.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Сенсоры регистрируют сейсмическую активность.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Les capteurs enregistrent une activité sismique.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>I sensori stanno rilevando attività sismica.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>Los sensores registran actividad sísmica.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Czujniki rejestrują aktywność sejsmiczną.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>Senzory zaznamenaly seismickou aktivitu.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Category</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>GUI Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>41100010</GUID>
+                  <Creator>sewenig</Creator>
+                  <CreationTime>2012-05-16 14:36</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Inselanteile</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Island Shares</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Участки острова</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Actions insulaires</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Quote Isola</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Acciones de la isla</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Udziały w wyspie</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Podíly ostrova</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Items</Name>
+          <GUIDRangeMin>41100010</GUIDRangeMin>
+          <GUIDRangeMax>41100049</GUIDRangeMax>
+          <Assets>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage />
+                <Standard>
+                  <GUID>41100012</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-06-05 15:19</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Rakete erfolgreich reflektiert!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Missile successfully reflected!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Снаряд успешно отражен!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Missile renvoyé !</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Missile respinto con successo!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Misil reflejado!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Udało się przekierować pocisk rakietowy!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Raketa byla odražena!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Rakete erfolgreich abgewehrt!</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Der Raketenschild auf [MSGQUEUE_CITYNAME] hat eine gegnerische Rakete von [PLAYERNAME2] erfolgreich reflektiert und den Kurs auf den Ursprungspunkt gelenkt.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>The rocket shield on [MSGQUEUE_CITYNAME] has sucessfully reflected [PLAYERNAME2]'s rocket and set its course back to where it came from.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Ракетный щит на городе [MSGQUEUE_CITYNAME] успешно отразил ракету игрока [PLAYERNAME2] и перенаправил ее туда, откуда она прилетела.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Le bouclier antiroquette de [MSGQUEUE_CITYNAME] a renvoyé la roquette de [PLAYERNAME2] à l’envoyeur.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>Lo scudo antimissilistico di [MSGQUEUE_CITYNAME] ha respinto con successo il razzo di [PLAYERNAME2], rispedendolo da dove proveniva.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>El escudo de misiles de [MSGQUEUE_CITYNAME] ha logrado reflejar el misil de [PLAYERNAME2] y lo ha enviado de vuelta al punto de lanzamiento.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Tarcza rakietowa w mieście [MSGQUEUE_CITYNAME] zawróciła pocisk, który posyła [PLAYERNAME2] i skierowała go w miejsce, z którego został wystrzelony.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>Raketový štít města [MSGQUEUE_CITYNAME] zneškodnil raketu, kterou vyslal [PLAYERNAME2] a ta teď míří k místu vystřelení.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                      <LastGermanText>Der Raketenschild auf [MSGQUEUE_CITYNAME] hat eine gegnerische Rakete erfolgreich reflektiert und den Kurs auf den Ursprungspunkt gelenkt.</LastGermanText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage />
+                <Standard>
+                  <GUID>41100013</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-06-05 15:30</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Warnung! Rakete reflektiert</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Warning! Missile reflected</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Внимание! Снаряд отражен!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Alerte ! Missile renvoyé.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Attenzione! Missile respinto</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Cuidado! Misil reflejado</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Uwaga! Pocisk rakietowy został przekierowany</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Varování! Raketa byla odražena!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Die abgefeuerte Rakete wurde vom [PLAYERNAME2]s Raketenschild reflektiert und befindet sich im Anflug auf [MSGQUEUE_CITYNAME].</Text>
+                          <LastFinalText>Die abgefeuerte Rakete wurde vom [PLAYERNAME2]s Raketenschild reflektiert und befindet sich im Anflug auf [MSGQUEUE_CITYNAME].</LastFinalText>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Text>The Missile has been reflected from [PLAYERNAME2]'s Missile shield and is approaching [MSGQUEUE_CITYNAME].</Text>
+                          <LastFinalText>The Missile has been reflected from [PLAYERNAME2]'s Missile shield and is approaching [MSGQUEUE_CITYNAME].</LastFinalText>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Снаряд был отражен ракетным щитом игрока [PLAYERNAME2] и приближается к  городу [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Le missile a été renvoyé par le bouclier antimissile de [PLAYERNAME2] et se rapproche de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>Il missile è stato respinto dallo scudo antimissilistico di [PLAYERNAME2] e sta raggiungendo [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>El misil ha sido reflejado desde el escudo de misiles de [PLAYERNAME2] y se está acercando a [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Tarcza rakietowa, której właścicielem jest [PLAYERNAME2] przekierowała pocisk, który zbliża się obecnie do miasta [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] úspěšně odráží raketový útok a raketa teď směřuje na město [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                      <LastGermanText>Die abgefeuerte Rakete wurde vom [PLAYERNAME2]s Raketenschild reflektiert und befindet sich im Anflug auf [MSGQUEUE_CITYNAME].</LastGermanText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage />
+                <Standard>
+                  <GUID>41100014</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-06-05 16:01</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-08-01 12:20</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ruine erfolgreich geräumt!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Ruine demolished sucessfully.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Развалины успешно снесены.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Ruine démolie avec succès.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Rovine demolite con successo.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>Ruina derribada.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Udało się wyburzyć ruiny.</Text>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Ruiny úspěšně strženy.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                  <LastGermanText>Runine erfolgreich geräumt!</LastGermanText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Die negativen ökologischen Einflüsse auf [MSGQUEUE_CITYNAME] wurden erfolgreich beseitigt.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>The negative environmental effects on [MSGQUEUE_CITYNAME] have been successfully eliminated.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Отрицательное воздействие среды на город [MSGQUEUE_CITYNAME] было успешно предотвращено.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Les effets négatifs sur l’environnement de [MSGQUEUE_CITYNAME] ont été éliminés.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>Gli effetti negativi sull'ambiente di [MSGQUEUE_CITYNAME] sono stati eliminati con successo.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>Los efectos medioambientales negativos sobre [MSGQUEUE_CITYNAME] han sido eliminados correctamente.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Negatywne efekty środowiskowe wywierane na miasto [MSGQUEUE_CITYNAME] zostały usunięte.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>Negativní vliv prostředí na město [MSGQUEUE_CITYNAME] byl neutralizován.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage />
+                <Standard>
+                  <GUID>41100015</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-06-05 16:45</CreationTime>
+                  <LastChangeUser>seibold</LastChangeUser>
+                  <LastChangeTime>2012-07-11 13:17</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Aufstand gestoppt!</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Uprising stopped!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Восстание прекращено!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Soulèvement arrêté !</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Rivolta neutralizzata!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Sublevación reprimida!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Powstrzymano rozruchy!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Povstání skončilo!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Der Aufstand in [MSGQUEUE_CITYNAME] wurde erfolgreich gestoppt.</Text>
+                          <Status>PreFinal</Status>
+                        </German>
+                        <English>
+                          <Text>The uprising in [MSGQUEUE_CITYNAME] was successfully stopped.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Восстание в городе [MSGQUEUE_CITYNAME] было успешно прекращено.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Le soulèvement de la population de [MSGQUEUE_CITYNAME] a été arrêté.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>La rivolta a [MSGQUEUE_CITYNAME] è stata neutralizzata con successo.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>La sublevación de [MSGQUEUE_CITYNAME] ha sido detenida.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Rozruchy w mieście [MSGQUEUE_CITYNAME] zostały powstrzymane.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>Povstání ve městě [MSGQUEUE_CITYNAME] se podařilo utišit.</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>News Text</Template>
+              <Values>
+                <IngameMessage />
+                <Standard>
+                  <GUID>41100021</GUID>
+                  <Creator>koenig</Creator>
+                  <CreationTime>2012-07-20 17:40</CreationTime>
+                  <LastChangeUser>koenig</LastChangeUser>
+                  <LastChangeTime>2012-07-20 17:40</LastChangeTime>
+                </Standard>
+                <SubAssets />
+                <TextTemplate />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Warnung! Rakete reflektiert</Text>
+                      <Status>PreFinal</Status>
+                    </German>
+                    <English>
+                      <Text>Warning! Missile reflected</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                    <Russian>
+                      <Text>Внимание! Снаряд отражен!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Russian>
+                    <French>
+                      <Text>Alerte ! Missile renvoyé.</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Italian>
+                      <Text>Attenzione! Missile respinto</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Spanish>
+                      <Text>¡Cuidado! Misil reflejado</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Polish>
+                      <Text>Uwaga! Pocisk rakietowy został przekierowany</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Polish>
+                    <Czech>
+                      <Text>Varování! Raketa byla odražena!</Text>
+                      <Status>PreFinal</Status>
+                      <ExportCount>1</ExportCount>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <ItemName>Information</ItemName>
+                  <Values>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Die abgefeuerte Rakete wurde vom [PLAYERNAME2]s Raketenschild reflektiert und befindet sich im Anflug auf ihr Fahrzeug.</Text>
+                          <LastFinalText>Die abgefeuerte Rakete wurde vom [PLAYERNAME2]s Raketenschild reflektiert und befindet sich im Anflug auf [MSGQUEUE_CITYNAME].</LastFinalText>
+                          <Status>Edit</Status>
+                        </German>
+                        <English>
+                          <Text>The Missile has been reflected from [PLAYERNAME2]'s Missile shield and is approaching [MSGQUEUE_CITYNAME].</Text>
+                          <LastFinalText>The Missile has been reflected from [PLAYERNAME2]'s Missile shield and is approaching [MSGQUEUE_CITYNAME].</LastFinalText>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                        <Russian>
+                          <Text>Снаряд был отражен ракетным щитом игрока [PLAYERNAME2] и приближается к  городу [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Russian>
+                        <French>
+                          <Text>Le missile a été renvoyé par le bouclier antimissile de [PLAYERNAME2] et se rapproche de [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Italian>
+                          <Text>Il missile è stato respinto dallo scudo antimissilistico di [PLAYERNAME2] e sta raggiungendo [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Spanish>
+                          <Text>El misil ha sido reflejado desde el escudo de misiles de [PLAYERNAME2] y se está acercando a [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Polish>
+                          <Text>Tarcza rakietowa, której właścicielem jest [PLAYERNAME2] przekierowała pocisk, który zbliża się obecnie do miasta [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Polish>
+                        <Czech>
+                          <Text>[PLAYERNAME2] úspěšně odráží raketový útok a raketa teď směřuje na město [MSGQUEUE_CITYNAME].</Text>
+                          <Status>PreFinal</Status>
+                          <ExportCount>1</ExportCount>
+                        </Czech>
+                      </LocaText>
+                      <LastGermanText>Die abgefeuerte Rakete wurde vom [PLAYERNAME2]s Raketenschild reflektiert und befindet sich im Anflug auf [MSGQUEUE_CITYNAME].</LastGermanText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>IngameFeedback</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>News Text</Template>
+          <Values>
+            <IngameMessage>
+              <Audios>
+                <Item>
+                  <AudioGUID>41300700</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300701</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300702</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300703</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300704</AudioGUID>
+                </Item>
+              </Audios>
+            </IngameMessage>
+            <Standard>
+              <GUID>41100016</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-07-20 11:27</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-20 11:29</LastChangeTime>
+            </Standard>
+            <SubAssets />
+            <TextTemplate />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Tech03_Talk_Balanced</Text>
+                </German>
+              </LocaText>
+              <LokaFlag>0</LokaFlag>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>News Text</Template>
+          <Values>
+            <IngameMessage>
+              <Audios>
+                <Item>
+                  <AudioGUID>41300500</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300501</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300502</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300503</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300504</AudioGUID>
+                </Item>
+              </Audios>
+            </IngameMessage>
+            <Standard>
+              <GUID>41100017</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-07-20 11:27</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-20 11:29</LastChangeTime>
+            </Standard>
+            <SubAssets />
+            <TextTemplate />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Tech03_Talk_Angry</Text>
+                </German>
+              </LocaText>
+              <LokaFlag>0</LokaFlag>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>News Text</Template>
+          <Values>
+            <IngameMessage>
+              <Audios>
+                <Item>
+                  <AudioGUID>41300900</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300901</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300902</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300903</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300904</AudioGUID>
+                </Item>
+              </Audios>
+            </IngameMessage>
+            <Standard>
+              <GUID>41100018</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-07-20 11:27</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-20 11:30</LastChangeTime>
+            </Standard>
+            <SubAssets />
+            <TextTemplate />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Tech03_Talk_Euphoric</Text>
+                </German>
+              </LocaText>
+              <LokaFlag>0</LokaFlag>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>News Text</Template>
+          <Values>
+            <IngameMessage>
+              <Audios>
+                <Item>
+                  <AudioGUID>41300800</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300801</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300802</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300803</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300804</AudioGUID>
+                </Item>
+              </Audios>
+            </IngameMessage>
+            <Standard>
+              <GUID>41100019</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-07-20 11:28</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-20 11:30</LastChangeTime>
+            </Standard>
+            <SubAssets />
+            <TextTemplate />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Tech03_Talk_Happy</Text>
+                </German>
+              </LocaText>
+              <LokaFlag>0</LokaFlag>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>News Text</Template>
+          <Values>
+            <IngameMessage>
+              <Audios>
+                <Item>
+                  <AudioGUID>41300600</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300601</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300602</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300603</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>41300604</AudioGUID>
+                </Item>
+              </Audios>
+            </IngameMessage>
+            <Standard>
+              <GUID>41100020</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-07-20 11:28</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-20 11:31</LastChangeTime>
+            </Standard>
+            <SubAssets />
+            <TextTemplate />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Tech03_Talk_Unhappy</Text>
+                </German>
+              </LocaText>
+              <LokaFlag>0</LokaFlag>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

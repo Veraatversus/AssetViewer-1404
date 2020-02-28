@@ -1,0 +1,52 @@
+<IconFileMap>
+  <IconFile>
+    <IsGameIcon>1</IsGameIcon>
+    <IconFilename>data/graphics/ui/icons/gui_icon_map.png</IconFilename>
+    <IconWidth>46</IconWidth>
+    <IconHeight>46</IconHeight>
+    <IconFileID>27</IconFileID>
+    <IsPreloadForced>0</IsPreloadForced>
+  </IconFile>
+   <IconFile>
+    <IsGameIcon>1</IsGameIcon>
+    <IconFilename>data/graphics/ui/icons/gui_item_map_01.png</IconFilename>
+    <IconWidth>46</IconWidth>
+    <IconHeight>46</IconHeight>
+    <IconFileID>30</IconFileID>
+    <IsPreloadForced>0</IsPreloadForced>
+  </IconFile>
+  <IconFile>
+    <IsGameIcon>1</IsGameIcon>
+    <IconFilename>data/graphics/ui/icons/mainmenu_icon_map.png</IconFilename>
+    <IconWidth>60</IconWidth>
+    <IconHeight>60</IconHeight>
+    <IconFileID>28</IconFileID>
+    <IsPreloadForced>0</IsPreloadForced>
+  </IconFile>
+  <IconFile>
+    <IsGameIcon>0</IsGameIcon>
+    <IconFilename>Tools/ToolOne/data/icons/gui_icon_map_anno4_sorted.png</IconFilename>
+    <IconWidth>46</IconWidth>
+    <IconHeight>46</IconHeight>
+    <IconFileID>1000</IconFileID>
+    <IsPreloadForced>0</IsPreloadForced>
+  </IconFile>
+  <IconFile>
+    <IsGameIcon>0</IsGameIcon>
+    <IconFilename>Tools/ToolOne/data/icons/gui_item_map_1_anno4.png</IconFilename>
+    <IconWidth>64</IconWidth>
+    <IconHeight>64</IconHeight>
+    <IconFileID>1001</IconFileID>
+    <IsPreloadForced>0</IsPreloadForced>
+  </IconFile>
+  <IconFile>
+    <IsGameIcon>0</IsGameIcon>
+    <IconFilename>Tools/ToolOne/data/icons/ToolIcons.png</IconFilename>
+    <IconWidth>64</IconWidth>
+    <IconHeight>64</IconHeight>
+    <IconFileID>1002</IconFileID>
+    <IsPreloadForced>0</IsPreloadForced>
+  </IconFile>
+</IconFileMap>
+
+

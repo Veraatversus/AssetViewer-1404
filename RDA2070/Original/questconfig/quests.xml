@@ -1,0 +1,3544 @@
+<AssetList>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>StandardQuests</Name>
+      <Icon>
+        <IconFileID>28</IconFileID>
+        <IconIndex>8</IconIndex>
+      </Icon>
+      <Groups>
+        <Group>
+          <Name>TestQuests</Name>
+          <FileName>data/config/questconfig/TestQuests.xml</FileName>
+          <Lazy>1</Lazy>
+          <Icon>
+            <IconFileID>27</IconFileID>
+            <IconIndex>426</IconIndex>
+          </Icon>
+        </Group>
+        <Group>
+          <Name>LD-Tests</Name>
+          <Assets>
+            <Asset>
+              <Template>StoryQuest</Template>
+              <Values>
+                <Quest>
+                  <Enabled>0</Enabled>
+                  <InvitationNeeded>0</InvitationNeeded>
+                </Quest>
+                <Standard>
+                  <GUID>303100</GUID>
+                  <Creator>amend</Creator>
+                  <LastChangeUser>sewenig</LastChangeUser>
+                  <LastChangeTime>2011-12-20 13:24</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText>
+                  <QuestInfoText>303101</QuestInfoText>
+                  <QuestStoryText>303102</QuestStoryText>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <Preconditions />
+                <DecisionQuest />
+                <Reward />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Residents </Name>
+          <GUID>1083816318</GUID>
+          <FileName>data/config/questconfig/Residents.xml</FileName>
+          <CreateTextGroupFolder>Texte/Quests/StandardQuests/Residents</CreateTextGroupFolder>
+          <Lazy>1</Lazy>
+          <Icon>
+            <IconFileID>28</IconFileID>
+            <IconIndex>6</IconIndex>
+          </Icon>
+          <GroupType>1</GroupType>
+        </Group>
+        <Group>
+          <Name>Third Parties</Name>
+          <Icon>
+            <IconFileID>27</IconFileID>
+            <IconIndex>414</IconIndex>
+          </Icon>
+          <Groups>
+            <Group>
+              <Name>Black market trader</Name>
+              <GUID>333955504</GUID>
+              <FileName>data/config/questconfig/BlackMarketTrader.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Black market trader</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>36</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Eco warrior</Name>
+              <GUID>-1234788059</GUID>
+              <FileName>data/config/questconfig/EcoWarrior.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Eco Warrior</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>39</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Aquanaut</Name>
+              <GUID>1365595455</GUID>
+              <FileName>data/config/questconfig/Aquanaut.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Aquanaut</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>199</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Rival</Name>
+              <GUID>-1712337892</GUID>
+              <FileName>data/config/questconfig/Rival.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Rival </CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>222</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Raider</Name>
+              <GUID>-1404574352</GUID>
+              <FileName>data/config/questconfig/Raider.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Raider</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>57</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Supporter</Name>
+              <GUID>1542711800</GUID>
+              <FileName>data/config/questconfig/Supporter.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Supporter</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>228</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Scientist</Name>
+              <GUID>-2090553163</GUID>
+              <FileName>data/config/questconfig/Scientist.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Scientist</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>229</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Pirate</Name>
+              <GUID>103183166</GUID>
+              <FileName>data/config/questconfig/Pirate.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Pirate</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>198</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Oil Baron </Name>
+              <GUID>1692003901</GUID>
+              <FileName>data/config/questconfig/OilBaron.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Oil Baron</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>43</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Generic </Name>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>377</IconIndex>
+              </Icon>
+            </Group>
+            <Group>
+              <Name>E.V.E</Name>
+              <FileName>data/config/questconfig/Eve.xml</FileName>
+              <CreateTextGroupFolder>Texte/Quests/StandardQuests/Eve</CreateTextGroupFolder>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>35</IconIndex>
+              </Icon>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Factions</Name>
+          <Icon>
+            <IconFileID>27</IconFileID>
+            <IconIndex>80</IconIndex>
+          </Icon>
+          <Groups>
+            <Group>
+              <Name>Eco Faction</Name>
+              <FileName>data/config/questconfig/EcoFaction.xml</FileName>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>98</IconIndex>
+              </Icon>
+            </Group>
+            <Group>
+              <Name>Tycoon Faction</Name>
+              <FileName>data/config/questconfig/TycoonFaction.xml</FileName>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>99</IconIndex>
+              </Icon>
+            </Group>
+            <Group>
+              <Name>Tech Faction </Name>
+              <FileName>data/config/questconfig/TechFaction.xml</FileName>
+              <Lazy>1</Lazy>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>100</IconIndex>
+              </Icon>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Rewards</Name>
+      <FileName>data/config/questconfig/Rewards.xml</FileName>
+      <Lazy>1</Lazy>
+      <Icon>
+        <IconFileID>27</IconFileID>
+        <IconIndex>445</IconIndex>
+      </Icon>
+    </Group>
+    <Group>
+      <Name>Achievements</Name>
+      <FileName>data/config/questconfig/Achievements.xml</FileName>
+      <Lazy>1</Lazy>
+      <Icon>
+        <IconFileID>27</IconFileID>
+        <IconIndex>449</IconIndex>
+      </Icon>
+      <DefaultTemplate>Achievement</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>NamePools</Name>
+      <Icon>
+        <IconFileID>27</IconFileID>
+        <IconIndex>442</IconIndex>
+      </Icon>
+      <Assets>
+        <Asset>
+          <Template>NamePool</Template>
+          <Values>
+            <Standard>
+              <GUID>399027</GUID>
+              <Creator>mais</Creator>
+            </Standard>
+            <NamePool>
+              <MissionNames>
+                <GetWares>
+                  <Names>
+                    <Item>
+                      <Name>200031</Name>
+                      <StoryText>200032</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>200001</Name>
+                      <StoryText>200049</StoryText>
+                    </Item>
+                  </Names>
+                </GetWares>
+              </MissionNames>
+            </NamePool>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>NamePool</Template>
+          <Values>
+            <Standard>
+              <GUID>399033</GUID>
+              <Creator>fiedler</Creator>
+            </Standard>
+            <NamePool>
+              <MissionNames>
+                <Recovery>
+                  <Names>
+                    <Item>
+                      <Name>399034</Name>
+                      <StoryText>399035</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399036</Name>
+                      <StoryText>399037</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399038</Name>
+                      <StoryText>399039</StoryText>
+                    </Item>
+                  </Names>
+                </Recovery>
+                <MapIsland>
+                  <Names>
+                    <Item>
+                      <Name>399050</Name>
+                      <StoryText>399051</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399052</Name>
+                      <StoryText>399053</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399054</Name>
+                      <StoryText>399055</StoryText>
+                    </Item>
+                  </Names>
+                </MapIsland>
+                <ShipAccident>
+                  <Names>
+                    <Item />
+                  </Names>
+                </ShipAccident>
+                <LightTracking>
+                  <Names>
+                    <Item>
+                      <Name>399065</Name>
+                      <StoryText>399066</StoryText>
+                    </Item>
+                  </Names>
+                </LightTracking>
+              </MissionNames>
+            </NamePool>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>NamePool</Template>
+          <Values>
+            <Standard>
+              <GUID>399040</GUID>
+              <Creator>fiedler</Creator>
+            </Standard>
+            <NamePool>
+              <MissionNames>
+                <Recovery>
+                  <Names>
+                    <Item>
+                      <Name>399041</Name>
+                      <StoryText>399042</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399043</Name>
+                      <StoryText>399044</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399045</Name>
+                      <StoryText>399046</StoryText>
+                    </Item>
+                  </Names>
+                </Recovery>
+                <MapIsland>
+                  <Names>
+                    <Item>
+                      <Name>399060</Name>
+                      <StoryText>399061</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399058</Name>
+                      <StoryText>399059</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399056</Name>
+                      <StoryText>399057</StoryText>
+                    </Item>
+                  </Names>
+                </MapIsland>
+              </MissionNames>
+            </NamePool>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>NamePool</Template>
+          <Values>
+            <Standard>
+              <GUID>399070</GUID>
+              <Creator>fiedler</Creator>
+            </Standard>
+            <NamePool>
+              <MissionNames>
+                <PuzzlePicture>
+                  <Names>
+                    <Item>
+                      <Name>399095</Name>
+                      <StoryText>399098</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399096</Name>
+                      <StoryText>399098</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399097</Name>
+                      <StoryText>399098</StoryText>
+                    </Item>
+                  </Names>
+                </PuzzlePicture>
+                <MapIsland>
+                  <Names>
+                    <Item>
+                      <Name>399077</Name>
+                      <StoryText>399078</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399076</Name>
+                      <StoryText>399078</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399075</Name>
+                      <StoryText>399078</StoryText>
+                    </Item>
+                  </Names>
+                </MapIsland>
+                <TreasureHunt>
+                  <Names>
+                    <Item>
+                      <Name>399099</Name>
+                      <StoryText>399102</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399101</Name>
+                      <StoryText>399102</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399100</Name>
+                      <StoryText>399102</StoryText>
+                    </Item>
+                  </Names>
+                </TreasureHunt>
+                <ShipAccident>
+                  <Names>
+                    <Item>
+                      <Name>399084</Name>
+                      <StoryText>399086</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399083</Name>
+                      <StoryText>399086</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399085</Name>
+                      <StoryText>399086</StoryText>
+                    </Item>
+                  </Names>
+                </ShipAccident>
+                <Recovery>
+                  <Names>
+                    <Item>
+                      <Name>399072</Name>
+                      <StoryText>399073</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399071</Name>
+                      <StoryText>399073</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399074</Name>
+                      <StoryText>399073</StoryText>
+                    </Item>
+                  </Names>
+                </Recovery>
+                <LightTracking>
+                  <Names>
+                    <Item>
+                      <Name>399080</Name>
+                      <StoryText>399082</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399081</Name>
+                      <StoryText>399082</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399079</Name>
+                      <StoryText>399082</StoryText>
+                    </Item>
+                  </Names>
+                </LightTracking>
+                <Smuggler>
+                  <Names>
+                    <Item>
+                      <Name>399089</Name>
+                      <StoryText>399090</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399088</Name>
+                      <StoryText>399090</StoryText>
+                    </Item>
+                    <Item>
+                      <Name>399087</Name>
+                      <StoryText>399090</StoryText>
+                    </Item>
+                  </Names>
+                </Smuggler>
+              </MissionNames>
+            </NamePool>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MetaGameQuests</Name>
+      <GUID>-1696646180</GUID>
+      <FileName>data/config/questconfig/MetaGameQuests.xml</FileName>
+      <Lazy>1</Lazy>
+      <Icon>
+        <IconFileID>28</IconFileID>
+        <IconIndex>7</IconIndex>
+      </Icon>
+      <GroupType>6</GroupType>
+    </Group>
+    <Group>
+      <Name>Jobs</Name>
+      <Icon>
+        <IconFileID>27</IconFileID>
+        <IconIndex>447</IconIndex>
+      </Icon>
+      <Groups>
+        <Group>
+          <Name>Third Parties</Name>
+          <Icon>
+            <IconFileID>27</IconFileID>
+            <IconIndex>414</IconIndex>
+          </Icon>
+          <Groups>
+            <Group>
+              <Name>Black market Trader</Name>
+              <GUID>-1879118653</GUID>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>36</IconIndex>
+              </Icon>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Eco Warrior</Name>
+              <GUID>790527061</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Aquanaut</Name>
+              <GUID>-232271887</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Rival</Name>
+              <GUID>-2114352878</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Raider</Name>
+              <GUID>2101539583</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Supporter</Name>
+              <GUID>-604732646</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Scientist </Name>
+              <GUID>326605495</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Pirate</Name>
+              <GUID>-997056847</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+            <Group>
+              <Name>Oil Baron </Name>
+              <GUID>136583353</GUID>
+              <GroupType>1</GroupType>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Factions</Name>
+          <Icon>
+            <IconFileID>27</IconFileID>
+            <IconIndex>80</IconIndex>
+          </Icon>
+          <Groups>
+            <Group>
+              <Name>Eco Faction</Name>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>98</IconIndex>
+              </Icon>
+              <Groups>
+                <Group>
+                  <Name>Yana Rodriguez</Name>
+                  <GUID>-1221862979</GUID>
+                  <Icon>
+                    <IconFileID>27</IconFileID>
+                    <IconIndex>42</IconIndex>
+                  </Icon>
+                  <GroupType>1</GroupType>
+                </Group>
+                <Group>
+                  <Name>Eco Guru</Name>
+                  <GUID>-1666081439</GUID>
+                  <GroupType>1</GroupType>
+                </Group>
+              </Groups>
+            </Group>
+            <Group>
+              <Name>Tycoon Faction</Name>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>99</IconIndex>
+              </Icon>
+              <Groups>
+                <Group>
+                  <Name>Rufus Throne </Name>
+                  <GUID>1967143840</GUID>
+                  <Icon>
+                    <IconFileID>27</IconFileID>
+                    <IconIndex>41</IconIndex>
+                  </Icon>
+                  <GroupType>1</GroupType>
+                </Group>
+                <Group>
+                  <Name>Tycoon Guru </Name>
+                </Group>
+              </Groups>
+            </Group>
+            <Group>
+              <Name>Tech Faction</Name>
+              <Icon>
+                <IconFileID>27</IconFileID>
+                <IconIndex>100</IconIndex>
+              </Icon>
+              <Groups>
+                <Group>
+                  <Name>Dr. Dimitri Below</Name>
+                  <GUID>392420833</GUID>
+                  <Icon>
+                    <IconFileID>27</IconFileID>
+                    <IconIndex>40</IconIndex>
+                  </Icon>
+                  <GroupType>1</GroupType>
+                </Group>
+                <Group>
+                  <Name>Tech Guru </Name>
+                </Group>
+              </Groups>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Helperquest</Name>
+      <GUID>1339351898</GUID>
+      <FileName>data/config/questconfig/HelperQuests.xml</FileName>
+      <CreateTextGroupFolder>Texte/Quests/Helperquests/QuestTutorialTrigger</CreateTextGroupFolder>
+      <Lazy>1</Lazy>
+      <Icon>
+        <IconFileID>27</IconFileID>
+        <IconIndex>312</IconIndex>
+      </Icon>
+      <GroupType>2</GroupType>
+    </Group>
+    <Group>
+      <Name>ThirdPartyReactions</Name>
+      <FileName>data/config/questconfig/ThirdPartyReactions.xml</FileName>
+      <CreateTextGroupFolder>Texte/Internal/InvisibleQuests/ThirdPartyReactions</CreateTextGroupFolder>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>ThirdpartyReaction</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>ThirdPartyVehiclePools</Name>
+      <CreateTextGroupFolder>Texte/Internal/ShipPools</CreateTextGroupFolder>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>RewardPool</DefaultTemplate>
+      <Groups>
+        <Group>
+          <Name>Black Market Trader</Name>
+        </Group>
+        <Group>
+          <Name>Eco Warrior</Name>
+          <Assets>
+            <Asset>
+              <Template>RewardPool</Template>
+              <Values>
+                <RewardPool>
+                  <ShipsPerLevel>
+                    <EarlyGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20028</Ship>
+                        </Item>
+                      </Ships>
+                    </EarlyGame>
+                    <MidGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20028</Ship>
+                        </Item>
+                      </Ships>
+                    </MidGame>
+                    <LateGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20028</Ship>
+                        </Item>
+                      </Ships>
+                    </LateGame>
+                    <EndGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20028</Ship>
+                        </Item>
+                      </Ships>
+                    </EndGame>
+                  </ShipsPerLevel>
+                </RewardPool>
+                <Standard>
+                  <GUID>2400023</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2010-11-29 13:13</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2011-03-25 16:03</LastChangeTime>
+                </Standard>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>RewardPool</Template>
+              <Values>
+                <RewardPool>
+                  <ShipsPerLevel>
+                    <MidGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20015</Ship>
+                        </Item>
+                      </Ships>
+                    </MidGame>
+                    <LateGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20015</Ship>
+                        </Item>
+                      </Ships>
+                    </LateGame>
+                    <EndGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20015</Ship>
+                        </Item>
+                      </Ships>
+                    </EndGame>
+                    <EarlyGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20015</Ship>
+                        </Item>
+                      </Ships>
+                    </EarlyGame>
+                  </ShipsPerLevel>
+                </RewardPool>
+                <Standard>
+                  <GUID>2400024</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2010-11-29 13:13</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2011-03-25 16:37</LastChangeTime>
+                </Standard>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>RewardPool</Template>
+              <Values>
+                <RewardPool>
+                  <ShipsPerLevel>
+                    <MidGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20014</Ship>
+                        </Item>
+                      </Ships>
+                    </MidGame>
+                    <LateGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20014</Ship>
+                        </Item>
+                      </Ships>
+                    </LateGame>
+                    <EndGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20014</Ship>
+                        </Item>
+                      </Ships>
+                    </EndGame>
+                    <EarlyGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20014</Ship>
+                        </Item>
+                      </Ships>
+                    </EarlyGame>
+                  </ShipsPerLevel>
+                </RewardPool>
+                <Standard>
+                  <GUID>2400025</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2010-11-29 13:13</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2011-03-25 16:37</LastChangeTime>
+                </Standard>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Aquanaut</Name>
+        </Group>
+        <Group>
+          <Name>Rival</Name>
+        </Group>
+        <Group>
+          <Name>Raider</Name>
+        </Group>
+        <Group>
+          <Name>Supporter</Name>
+        </Group>
+        <Group>
+          <Name>Scientist</Name>
+        </Group>
+        <Group>
+          <Name>Pirate</Name>
+          <Assets>
+            <Asset>
+              <Template>RewardPool</Template>
+              <Values>
+                <RewardPool>
+                  <ShipsPerLevel>
+                    <EarlyGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20066</Ship>
+                        </Item>
+                      </Ships>
+                    </EarlyGame>
+                    <MidGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20066</Ship>
+                        </Item>
+                      </Ships>
+                    </MidGame>
+                    <LateGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20066</Ship>
+                        </Item>
+                      </Ships>
+                    </LateGame>
+                    <EndGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20066</Ship>
+                        </Item>
+                      </Ships>
+                    </EndGame>
+                  </ShipsPerLevel>
+                </RewardPool>
+                <Standard>
+                  <GUID>2400026</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-02-01 08:56</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2011-03-25 16:03</LastChangeTime>
+                </Standard>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Oil Baron</Name>
+          <Assets>
+            <Asset>
+              <Template>RewardPool</Template>
+              <Values>
+                <RewardPool>
+                  <ShipsPerLevel>
+                    <EarlyGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20023</Ship>
+                          <Priority>B</Priority>
+                        </Item>
+                      </Ships>
+                    </EarlyGame>
+                    <MidGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20023</Ship>
+                        </Item>
+                      </Ships>
+                    </MidGame>
+                    <LateGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20023</Ship>
+                        </Item>
+                        <Item>
+                          <Ship>20061</Ship>
+                          <Priority>D</Priority>
+                        </Item>
+                      </Ships>
+                    </LateGame>
+                    <EndGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20061</Ship>
+                        </Item>
+                        <Item>
+                          <Ship>20023</Ship>
+                        </Item>
+                      </Ships>
+                    </EndGame>
+                  </ShipsPerLevel>
+                </RewardPool>
+                <Standard>
+                  <GUID>2400027</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2010-11-22 16:41</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2011-03-25 16:03</LastChangeTime>
+                </Standard>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>RewardPool</Template>
+              <Values>
+                <RewardPool>
+                  <ShipsPerLevel>
+                    <MidGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20015</Ship>
+                        </Item>
+                      </Ships>
+                    </MidGame>
+                    <LateGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20015</Ship>
+                        </Item>
+                      </Ships>
+                    </LateGame>
+                    <EndGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20015</Ship>
+                        </Item>
+                      </Ships>
+                    </EndGame>
+                  </ShipsPerLevel>
+                </RewardPool>
+                <Standard>
+                  <GUID>2400028</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2010-11-22 16:58</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2011-03-25 16:03</LastChangeTime>
+                  <Comments>
+                    <Item>
+                      <Date>2011-02-22 10:55</Date>
+                      <User>mais</User>
+                      <Comment>Ich habe hier die Daten vom Eco-Pool kopiert weil der Pool leer war.</Comment>
+                    </Item>
+                  </Comments>
+                </Standard>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>RewardPool</Template>
+              <Values>
+                <RewardPool>
+                  <ShipsPerLevel>
+                    <MidGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20014</Ship>
+                        </Item>
+                      </Ships>
+                    </MidGame>
+                    <LateGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20014</Ship>
+                        </Item>
+                      </Ships>
+                    </LateGame>
+                    <EndGame>
+                      <Ships>
+                        <Item>
+                          <Ship>20014</Ship>
+                        </Item>
+                      </Ships>
+                    </EndGame>
+                  </ShipsPerLevel>
+                </RewardPool>
+                <Standard>
+                  <GUID>2400029</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2010-11-22 16:58</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2011-03-25 16:03</LastChangeTime>
+                  <Comments>
+                    <Item>
+                      <Date>2011-02-22 10:55</Date>
+                      <User>mais</User>
+                      <Comment>Ich habe hier die Daten vom Eco-Pool kopiert weil der Pool leer war.</Comment>
+                    </Item>
+                  </Comments>
+                </Standard>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Chapter</Name>
+      <Groups>
+        <Group>
+          <Name>WorldEvents</Name>
+          <Groups>
+            <Group>
+              <Name>WorldEvent_01</Name>
+              <Groups>
+                <Group>
+                  <Name>EVE</Name>
+                  <GUID>-1581950636</GUID>
+                  <GroupType>2</GroupType>
+                  <Assets>
+                    <Asset>
+                      <Template>WinConditionQuest</Template>
+                      <Values>
+                        <FollowUpQuest />
+                        <Preconditions>
+                          <PlayingTime>5000</PlayingTime>
+                          <PreconditionCheckDuration>2000</PreconditionCheckDuration>
+                          <NeededVarValues>
+                            <Item>
+                              <Name>SpielStart</Name>
+                              <Min>1</Min>
+                              <Max>1</Max>
+                            </Item>
+                          </NeededVarValues>
+                        </Preconditions>
+                        <Quest>
+                          <QuestType>StoryQuest</QuestType>
+                          <MaxCallCount>1</MaxCallCount>
+                          <InvitationNeeded>0</InvitationNeeded>
+                        </Quest>
+                        <Reward />
+                        <SelectObjectQuest />
+                        <Standard>
+                          <GUID>3054010</GUID>
+                          <Creator>petri</Creator>
+                          <CreationTime>2011-05-25 16:48</CreationTime>
+                          <LastChangeUser>kalle</LastChangeUser>
+                          <LastChangeTime>2012-06-20 18:22</LastChangeTime>
+                        </Standard>
+                        <SubQuests />
+                        <TextTags />
+                        <Time />
+                        <WinConditions>
+                          <QuestCounterToWin>
+                            <Item>
+                              <Quest>3054017</Quest>
+                              <Min>1</Min>
+                            </Item>
+                          </QuestCounterToWin>
+                        </WinConditions>
+                        <QuestMessages>
+                          <UseDefaultMessages>0</UseDefaultMessages>
+                        </QuestMessages>
+                        <QuestText>
+                          <QuestInfoText>3054011</QuestInfoText>
+                          <QuestStoryText>3054022</QuestStoryText>
+                          <QuestCategoryText>3041000</QuestCategoryText>
+                        </QuestText>
+                        <Execution />
+                        <MinimapPing>
+                          <PingObjects>
+                            <Item>
+                              <Name>hq_pirates</Name>
+                            </Item>
+                          </PingObjects>
+                        </MinimapPing>
+                        <DecisionQuest />
+                        <GetResidentLevel />
+                        <QuestToggle />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>DummyQuest</Template>
+                      <Values>
+                        <Quest>
+                          <QuestType>DummyQuest</QuestType>
+                          <Enabled>0</Enabled>
+                          <MaxCallCount>1</MaxCallCount>
+                          <InvitationNeeded>0</InvitationNeeded>
+                          <SpecialFlags>HideInQuestLog</SpecialFlags>
+                        </Quest>
+                        <Standard>
+                          <GUID>3054017</GUID>
+                          <Creator>petri</Creator>
+                          <CreationTime>2011-05-25 17:02</CreationTime>
+                          <LastChangeUser>petri</LastChangeUser>
+                          <LastChangeTime>2011-05-26 10:58</LastChangeTime>
+                        </Standard>
+                        <SubQuests />
+                        <TextTags />
+                        <Time />
+                        <WinConditions />
+                        <QuestMessages>
+                          <UseDefaultMessages>0</UseDefaultMessages>
+                        </QuestMessages>
+                        <QuestText />
+                        <Execution />
+                        <MinimapPing />
+                        <SelectObjectQuest />
+                        <Reward />
+                        <QuestToggle />
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Tycoon</Name>
+                  <GUID>-1210387313</GUID>
+                  <GroupType>2</GroupType>
+                </Group>
+                <Group>
+                  <Name>Tech</Name>
+                  <GUID>643406635</GUID>
+                  <GroupType>2</GroupType>
+                </Group>
+                <Group>
+                  <Name>Eco</Name>
+                  <GUID>935221626</GUID>
+                  <GroupType>2</GroupType>
+                </Group>
+                <Group>
+                  <Name>Pirates</Name>
+                  <GUID>550080906</GUID>
+                  <GroupType>2</GroupType>
+                </Group>
+              </Groups>
+            </Group>
+            <Group>
+              <Name>WorldEvent_04</Name>
+              <Assets>
+                <Asset>
+                  <Template>RewardPool</Template>
+                  <Values>
+                    <RewardPool>
+                      <ShipsPerLevel>
+                        <EarlyGame>
+                          <Ships>
+                            <Item>
+                              <Ship>20061</Ship>
+                            </Item>
+                            <Item>
+                              <Ship>20117</Ship>
+                            </Item>
+                          </Ships>
+                        </EarlyGame>
+                        <MidGame>
+                          <Ships>
+                            <Item>
+                              <Ship>20061</Ship>
+                            </Item>
+                            <Item>
+                              <Ship>20117</Ship>
+                            </Item>
+                          </Ships>
+                        </MidGame>
+                        <LateGame>
+                          <Ships>
+                            <Item>
+                              <Ship>20061</Ship>
+                            </Item>
+                            <Item>
+                              <Ship>20117</Ship>
+                            </Item>
+                          </Ships>
+                        </LateGame>
+                        <EndGame>
+                          <Ships>
+                            <Item>
+                              <Ship>20061</Ship>
+                            </Item>
+                            <Item>
+                              <Ship>20117</Ship>
+                            </Item>
+                          </Ships>
+                        </EndGame>
+                      </ShipsPerLevel>
+                    </RewardPool>
+                    <Standard>
+                      <GUID>3060034</GUID>
+                      <Creator>zellmann</Creator>
+                      <CreationTime>2011-08-15 13:39</CreationTime>
+                      <LastChangeUser>kalle</LastChangeUser>
+                      <LastChangeTime>2012-04-16 15:55</LastChangeTime>
+                    </Standard>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Surveys</Name>
+      <CreateTextGroupFolder>Texte/Internal/InvisibleQuests</CreateTextGroupFolder>
+      <Groups>
+        <Group>
+          <Name>Old</Name>
+          <Assets>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400280</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:26</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>8</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400281</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:26</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>9</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400302</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 09:50</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>2700000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>31</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400303</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 09:50</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>4500000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>32</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400304</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 09:50</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>6300000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>33</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400305</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 09:51</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>8100000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>34</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400307</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:31</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>36</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400306</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 09:51</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>1800000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>35</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400308</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:31</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>37</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400309</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 09:55</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>38</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400310</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:00</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>TransportRoutes</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>10800000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>39</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400311</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:00</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>SolvedQuests</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>12600000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>40</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <IntermediateLevelNeeded>IntermediateTechs</IntermediateLevelNeeded>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400312</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:01</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>TechResidentBuildings</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>3600000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>41</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <IntermediateLevelNeeded>IntermediateTechs</IntermediateLevelNeeded>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400313</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:02</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <ObjectsToWin>
+                    <Item>
+                      <Object>10033</Object>
+                    </Item>
+                  </ObjectsToWin>
+                  <QuestRunningTime>3600000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>42</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400314</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:05</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>ItemsUsed</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>7200000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>43</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400315</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:07</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>ModulesCreated</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <ObjectsToWin>
+                    <Item>
+                      <Object>10077</Object>
+                      <Min>1</Min>
+                    </Item>
+                  </ObjectsToWin>
+                  <WinConditionDuration>3600000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>44</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400316</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:32</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>45</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400317</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:32</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>46</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400318</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:32</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>47</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <IntermediateLevelNeeded>Intermediate3</IntermediateLevelNeeded>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400319</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:10</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>UsedImport</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>900000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>48</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400320</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:11</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>49</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400321</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:23</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:32</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>50</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400322</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:13</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>DiplomacyActionsUsed</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>12600000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>51</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400323</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-06 10:15</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>TradeAmount</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>10800000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>52</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400325</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:32</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>54</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400326</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:32</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>55</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400327</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:33</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>56</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400328</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:33</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>57</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400329</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:33</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>58</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400330</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-05 17:33</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>59</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>New</Name>
+          <GUID>1646751656</GUID>
+          <GroupType>2</GroupType>
+          <Groups>
+            <Group>
+              <Name>AchievementSurvey</Name>
+              <Assets>
+                <Asset>
+                  <Template>SurveyAchievement</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>2400273</GUID>
+                      <Creator>fiedler</Creator>
+                      <CreationTime>2011-09-05 17:20</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2011-09-07 17:43</LastChangeTime>
+                    </Standard>
+                    <Achievement />
+                    <AchievementSettings />
+                    <Survey>
+                      <SurveyID>1</SurveyID>
+                    </Survey>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+          <Assets>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400274</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>1800000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>2</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400275</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>9000000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>3</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400276</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>16200000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>4</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400277</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>23400000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>5</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400278</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>30600000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>6</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400279</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:20</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>SolvedQuests</Counter>
+                      <Min>3</Min>
+                    </Item>
+                  </PlayerCounterToWin>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>7</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400282</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>900000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>10</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400283</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>6300000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>12</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400284</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <ObjectsToWin>
+                    <Item>
+                      <Object>10033</Object>
+                      <Min>1</Min>
+                    </Item>
+                  </ObjectsToWin>
+                  <WinConditionDuration>3600000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>13</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>DiscoveredPlayers</Counter>
+                      <Min>2</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400285</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>3600000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>14</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400286</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>TransportRoutes</Counter>
+                      <Min>3</Min>
+                    </Item>
+                  </PlayerCounterToWin>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>15</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400287</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>3600000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>16</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <IntermediateLevelNeeded>IntermediateEcos</IntermediateLevelNeeded>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400288</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>3600000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>17</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <IntermediateLevelNeeded>IntermediateTycoons</IntermediateLevelNeeded>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400289</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>3600000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>18</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400290</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <ObjectsToWin>
+                    <Item>
+                      <Object>10088</Object>
+                      <Min>1</Min>
+                    </Item>
+                  </ObjectsToWin>
+                  <WinConditionDuration>3600000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>19</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400291</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>ItemsCreated</Counter>
+                      <Min>10</Min>
+                    </Item>
+                  </PlayerCounterToWin>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>20</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400292</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:21</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>7200000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>21</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400293</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>8100000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>22</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400294</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>2700000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>23</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>EcoBalanceDecreased</Counter>
+                      <Min>50</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400295</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>600000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>24</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <FirstTimeActions>
+                    <Item>
+                      <MinTime>900000</MinTime>
+                      <Action>UsedUnderWaterCamera</Action>
+                    </Item>
+                  </FirstTimeActions>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400296</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-22 10:24</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>2000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>25</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400297</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>SolvedDailyQuests</Counter>
+                      <Min>2</Min>
+                    </Item>
+                  </PlayerCounterToWin>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>26</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400298</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <AssetCounterToWin>
+                    <Item>
+                      <Counter>QuestMailReceived</Counter>
+                      <Min>3</Min>
+                    </Item>
+                  </AssetCounterToWin>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>27</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <SpecialPreconditions>IsMultiplayer</SpecialPreconditions>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400299</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>1800000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>28</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <SpecialPreconditions>HasCoopPartner</SpecialPreconditions>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400300</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>1800000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>29</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400301</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:22</CreationTime>
+                  <LastChangeUser>gaukler</LastChangeUser>
+                  <LastChangeTime>2011-09-20 11:41</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>900000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>30</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <IntermediateLevelNeeded>Intermediate2</IntermediateLevelNeeded>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400324</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:24</CreationTime>
+                  <LastChangeUser>gaukler</LastChangeUser>
+                  <LastChangeTime>2011-09-20 11:41</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>ChangedMediaChannel</Counter>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>7200000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>53</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400331</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-05 17:33</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-09 10:36</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>10800000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>11</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400337</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-08 10:53</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>DiplomacyActionsUsed</Counter>
+                      <Min>2</Min>
+                    </Item>
+                  </PlayerCounterToWin>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>60</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400338</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-09-08 11:11</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2011-09-08 16:30</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>2100000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>61</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400392</GUID>
+                  <Creator>gaukler</Creator>
+                  <CreationTime>2011-09-20 11:20</CreationTime>
+                  <LastChangeUser>gaukler</LastChangeUser>
+                  <LastChangeTime>2011-09-20 11:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>2700000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>30</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400393</GUID>
+                  <Creator>gaukler</Creator>
+                  <CreationTime>2011-09-20 11:21</CreationTime>
+                  <LastChangeUser>gaukler</LastChangeUser>
+                  <LastChangeTime>2011-09-20 11:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>4500000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>30</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400394</GUID>
+                  <Creator>gaukler</Creator>
+                  <CreationTime>2011-09-20 11:21</CreationTime>
+                  <LastChangeUser>gaukler</LastChangeUser>
+                  <LastChangeTime>2011-09-20 11:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>6300000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>30</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>Enemies</Counter>
+                      <Min>1</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400395</GUID>
+                  <Creator>gaukler</Creator>
+                  <CreationTime>2011-09-20 11:21</CreationTime>
+                  <LastChangeUser>gaukler</LastChangeUser>
+                  <LastChangeTime>2011-09-20 11:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <QuestRunningTime>8100000</QuestRunningTime>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>30</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Survey</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions />
+                <Quest />
+                <Reward />
+                <SelectObjectQuest />
+                <Standard>
+                  <GUID>2400396</GUID>
+                  <Creator>gaukler</Creator>
+                  <CreationTime>2011-09-20 12:24</CreationTime>
+                  <LastChangeUser>gaukler</LastChangeUser>
+                  <LastChangeTime>2011-09-20 12:34</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>ChangedMediaChannel</Counter>
+                      <Min>2</Min>
+                    </Item>
+                  </PlayerCounterToWin>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <ThirdPartyReaction />
+                <Survey>
+                  <SurveyID>62</SurveyID>
+                </Survey>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</AssetList>

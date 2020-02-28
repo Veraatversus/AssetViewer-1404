@@ -1,0 +1,1529 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Buildings</Name>
+      <Groups>
+        <Group>
+          <Name>ecos</Name>
+          <Groups>
+            <Group>
+              <Name>ornaments</Name>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateHealthDrink</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_comb_wall_ecos\eden_line_comb_wall_ecos.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_comb_wall</Name>
+                      <GUID>7102000</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 14:01</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:13</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Glass>1000</Glass>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateEcos3</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_glas_platform_ecos\eden_line_glas_platform_ecos.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_glas_platform</Name>
+                      <GUID>7102001</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 15:15</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:13</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>150</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Wood>1000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateCommunicator</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_tree_place_ecos\eden_line_tree_place_ecos.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_tree_place</Name>
+                      <GUID>7102004</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 15:17</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-19 10:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Glass>1000</Glass>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateEcos4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_water_wall_ecos\eden_line_water_wall_ecos.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_water_wall</Name>
+                      <GUID>7102008</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:37</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-19 10:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Wood>1000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateEcos4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_hedge_ecos\eden_line_hedge_ecos_corner.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_hedge_corner</Name>
+                      <GUID>7102009</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 15:15</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-19 10:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Wood>1000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateEcos4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_hedge_ecos\eden_line_hedge_ecos_cross.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_hedge_cross</Name>
+                      <GUID>7102010</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:50</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-19 10:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Wood>1000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateEcos4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_hedge_ecos\eden_line_hedge_ecos_straight.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_hedge_straight</Name>
+                      <GUID>7102011</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:50</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-19 10:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Wood>1000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateEcos4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_hedge_ecos\eden_line_hedge_ecos_tcross.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_hedge_tcross</Name>
+                      <GUID>7102012</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:50</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-19 10:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Wood>2000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateCommunicator</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_park_ecos\eden_line_park_ecos_corner.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_park_corner</Name>
+                      <GUID>7102013</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:53</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:12</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Wood>2000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateCommunicator</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_park_ecos\eden_line_park_ecos_cross.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_park_cross</Name>
+                      <GUID>7102014</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:53</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:12</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Wood>2000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateCommunicator</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_park_ecos\eden_line_park_ecos_end.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_park_end</Name>
+                      <GUID>7102015</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:53</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:12</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Wood>2000</Wood>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateCommunicator</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_park_ecos\eden_line_park_ecos_straight.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_park_straight</Name>
+                      <GUID>7102016</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 16:53</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:12</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>7500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Tools>10000</Tools>
+                        <BuildingModules>25000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateRiverfilterplant</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>50</ActiveCost>
+                      <InactiveCost>50</InactiveCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_statue\eden_line_statue.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_statue</Name>
+                      <GUID>7102017</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-12-06 16:38</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:12</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>5000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Tools>5000</Tools>
+                        <BuildingModules>10000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateHealthDrink</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>30</ActiveCost>
+                      <InactiveCost>30</InactiveCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_fountain\eden line fountain.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_fountain</Name>
+                      <GUID>7102018</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-12-06 16:39</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-17 15:12</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>100</Credits>
+                      </ResourceCost>
+                      <NeedsIntermediatelevel>IntermediateEcos2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building>
+                      <BuildEffect />
+                    </Building>
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_flowerbed_ecos\eden_line_flowerbed_ecos_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <AllowMultipleBuild>1</AllowMultipleBuild>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_flowerbed01</Name>
+                      <GUID>7102023</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-12-07 17:52</CreationTime>
+                      <LastChangeUser>Stony</LastChangeUser>
+                      <LastChangeTime>2012-03-02 17:31</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Tree</Template>
+                  <Values>
+                    <Nature>
+                      <BlockingRadius>1228</BlockingRadius>
+                      <LumberObject>7102025</LumberObject>
+                    </Nature>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_02.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_03.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <AssetCategory>333714868</AssetCategory>
+                      <AllowMultipleBuild>1</AllowMultipleBuild>
+                    </Object>
+                    <Standard>
+                      <Name>eden_line_summer_tree</Name>
+                      <GUID>7102024</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-12-09 14:06</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-01-13 16:24</LastChangeTime>
+                    </Standard>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>25</Credits>
+                      </ResourceCost>
+                    </BuildCost>
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>DyingObject</Template>
+                  <Values>
+                    <Dying />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_02.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_03.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\eden_line_summer_tree_ecos\eden_line_summer_tree_ecos_04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Standard>
+                      <Name>eden_line_summer_tree_lumber</Name>
+                      <GUID>7102025</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-12-09 14:09</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-09 14:10</LastChangeTime>
+                    </Standard>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>special</Name>
+              <Assets>
+                <Asset>
+                  <Template>SimpleProductionBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                    </Blocking>
+                    <BuildCost />
+                    <Building>
+                      <NeedsStreetHighlights2>1</NeedsStreetHighlights2>
+                    </Building>
+                    <Danger />
+                    <Hitpoints>
+                      <MaxHitpoints>3000</MaxHitpoints>
+                    </Hitpoints>
+                    <Influence>
+                      <InfluenceRadius>50</InfluenceRadius>
+                      <InfluenceRadiusTypeNeeded>Production;Residence</InfluenceRadiusTypeNeeded>
+                    </Influence>
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>500</ActiveCost>
+                      <InactiveCost>250</InactiveCost>
+                      <ActiveEcoEffect>2048000</ActiveEcoEffect>
+                      <EcoEffectType>EcosEcobalanceBuilding</EcoEffectType>
+                      <EcoEffectFadingSpeed>400</EcoEffectFadingSpeed>
+                      <ActiveEnergyCost>1024000</ActiveEnergyCost>
+                      <InactiveEnergyCost>512000</InactiveEnergyCost>
+                      <OverlapType>EcoBalance</OverlapType>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\special\former_balance_ecos\former_balance_ecos.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <AssetCategory>-717356242</AssetCategory>
+                    </Object>
+                    <Selection>
+                      <GUIType>Ozonemaker</GUIType>
+                    </Selection>
+                    <Standard>
+                      <Name>former_balance_ecos</Name>
+                      <GUID>7102006</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 15:20</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2011-12-19 10:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <WareProduction>
+                      <SpecialResourceIcon>Energy</SpecialResourceIcon>
+                      <SpecialProductIcon>CleanAir</SpecialProductIcon>
+                    </WareProduction>
+                    <FeedbackHub />
+                    <Reward />
+                    <SimpleProduction />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>public</Name>
+              <Assets>
+                <Asset>
+                  <Template>PublicBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <DeleteNatureElementsFrameSize>4096</DeleteNatureElementsFrameSize>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>2000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Tools>5000</Tools>
+                        <BuildingModules>7000</BuildingModules>
+                        <Glass>5000</Glass>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateEcos3</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building>
+                      <BuildingType>MarketPlace</BuildingType>
+                    </Building>
+                    <Danger />
+                    <Hitpoints>
+                      <MaxHitpoints>2500</MaxHitpoints>
+                      <CallForFeedbackUnits>1</CallForFeedbackUnits>
+                    </Hitpoints>
+                    <Influence>
+                      <InfluenceRadius>25</InfluenceRadius>
+                      <InfluenceRadiusType>Residence</InfluenceRadiusType>
+                      <InfluenceRadiusTypeNeeded />
+                    </Influence>
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>40</ActiveCost>
+                      <InactiveCost>40</InactiveCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh>
+                      <AudioFeedback>2005507</AudioFeedback>
+                    </Mesh>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\ecos\ornaments\town_center_variation_ecos\town_center_variation_ecos.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <AssetCategory>-258576624</AssetCategory>
+                    </Object>
+                    <PublicBuilding>
+                      <BuildingDemandEfficiency>
+                        <EcosRuin>100</EcosRuin>
+                        <Ecos1>100</Ecos1>
+                        <Ecos2>100</Ecos2>
+                        <Ecos3>100</Ecos3>
+                        <TechsRuin>100</TechsRuin>
+                        <Techs1>100</Techs1>
+                        <Techs2>100</Techs2>
+                        <TycoonsRuin>100</TycoonsRuin>
+                        <Tycoons1>100</Tycoons1>
+                        <Tycoons2>100</Tycoons2>
+                        <Tycoons3>100</Tycoons3>
+                        <Ecos4>100</Ecos4>
+                        <Tycoons4>100</Tycoons4>
+                        <Techs3>100</Techs3>
+                      </BuildingDemandEfficiency>
+                      <BuildingDemandCategories>Company</BuildingDemandCategories>
+                      <BuildingDemandColor>-3692712</BuildingDemandColor>
+                      <HasInfluenceOn>
+                        <Item>
+                          <guid>10021</guid>
+                        </Item>
+                        <Item>
+                          <guid>10076</guid>
+                        </Item>
+                        <Item>
+                          <guid>10116</guid>
+                        </Item>
+                        <Item>
+                          <guid>10118</guid>
+                        </Item>
+                        <Item>
+                          <guid>10011</guid>
+                        </Item>
+                        <Item>
+                          <guid>10013</guid>
+                        </Item>
+                        <Item>
+                          <guid>10119</guid>
+                        </Item>
+                        <Item>
+                          <guid>10117</guid>
+                        </Item>
+                        <Item>
+                          <guid>10088</guid>
+                        </Item>
+                        <Item>
+                          <guid>10209</guid>
+                        </Item>
+                        <Item>
+                          <guid>10221</guid>
+                        </Item>
+                        <Item>
+                          <guid>10222</guid>
+                        </Item>
+                        <Item>
+                          <guid>10223</guid>
+                        </Item>
+                        <Item>
+                          <guid>40000006</guid>
+                        </Item>
+                      </HasInfluenceOn>
+                    </PublicBuilding>
+                    <Selection>
+                      <GUIType>MarketPlace</GUIType>
+                    </Selection>
+                    <Standard>
+                      <Name>town_center_variation_ecos</Name>
+                      <GUID>7102005</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 15:18</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2012-02-22 10:21</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Upgradable />
+                    <Warehouse />
+                    <FeedbackHub />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>techs</Name>
+          <Groups>
+            <Group>
+              <Name>special</Name>
+              <Assets>
+                <Asset>
+                  <Template>SimpleProductionBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost />
+                    <Building>
+                      <NeedsStreetHighlights2>1</NeedsStreetHighlights2>
+                    </Building>
+                    <Danger />
+                    <Hitpoints>
+                      <MaxHitpoints>3000</MaxHitpoints>
+                    </Hitpoints>
+                    <Influence>
+                      <InfluenceRadius>50</InfluenceRadius>
+                      <InfluenceRadiusTypeNeeded>Production;Residence</InfluenceRadiusTypeNeeded>
+                    </Influence>
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>500</ActiveCost>
+                      <InactiveCost>250</InactiveCost>
+                      <ActiveEcoEffect>2048000</ActiveEcoEffect>
+                      <EcoEffectType>EcosEcobalanceBuilding</EcoEffectType>
+                      <EcoEffectFadingSpeed>400</EcoEffectFadingSpeed>
+                      <ActiveEnergyCost>1024000</ActiveEnergyCost>
+                      <InactiveEnergyCost>512000</InactiveEnergyCost>
+                      <OverlapType>EcoBalance</OverlapType>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_01\buildings\techs\special\former_balance_techs\former_balance_techs.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <AssetCategory>12113017</AssetCategory>
+                    </Object>
+                    <Selection>
+                      <GUIType>Ozonemaker</GUIType>
+                    </Selection>
+                    <Standard>
+                      <Name>former_balance_techs</Name>
+                      <GUID>7102007</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-11-29 15:21</CreationTime>
+                      <LastChangeUser>stauss</LastChangeUser>
+                      <LastChangeTime>2011-12-08 14:29</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <WareProduction>
+                      <SpecialResourceIcon>Energy</SpecialResourceIcon>
+                      <SpecialProductIcon>CleanAir</SpecialProductIcon>
+                    </WareProduction>
+                    <FeedbackHub />
+                    <Reward />
+                    <SimpleProduction />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>MetaGame</Name>
+      <Groups>
+        <Group>
+          <Name>Missions</Name>
+          <Groups>
+            <Group>
+              <Name>Scenario</Name>
+              <Groups>
+                <Group>
+                  <Name>SinglePlayer</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>ScenarioMission</Template>
+                      <Values>
+                        <Standard>
+                          <Name>ulc01 Scenario01</Name>
+                          <GUID>7000000</GUID>
+                          <Creator>kalle</Creator>
+                          <CreationTime>2011-11-22 13:51</CreationTime>
+                          <LastChangeUser>weber</LastChangeUser>
+                          <LastChangeTime>2012-05-23 13:39</LastChangeTime>
+                        </Standard>
+                        <Mission>
+                          <VideoFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_01-1.bkg</VideoFile>
+                          <WorldMapCoordX>2048</WorldMapCoordX>
+                          <WorldMapCoordY>1024</WorldMapCoordY>
+                          <ShortDescription>7000050</ShortDescription>
+                          <Difficulty>Medium</Difficulty>
+                          <DisabledShortDescription>3262019</DisabledShortDescription>
+                          <LeaderBoards>
+                            <Item>
+                              <AssetCounterChoice>MissionSolvedMinTime</AssetCounterChoice>
+                              <MaxValue>420</MaxValue>
+                              <InvertGraphXAxis>1</InvertGraphXAxis>
+                              <Text>41000013</Text>
+                              <TimeFactor>60</TimeFactor>
+                            </Item>
+                          </LeaderBoards>
+                        </Mission>
+                        <MissionBriefing>
+                          <Briefing>
+                            <Text>7000051</Text>
+                            <CharacterList>
+                              <Item>
+                                <Character>2330007</Character>
+                                <CharacterText>1003277</CharacterText>
+                              </Item>
+                            </CharacterList>
+                          </Briefing>
+                          <PictureFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_01-1.bkg</PictureFile>
+                        </MissionBriefing>
+                        <GameSettings>
+                          <LevelFile>data\levels\dlc_01\dlc01_scenario01.www</LevelFile>
+                          <GameWorld>
+                            <CostRefund>Half</CostRefund>
+                          </GameWorld>
+                          <StartConditions>
+                            <Credit>Plenty</Credit>
+                            <Manpower>Few</Manpower>
+                            <Fleet>Standard</Fleet>
+                            <PlayerArk>UsePlayerArkSlot</PlayerArk>
+                            <PlayerArkSlot>6</PlayerArkSlot>
+                          </StartConditions>
+                          <CharacterList>
+                            <Item>
+                              <IsHuman>1</IsHuman>
+                            </Item>
+                            <Item>
+                              <Character>2330002</Character>
+                              <PlayerID>1</PlayerID>
+                            </Item>
+                            <Item>
+                              <Character>2330003</Character>
+                              <PlayerID>2</PlayerID>
+                            </Item>
+                            <Item>
+                              <Character>2330000</Character>
+                              <Difficulty>Medium</Difficulty>
+                              <PlayerID>3</PlayerID>
+                            </Item>
+                          </CharacterList>
+                        </GameSettings>
+                        <ScenarioCutscenes />
+                        <Reward>
+                          <RequiresActivation>1</RequiresActivation>
+                        </Reward>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>ScenarioMission</Template>
+                      <Values>
+                        <Standard>
+                          <Name>ulc01 Scenario02</Name>
+                          <GUID>7000025</GUID>
+                          <Creator>kalle</Creator>
+                          <CreationTime>2011-11-25 14:52</CreationTime>
+                          <LastChangeUser>weber</LastChangeUser>
+                          <LastChangeTime>2012-05-23 13:40</LastChangeTime>
+                        </Standard>
+                        <Mission>
+                          <VideoFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_01-2.bkg</VideoFile>
+                          <WorldMapCoordX>2048</WorldMapCoordX>
+                          <WorldMapCoordY>1024</WorldMapCoordY>
+                          <ShortDescription>7000058</ShortDescription>
+                          <Difficulty>Hard</Difficulty>
+                          <DisabledShortDescription>3262019</DisabledShortDescription>
+                          <LeaderBoards>
+                            <Item>
+                              <AssetCounterChoice>MissionSolvedMinTime</AssetCounterChoice>
+                              <MaxValue>1080</MaxValue>
+                              <InvertGraphXAxis>1</InvertGraphXAxis>
+                              <Text>41000013</Text>
+                              <TimeFactor>60</TimeFactor>
+                            </Item>
+                          </LeaderBoards>
+                        </Mission>
+                        <MissionBriefing>
+                          <Briefing>
+                            <Text>7000059</Text>
+                            <CharacterList>
+                              <Item>
+                                <Character>2330007</Character>
+                                <CharacterText>1003277</CharacterText>
+                              </Item>
+                            </CharacterList>
+                          </Briefing>
+                          <PictureFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_01-2.bkg</PictureFile>
+                        </MissionBriefing>
+                        <GameSettings>
+                          <LevelFile>data\levels\dlc_01\dlc01_scenario02.www</LevelFile>
+                          <GameWorld>
+                            <CostRefund>Half</CostRefund>
+                          </GameWorld>
+                          <StartConditions>
+                            <Credit>Plenty</Credit>
+                            <Manpower>Few</Manpower>
+                            <Fleet>Standard</Fleet>
+                            <DiscoveredMap>1</DiscoveredMap>
+                            <PlayerArk>UsePlayerArkSlot</PlayerArk>
+                            <PlayerArkSlot>6</PlayerArkSlot>
+                          </StartConditions>
+                          <CharacterList>
+                            <Item>
+                              <IsHuman>1</IsHuman>
+                            </Item>
+                            <Item>
+                              <Character>2330002</Character>
+                              <PlayerID>1</PlayerID>
+                            </Item>
+                            <Item>
+                              <Character>2330003</Character>
+                              <PlayerID>2</PlayerID>
+                            </Item>
+                            <Item>
+                              <Character>2330000</Character>
+                              <Difficulty>Medium</Difficulty>
+                              <PlayerID>3</PlayerID>
+                            </Item>
+                            <Item>
+                              <Character>7000069</Character>
+                              <PlayerID>4</PlayerID>
+                            </Item>
+                          </CharacterList>
+                        </GameSettings>
+                        <ScenarioCutscenes />
+                        <Reward>
+                          <RequiresActivation>1</RequiresActivation>
+                        </Reward>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+              </Groups>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Chapters</Name>
+          <Assets>
+            <Asset>
+              <Template>Chapter</Template>
+              <Values>
+                <Chapter>
+                  <Missions>
+                    <Item>
+                      <Mission>7000000</Mission>
+                    </Item>
+                    <Item>
+                      <Mission>7000025</Mission>
+                    </Item>
+                  </Missions>
+                  <WorldMapX>2048</WorldMapX>
+                  <WorldMapY>1024</WorldMapY>
+                  <ChapterPicture>data\config\gui\Backgrounds\Prototype\mission_images\chapter_bonus_missions.bkg</ChapterPicture>
+                  <WorldMapPicture>data\config\gui\Backgrounds\Prototype\chapter_maps\chapter_map_random_01.bkg</WorldMapPicture>
+                  <Title>1119252</Title>
+                  <NeededActivations>
+                    <Item>
+                      <Asset>7111000</Asset>
+                    </Item>
+                    <Item>
+                      <Asset>7111001</Asset>
+                    </Item>
+                    <Item>
+                      <Asset>7000000</Asset>
+                    </Item>
+                    <Item>
+                      <Asset>7000025</Asset>
+                    </Item>
+                  </NeededActivations>
+                </Chapter>
+                <Standard>
+                  <Name>Bonus Missionen </Name>
+                  <GUID>7000068</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2011-12-05 16:31</CreationTime>
+                  <LastChangeUser>weber</LastChangeUser>
+                  <LastChangeTime>2012-05-31 14:40</LastChangeTime>
+                </Standard>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Player Profile</Name>
+      <Groups>
+        <Group>
+          <Name>Customization</Name>
+          <Groups>
+            <Group>
+              <Name>Portraits</Name>
+              <Assets>
+                <Asset>
+                  <Template>ProfilePortrait</Template>
+                  <Values>
+                    <Standard>
+                      <Name>Josh</Name>
+                      <GUID>7001012</GUID>
+                      <Creator>bombera</Creator>
+                      <CreationTime>2011-12-12 13:53</CreationTime>
+                      <LastChangeUser>mais</LastChangeUser>
+                      <LastChangeTime>2012-01-25 16:19</LastChangeTime>
+                    </Standard>
+                    <ProfilePortrait>
+                      <ProfilePicture>data\config\gui\Backgrounds\Prototype\portraits\portrait_josh.bkg</ProfilePicture>
+                      <ProfileObject>data\graphics\dlc_01\portraits\mad_inventor_ecos\mad_inventor_ecos.cfg</ProfileObject>
+                      <ProfileThirdParty>2330079</ProfileThirdParty>
+                      <ProfileIconGUID>7000069</ProfileIconGUID>
+                    </ProfilePortrait>
+                    <Reward />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Titles</Name>
+              <Assets>
+                <Asset>
+                  <Template>ProfileTitle</Template>
+                  <Values>
+                    <Standard>
+                      <Name>DLC1 Title01</Name>
+                      <GUID>1115128</GUID>
+                      <Creator>bombera</Creator>
+                      <CreationTime>2011-12-14 19:00</CreationTime>
+                      <LastChangeUser>bombera</LastChangeUser>
+                      <LastChangeTime>2011-12-14 21:48</LastChangeTime>
+                    </Standard>
+                    <ProfileTitle />
+                    <Reward>
+                      <Description>1115132</Description>
+                      <PreviewPicture>data\graphics\ui\rewards\title_01.jpg</PreviewPicture>
+                      <PreviewPictureThumb>data\graphics\ui\rewards\thumbs\title_01.jpg</PreviewPictureThumb>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>ProfileTitle</Template>
+                  <Values>
+                    <Standard>
+                      <Name>DLC1 Title02</Name>
+                      <GUID>1115130</GUID>
+                      <Creator>bombera</Creator>
+                      <CreationTime>2011-12-14 19:01</CreationTime>
+                      <LastChangeUser>bombera</LastChangeUser>
+                      <LastChangeTime>2011-12-14 21:48</LastChangeTime>
+                    </Standard>
+                    <ProfileTitle />
+                    <Reward>
+                      <Description>1115133</Description>
+                      <PreviewPicture>data\graphics\ui\rewards\title_01.jpg</PreviewPicture>
+                      <PreviewPictureThumb>data\graphics\ui\rewards\thumbs\title_01.jpg</PreviewPictureThumb>
+                    </Reward>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>ShopItems</Name>
+      <Assets>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>Guardian Package</Name>
+              <GUID>7001013</GUID>
+              <Creator>Kevin</Creator>
+              <CreationTime>2011-12-06 18:03</CreationTime>
+              <LastChangeUser>Kevin</LastChangeUser>
+              <LastChangeTime>2012-01-09 18:19</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7001008</Description>
+              <PreviewPicture>data\graphics\dlc_01\ui\rewards\shopitem_01.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_01\ui\rewards\thumbs\shopitem_01.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7102007</GUID>
+                </Item>
+                <Item>
+                  <GUID>7001004</GUID>
+                </Item>
+                <Item>
+                  <GUID>7001005</GUID>
+                </Item>
+                <Item>
+                  <GUID>7001006</GUID>
+                </Item>
+                <Item>
+                  <GUID>7001007</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>999</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>Mission Package</Name>
+              <GUID>7001014</GUID>
+              <Creator>Kevin</Creator>
+              <CreationTime>2011-12-06 18:03</CreationTime>
+              <LastChangeUser>Kevin</LastChangeUser>
+              <LastChangeTime>2012-01-09 18:19</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7001009</Description>
+              <PreviewPicture>data\graphics\dlc_01\ui\rewards\shopitem_02.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_01\ui\rewards\thumbs\shopitem_02.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7000000</GUID>
+                </Item>
+                <Item>
+                  <GUID>7000025</GUID>
+                </Item>
+                <Item>
+                  <GUID>7001012</GUID>
+                </Item>
+                <Item>
+                  <GUID>7000068</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>998</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>Ornamental Package</Name>
+              <GUID>7001015</GUID>
+              <Creator>Kevin</Creator>
+              <CreationTime>2011-12-06 18:04</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-01-17 12:08</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7001010</Description>
+              <PreviewPicture>data\graphics\dlc_01\ui\rewards\shopitem_03.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_01\ui\rewards\thumbs\shopitem_03.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7102004</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102005</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102009</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102010</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102011</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102012</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102013</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102014</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102015</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102016</GUID>
+                </Item>
+                <Item>
+                  <GUID>7102008</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>997</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>Complete Package</Name>
+              <GUID>7001016</GUID>
+              <Creator>Kevin</Creator>
+              <CreationTime>2011-12-06 18:04</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-18 09:30</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7001011</Description>
+              <PreviewPicture>data\graphics\dlc_01\ui\rewards\shopitem_04.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_01\ui\rewards\thumbs\shopitem_04.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7001013</GUID>
+                </Item>
+                <Item>
+                  <GUID>7001014</GUID>
+                </Item>
+                <Item>
+                  <GUID>7001015</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>3200</Order>
+            </Reward>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

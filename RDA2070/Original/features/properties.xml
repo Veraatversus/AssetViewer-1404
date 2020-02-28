@@ -1,0 +1,2788 @@
+<Properties>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Upgrade</Name>
+      <Property>
+        <Name>AirShipUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>FuelConsumptionRate</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>BuildCostUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ResourceCost</Name>
+          <Description>Erweiterung der Baukosten der eingestellten Gebäude</Description>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductCost</Name>
+          <Description>Erweiterung der Baukosten der eingestellten Gebäude</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>CombatUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AttackRange</Name>
+          <Description>Upgrade der Schussreichweite eines Schiffes</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DamagePerSecond</Name>
+          <Description>Upgrade der Angriffskraft eines Schiffes</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AttackSpeed</Name>
+          <Description>Upgrade der Angriffsgeschwindigkeit eines Schiffes</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DiplomacyUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IngratiateSuccessPercentage</Name>
+          <Description>Bonus auf die Erfolgswahrscheinlichkeit von "Einschmeicheln"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IngratiateCooldown</Name>
+          <Description>Bonus auf den Cooldown von "Einschmeicheln"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IntimidateSuccessPercentage</Name>
+          <Description>Bonus auf die Erfolgswahrscheinlichkeit von "Beleidigen"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IntimidateCooldown</Name>
+          <Description>Bonus auf den Cooldown von "Beleidigen"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IngratiateReputationBonus</Name>
+          <Description>Bonus auf den Rufgewinn durch "Einschmeicheln"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>IntimidateReputationBonus</Name>
+          <Description>Bonus auf den Rufverlust durch "Beleidigen"</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>CorsairTradeDuration</Name>
+          <Description>Wie lange dauert der Handel bei den Korsaren. nur prozentual balancen</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DisasterUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DoctorHealingTime</Name>
+          <Description>Zeit, die ein Medicgleiter nach Erreichen eines infizierten Hauses braucht, um es zu heilen</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>PoliceHealingTime</Name>
+          <Description>Zeit, die ein Polizeigleiter nach Erreichen eines zu befragenden Hauses braucht, um es zu befragen</Description>
+          <Creator>Joachim</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>PolicePursuitTime</Name>
+          <Description>Zeit, die ein Polizeigleiter nach Erreichen einer Crimesource braucht, um es zu säubern</Description>
+          <Creator>Joachim</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>FireFighterHealingPerMinute</Name>
+          <Description>Heilgeschwindigkeit eines Feuerwehrgleiters</Description>
+          <Creator>Joachim</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>FactoryUpgrade</Name>
+        <Description>upgrades für Fabriken</Description>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawCapacity1</Name>
+          <Description>Kapazität des ersten benötigten Rohstoffs</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawNeeded1</Name>
+          <Description>Wieviel des ersten Rohstoffs benötigt wird, um voll zu produzieren.</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawCapacity2</Name>
+          <Description>Kapazität des zweiten benötigten Rohstoffs</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RawNeeded2</Name>
+          <Description>Wieviel des zweiten Rohstoffs benötigt wird, um voll zu produzieren.</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>GlobalUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DemandAmount</Name>
+          <Description>Bonus auf die Nachfrage einer bestimmten Ware</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DemandAmountCategoryFactor</Name>
+          <Description>beeinflußt die Nachfragemenge einer ganzen Kategorie</Description>
+          <IsProValue>1</IsProValue>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>TaxUpgradePercent</Name>
+          <Description>Erweiterung der Grundsteuerbetrages (nur in Prozent angeben)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ResourceGenerationRate</Name>
+          <Description>generation rate in percent for each resource. may be upgraded</Description>
+          <Creator>mais</Creator>
+          <Feature>Diplomacy</Feature>
+          <FeatureSubPage>Local+campaign</FeatureSubPage>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ArkSlotCount</Name>
+          <Creator>stauss</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ArkSlotCapacity</Name>
+          <Creator>stauss</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>EcoBalanceBonus</Name>
+          <Description>Upgrades the global eco balance bonus, should always be an absolute value, because the default bonus value is 0.</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ResidenceUpgradeAmountMaxPercent</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AdditionalDisasterProbability</Name>
+          <Creator>Joachim</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DiplomacyPointAmount</Name>
+          <Description>amount of diplomacy points the player needs to execute a diplomacy action</Description>
+          <Creator>mais</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductMinPriceUpgradeBase</Name>
+          <Creator>stauss</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductMaxPriceUpgradeBase</Name>
+          <Creator>stauss</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>TownAcquisitionCooldown</Name>
+          <Creator>koenig</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>HitpointUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MaxHitpoints</Name>
+          <Description>Upgrade der Hitpoints einer Einheit.</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ShieldEnergy</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ShieldEnergyRegeneration</Name>
+          <Creator>koenig</Creator>
+          <UpgradeName>ShieldRegeneration</UpgradeName>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ItemContainerUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>Sockets</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>MaintenanceCostUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ActiveCost</Name>
+          <Description>Betriebskosten für die spezifizierten Einheiten (ItemTargetGUIDs)</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>InactiveCost</Name>
+          <Description>Betriebskosten für stillgelegte Betriebe der spezifizierte Einheiten (ItemTargetGUIDs)</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ActiveEcoEffect</Name>
+          <Description>negative Values for negative effect</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>InActiveEcoEffect</Name>
+          <Description>negative Values for negative effect</Description>
+          <Creator>koenig</Creator>
+          <UpgradeName>InactiveEcoEffect</UpgradeName>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ActiveEnergyCost</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>InActiveEnergyCost</Name>
+          <Creator>koenig</Creator>
+          <UpgradeName>InactiveEnergyCost</UpgradeName>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ActiveEnergyProduction</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>InActiveEnergyProduction</Name>
+          <Creator>koenig</Creator>
+          <UpgradeName>InactiveEnergyProduction</UpgradeName>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ChannelEnergyCostUpgrade</Name>
+          <Description>this attribute should have the same value as the ActiveEnergyCost if the channel energy cost should be influenced as well. DO NOT USE THE PERCENT SYMBOL. the value has to be 'absolute' and is always interpreted as a percentage value.</Description>
+          <Creator>koenig</Creator>
+          <UpgradeName>ChannelEnergyCostModifier</UpgradeName>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ProductionUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>WorkerCount</Name>
+          <Description>Anzahl der abholenden Arbeiter (z.B. Marktkarren, Geselle)</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductionTime</Name>
+          <Description>Upgrade der Produktionszeit eines Betriebes</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductionCapacity</Name>
+          <Description>Größe des betriebsinternen Lagers bzw. der zur VErfügung stehenden Ressourcenmenge</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductionCount</Name>
+          <Description>Upgrade der Produktivität eines Betriebes.</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ResourceNeeded</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>PublicBuildingUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>BuildingDemandEfficiency</Name>
+          <Description>Bonus auf die Bedürfniserfüllung durch das entsprechende Gebäude</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>InfluenceRadius</Name>
+          <Description>Erweiterung des Einflußbereichs der eingestellten Gebäude</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ResidentBuildingUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MinResidentCount</Name>
+          <Description>Erweiterung der minimalen Anzahl an Bewohnern in einem Haus</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MaxResidentCount</Name>
+          <Description>Erweiterung der maximalen Anzahl an Bewohnern in einem Haus</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MinMorale</Name>
+          <Description>MoraleBlocker for Media-Channels</Description>
+          <Creator>Joachim</Creator>
+          <Min>1</Min>
+          <Max>5</Max>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MaxMorale</Name>
+          <Description>MoraleBlocker for Media-Channels</Description>
+          <Creator>Joachim</Creator>
+          <Min>1</Min>
+          <Max>5</Max>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>PopulateRepeater</Name>
+          <Creator>Joachim</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DemandAmountCategoryFactor2</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AffectedResidentsCountFactor</Name>
+          <Description>Wirkung von Bewohnern auf Boost beim Forschen</Description>
+          <Creator>Joachim</Creator>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DisasterDecreaseProbability</Name>
+          <Description>absolute Werte eintragen (+40 senkt z.B: die Wahrscheinlichkeit um 40%, falls alle Wohnhäuser abgedeckt sind)</Description>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>DemandQuoteFactor</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ResourceUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>AdditionalIncome</Name>
+          <Creator>Joachim</Creator>
+          <DataSet>PlayerResource</DataSet>
+          <Items>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>IncomePer100ResidentsPerMinute</Name>
+              <Description>bonus Income</Description>
+              <Creator>Joachim</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>AdditionalIncomePercent</Name>
+              <Description>bonus income in percent</Description>
+              <Creator>Joachim</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>UpgradeCostFactor</Name>
+          <Description>Aufstiegskosten bei Wohnhäusern werden reduziert</Description>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShipUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>VisionRadius</Name>
+          <Description>Upgrade der Sichtweite von Schiffen</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>LoadDamageCap</Name>
+          <Description>Upgrade der verlangsamung durch Schaden/Zuladung</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TaskBasedProductionUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>AssetDiscoveryChance</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ProductionTimeFactor</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ThirdpartyTradeUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ItemSellPrice</Name>
+          <Description>upgrade for the price the player has to pay for an item</Description>
+          <Creator>mais</Creator>
+          <IsStatic>1</IsStatic>
+          <UpgradeName>ThirdpartyItemSellPrice</UpgradeName>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>AIProfile</DataType>
+          <Name>TradingPlayerProfile</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>EffectTooltip</Name>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TransportUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>SlotCount</Name>
+          <Description>Upgrade der Anzahl an Ladekammern eines Schiffes</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>SlotCapacity</Name>
+          <Description>Upgrade der Kpazität von Ladekammern eines Schiffes</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TributeUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>TributeSuccessPercentage</Name>
+          <Description>Upgrade der Erfolgswahrscheinlichkeit von Tributforderungen</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>TributeCooldown</Name>
+          <Description>Upgrade des Cooldowns zwischen Tributforderungen</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>MaxTributeAmount</Name>
+          <Description>Upgrade der maximale forderbaren Tributmenge</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>UnitLimitUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>UnitLimit</Name>
+          <Description>Upgrade des Militärlimits</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>ShipLimit</Name>
+          <Description>Upgrade des Schiffslimits</Description>
+          <ExportAsRealInt>1</ExportAsRealInt>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>UnitUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>WalkingSpeed</Name>
+          <Description>Upgrade der Bewegungsgeschwindigkeit der Einheit</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Upgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>TargetGUIDs</Name>
+          <Description>Auf welche Assets das Item seine Wirkung entfaltet. Über den ADD Button können neue Assets (z.B. Gebäude) hinzugefügt werden. Es kann entweder direkt die GUID des Assests angegeben oder über ein Auswahleditor das gewünschten Asset eingestellt werden.</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Asset</DataType>
+              <Name>UpgradeGUID</Name>
+              <Description>guid upgraded by this item</Description>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowTargetInTooltip</Name>
+          <Description>Einstellung, ob die angegebenen Zielassets automatisch im Itemtooltip angezeigt werden sollen.</Description>
+          <IsProValue>1</IsProValue>
+          <ShowInTextView>0</ShowInTextView>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>NeedsReinit</Name>
+          <Description>Wenn auf true gesetzt wird das Handle reinitialisiert wenn das Upgrade hinzugefügt oder entfernt wird</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>Stackable</Name>
+          <Description>Channels effect buildings only once</Description>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>TargetAssetCategories</Name>
+          <Description>Auf welche Assets das Item seine Wirkung entfaltet. Über den ADD Button können neue Assets (z.B. Gebäude) hinzugefügt werden. Es kann entweder direkt die GUID des Assests angegeben oder über ein Auswahleditor das gewünschten Asset eingestellt werden.</Description>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>QuestGroup</DataType>
+              <Name>TargetCategory</Name>
+              <Creator>koenig</Creator>
+              <AssetConfig>AssetEditor</AssetConfig>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>AdditionalItemEffects</Name>
+          <Description>Adds the effect of other items if this item (the 'parent item') is activated, the effect duration and cooldown duration of the child items will be ignored</Description>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Effect</Name>
+              <Creator>koenig</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>AddUpgradeIconToGUIDs</Name>
+          <Description>a list of guids this upgrade will be added to ONLY as an icon in the UI, not as an actual upgrade.</Description>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Asset</DataType>
+              <Name>UpgradeIconAtAsset</Name>
+              <Creator>koenig</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>TargetAssetCategoryPools</Name>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Asset</DataType>
+              <Name>CategoryPool</Name>
+              <Creator>koenig</Creator>
+              <NeededProperty>AssetCategoryPool</NeededProperty>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>WarehouseUpgrade</Name>
+        <PropertyCategory>Upgrade</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>Capacity</Name>
+          <Description>Upgrade der Kapazität eines Lagergebäudes</Description>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <Upgrade>
+          <TargetGUIDs>
+            <UpgradeGUID>0</UpgradeGUID>
+          </TargetGUIDs>
+          <AdditionalItemEffects>
+            <Effect>0</Effect>
+          </AdditionalItemEffects>
+          <AddUpgradeIconToGUIDs>
+            <UpgradeIconAtAsset>0</UpgradeIconAtAsset>
+          </AddUpgradeIconToGUIDs>
+          <TargetAssetCategoryPools>
+            <CategoryPool>0</CategoryPool>
+          </TargetAssetCategoryPools>
+        </Upgrade>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <AirShipUpgrade>
+          <FuelConsumptionRate />
+        </AirShipUpgrade>
+        <BuildCostUpgrade>
+          <ResourceCost />
+          <ProductCost />
+        </BuildCostUpgrade>
+        <CombatUpgrade>
+          <AttackRange />
+          <DamagePerSecond />
+          <AttackSpeed />
+        </CombatUpgrade>
+        <DiplomacyUpgrade>
+          <IngratiateSuccessPercentage />
+          <IngratiateCooldown />
+          <IntimidateSuccessPercentage />
+          <IntimidateCooldown />
+          <IngratiateReputationBonus />
+          <IntimidateReputationBonus />
+          <CorsairTradeDuration />
+        </DiplomacyUpgrade>
+        <DisasterUpgrade>
+          <DoctorHealingTime />
+          <PoliceHealingTime />
+          <PolicePursuitTime />
+          <FireFighterHealingPerMinute />
+        </DisasterUpgrade>
+        <FactoryUpgrade>
+          <RawCapacity1 />
+          <RawNeeded1 />
+          <RawCapacity2 />
+          <RawNeeded2 />
+        </FactoryUpgrade>
+        <GlobalUpgrade>
+          <DemandAmount />
+          <DemandAmountCategoryFactor />
+          <TaxUpgradePercent />
+          <ResourceGenerationRate />
+          <ArkSlotCount />
+          <ArkSlotCapacity />
+          <EcoBalanceBonus />
+          <ResidenceUpgradeAmountMaxPercent />
+          <AdditionalDisasterProbability />
+          <DiplomacyPointAmount />
+          <ProductMinPriceUpgradeBase />
+          <ProductMaxPriceUpgradeBase />
+          <TownAcquisitionCooldown />
+        </GlobalUpgrade>
+        <HitpointUpgrade>
+          <MaxHitpoints />
+          <ShieldEnergy />
+          <ShieldEnergyRegeneration />
+        </HitpointUpgrade>
+        <ItemContainerUpgrade>
+          <Sockets />
+        </ItemContainerUpgrade>
+        <MaintenanceCostUpgrade>
+          <ActiveCost />
+          <InactiveCost />
+          <ActiveEcoEffect />
+          <InActiveEcoEffect />
+          <ActiveEnergyCost />
+          <InActiveEnergyCost />
+          <ActiveEnergyProduction />
+          <InActiveEnergyProduction />
+          <ChannelEnergyCostUpgrade />
+        </MaintenanceCostUpgrade>
+        <ProductionUpgrade>
+          <WorkerCount />
+          <ProductionTime />
+          <ProductionCapacity />
+          <ProductionCount />
+          <ResourceNeeded />
+        </ProductionUpgrade>
+        <PublicBuildingUpgrade>
+          <BuildingDemandEfficiency />
+          <InfluenceRadius />
+        </PublicBuildingUpgrade>
+        <ResidentBuildingUpgrade>
+          <MinResidentCount />
+          <MaxResidentCount />
+          <MinMorale>1</MinMorale>
+          <MaxMorale>5</MaxMorale>
+          <PopulateRepeater />
+          <DemandAmountCategoryFactor2 />
+          <AffectedResidentsCountFactor />
+          <DisasterDecreaseProbability />
+          <DemandQuoteFactor />
+        </ResidentBuildingUpgrade>
+        <ResourceUpgrade>
+          <AdditionalIncome />
+          <UpgradeCostFactor />
+        </ResourceUpgrade>
+        <ShipUpgrade>
+          <VisionRadius />
+          <LoadDamageCap />
+        </ShipUpgrade>
+        <TaskBasedProductionUpgrade>
+          <AssetDiscoveryChance />
+          <ProductionTimeFactor />
+        </TaskBasedProductionUpgrade>
+        <ThirdpartyTradeUpgrade>
+          <ItemSellPrice />
+          <TradingPlayerProfile>0</TradingPlayerProfile>
+          <EffectTooltip>0</EffectTooltip>
+        </ThirdpartyTradeUpgrade>
+        <TransportUpgrade>
+          <SlotCount />
+          <SlotCapacity />
+        </TransportUpgrade>
+        <TributeUpgrade>
+          <TributeSuccessPercentage />
+          <TributeCooldown />
+          <MaxTributeAmount />
+        </TributeUpgrade>
+        <UnitLimitUpgrade>
+          <UnitLimit />
+          <ShipLimit />
+        </UnitLimitUpgrade>
+        <UnitUpgrade>
+          <WalkingSpeed />
+        </UnitUpgrade>
+        <Upgrade>
+          <TargetGUIDs />
+          <ShowTargetInTooltip>1</ShowTargetInTooltip>
+          <Stackable>1</Stackable>
+          <TargetAssetCategories />
+          <AdditionalItemEffects />
+          <AddUpgradeIconToGUIDs />
+          <TargetAssetCategoryPools />
+        </Upgrade>
+        <WarehouseUpgrade>
+          <Capacity />
+        </WarehouseUpgrade>
+      </DefaultValues>
+    </Group>
+    <Group>
+      <Name>Default</Name>
+      <Property>
+        <Name>Channel</Name>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>VideoFileName</Name>
+          <Description>Dieses Video wird am Mediatower angezeigt, wenn dieser Channel ausgestrahlt wird</Description>
+          <Creator>Joachim</Creator>
+          <Filter>Bink Video (*.bik)|*.bik</Filter>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MaintenanceCost</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>EnergyCost</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>IntermediateLevelNeeded</Name>
+          <Description>Channel is only startable if intermediatelevel is currently reached</Description>
+          <Creator>Joachim</Creator>
+          <DataSet>IntermediateLevel</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ChannelTooltip</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ChannelDescription</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>VideoPreviewPicture</Name>
+          <Description>A preview picture background for a channel</Description>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowEffectBuff</Name>
+          <Description>Zeigt einen Buff im betroffenen Wohnhaus an</Description>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>GameAction</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ActionType</Name>
+          <IsProValue>1</IsProValue>
+          <DataSet>GameAction</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>TargetGUID</Name>
+          <Description>GUID, die erzeugt werden soll</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>TargetType</Name>
+          <IsProValue>1</IsProValue>
+          <DataSet>ActionTargetType</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>TargetPlayer</Name>
+          <IsProValue>1</IsProValue>
+          <DataSet>TargetPlayer</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ActorType</Name>
+          <Description>Ob diese Aktion von einem Spieler aus oder von einem bestimmten Objekt aus gestartet wird</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>ActionTargetType</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Pet</Name>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>Pet</Name>
+          <Description>Typ des Tiers</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>ModuleName</Name>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Reward</Name>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>RequiresActivation</Name>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>Description</Name>
+          <Creator>Kevin</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>PreviewPicture</Name>
+          <Creator>Kevin</Creator>
+          <Filter>Picture (*.jpg)|*.jpg||</Filter>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ActivateOnGamestart</Name>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>Flags</Name>
+          <Creator>Kevin</Creator>
+          <DataSet>RewardFlags</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>UPlayPoints</Name>
+          <Creator>Kevin</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>Category</Name>
+          <Creator>Kevin</Creator>
+          <DataSet>RewardCategory</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>TypeName</Name>
+          <Creator>strack</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>PreviewPictureThumb</Name>
+          <Creator>Kevin</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>Order</Name>
+          <Description>defines the order of rewards (descending, 0 == bottom)</Description>
+          <Creator>Kevin</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Seed</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>GeneratedFertility</Name>
+          <Description>Durch das Saatgut erzeugte Fruchtbarkeit</Description>
+          <DataSet>Fertility</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>GeneratedFertilityClime</Name>
+          <Description>Klimazone, in welcher das Saatgut verwendet werden kann</Description>
+          <DataSet>Clime</DataSet>
+          <FunctionName>IsClimeValid</FunctionName>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SenateEffect</Name>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>ItemEffects</Name>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Item</Name>
+              <Creator>koenig</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>EffectDescription</Name>
+          <Description>Description text which is displayed in the main menu (voting screen) and the ark menu</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShipRepairUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>HealingPointsPerMinute</Name>
+          <Description>Heilungsrate in Hitpoint pro Minute</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>RepairRadius</Name>
+          <Description>Heilungsradius um das entsprechende Schiff</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>SelfHealingPointsPerMinute</Name>
+          <Description>Selbst-Heilungsrate in Hitpoint pro Minute</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ShipTradeUpgrade</Name>
+        <ValueDefinition>
+          <DataType>Upgrade</DataType>
+          <Name>CorsairShipTradePrice</Name>
+          <Description>Bonus auf den Verkaufspreis für Schiffe bei den Korsaren</Description>
+          <IsStatic>1</IsStatic>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Standard</Name>
+        <Description>Muss jedes Asset besitzen. Hier sind nur generelle Infos wie Name und GUID enthalten</Description>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>Name</Name>
+          <Description>Name des Assets(nur intern benutzt)</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>GUID</Name>
+          <Description>Eindeutige GUID (erscheint als Bezeichnung im Spiel)</Description>
+          <ExportHistory>0</ExportHistory>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>WikiPage</Name>
+          <Description>Name of the page after https://wiki.related-designs.de/wiki/display/Anno5/</Description>
+          <Export>0</Export>
+          <ShowInTextView>0</ShowInTextView>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>Creator</Name>
+          <Description>Creator of this feature</Description>
+          <Export>0</Export>
+          <ShowInTextView>0</ShowInTextView>
+          <Creator>mais</Creator>
+          <ExportHistory>0</ExportHistory>
+          <ReadOnly>1</ReadOnly>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>CreationTime</Name>
+          <Description>time when this feature was created</Description>
+          <Export>0</Export>
+          <ShowInTextView>0</ShowInTextView>
+          <Creator>mais</Creator>
+          <ExportHistory>0</ExportHistory>
+          <ReadOnly>1</ReadOnly>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>LastChangeUser</Name>
+          <Description>last user who changed this feature</Description>
+          <Export>0</Export>
+          <ShowInTextView>0</ShowInTextView>
+          <Creator>mais</Creator>
+          <ExportHistory>0</ExportHistory>
+          <ReadOnly>1</ReadOnly>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>LastChangeTime</Name>
+          <Description>last time this feature was changed</Description>
+          <Export>0</Export>
+          <ShowInTextView>0</ShowInTextView>
+          <Creator>mais</Creator>
+          <ExportHistory>0</ExportHistory>
+          <ReadOnly>1</ReadOnly>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>Comments</Name>
+          <Description>List of comments for this asset</Description>
+          <Export>0</Export>
+          <IsProValue>1</IsProValue>
+          <Creator>mais</Creator>
+          <ExportHistory>0</ExportHistory>
+          <ReadOnly>1</ReadOnly>
+          <Items>
+            <ValueDefinition>
+              <DataType>String</DataType>
+              <Name>Date</Name>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>String</DataType>
+              <Name>User</Name>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>String</DataType>
+              <Name>Comment</Name>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Tracking</Name>
+        <WikiPage>Light+Tracking</WikiPage>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>TrackingRadius</Name>
+          <Description>radius where tracking objects can be found</Description>
+          <Creator>mais</Creator>
+          <Feature>Quests</Feature>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TradingPrice</Name>
+        <Description>Price of an item if it is sold</Description>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>BasePrice</Name>
+          <Creator>stauss</Creator>
+          <DataSet>PlayerResource</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Voting</Name>
+        <WikiPage>Senate</WikiPage>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>VotingQuestion</Name>
+          <Description>the question for this voting</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>VotingChoices</Name>
+          <Description>Choices the player has</Description>
+          <Creator>mais</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Text</DataType>
+              <Name>Text</Name>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Item</Name>
+              <Creator>mais</Creator>
+              <NeededProperty>SenateEffect</NeededProperty>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>Enabled</Name>
+          <Creator>weber</Creator>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <SenateEffect>
+          <ItemEffects>
+            <Item>0</Item>
+          </ItemEffects>
+        </SenateEffect>
+        <Voting>
+          <VotingChoices>
+            <Text>0</Text>
+            <Item>0</Item>
+          </VotingChoices>
+        </Voting>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <Channel>
+          <IntermediateLevelNeeded>NoIntermediate</IntermediateLevelNeeded>
+          <ChannelTooltip>1206088</ChannelTooltip>
+          <ChannelDescription>0</ChannelDescription>
+          <ShowEffectBuff>1</ShowEffectBuff>
+        </Channel>
+        <GameAction>
+          <ActionType>Ingratiate</ActionType>
+          <TargetGUID>0</TargetGUID>
+          <TargetType>Player</TargetType>
+          <TargetPlayer>All</TargetPlayer>
+          <ActorType>None</ActorType>
+        </GameAction>
+        <Pet>
+          <Pet>0</Pet>
+        </Pet>
+        <Reward>
+          <Description>0</Description>
+          <PreviewPicture>data\graphics\ui\rewards\reward_01.jpg</PreviewPicture>
+          <Flags />
+          <Category>None</Category>
+          <TypeName>0</TypeName>
+          <PreviewPictureThumb>data\graphics\ui\rewards\reward_01.jpg</PreviewPictureThumb>
+        </Reward>
+        <Seed>
+          <GeneratedFertility>NoFertility</GeneratedFertility>
+          <GeneratedFertilityClime />
+        </Seed>
+        <SenateEffect>
+          <ItemEffects />
+          <EffectDescription>0</EffectDescription>
+        </SenateEffect>
+        <ShipRepairUpgrade>
+          <HealingPointsPerMinute />
+          <RepairRadius />
+          <SelfHealingPointsPerMinute />
+        </ShipRepairUpgrade>
+        <ShipTradeUpgrade>
+          <CorsairShipTradePrice />
+        </ShipTradeUpgrade>
+        <Standard>
+          <GUID>0</GUID>
+          <Comments />
+        </Standard>
+        <Tracking />
+        <TradingPrice>
+          <BasePrice>
+            <Credits>50</Credits>
+          </BasePrice>
+        </TradingPrice>
+        <Voting>
+          <VotingQuestion>0</VotingQuestion>
+          <VotingChoices />
+          <Enabled>1</Enabled>
+        </Voting>
+      </DefaultValues>
+    </Group>
+    <Group>
+      <Name>Balancing</Name>
+      <Property>
+        <Name>CreateLicense</Name>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ResourceAmount</Name>
+          <Creator>koenig</Creator>
+          <DataSet>PlayerResource</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DiplomacyBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ProbabilityOfSuccess</Name>
+          <Description>Upgrade der Erfolgswahrscheinlichkeit</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>OnFailureReputationModifier</Name>
+          <Description>Upgrade des Rufverlusts bei Fehlschlag der Aktion</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>OnSuccessReputationModifier</Name>
+          <Description>Upgrade der Rufsteigerung bei Erfolg der Aktion</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ExpeditionBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <WikiPage>Expedition</WikiPage>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>ExitArea</Name>
+          <Description>Spezifische Area, die die Position bestimmt in welcher das Schiff die Welt verlässt</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Struct</DataType>
+          <Name>ExpeditionFailureDamageRange</Name>
+          <Description>Schaden den ein Schiff bekommt, wenn ein Schiff beschädigt von eienr Expedition zurückkommt (es können Werte über 100% eingestellt werden, um die Wahrscheinlichkeit eienr fehlgeschlagenen Expedition zu erhöhen)</Description>
+          <IsProValue>1</IsProValue>
+          <Items>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>MinDamagePercent</Name>
+              <Min>0</Min>
+              <Max>100</Max>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>MaxDamagePercent</Name>
+              <Min>0</Min>
+              <Max>10000</Max>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Struct</DataType>
+          <Name>ExpeditionDuration</Name>
+          <Description>Dauer der Expedition nach Verlassen der Karte</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Time</DataType>
+              <Name>MinDuration</Name>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Time</DataType>
+              <Name>MaxDuration</Name>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Quest</DataType>
+          <Name>ExpeditionReward</Name>
+          <Description>Belohnung bei erfolgreichem Ausgang der Expedition</Description>
+          <NeededProperty>Reward</NeededProperty>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>ExpeditionProducts</Name>
+          <Description>Waren, die die Erfolgswahrscheinlichkeit der Expedition erhöhen</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Choice</DataType>
+              <Name>Product</Name>
+              <DataSet>Product</DataSet>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>RealInt</DataType>
+              <Name>BonusProbabilityPerTon</Name>
+              <Description>Wieviel % zur Erfolgswahrscheinlichkeit pro Tonne dieser Ware addiert wird (Komma möglich)</Description>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>ExpeditionSuccessProbability</Name>
+          <Description>Wahrscheinlichkeit, dass das Schiff unbeschädigt von der Expedition zurückkehrt</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Feature</DataType>
+          <Name>ExpeditionItemReward</Name>
+          <Description>Wenn kein 'ExpeditionReward' (Link) angegeben wird, dann wird als Belohnung das hier angegebene Item ausgewählt. Sollte ein ExpeditionReward existieren, so wird dieses Feld ignoriert. Fehlt beides, so gibt es keine Belohnung.</Description>
+          <NeededProperty>Item</NeededProperty>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>UnderwaterExpedition</Name>
+          <Description>True = the ship will leave the leave the world by diving into the deep sea, False = the ship will leave the world by reaching a world border</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ExplosionBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ExplosionDamage</Name>
+          <Description>Schaden, der durch die Explosion ausgeteilt wird</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>TimeToExplosion</Name>
+          <Description>Zeit nach der Aktivierung des Pulverfasses bis zur Explosion</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>InnerExplosionRadius</Name>
+          <Description>Größe des inneren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>OuterExplosionRadius</Name>
+          <Description>Größe des äußeren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>MinInnerDamagePercentage</Name>
+          <Description>Schaden am inneren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>MinOuterDamagePercentage</Name>
+          <Description>Schaden am äußeren Explosionsradius</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>ExplosionEffect</Name>
+          <Description>Animationseffekt der Explosion</Description>
+          <IsProValue>1</IsProValue>
+          <Filter>Config|*.cfg</Filter>
+          <StartDirectory>data/graphics</StartDirectory>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ExplosionRadiusColor</Name>
+          <Description>Bestimmt die Farbe des Radius der angezeigt wird, bevor das Item aktiviert wird</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>RGBColor</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ForceTreatyBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>NewTreaty</Name>
+          <Description>Vetragstyp welcher erzwungen wird</Description>
+          <DataSet>Treaty</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>MinTreatyDuration</Name>
+          <Description>Minimale Dauer des erzwungenen Vertrages (ohne Bonus durch die Siedlungsgröße)</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Hijacker</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>HitpointMultiplier</Name>
+          <Description>Wert mit dem die Hitpoints des Schiffes mit Entermannschaft für den Entervorgang multipliziert werden.</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>DamageMultiplier</Name>
+          <Description>Wert mit dem die Schadenspunkte des Schiffes mit Entermannschaft für den Entervorgang multipliziert werden.</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>RopeThrowSpeedFactor</Name>
+          <Description>Geschwindigkeit der Leinen-Animation (nicht verwendet)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>RopeTightenSpeedFactor</Name>
+          <Description>Geschwindigkeit der Leinen-Animation (nicht verwendet)</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>OnlyStealCargo</Name>
+          <Description>True = only the cargo will be stolen if the hijack succeeds, False = the ownership of the vehicle will be  transfered</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>AllowFriendlyTarget</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ResourceFillBalancing</Name>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>Refill</Name>
+          <Creator>Joachim</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Choice</DataType>
+              <Name>ResourceType</Name>
+              <Creator>Joachim</Creator>
+              <DataSet>ResourceType</DataSet>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>Amount</Name>
+              <Description>100 * Amount muss durch EffectDurationSekunden teilbar sein!</Description>
+              <Creator>Joachim</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Stealth</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>StealthRadius</Name>
+          <Description>Größe, der durch den Effekt beeinflussten Fläche. Wenn auf Null gesetzt, dann ist nur das Quellfahrzeug getarnt</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Color</DataType>
+          <Name>RadiusUIColor</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Float</DataType>
+          <Name>RadiusUIAlpha</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>TollBalancing</Name>
+        <PropertyCategory>Balancing</PropertyCategory>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MinTradeAmountForTollGeneration</Name>
+          <Description>Minimale Menge in Tonnen, die gehandelt werden müssen, damit die Produkte/Goldmenge geschenkt wird</Description>
+          <Min>0</Min>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>TollMoney</Name>
+          <Description>Bonus an Goldmünzen, den es für den Handelszoll gibt</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>TollProducts</Name>
+          <Description>Bonus an Waren, die es für den Handelszoll gibt</Description>
+          <Items>
+            <ValueDefinition>
+              <DataType>Choice</DataType>
+              <Name>Product</Name>
+              <DataSet>Product</DataSet>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>Amount</Name>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>UseCorsairTooltipText</Name>
+          <Description>Einstellung, um den Standardtooltip für Handelszölle durch den der Korsaren zu ersetzen</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <ExpeditionBalancing>
+          <ExpeditionProducts>
+            <Product>NoProduct</Product>
+            <BonusProbabilityPerTon>4096</BonusProbabilityPerTon>
+          </ExpeditionProducts>
+        </ExpeditionBalancing>
+        <ResourceFillBalancing>
+          <Refill>
+            <ResourceType>Coal</ResourceType>
+          </Refill>
+        </ResourceFillBalancing>
+        <TollBalancing>
+          <TollProducts>
+            <Product>NoProduct</Product>
+          </TollProducts>
+        </TollBalancing>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <CreateLicense>
+          <ResourceAmount />
+        </CreateLicense>
+        <DiplomacyBalancing />
+        <ExpeditionBalancing>
+          <ExpeditionFailureDamageRange />
+          <ExpeditionDuration />
+          <ExpeditionReward>0</ExpeditionReward>
+          <ExpeditionProducts />
+          <ExpeditionSuccessProbability>4096</ExpeditionSuccessProbability>
+          <ExpeditionItemReward>0</ExpeditionItemReward>
+        </ExpeditionBalancing>
+        <ExplosionBalancing>
+          <InnerExplosionRadius>4096</InnerExplosionRadius>
+          <OuterExplosionRadius>4096</OuterExplosionRadius>
+          <MinInnerDamagePercentage>4096</MinInnerDamagePercentage>
+          <MinOuterDamagePercentage>4096</MinOuterDamagePercentage>
+          <ExplosionEffect>data\graphics\effects\military\barrel_explode.cfg</ExplosionEffect>
+          <ExplosionRadiusColor>
+            <R>240</R>
+            <A>100</A>
+          </ExplosionRadiusColor>
+        </ExplosionBalancing>
+        <ForceTreatyBalancing>
+          <NewTreaty>War</NewTreaty>
+        </ForceTreatyBalancing>
+        <Hijacker>
+          <HitpointMultiplier>6144</HitpointMultiplier>
+          <DamageMultiplier>6144</DamageMultiplier>
+          <RopeThrowSpeedFactor>16384</RopeThrowSpeedFactor>
+          <RopeTightenSpeedFactor>8192</RopeTightenSpeedFactor>
+        </Hijacker>
+        <ResourceFillBalancing>
+          <Refill />
+        </ResourceFillBalancing>
+        <Stealth>
+          <StealthRadius>4096</StealthRadius>
+        </Stealth>
+        <TollBalancing>
+          <TollProducts />
+        </TollBalancing>
+      </DefaultValues>
+    </Group>
+    <Group>
+      <Name>Diplomacy</Name>
+      <Property>
+        <Name>BlockPlayerFunctionAction</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>BlockedFunction</Name>
+          <Description>function blocked for the target player</Description>
+          <Creator>mais</Creator>
+          <DataSet>PlayerFunction</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DiplomacyAction</Name>
+        <Description>represents an action which may be activated in the diplomacy menu</Description>
+        <WikiPage>Diplomacy+actions</WikiPage>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>Action</Name>
+          <Description>Action that will be used</Description>
+          <Creator>mais</Creator>
+          <Feature>Diplomacy</Feature>
+          <FeatureSubPage>Diplomacy+actions</FeatureSubPage>
+          <DataSet>GameAction</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>DiplomacyTargetPlayer</Name>
+          <Description>target player of this action</Description>
+          <Creator>mais</Creator>
+          <Feature>Diplomacy</Feature>
+          <DataSet>DiplomacyTargetPlayer</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ActionTooltip</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ActionDescription</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>LogoSmall</Name>
+          <Creator>stauss</Creator>
+          <Filter>Alle Dateien(*.*)|*.*</Filter>
+          <StartDirectory>data/config/gui/Backgrounds</StartDirectory>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>LogoLarge</Name>
+          <Creator>stauss</Creator>
+          <Filter>Alle Dateien(*.*)|*.*</Filter>
+          <StartDirectory>data/config/gui/Backgrounds</StartDirectory>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>ActionVariations</Name>
+          <ShowInTextView>0</ShowInTextView>
+          <Creator>mais</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>SuccessPercentage</Name>
+              <Description>success percentage of this variation</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Array</DataType>
+              <Name>ResourceCost</Name>
+              <Description>resource cost for this variation</Description>
+              <Creator>mais</Creator>
+              <DataSet>PlayerResource</DataSet>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Time</DataType>
+              <Name>Duration</Name>
+              <Description>Duration of this variation</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Text</DataType>
+              <Name>Text</Name>
+              <Description>button text for the variation</Description>
+              <ShowInTextView>0</ShowInTextView>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Text</DataType>
+              <Name>Tooltip</Name>
+              <Description>Tooltip for the diplomacy button</Description>
+              <ShowInTextView>0</ShowInTextView>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Action</Name>
+              <Description>When set this action will be executed when chosing this variation</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>ActivationCount</Name>
+              <Description>When set to a value greater than 0 this action needs to be activated in the diplomacy menu and may be executed that many times afterwards</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Array</DataType>
+              <Name>ForceCost</Name>
+              <Description>Additional cost if the player forces this action(multiplayer only)</Description>
+              <IsProValue>1</IsProValue>
+              <Creator>mais</Creator>
+              <DataSet>PlayerResource</DataSet>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Struct</DataType>
+              <Name>DialogSystem</Name>
+              <IsProValue>1</IsProValue>
+              <Creator>mais</Creator>
+              <Items>
+                <ValueDefinition>
+                  <DataType>Integer</DataType>
+                  <Name>Page</Name>
+                  <Description>The page this variation belongs to. Ignored if set to 0</Description>
+                  <Creator>mais</Creator>
+                </ValueDefinition>
+                <ValueDefinition>
+                  <DataType>Integer</DataType>
+                  <Name>SuccessPage</Name>
+                  <Description>The page started when this variation was used successfully</Description>
+                  <Creator>mais</Creator>
+                </ValueDefinition>
+                <ValueDefinition>
+                  <DataType>Integer</DataType>
+                  <Name>FailPage</Name>
+                  <Description>Page started when this variation has failed</Description>
+                  <Creator>mais</Creator>
+                </ValueDefinition>
+              </Items>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Quest</DataType>
+              <Name>SuccessQuest</Name>
+              <Description>Quest started when this variation was used successfully</Description>
+              <IsProValue>1</IsProValue>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Quest</DataType>
+              <Name>FailQuest</Name>
+              <Description>Quest started when this variation has failed</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>RewardDiplomacyPoints</Name>
+              <Description>Diplomacy points the player gets as a reward after executing this variation</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>ActionCooldown</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>ActionChoices</Name>
+          <Description>Choices the player has</Description>
+          <ShowInTextView>0</ShowInTextView>
+          <Creator>mais</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Action</Name>
+              <Description>Action executed</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Text</DataType>
+              <Name>Tooltip</Name>
+              <Description>Tooltip displayed for this choice</Description>
+              <Creator>mais</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ResourceCostPercentage</Name>
+          <Description>percentage of the cost needed to activate the action.</Description>
+          <Creator>mais</Creator>
+          <DataSet>ProgressLevel</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>CanBeForced</Name>
+          <Description>When set to true the execution of this action may be forced by paying additional resources</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowInDiplomacyBar</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ActionIcon</Name>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>HasInvitation</Name>
+          <Description>True : The target player gets an invitation in multiplayer mode. False : The action is executed directly without asking the other player</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ActionCounter</Name>
+          <Description>counter increased when this action was executed. Ignored when set to None(default)</Description>
+          <Creator>mais</Creator>
+          <DataSet>PlayerCounter</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>EmploymentContractAction</Name>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>Resources</Name>
+          <Description>Resources the player gets</Description>
+          <Creator>mais</Creator>
+          <DataSet>PlayerResource</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>EmploymentContractPercentage</Name>
+          <Description>Percentage of the balanced resources the player gets for each progress level</Description>
+          <Creator>mais</Creator>
+          <DataSet>ProgressLevel</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>IncreaseTradeRateAction</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>TradeRateOffset</Name>
+          <Description>percental bonus added to the traderate. Must be positive to decrease the price</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>InvestmentAction</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MinMoneyPercentage</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MaxMoneyPercentage</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>InvestmentMoney</Name>
+          <Creator>mais</Creator>
+          <DataSet>ProgressLevel</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>MoneyLenderAction</Name>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>UpdateAmountInterval</Name>
+          <Description>interval used to update the current income</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MinUpdatePercentage</Name>
+          <Description>min percentage for a change in the balanced interval.</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>MaxUpdatePercentage</Name>
+          <Description>max percentage for a change in the balanced interval.</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>PayBackPercentage</Name>
+          <Description>money percentage the player has to pay back from the cost</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>PlayerFlagAction</Name>
+        <WikiPage>Diplomacy+actions</WikiPage>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>PlayerFlag</Name>
+          <Description>the player flag which is set</Description>
+          <Creator>mais</Creator>
+          <DataSet>PlayerFlag</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>SetFlagForBothPlayers</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SaleAction</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>TradePricePercentage</Name>
+          <Description>price percentage for wares from the third party</Description>
+          <Creator>mais</Creator>
+          <Feature>Diplomacy</Feature>
+          <FeatureSubPage>Sale</FeatureSubPage>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SpecialSupplyAction</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ProductAmountOffset</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>ProductionTimeOffset</Name>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>StartQuestAction</Name>
+        <ValueDefinition>
+          <DataType>QuestGroup</DataType>
+          <Name>QuestGroup</Name>
+          <Description>A quest from this group will be started</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SupportFleetAction</Name>
+        <WikiPage>Support+Fleet</WikiPage>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>SupportFleetPerLevel</Name>
+          <Description>support fleet for each player level</Description>
+          <Creator>mais</Creator>
+          <Feature>Diplomacy</Feature>
+          <DataSet>ProgressLevel</DataSet>
+          <Items>
+            <ValueDefinition>
+              <DataType>Vector</DataType>
+              <Name>Fleet</Name>
+              <Description>support fleet for this level</Description>
+              <Creator>mais</Creator>
+              <Feature>Diplomacy</Feature>
+              <FeatureSubPage>Support+Fleet</FeatureSubPage>
+              <Items>
+                <ValueDefinition>
+                  <DataType>Asset</DataType>
+                  <Name>Asset</Name>
+                  <Creator>mais</Creator>
+                </ValueDefinition>
+                <ValueDefinition>
+                  <DataType>Integer</DataType>
+                  <Name>Count</Name>
+                  <Creator>mais</Creator>
+                </ValueDefinition>
+              </Items>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>OwnedByThirdParty</Name>
+          <Description>When set to true the fleet will be controlled by the third party</Description>
+          <Creator>mais</Creator>
+          <Feature>Diplomacy</Feature>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <DiplomacyAction>
+          <ActionVariations>
+            <SuccessPercentage>100</SuccessPercentage>
+            <ResourceCost />
+            <Text>0</Text>
+            <Tooltip>0</Tooltip>
+            <Action>0</Action>
+            <ForceCost />
+            <DialogSystem />
+            <SuccessQuest>0</SuccessQuest>
+            <FailQuest>0</FailQuest>
+          </ActionVariations>
+          <ActionChoices>
+            <Action>0</Action>
+            <Tooltip>0</Tooltip>
+          </ActionChoices>
+        </DiplomacyAction>
+        <SupportFleetAction>
+          <SupportFleetPerLevel>
+            <ContainerValues>
+              <Fleet>
+                <Asset>0</Asset>
+                <Count>1</Count>
+              </Fleet>
+            </ContainerValues>
+            <Fleet />
+          </SupportFleetPerLevel>
+        </SupportFleetAction>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <BlockPlayerFunctionAction>
+          <BlockedFunction>Expand</BlockedFunction>
+        </BlockPlayerFunctionAction>
+        <DiplomacyAction>
+          <Action>Ingratiate</Action>
+          <DiplomacyTargetPlayer>Owner</DiplomacyTargetPlayer>
+          <ActionTooltip>1600000</ActionTooltip>
+          <ActionDescription>0</ActionDescription>
+          <LogoSmall>data\config\gui\Backgrounds\Prototype\dummy_action.bkg</LogoSmall>
+          <LogoLarge>data\config\gui\Backgrounds\Prototype\dummy_action.bkg</LogoLarge>
+          <ActionVariations>
+            <Item />
+          </ActionVariations>
+          <ActionChoices />
+          <ResourceCostPercentage>
+            <EarlyGame>100</EarlyGame>
+            <MidGame>200</MidGame>
+            <LateGame>400</LateGame>
+            <EndGame>300</EndGame>
+          </ResourceCostPercentage>
+          <CanBeForced>1</CanBeForced>
+          <ShowInDiplomacyBar>1</ShowInDiplomacyBar>
+          <ActionIcon>0</ActionIcon>
+          <HasInvitation>1</HasInvitation>
+          <ActionCounter>None</ActionCounter>
+        </DiplomacyAction>
+        <EmploymentContractAction>
+          <Resources />
+          <EmploymentContractPercentage>
+            <EarlyGame>100</EarlyGame>
+            <MidGame>150</MidGame>
+            <LateGame>200</LateGame>
+            <EndGame>300</EndGame>
+          </EmploymentContractPercentage>
+        </EmploymentContractAction>
+        <IncreaseTradeRateAction />
+        <InvestmentAction>
+          <InvestmentMoney />
+        </InvestmentAction>
+        <MoneyLenderAction />
+        <PlayerFlagAction>
+          <PlayerFlag>WarImpossible</PlayerFlag>
+          <SetFlagForBothPlayers>1</SetFlagForBothPlayers>
+        </PlayerFlagAction>
+        <SaleAction />
+        <SpecialSupplyAction />
+        <StartQuestAction />
+        <SupportFleetAction>
+          <SupportFleetPerLevel />
+        </SupportFleetAction>
+      </DefaultValues>
+    </Group>
+    <Group>
+      <Name>Item</Name>
+      <Property>
+        <Name>ActivationCost</Name>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ActivationResourceCost</Name>
+          <Creator>koenig</Creator>
+          <DataSet>PlayerResource</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ActivationPrecondition</Name>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>Areas</Name>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>String</DataType>
+              <Name>Area</Name>
+              <Description>Defines a specific area the object using this item has to be in</Description>
+              <Creator>koenig</Creator>
+              <Set>Area</Set>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>UsableWorldlayer</Name>
+          <Description>Defines in which world layers this item can be used</Description>
+          <Creator>koenig</Creator>
+          <DataSet>WorldLayer</DataSet>
+          <FunctionName>IsUsableWorldlayer</FunctionName>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>RequiredIntermediateLevel</Name>
+          <Creator>koenig</Creator>
+          <DataSet>IntermediateLevel</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>MissingRequirementPreText</Name>
+          <Description>this text will be displayed in front of any missing preconditions that the player has not reached</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>BlackTideCleanUp</Name>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>EcoCleanupPerSecond</Name>
+          <Description>säubert einen Teil des durch die BlackTide verursachten EcoEffects</Description>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ConstructionPrecondition</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>NeedsIntermediateLevel</Name>
+          <Creator>koenig</Creator>
+          <DataSet>IntermediateLevel</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>NeedsGUID</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DeactivateBlackSmoker</Name>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>BlackSmokerResult</Name>
+          <Creator>koenig</Creator>
+          <DataSet>BlackSmokerResult</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>DiplomacyBoost</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>DiplomacyPoints</Name>
+          <Description>amount of diplomacy points the player gets for each player in the world</Description>
+          <Creator>mais</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Document</Name>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>DocumentText</Name>
+          <Description>Text, der im Dokument angezeigt wird</Description>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>Item</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>UtilizationCount</Name>
+          <Description>Anzahl, wie oft ein Item genutzt werden kann. Gilt nur für aktive Items. 0 steht für unendliche Nutzung.</Description>
+          <Min>-1</Min>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>EffectDuration</Name>
+          <Description>Dauer des Item-Effekts. Gilt nur für aktive Items</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>Cooldown</Name>
+          <Description>Zeit, in welcher das Item nach einer Nutzung nicht genutzt werden kann. Gilt nur für aktive Items</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>Passive</Name>
+          <Description>TRUE: Passives Item = Upgrade FALSE: Aktives Items = Aktion, Boost</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemTarget</Name>
+          <Description>Zieltyp des Items. Object: Die Wirkung ist auf das entsprechende Objekt beschränkt (bei SchiffsItems). Island: Die Wirkung ist inselweit. Global: Die Wirkung ist global.</Description>
+          <IsProValue>1</IsProValue>
+          <DataSet>ItemTarget</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>IsQuestItem</Name>
+          <Description>Einstellung, ob das Item Questgegegnstand ist und für eine Quest abgegeben werden muss, um diese zu erfüllen</Description>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>RequiresUserConfirmationOnUse</Name>
+          <Description>Einstellung, ob abgefragt wird bevor das Item aktiviert werden kann.</Description>
+          <Category>ItemUI</Category>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Quest</DataType>
+          <Name>StartQuestOnItemReceive</Name>
+          <Description>Welche Quest soll gestartet werden, wenn der Spieler dieses Item erhält</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>QuestStartDelay</Name>
+          <Description>Die Zeitverzögerung zwischen Erhalt des Items und Start der zugehörigen Quest</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>RequireUserConfirmationOnRemove</Name>
+          <Description>Einstellung, ob vor dem Entsockeln des Items abgefragt wird.</Description>
+          <Category>ItemUI</Category>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>DestroyItemOnRemove</Name>
+          <Description>Einstellung, ob das Item nach dem Entfernen vom Sockel zerstört wird</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemTooltip</Name>
+          <Description>Aus TAGs bestehender Item Tooltip</Description>
+          <Category>ItemUI</Category>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemType</Name>
+          <Description>Typ des Items. Typen können unter GUI Balancing definiert werden. Jedem Typ kann ein separater Text zugewiesen werden, der dann automatisch im Tooltip erscheint.</Description>
+          <DataSet>ItemType</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemQuality</Name>
+          <Description>Qualität des entsprechenden Items bzw. Einfärbung des Itemnamens</Description>
+          <Category>ItemUI</Category>
+          <DataSet>ItemQuality</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>OnCooldownDuringEffectDuration</Name>
+          <Description>Der Cooldown vom Item laeuft immer so lange wie die Wirkung</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowEffectIcon</Name>
+          <Description>Bestimmt ob an den betroffenen Objekten im Interface ein Effekt Symbol angezeigt werden soll</Description>
+          <Category>ItemUI</Category>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>SpawnFlotsamGUID</Name>
+          <Description>Welches Object wird erzeugt, wenn dieses Item über Bord geworfen wird</Description>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemDroppedMessage</Name>
+          <Description>Nachricht die ausgelöst wird wenn das Item als Treibgut im Wasser landet(egal wie)</Description>
+          <Category>ItemUI</Category>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ShowCooldownInTooltip</Name>
+          <Description>Soll der Cooldown im Tooltip angezeigt werden</Description>
+          <Category>ItemUI</Category>
+          <IsProValue>1</IsProValue>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>ItemRemoveConditions</Name>
+          <Description>Bei welchen Spielbedingungen das Item nicht im Spiel vorkommen soll</Description>
+          <IsProValue>1</IsProValue>
+          <ShowInTextView>0</ShowInTextView>
+          <DataSet>ItemRemoveCondition</DataSet>
+          <FunctionName>HasRemoveCondition</FunctionName>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemDescriptionText</Name>
+          <Description>A description which is displayed in the item tooltip, explaining to the player what this type of item does</Description>
+          <Category>ItemUI</Category>
+          <Creator>koenig</Creator>
+          <Feature>Items</Feature>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemTypeText</Name>
+          <Description>a text displayed in the item tooltip (after the item name) which can explain to the player which category this item belongs to (eg a 'military upgrade' or 'production upgrade')</Description>
+          <Category>ItemUI</Category>
+          <Creator>koenig</Creator>
+          <Feature>Items</Feature>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ItemRemovable</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ItemFaction</Name>
+          <Description>Determines the type of socket this item can fit in</Description>
+          <Creator>koenig</Creator>
+          <Feature>Items</Feature>
+          <DataSet>ItemFaction</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>QuestGroup</DataType>
+          <Name>ItemAllocationCategory</Name>
+          <Description>Determines which type of object/socket this item can be placed in (eg in a warehouse or ship or just submarines)</Description>
+          <Creator>koenig</Creator>
+          <AssetConfig>AssetEditor</AssetConfig>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemTooltipConstruction</Name>
+          <Description>item tooltip which will be displayed in laboratory and academy</Description>
+          <Category>ItemUI</Category>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>MetaGameTransferable</Name>
+          <Description>Defines if an item may be loaded onto the ark and saved in the player profile</Description>
+          <Creator>stauss</Creator>
+          <DataSet>MetaGameTransferablePermission</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>IsNegativeEffect</Name>
+          <Description>true = the effect icon will be colored red, otherwise green</Description>
+          <Category>ItemUI</Category>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>StartCooldownOnUse</Name>
+          <Description>True = the cooldown will start immediately on item activation, this should be the default behaviour. False = special item logic has to start the cooldown at its appropriate time</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>IncreasedPlayerCounter</Name>
+          <Description>player counter increased when the item was used</Description>
+          <Creator>mais</Creator>
+          <DataSet>PlayerCounter</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>TechnologyCategory</Name>
+          <Description>the category of a technique - used in the academy menu</Description>
+          <Category>ItemUI</Category>
+          <Creator>stauss</Creator>
+          <DataSet>ItemTechnologyCategory</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemScienceTooltip</Name>
+          <Description>tooltip for science items</Description>
+          <Category>ItemUI</Category>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ItemBuffIconDescriptionText</Name>
+          <Description>A text which is only displayed in the buff icons (upgrades) created by this item</Description>
+          <Category>ItemUI</Category>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>IsScienceItem</Name>
+          <Description>science items differ in the appereance from normal items</Description>
+          <Category>ItemUI</Category>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>ScienceItemType</Name>
+          <Category>ItemUI</Category>
+          <Creator>stauss</Creator>
+          <DataSet>ScienceItemType</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>AcademyEffectText</Name>
+          <Description>if this text is set, it will be displayed instead of the default item effect text ind the academy2 menu</Description>
+          <Category>ItemUI</Category>
+          <Creator>stauss</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ItemBuildCost</Name>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ItemResourceCost</Name>
+          <Creator>koenig</Creator>
+          <DataSet>PlayerResource</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>ItemProductCost</Name>
+          <Creator>koenig</Creator>
+          <DataSet>Product</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>ConstructionTime</Name>
+          <Description>The time it takes to create this item or formula</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>ItemCost</Name>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Item</Name>
+              <Creator>koenig</Creator>
+              <NeededProperty>Item</NeededProperty>
+            </ValueDefinition>
+            <ValueDefinition>
+              <DataType>Integer</DataType>
+              <Name>Amount</Name>
+              <Creator>koenig</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>DisasterProbability</Name>
+          <Description>production of this Item increases the probability of an academy disaster</Description>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Feature</DataType>
+          <Name>DiscoveryPool</Name>
+          <Creator>koenig</Creator>
+          <NeededProperty>ItemDiscoveryPool</NeededProperty>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>DiscoveryProbability</Name>
+          <Description>The chance (in %) to discover a new item after creating this item, this chance will be added to the base chance of the building (academy) this item is created in</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ItemDiscoveryPool</Name>
+        <ValueDefinition>
+          <DataType>Vector</DataType>
+          <Name>ItemPool</Name>
+          <Creator>koenig</Creator>
+          <Items>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Item</Name>
+              <Creator>koenig</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ItemFormula</Name>
+        <WikiPage>Formulas</WikiPage>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>Items</Name>
+          <Creator>koenig</Creator>
+          <DataSet>FormulaVariation</DataSet>
+          <Items>
+            <ValueDefinition>
+              <DataType>Feature</DataType>
+              <Name>Item</Name>
+              <Description>The item which should be produced by this formula</Description>
+              <Creator>koenig</Creator>
+            </ValueDefinition>
+          </Items>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>RepairBuilding</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>repairPerMinute</Name>
+          <Creator>Joachim</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>ResearchDummyItem</Name>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>ResearchDummy</Name>
+          <Description>If True, this item will represent only a 'research' option and no actual item will be created. On construction, only the chance to discover new items will be triggered.</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>LicenseAmount</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SeaChart</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>IslandCount</Name>
+          <Description>How many islands should be discovered by this item. 0 = the whole world</Description>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SeaMine</Name>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>SeaMineObject</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>RealInt</DataType>
+          <Name>TriggerRadius</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>UnderwaterSeaMineObject</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SpecialActionAreaOfEffect</Name>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>AreaOfEffectRadius</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>AutomatedActivation</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>AllocationRange</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Flags</DataType>
+          <Name>TargetLayers</Name>
+          <Creator>roesch</Creator>
+          <DataSet>WorldLayer</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Integer</DataType>
+          <Name>Damage</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>Time</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>EffectGUID</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Choice</DataType>
+          <Name>EffectType</Name>
+          <Creator>roesch</Creator>
+          <DataSet>AOEVisualType</DataSet>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>EMP</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>ImpactEffect</Name>
+          <Creator>Stony</Creator>
+          <Filter>Alle Dateien(*.*)|*.*</Filter>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Text</DataType>
+          <Name>ImpactSound</Name>
+          <Creator>Stony</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>String</DataType>
+          <Name>EffectDummy</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>FileName</DataType>
+          <Name>CursorCFG</Name>
+          <Description>Cursor fuer diese Special Action</Description>
+          <Creator>roesch</Creator>
+          <Filter>Alle Dateien(*.*)|*.*</Filter>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>DamageDelay</Name>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Boolean</DataType>
+          <Name>IsAffectedByMissileDefense</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Array</DataType>
+          <Name>RadiusColor</Name>
+          <Creator>roesch</Creator>
+          <DataSet>RGBColor</DataSet>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SpecialActionDrone</Name>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>DroneGUID</Name>
+          <Description>GUID der Drohne, die gespawnt werden soll</Description>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>DroneDuration</Name>
+          <Description>Lebensdauer der Drone</Description>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>SpecialActionTakeover</Name>
+        <ValueDefinition>
+          <DataType>Time</DataType>
+          <Name>TakeoverTime</Name>
+          <Description>Beschreibung wie lange die Uebernahme dauert</Description>
+          <Creator>roesch</Creator>
+        </ValueDefinition>
+      </Property>
+      <Property>
+        <Name>UseItemInArea</Name>
+        <ValueDefinition>
+          <DataType>Asset</DataType>
+          <Name>InfoLayerIcon</Name>
+          <Creator>koenig</Creator>
+        </ValueDefinition>
+      </Property>
+      <DefaultContainerValues>
+        <ItemBuildCost>
+          <ItemCost>
+            <Item>0</Item>
+          </ItemCost>
+        </ItemBuildCost>
+        <ItemDiscoveryPool>
+          <ItemPool>
+            <Item>0</Item>
+          </ItemPool>
+        </ItemDiscoveryPool>
+        <ItemFormula>
+          <Items>
+            <Item>0</Item>
+          </Items>
+        </ItemFormula>
+      </DefaultContainerValues>
+      <DefaultValues>
+        <ActivationCost>
+          <ActivationResourceCost />
+        </ActivationCost>
+        <ActivationPrecondition>
+          <Areas />
+          <UsableWorldlayer>UnderWater;Water;Air</UsableWorldlayer>
+          <RequiredIntermediateLevel>NoIntermediate</RequiredIntermediateLevel>
+          <MissingRequirementPreText>1206408</MissingRequirementPreText>
+        </ActivationPrecondition>
+        <BlackTideCleanUp />
+        <ConstructionPrecondition>
+          <NeedsIntermediateLevel>NoIntermediate</NeedsIntermediateLevel>
+          <NeedsGUID>0</NeedsGUID>
+        </ConstructionPrecondition>
+        <DeactivateBlackSmoker>
+          <BlackSmokerResult>Copper</BlackSmokerResult>
+        </DeactivateBlackSmoker>
+        <DiplomacyBoost />
+        <Document>
+          <DocumentText>0</DocumentText>
+        </Document>
+        <Item>
+          <Passive>1</Passive>
+          <ItemTarget>None</ItemTarget>
+          <StartQuestOnItemReceive>0</StartQuestOnItemReceive>
+          <ItemTooltip>1206058</ItemTooltip>
+          <ItemType>None</ItemType>
+          <ItemQuality>A</ItemQuality>
+          <ShowEffectIcon>1</ShowEffectIcon>
+          <SpawnFlotsamGUID>50000</SpawnFlotsamGUID>
+          <ItemDroppedMessage>0</ItemDroppedMessage>
+          <ShowCooldownInTooltip>1</ShowCooldownInTooltip>
+          <ItemRemoveConditions />
+          <ItemDescriptionText>0</ItemDescriptionText>
+          <ItemTypeText>0</ItemTypeText>
+          <ItemRemovable>1</ItemRemovable>
+          <ItemFaction>Other</ItemFaction>
+          <ItemTooltipConstruction>1206087</ItemTooltipConstruction>
+          <MetaGameTransferable>Always</MetaGameTransferable>
+          <StartCooldownOnUse>1</StartCooldownOnUse>
+          <IncreasedPlayerCounter>None</IncreasedPlayerCounter>
+          <TechnologyCategory>Research</TechnologyCategory>
+          <ItemScienceTooltip>0</ItemScienceTooltip>
+          <ItemBuffIconDescriptionText>0</ItemBuffIconDescriptionText>
+          <ScienceItemType>None</ScienceItemType>
+          <AcademyEffectText>0</AcademyEffectText>
+        </Item>
+        <ItemBuildCost>
+          <ItemResourceCost />
+          <ItemProductCost />
+          <ItemCost />
+          <DiscoveryPool>0</DiscoveryPool>
+        </ItemBuildCost>
+        <ItemDiscoveryPool>
+          <ItemPool />
+        </ItemDiscoveryPool>
+        <ItemFormula>
+          <Items />
+        </ItemFormula>
+        <RepairBuilding />
+        <ResearchDummyItem />
+        <SeaChart />
+        <SeaMine>
+          <SeaMineObject>0</SeaMineObject>
+          <UnderwaterSeaMineObject>0</UnderwaterSeaMineObject>
+        </SeaMine>
+        <SpecialActionAreaOfEffect>
+          <AreaOfEffectRadius>10</AreaOfEffectRadius>
+          <AllocationRange>15</AllocationRange>
+          <TargetLayers>UnderWater;Water;Air</TargetLayers>
+          <Damage>1000</Damage>
+          <EffectGUID>0</EffectGUID>
+          <EffectType>None</EffectType>
+          <ImpactSound>0</ImpactSound>
+          <RadiusColor>
+            <R>240</R>
+            <A>100</A>
+          </RadiusColor>
+        </SpecialActionAreaOfEffect>
+        <SpecialActionDrone>
+          <DroneGUID>1141</DroneGUID>
+          <DroneDuration>60000</DroneDuration>
+        </SpecialActionDrone>
+        <SpecialActionTakeover />
+        <UseItemInArea>
+          <InfoLayerIcon>0</InfoLayerIcon>
+        </UseItemInArea>
+      </DefaultValues>
+    </Group>
+  </Groups>
+  <DefaultValues />
+</Properties>

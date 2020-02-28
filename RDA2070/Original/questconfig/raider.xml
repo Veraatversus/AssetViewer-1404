@@ -1,0 +1,183 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>LoseConditions</Name>
+      <GUID>-2079658715</GUID>
+      <GroupType>2</GroupType>
+      <Assets>
+        <Asset>
+          <Template>ThirdPartyReactionQuest</Template>
+          <Values>
+            <Quest>
+              <QuestType>LoseQuest</QuestType>
+              <InvitationNeeded>0</InvitationNeeded>
+              <AllowedPlayerTypes>Computer</AllowedPlayerTypes>
+              <SpecialFlags>HideInQuestLog</SpecialFlags>
+              <OnlyOnePlayerMaySolveQuest>0</OnlyOnePlayerMaySolveQuest>
+            </Quest>
+            <Standard>
+              <GUID>4065500</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2011-04-06 18:27</CreationTime>
+              <LastChangeUser>mais</LastChangeUser>
+              <LastChangeTime>2011-06-16 14:50</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions>
+              <ObjectsToWin>
+                <Item>
+                  <Object>20064</Object>
+                </Item>
+              </ObjectsToWin>
+            </WinConditions>
+            <QuestMessages>
+              <UseDefaultMessages>0</UseDefaultMessages>
+            </QuestMessages>
+            <QuestText />
+            <Execution />
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <QuestToggle />
+            <ThirdPartyReaction />
+            <Preconditions>
+              <NeededObjects>
+                <Item>
+                  <Object>20064</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+            </Preconditions>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4175562</FollowUpQuest>
+                  <FollowUpQuestTime>15000</FollowUpQuestTime>
+                  <StartQuestForAllPlayers>1</StartQuestForAllPlayers>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ThirdPartyReactionQuest</Template>
+          <Values>
+            <Quest>
+              <QuestType>LoseQuest</QuestType>
+              <InvitationNeeded>0</InvitationNeeded>
+              <AllowedPlayerTypes>Computer</AllowedPlayerTypes>
+              <SpecialFlags>HideInQuestLog</SpecialFlags>
+              <OnlyOnePlayerMaySolveQuest>0</OnlyOnePlayerMaySolveQuest>
+            </Quest>
+            <Standard>
+              <GUID>4065507</GUID>
+              <Creator>mais</Creator>
+              <CreationTime>2011-10-06 10:09</CreationTime>
+              <LastChangeUser>mais</LastChangeUser>
+              <LastChangeTime>2011-10-06 10:10</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions>
+              <ObjectsToWin>
+                <Item>
+                  <Object>20153</Object>
+                </Item>
+              </ObjectsToWin>
+            </WinConditions>
+            <QuestMessages>
+              <UseDefaultMessages>0</UseDefaultMessages>
+            </QuestMessages>
+            <QuestText />
+            <Execution />
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <QuestToggle />
+            <ThirdPartyReaction />
+            <Preconditions>
+              <NeededObjects>
+                <Item>
+                  <Object>20153</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+            </Preconditions>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4175562</FollowUpQuest>
+                  <FollowUpQuestTime>15000</FollowUpQuestTime>
+                  <StartQuestForAllPlayers>1</StartQuestForAllPlayers>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ThirdPartyReactionQuest</Template>
+          <Values>
+            <Quest>
+              <QuestType>LoseQuest</QuestType>
+              <InvitationNeeded>0</InvitationNeeded>
+              <AllowedPlayerTypes>Computer</AllowedPlayerTypes>
+              <SpecialFlags>HideInQuestLog</SpecialFlags>
+              <OnlyOnePlayerMaySolveQuest>0</OnlyOnePlayerMaySolveQuest>
+            </Quest>
+            <Standard>
+              <GUID>4065508</GUID>
+              <Creator>mais</Creator>
+              <CreationTime>2011-10-06 10:10</CreationTime>
+              <LastChangeUser>mais</LastChangeUser>
+              <LastChangeTime>2011-10-06 10:10</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions>
+              <ObjectsToWin>
+                <Item>
+                  <Object>20154</Object>
+                </Item>
+              </ObjectsToWin>
+            </WinConditions>
+            <QuestMessages>
+              <UseDefaultMessages>0</UseDefaultMessages>
+            </QuestMessages>
+            <QuestText />
+            <Execution />
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <QuestToggle />
+            <ThirdPartyReaction />
+            <Preconditions>
+              <NeededObjects>
+                <Item>
+                  <Object>20154</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+            </Preconditions>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4175562</FollowUpQuest>
+                  <FollowUpQuestTime>15000</FollowUpQuestTime>
+                  <StartQuestForAllPlayers>1</StartQuestForAllPlayers>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>RaiderQuest</Name>
+    </Group>
+  </Groups>
+</Group>

@@ -1,0 +1,5687 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Status Quests</Name>
+      <GUID>-180201654</GUID>
+      <GroupType>8</GroupType>
+      <Groups>
+        <Group>
+          <Name>PeaceToWar</Name>
+          <GUID>1687247275</GUID>
+          <GroupType>8</GroupType>
+          <Assets>
+            <Asset>
+              <Template>DeclareWarQuest</Template>
+              <Values>
+                <Quest>
+                  <QuestType>StatusQuest</QuestType>
+                  <InvitationNeeded>0</InvitationNeeded>
+                  <QuestBlockTime>8100000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Standard>
+                  <GUID>4075682</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-18 15:40</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2012-02-17 10:27</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time>
+                  <MaxTime>1800000</MaxTime>
+                </Time>
+                <WinConditions>
+                  <ObjectsToWin>
+                    <Item>
+                      <Object>10050</Object>
+                      <Max>3</Max>
+                    </Item>
+                  </ObjectsToWin>
+                  <WinConditionDuration>900000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages />
+                <QuestText>
+                  <QuestInfoText>4000038</QuestInfoText>
+                  <QuestStoryText>4075683</QuestStoryText>
+                  <QuestCategoryText>1206512</QuestCategoryText>
+                  <EndInfoText>4000040</EndInfoText>
+                </QuestText>
+                <Execution />
+                <Reward />
+                <QuestToggle />
+                <ThirdPartyReaction />
+                <Preconditions>
+                  <MinPlayerLevel>MidGame</MinPlayerLevel>
+                  <NeededObjects>
+                    <Item>
+                      <Object>10050</Object>
+                      <Min>4</Min>
+                    </Item>
+                  </NeededObjects>
+                  <PreconditionCheckDuration>120000</PreconditionCheckDuration>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Max>100</Max>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>EcoBalanceQuest</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <MinPlayerLevel>MidGame</MinPlayerLevel>
+                  <TreatyState>Peace</TreatyState>
+                  <PreconditionCheckDuration>60000</PreconditionCheckDuration>
+                  <NeededPlayerFlags>
+                    <Item />
+                    <Item>
+                      <Flag>NotAttackable</Flag>
+                    </Item>
+                  </NeededPlayerFlags>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Max>100</Max>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+                <Quest>
+                  <QuestType>StatusQuest</QuestType>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward />
+                <Standard>
+                  <GUID>4075718</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-09-26 15:20</CreationTime>
+                  <LastChangeUser>mais</LastChangeUser>
+                  <LastChangeTime>2012-02-17 10:27</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time>
+                  <MaxTime>1800000</MaxTime>
+                </Time>
+                <WinConditions>
+                  <WinConditionDuration>900000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages>
+                  <QuestStartTrigger>STATUSQUEST_STARTED</QuestStartTrigger>
+                  <QuestFinishedTrigger>STATUSQUEST_FINISHED</QuestFinishedTrigger>
+                  <QuestFailedTrigger>STATUSQUEST_FAILED</QuestFailedTrigger>
+                  <QuestInvitationTrigger>STATUSQUEST_INVITATION_STARTED</QuestInvitationTrigger>
+                </QuestMessages>
+                <QuestText>
+                  <QuestInfoText>4000126</QuestInfoText>
+                  <QuestStoryText>4075719</QuestStoryText>
+                  <QuestCategoryText>1206512</QuestCategoryText>
+                  <EndInfoText>4000040</EndInfoText>
+                  <ThirdPartyInfoText>0</ThirdPartyInfoText>
+                  <QuestHeader>4003022</QuestHeader>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <IslandQuest>
+                  <IslandPreconditions>
+                    <Item>
+                      <Counter>Buildings</Counter>
+                      <Min>1</Min>
+                    </Item>
+                    <Item>
+                      <Min>-999</Min>
+                      <Max>-75</Max>
+                    </Item>
+                  </IslandPreconditions>
+                  <IslandWinConditions>
+                    <Item>
+                      <Min>50</Min>
+                      <RelativeToStartValue>1</RelativeToStartValue>
+                    </Item>
+                  </IslandWinConditions>
+                  <AllowedIslandTypes>Normal</AllowedIslandTypes>
+                  <SenderNeedsBuildingsOnIsland>1</SenderNeedsBuildingsOnIsland>
+                </IslandQuest>
+                <DecisionQuest />
+                <ThirdPartyReaction>
+                  <Reactions>
+                    <Failed>
+                      <Reaction>DeclareWar</Reaction>
+                    </Failed>
+                  </Reactions>
+                </ThirdPartyReaction>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>WarToPeace</Name>
+          <GUID>1826907932</GUID>
+          <GroupType>8</GroupType>
+          <Assets>
+            <Asset>
+              <Template>EcoBalanceQuest</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <MinPlayerLevel>MidGame</MinPlayerLevel>
+                  <TreatyState>War</TreatyState>
+                  <PreconditionCheckDuration>120000</PreconditionCheckDuration>
+                  <NeededPlayerFlags>
+                    <Item />
+                    <Item>
+                      <Flag>NotAttackable</Flag>
+                    </Item>
+                  </NeededPlayerFlags>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Min>90</Min>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+                <Quest>
+                  <QuestType>PeaceQuest</QuestType>
+                  <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward />
+                <Standard>
+                  <GUID>4075684</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-19 10:34</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-21 15:17</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time>
+                  <MaxTime>1800000</MaxTime>
+                </Time>
+                <WinConditions>
+                  <WinConditionDuration>180000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages>
+                  <QuestStartTrigger>STATUSQUEST_STARTED</QuestStartTrigger>
+                  <QuestFinishedTrigger>STATUSQUEST_FINISHED</QuestFinishedTrigger>
+                  <QuestFailedTrigger>STATUSQUEST_FAILED</QuestFailedTrigger>
+                  <QuestInvitationTrigger>STATUSQUEST_INVITATION_STARTED</QuestInvitationTrigger>
+                </QuestMessages>
+                <QuestText>
+                  <QuestInfoText>4000126</QuestInfoText>
+                  <QuestStoryText>4075685</QuestStoryText>
+                  <QuestCategoryText>1206535</QuestCategoryText>
+                  <EndInfoText>4000040</EndInfoText>
+                  <ThirdPartyInfoText>0</ThirdPartyInfoText>
+                  <QuestHeader>4003023</QuestHeader>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <IslandQuest>
+                  <IslandPreconditions>
+                    <Item>
+                      <Min>-999</Min>
+                      <Max>-100</Max>
+                    </Item>
+                  </IslandPreconditions>
+                  <IslandWinConditions>
+                    <Item>
+                      <Min>50</Min>
+                      <RelativeToStartValue>1</RelativeToStartValue>
+                    </Item>
+                  </IslandWinConditions>
+                  <AllowedIslandTypes>Normal</AllowedIslandTypes>
+                  <IslandBuildingPreConditions>
+                    <Item>
+                      <BuildingType>Kontor</BuildingType>
+                      <Min>1</Min>
+                    </Item>
+                    <Item>
+                      <BuildingType>Residence</BuildingType>
+                      <Min>1</Min>
+                    </Item>
+                  </IslandBuildingPreConditions>
+                </IslandQuest>
+                <DecisionQuest />
+                <ThirdPartyReaction>
+                  <Reactions>
+                    <Solved>
+                      <Reaction>SetPeace</Reaction>
+                    </Solved>
+                  </Reactions>
+                </ThirdPartyReaction>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>OfferPeaceQuest</Template>
+              <Values>
+                <Quest>
+                  <QuestType>PeaceQuest</QuestType>
+                  <InvitationNeeded>0</InvitationNeeded>
+                  <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Standard>
+                  <GUID>4075686</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-19 11:18</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-21 15:17</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time>
+                  <MaxTime>1800000</MaxTime>
+                </Time>
+                <WinConditions>
+                  <ObjectsToWin>
+                    <Item>
+                      <Object>10029</Object>
+                      <Min>8</Min>
+                    </Item>
+                  </ObjectsToWin>
+                  <WinConditionDuration>300000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages>
+                  <QuestFailedTrigger>STATUSQUEST_FAILED</QuestFailedTrigger>
+                </QuestMessages>
+                <QuestText>
+                  <QuestInfoText>4002010</QuestInfoText>
+                  <QuestStoryText>4075687</QuestStoryText>
+                  <QuestCategoryText>1206535</QuestCategoryText>
+                  <EndInfoText>4000040</EndInfoText>
+                </QuestText>
+                <Execution />
+                <Reward />
+                <QuestToggle />
+                <ThirdPartyReaction />
+                <Preconditions>
+                  <MinPlayerLevel>MidGame</MinPlayerLevel>
+                  <NeededObjects>
+                    <Item>
+                      <Object>10025</Object>
+                      <Min>1</Min>
+                    </Item>
+                    <Item>
+                      <Object>10029</Object>
+                      <Max>7</Max>
+                    </Item>
+                  </NeededObjects>
+                  <AvailableAssets>
+                    <Item>
+                      <Asset>10029</Asset>
+                    </Item>
+                  </AvailableAssets>
+                  <PreconditionCheckDuration>720000</PreconditionCheckDuration>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Min>90</Min>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>RelationQuest_Friend</Template>
+              <Values>
+                <Standard>
+                  <GUID>4075688</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-19 11:49</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-21 15:17</LastChangeTime>
+                </Standard>
+                <Quest>
+                  <QuestType>PeaceQuest</QuestType>
+                  <InvitationNeeded>0</InvitationNeeded>
+                  <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Preconditions>
+                  <MinPlayerLevel>LateGame</MinPlayerLevel>
+                  <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+                  <TreatyState>War</TreatyState>
+                  <PreconditionCheckDuration>900000</PreconditionCheckDuration>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Min>80</Min>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+                <ThirdPartyQuest>
+                  <PreconditionStates>War</PreconditionStates>
+                  <WinConditionStates>Peace</WinConditionStates>
+                  <ThirdParties>
+                    <Item>
+                      <Profile>2330020</Profile>
+                    </Item>
+                  </ThirdParties>
+                </ThirdPartyQuest>
+                <Reward />
+                <Time>
+                  <MaxTime>1800000</MaxTime>
+                </Time>
+                <FollowUpQuest />
+                <QuestMessages>
+                  <QuestStartTrigger>STATUSQUEST_STARTED</QuestStartTrigger>
+                  <QuestFinishedTrigger>STATUSQUEST_FINISHED</QuestFinishedTrigger>
+                  <QuestFailedTrigger>STATUSQUEST_FAILED</QuestFailedTrigger>
+                  <QuestInvitationTrigger>STATUSQUEST_INVITATION_STARTED</QuestInvitationTrigger>
+                </QuestMessages>
+                <QuestText>
+                  <QuestInfoText>4003010</QuestInfoText>
+                  <QuestStoryText>4075689</QuestStoryText>
+                  <QuestCategoryText>1206535</QuestCategoryText>
+                  <QuestHeader>4003023</QuestHeader>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <WinConditions />
+                <GetWares />
+                <ThirdPartyReaction>
+                  <Reactions>
+                    <Solved>
+                      <Reaction>SetPeace</Reaction>
+                    </Solved>
+                  </Reactions>
+                </ThirdPartyReaction>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>IslandQuest</Template>
+              <Values>
+                <FollowUpQuest />
+                <Preconditions>
+                  <MinPlayerLevel>LateGame</MinPlayerLevel>
+                  <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+                  <TreatyState>War</TreatyState>
+                  <PreconditionCheckDuration>900000</PreconditionCheckDuration>
+                  <NeededPlayerFlags>
+                    <Item />
+                    <Item>
+                      <Flag>NotAttackable</Flag>
+                    </Item>
+                  </NeededPlayerFlags>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Min>90</Min>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+                <Quest>
+                  <QuestType>PeaceQuest</QuestType>
+                  <Enabled>0</Enabled>
+                  <InvitationNeeded>0</InvitationNeeded>
+                  <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward />
+                <Standard>
+                  <GUID>4075692</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-19 13:10</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-21 14:29</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time>
+                  <MaxTime>1800000</MaxTime>
+                </Time>
+                <WinConditions />
+                <QuestMessages>
+                  <QuestStartTrigger>STATUSQUEST_STARTED</QuestStartTrigger>
+                  <QuestFinishedTrigger>STATUSQUEST_FINISHED</QuestFinishedTrigger>
+                  <QuestFailedTrigger>STATUSQUEST_FAILED</QuestFailedTrigger>
+                  <QuestInvitationTrigger>STATUSQUEST_INVITATION_STARTED</QuestInvitationTrigger>
+                </QuestMessages>
+                <QuestText>
+                  <QuestStoryText>4075693</QuestStoryText>
+                  <QuestCategoryText>1206535</QuestCategoryText>
+                  <EndInfoText>4000040</EndInfoText>
+                  <ThirdPartyInfoText>0</ThirdPartyInfoText>
+                  <QuestHeader>4003023</QuestHeader>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <IslandQuest>
+                  <IslandPreconditions>
+                    <Item>
+                      <Min>-999</Min>
+                      <Max>5</Max>
+                    </Item>
+                  </IslandPreconditions>
+                  <IslandWinConditions>
+                    <Item>
+                      <Min>-5</Min>
+                    </Item>
+                  </IslandWinConditions>
+                  <AllowedIslandTypes>Normal</AllowedIslandTypes>
+                  <UseThirdPartyPlayer>1</UseThirdPartyPlayer>
+                </IslandQuest>
+                <DecisionQuest />
+                <SelectObjectQuest />
+                <ThirdPartyReaction>
+                  <Reactions>
+                    <Solved>
+                      <Reaction>SetPeace</Reaction>
+                    </Solved>
+                  </Reactions>
+                </ThirdPartyReaction>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>OfferPeaceQuest</Template>
+              <Values>
+                <Quest>
+                  <QuestType>PeaceQuest</QuestType>
+                  <InvitationNeeded>0</InvitationNeeded>
+                  <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Standard>
+                  <GUID>4075695</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-21 14:14</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-21 14:29</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time>
+                  <MaxTime>1800000</MaxTime>
+                </Time>
+                <WinConditions>
+                  <PlayerCounterToWin>
+                    <Item>
+                      <Counter>ColonizedIslands</Counter>
+                      <Max>6</Max>
+                    </Item>
+                  </PlayerCounterToWin>
+                  <WinConditionDuration>600000</WinConditionDuration>
+                </WinConditions>
+                <QuestMessages>
+                  <QuestFailedTrigger>STATUSQUEST_FAILED</QuestFailedTrigger>
+                </QuestMessages>
+                <QuestText>
+                  <QuestInfoText>4003016</QuestInfoText>
+                  <QuestStoryText>4075696</QuestStoryText>
+                  <QuestCategoryText>1206535</QuestCategoryText>
+                  <EndInfoText>4000040</EndInfoText>
+                </QuestText>
+                <Execution />
+                <Reward />
+                <QuestToggle />
+                <ThirdPartyReaction />
+                <Preconditions>
+                  <MinPlayerLevel>MidGame</MinPlayerLevel>
+                  <PreconditionCheckDuration>180000</PreconditionCheckDuration>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>ColonizedIslands</Counter>
+                      <Min>7</Min>
+                    </Item>
+                  </PlayerCounter>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Min>100</Min>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>OfferPeaceQuest</Template>
+              <Values>
+                <Quest>
+                  <QuestType>PeaceQuest</QuestType>
+                  <InvitationNeeded>0</InvitationNeeded>
+                  <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Standard>
+                  <GUID>4075717</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-08-23 12:17</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-25 16:17</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages>
+                  <QuestFailedTrigger>STATUSQUEST_FAILED</QuestFailedTrigger>
+                </QuestMessages>
+                <QuestText />
+                <Execution />
+                <Reward />
+                <QuestToggle />
+                <ThirdPartyReaction />
+                <Preconditions>
+                  <PreconditionCheckDuration>900000</PreconditionCheckDuration>
+                  <NeededPlayerComparison>
+                    <Item>
+                      <Comparison>MilitaryStrength</Comparison>
+                      <Max>80</Max>
+                    </Item>
+                  </NeededPlayerComparison>
+                </Preconditions>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Decision Quests</Name>
+      <Groups>
+        <Group>
+          <Name>Base Quests</Name>
+          <GUID>965069466</GUID>
+          <GroupType>9</GroupType>
+          <Assets>
+            <Asset>
+              <Template>ShipAccidentQuest</Template>
+              <AddedProperties>
+                <ThirdPartyQuest />
+              </AddedProperties>
+              <Values>
+                <FollowUpQuest />
+                <GetWares>
+                  <WaresToGet>
+                    <Tools>3</Tools>
+                    <Fish>4</Fish>
+                  </WaresToGet>
+                  <SpawnedShip>20158</SpawnedShip>
+                  <ShipDamage>20</ShipDamage>
+                </GetWares>
+                <Preconditions>
+                  <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+                  <NeededObjects>
+                    <Item>
+                      <Object>10262</Object>
+                      <Min>1</Min>
+                    </Item>
+                  </NeededObjects>
+                  <ResidentsNeeded>
+                    <TotalResidents>1</TotalResidents>
+                  </ResidentsNeeded>
+                </Preconditions>
+                <Quest>
+                  <QuestType>DecisionQuest</QuestType>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward>
+                  <RewardLink>2400060</RewardLink>
+                  <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                </Reward>
+                <Standard>
+                  <GUID>4075502</GUID>
+                  <Creator>zellmann</Creator>
+                  <CreationTime>2011-04-29 17:37</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText>
+                  <QuestStoryText>4075503</QuestStoryText>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <SelectObjectQuest />
+                <ThirdPartyQuest>
+                  <PreconditionStates>Peace</PreconditionStates>
+                  <ThirdParties>
+                    <Item>
+                      <Profile>2330023</Profile>
+                    </Item>
+                  </ThirdParties>
+                </ThirdPartyQuest>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>EscortShipQuest</Template>
+              <AddedProperties>
+                <ThirdPartyQuest />
+              </AddedProperties>
+              <Values>
+                <EscortShip>
+                  <AttackingShip>20039</AttackingShip>
+                  <AttackersPerShip>2</AttackersPerShip>
+                </EscortShip>
+                <FollowUpQuest />
+                <Preconditions>
+                  <MinPlayerLevel>LateGame</MinPlayerLevel>
+                  <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+                  <PlayerCounter>
+                    <Item>
+                      <Counter>WarVehicles</Counter>
+                      <Min>3</Min>
+                    </Item>
+                  </PlayerCounter>
+                </Preconditions>
+                <Quest>
+                  <QuestType>DecisionQuest</QuestType>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                </Quest>
+                <Reward>
+                  <RewardLink>2400060</RewardLink>
+                  <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                </Reward>
+                <Standard>
+                  <GUID>4075500</GUID>
+                  <Creator>zellmann</Creator>
+                  <CreationTime>2011-04-29 17:21</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText>
+                  <QuestStoryText>4075501</QuestStoryText>
+                </QuestText>
+                <QuestItem />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <SelectObjectQuest />
+                <ThirdPartyQuest>
+                  <PreconditionStates>Peace</PreconditionStates>
+                  <ThirdParties>
+                    <Item>
+                      <Profile>2330023</Profile>
+                    </Item>
+                  </ThirdParties>
+                </ThirdPartyQuest>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>WareQuest</Template>
+              <AddedProperties>
+                <ThirdPartyQuest />
+              </AddedProperties>
+              <Values>
+                <FollowUpQuest />
+                <GetWares>
+                  <WaresToGet>
+                    <Oil>2</Oil>
+                  </WaresToGet>
+                </GetWares>
+                <Preconditions>
+                  <MinPlayerLevel>LateGame</MinPlayerLevel>
+                  <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+                  <NeededObjects>
+                    <Item>
+                      <Object>10149</Object>
+                      <Min>1</Min>
+                    </Item>
+                  </NeededObjects>
+                </Preconditions>
+                <Quest>
+                  <QuestType>DecisionQuest</QuestType>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward>
+                  <RewardLink>2400060</RewardLink>
+                  <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                </Reward>
+                <Standard>
+                  <GUID>4075697</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-28 12:55</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText>
+                  <QuestStoryText>4075698</QuestStoryText>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <SelectObjectQuest />
+                <QuestToggle />
+                <ThirdPartyQuest>
+                  <PreconditionStates>Peace</PreconditionStates>
+                  <ThirdParties>
+                    <Item>
+                      <Profile>2330021</Profile>
+                    </Item>
+                  </ThirdParties>
+                </ThirdPartyQuest>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>WareQuest</Template>
+              <AddedProperties>
+                <ThirdPartyQuest />
+              </AddedProperties>
+              <Values>
+                <FollowUpQuest />
+                <GetWares>
+                  <WaresToGet>
+                    <BuildingModules>9</BuildingModules>
+                  </WaresToGet>
+                </GetWares>
+                <Preconditions>
+                  <MinPlayerLevel>MidGame</MinPlayerLevel>
+                  <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+                  <NeededObjects>
+                    <Item>
+                      <Object>10262</Object>
+                      <Min>1</Min>
+                    </Item>
+                  </NeededObjects>
+                </Preconditions>
+                <Quest>
+                  <QuestType>DecisionQuest</QuestType>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward>
+                  <RewardLink>2400060</RewardLink>
+                  <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                </Reward>
+                <Standard>
+                  <GUID>4075699</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-28 15:00</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText>
+                  <QuestStoryText>4075701</QuestStoryText>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <SelectObjectQuest />
+                <QuestToggle />
+                <ThirdPartyQuest>
+                  <PreconditionStates>Peace</PreconditionStates>
+                  <ThirdParties>
+                    <Item>
+                      <Profile>2330000</Profile>
+                    </Item>
+                  </ThirdParties>
+                </ThirdPartyQuest>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>HuntingShipWithEscort</Template>
+              <AddedProperties>
+                <ThirdPartyQuest />
+              </AddedProperties>
+              <Values>
+                <CatchShip>
+                  <ShipToCatch>20106</ShipToCatch>
+                  <EscortShips>
+                    <Item>
+                      <Ship>20106</Ship>
+                    </Item>
+                  </EscortShips>
+                </CatchShip>
+                <FollowUpQuest />
+                <Preconditions>
+                  <MinPlayerLevel>LateGame</MinPlayerLevel>
+                  <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+                </Preconditions>
+                <Quest>
+                  <QuestType>DecisionQuest</QuestType>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward>
+                  <RewardLink>2400060</RewardLink>
+                  <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                </Reward>
+                <Standard>
+                  <GUID>4075700</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-28 15:00</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText>
+                  <QuestStoryText>4075702</QuestStoryText>
+                </QuestText>
+                <QuestItem />
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <Number />
+                <SelectObjectQuest />
+                <ThirdPartyQuest>
+                  <PreconditionStates>Peace</PreconditionStates>
+                  <ThirdParties>
+                    <Item>
+                      <Profile>2330000</Profile>
+                    </Item>
+                  </ThirdParties>
+                </ThirdPartyQuest>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>WareQuest</Template>
+              <AddedProperties>
+                <ThirdPartyQuest />
+              </AddedProperties>
+              <Values>
+                <FollowUpQuest />
+                <GetWares>
+                  <WaresToGet>
+                    <Soy>9</Soy>
+                  </WaresToGet>
+                </GetWares>
+                <Preconditions>
+                  <MinPlayerLevel>MidGame</MinPlayerLevel>
+                  <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+                  <NeededObjects>
+                    <Item>
+                      <Object>10174</Object>
+                      <Min>1</Min>
+                    </Item>
+                  </NeededObjects>
+                </Preconditions>
+                <Quest>
+                  <QuestType>DecisionQuest</QuestType>
+                  <QuestBlockTime>3600000</QuestBlockTime>
+                  <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+                </Quest>
+                <Reward>
+                  <RewardLink>2400060</RewardLink>
+                  <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                </Reward>
+                <Standard>
+                  <GUID>4075703</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2011-07-29 13:31</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+                </Standard>
+                <SubQuests />
+                <TextTags />
+                <Time />
+                <WinConditions />
+                <QuestMessages />
+                <QuestText>
+                  <QuestStoryText>4075704</QuestStoryText>
+                </QuestText>
+                <Execution />
+                <MinimapPing />
+                <DecisionQuest />
+                <SelectObjectQuest />
+                <QuestToggle />
+                <ThirdPartyQuest>
+                  <ThirdParties>
+                    <Item>
+                      <Profile>2330004</Profile>
+                    </Item>
+                  </ThirdParties>
+                </ThirdPartyQuest>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Decision </Name>
+          <GUID>-519571201</GUID>
+          <GroupType>2</GroupType>
+          <Groups>
+            <Group>
+              <Name>Oil Baron</Name>
+              <Assets>
+                <Asset>
+                  <Template>DecisionQuestWares</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>4075656</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2011-05-23 11:54</CreationTime>
+                      <LastChangeUser>kalle</LastChangeUser>
+                      <LastChangeTime>2011-09-14 11:34</LastChangeTime>
+                    </Standard>
+                    <Quest>
+                      <QuestType>DecisionQuest</QuestType>
+                    </Quest>
+                    <QuestText>
+                      <QuestStoryText>4075657</QuestStoryText>
+                    </QuestText>
+                    <QuestMessages />
+                    <Reward>
+                      <RewardLink>2400060</RewardLink>
+                      <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                    </Reward>
+                    <DecisionQuest>
+                      <BaseQuest>4105754</BaseQuest>
+                    </DecisionQuest>
+                    <Time />
+                    <WinConditions />
+                    <QuestToggle />
+                    <Execution />
+                    <MinimapPing />
+                    <FollowUpQuest />
+                    <GetWares />
+                    <Preconditions />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>DecisionQuestFailBaseQuest</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>4075658</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2011-05-23 11:58</CreationTime>
+                      <LastChangeUser>kalle</LastChangeUser>
+                      <LastChangeTime>2011-09-14 11:34</LastChangeTime>
+                    </Standard>
+                    <Quest>
+                      <QuestType>DecisionQuest</QuestType>
+                    </Quest>
+                    <QuestText>
+                      <QuestStoryText>4075659</QuestStoryText>
+                    </QuestText>
+                    <QuestMessages />
+                    <Reward>
+                      <RewardLink>2400118</RewardLink>
+                      <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                    </Reward>
+                    <DecisionQuest>
+                      <BaseQuest>4105756</BaseQuest>
+                    </DecisionQuest>
+                    <Time />
+                    <WinConditions />
+                    <QuestToggle />
+                    <Execution />
+                    <MinimapPing />
+                    <FollowUpQuest />
+                    <Preconditions />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Rival</Name>
+              <Assets>
+                <Asset>
+                  <Template>DecisionQuestFlotsam</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>4075660</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2011-05-23 12:00</CreationTime>
+                      <LastChangeUser>kalle</LastChangeUser>
+                      <LastChangeTime>2011-09-14 11:34</LastChangeTime>
+                    </Standard>
+                    <Quest>
+                      <QuestType>DecisionQuest</QuestType>
+                    </Quest>
+                    <QuestText>
+                      <QuestStoryText>4075661</QuestStoryText>
+                    </QuestText>
+                    <QuestMessages />
+                    <Reward>
+                      <RewardLink>2400060</RewardLink>
+                      <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                    </Reward>
+                    <DecisionQuest>
+                      <BaseQuest>4055691</BaseQuest>
+                    </DecisionQuest>
+                    <Time />
+                    <WinConditions />
+                    <QuestToggle />
+                    <Execution />
+                    <MinimapPing />
+                    <FollowUpQuest />
+                    <GetWares />
+                    <Preconditions />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>DecisionQuestLightTracking</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>4075662</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2011-05-23 12:02</CreationTime>
+                      <LastChangeUser>kalle</LastChangeUser>
+                      <LastChangeTime>2011-09-14 11:34</LastChangeTime>
+                    </Standard>
+                    <Quest>
+                      <QuestType>DecisionQuest</QuestType>
+                    </Quest>
+                    <QuestText>
+                      <QuestStoryText>4075663</QuestStoryText>
+                    </QuestText>
+                    <QuestMessages />
+                    <Reward>
+                      <RewardLink>2400060</RewardLink>
+                      <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                    </Reward>
+                    <DecisionQuest>
+                      <BaseQuest>4055693</BaseQuest>
+                    </DecisionQuest>
+                    <Time />
+                    <WinConditions />
+                    <QuestToggle />
+                    <Execution />
+                    <MinimapPing />
+                    <FollowUpQuest />
+                    <GetWares />
+                    <Preconditions />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Tycoon Leader</Name>
+              <Assets>
+                <Asset>
+                  <Template>DecisionQuestFailBaseQuest</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>4075664</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2011-05-23 12:04</CreationTime>
+                      <LastChangeUser>kalle</LastChangeUser>
+                      <LastChangeTime>2011-09-14 11:34</LastChangeTime>
+                    </Standard>
+                    <Quest>
+                      <QuestType>DecisionQuest</QuestType>
+                    </Quest>
+                    <QuestText>
+                      <QuestStoryText>4075665</QuestStoryText>
+                    </QuestText>
+                    <QuestMessages />
+                    <Reward>
+                      <RewardLink>2400118</RewardLink>
+                      <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                    </Reward>
+                    <DecisionQuest>
+                      <BaseQuest>4115709</BaseQuest>
+                    </DecisionQuest>
+                    <Time />
+                    <WinConditions />
+                    <QuestToggle />
+                    <Execution />
+                    <MinimapPing />
+                    <FollowUpQuest />
+                    <Preconditions />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Pirate</Name>
+              <Assets>
+                <Asset>
+                  <Template>DecisionQuestFailBaseQuest</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>4075666</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2011-05-23 12:06</CreationTime>
+                      <LastChangeUser>kalle</LastChangeUser>
+                      <LastChangeTime>2011-09-14 11:34</LastChangeTime>
+                    </Standard>
+                    <Quest>
+                      <QuestType>DecisionQuest</QuestType>
+                    </Quest>
+                    <QuestText>
+                      <QuestStoryText>4075667</QuestStoryText>
+                    </QuestText>
+                    <QuestMessages />
+                    <Reward>
+                      <RewardLink>2400118</RewardLink>
+                      <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+                    </Reward>
+                    <DecisionQuest>
+                      <BaseQuest>4095636</BaseQuest>
+                    </DecisionQuest>
+                    <Time />
+                    <WinConditions />
+                    <QuestToggle />
+                    <Execution />
+                    <MinimapPing />
+                    <FollowUpQuest />
+                    <Preconditions />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Follow Up Quests</Name>
+      <GUID>2123357920</GUID>
+      <GroupType>9</GroupType>
+      <Assets>
+        <Asset>
+          <Template>TreasureHuntQuest</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075633</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <Preconditions>
+              <MinPlayerLevel>LateGame</MinPlayerLevel>
+              <NeededObjects>
+                <Item>
+                  <Object>10162</Object>
+                  <Min>1</Min>
+                </Item>
+                <Item>
+                  <Object>10056</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <QuestBlockTime>9000000</QuestBlockTime>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075632</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:16</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 10:06</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestMessages>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075644</QuestStoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <MapQuest>
+              <MapCount>1</MapCount>
+              <MapProducts>
+                <Tools>5</Tools>
+              </MapProducts>
+              <IslandsWithoutMapCount>3</IslandsWithoutMapCount>
+            </MapQuest>
+            <Number />
+            <QuestItem>
+              <QuestItem>61349</QuestItem>
+            </QuestItem>
+            <DecisionQuest />
+            <SelectObjectQuest />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>PuzzlePictureQuest_Engineer</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075634</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <Number />
+            <Preconditions>
+              <MinPlayerLevel>LateGame</MinPlayerLevel>
+              <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+            </Preconditions>
+            <PuzzlePicture>
+              <PuzzlePictureUnitCount>1</PuzzlePictureUnitCount>
+              <AdditionalUnitCount>4</AdditionalUnitCount>
+            </PuzzlePicture>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075633</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:16</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075645</QuestStoryText>
+            </QuestText>
+            <QuestItem />
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <SelectObjectQuest />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>WareQuest</Template>
+          <Values>
+            <FollowUpQuest />
+            <GetWares>
+              <WaresToGet>
+                <Gold>22</Gold>
+              </WaresToGet>
+            </GetWares>
+            <Preconditions>
+              <MinPlayerLevel>LateGame</MinPlayerLevel>
+              <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Reward>
+              <RewardLink>2400439</RewardLink>
+              <RewardDiplomacyPoints>20</RewardDiplomacyPoints>
+            </Reward>
+            <Standard>
+              <GUID>4075634</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:17</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075646</QuestStoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <SelectObjectQuest />
+            <QuestToggle />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>PuzzlePictureQuest_Security</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075636</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <Number />
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+              <NeededObjects>
+                <Item>
+                  <Object>10046</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+              <PlayerCounter>
+                <Item>
+                  <Counter>WarVehicles</Counter>
+                  <Min>2</Min>
+                </Item>
+                <Item>
+                  <Counter>Residents</Counter>
+                  <Min>1</Min>
+                </Item>
+              </PlayerCounter>
+            </Preconditions>
+            <PuzzlePicture>
+              <AdditionalUnitCount>5</AdditionalUnitCount>
+            </PuzzlePicture>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <QuestBlockTime>9000000</QuestBlockTime>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075635</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:17</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 10:06</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestMessages>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075647</QuestStoryText>
+            </QuestText>
+            <QuestItem />
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <SelectObjectQuest />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShipBlockadeClientKontor</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075637</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075636</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:17</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestText>
+              <QuestStoryText>4075648</QuestStoryText>
+            </QuestText>
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestItem>
+              <QuestItem>60003</QuestItem>
+            </QuestItem>
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <ShipBlockade>
+              <BlockingShipType>20106</BlockingShipType>
+              <BlockadeDistanceToKontor>40960</BlockadeDistanceToKontor>
+            </ShipBlockade>
+            <SelectObjectQuest />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>WareQuest</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075638</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <GetWares>
+              <WaresToGet>
+                <Liquor>26</Liquor>
+              </WaresToGet>
+            </GetWares>
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075637</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:17</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075649</QuestStoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <SelectObjectQuest />
+            <QuestToggle />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CastawayQuest</Template>
+          <Values>
+            <FollowUpQuest />
+            <Number />
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Recover>
+              <RecoverObjectCount>3</RecoverObjectCount>
+            </Recover>
+            <Reward>
+              <RewardLink>2400439</RewardLink>
+              <RewardDiplomacyPoints>20</RewardDiplomacyPoints>
+            </Reward>
+            <SelectObjectQuest />
+            <Standard>
+              <GUID>4075638</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:18</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <Time />
+            <QuestText>
+              <QuestStoryText>4075650</QuestStoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <QuestItem />
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+            </QuestMessages>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CastawayQuest</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075640</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <Number />
+            <Preconditions>
+              <MinPlayerLevel>LateGame</MinPlayerLevel>
+              <NeededObjects>
+                <Item>
+                  <Object>10120</Object>
+                  <Min>1</Min>
+                </Item>
+                <Item>
+                  <Object>10055</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+              <PlayerCounter>
+                <Item>
+                  <Counter>WarVehicles</Counter>
+                  <Min>2</Min>
+                </Item>
+                <Item>
+                  <Counter>Residents</Counter>
+                  <Min>1</Min>
+                </Item>
+              </PlayerCounter>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <QuestBlockTime>10800000</QuestBlockTime>
+            </Quest>
+            <Recover>
+              <RecoverObjectCount>4</RecoverObjectCount>
+              <WreckCount>0</WreckCount>
+            </Recover>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <SelectObjectQuest />
+            <Standard>
+              <GUID>4075639</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:18</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 10:08</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <Time />
+            <QuestText>
+              <QuestStoryText>4075651</QuestStoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <QuestItem />
+            <QuestMessages>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>WareQuest</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075641</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <GetWares>
+              <WaresToGet>
+                <Iron>2</Iron>
+                <Weapons>4</Weapons>
+              </WaresToGet>
+            </GetWares>
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075640</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:18</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075652</QuestStoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <SelectObjectQuest />
+            <QuestToggle />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>SmuggleQuest</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075642</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075641</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:18</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-21 16:38</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <TradingRace>
+              <TradingRaceStations>
+                <Item>
+                  <Item>60006</Item>
+                  <ScannerShips>
+                    <Item>
+                      <Ship>20047</Ship>
+                      <Count>6</Count>
+                      <SpawnRadius>122880</SpawnRadius>
+                      <RandomDirections>1</RandomDirections>
+                    </Item>
+                  </ScannerShips>
+                  <SpawnedObject>20161</SpawnedObject>
+                  <SpawnPositionMinWaterDistance>30</SpawnPositionMinWaterDistance>
+                </Item>
+              </TradingRaceStations>
+            </TradingRace>
+            <QuestText>
+              <QuestStoryText>4075653</QuestStoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <SelectObjectQuest />
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>PuzzlePictureQuest_Security</Template>
+          <Values>
+            <FollowUpQuest>
+              <FollowUpQuests>
+                <Item>
+                  <FollowUpQuest>4075643</FollowUpQuest>
+                </Item>
+              </FollowUpQuests>
+            </FollowUpQuest>
+            <Number />
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+              <PlayerCounter>
+                <Item>
+                  <Counter>Vehicles</Counter>
+                  <Min>1</Min>
+                </Item>
+              </PlayerCounter>
+            </Preconditions>
+            <PuzzlePicture>
+              <PuzzlePictureUnitCount>4</PuzzlePictureUnitCount>
+              <AdditionalUnitCount>6</AdditionalUnitCount>
+            </PuzzlePicture>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+            </Quest>
+            <Reward>
+              <ShowQuestReward>0</ShowQuestReward>
+            </Reward>
+            <Standard>
+              <GUID>4075642</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:19</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+              <QuestFinishedTrigger>NONE</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075654</QuestStoryText>
+            </QuestText>
+            <QuestItem />
+            <Execution />
+            <MinimapPing />
+            <DecisionQuest />
+            <SelectObjectQuest />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VehicleThief</Template>
+          <Values>
+            <FollowUpQuest />
+            <CatchShip>
+              <ShipToCatch>20043</ShipToCatch>
+              <EscortShips>
+                <Item>
+                  <Ship>20106</Ship>
+                  <Count>2</Count>
+                </Item>
+              </EscortShips>
+            </CatchShip>
+            <Preconditions>
+              <MinPlayerLevel>EndGame</MinPlayerLevel>
+              <PlayerCounter>
+                <Item>
+                  <Counter>Vehicles</Counter>
+                  <Min>1</Min>
+                </Item>
+              </PlayerCounter>
+            </Preconditions>
+            <Quest>
+              <QuestType>FollowUpQuest</QuestType>
+              <AllowPlayerToDenyQuest>0</AllowPlayerToDenyQuest>
+              <SpecialFlags>AllowQuestAbort</SpecialFlags>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Reward>
+              <RewardLink>2400439</RewardLink>
+              <RewardDiplomacyPoints>20</RewardDiplomacyPoints>
+            </Reward>
+            <Standard>
+              <GUID>4075643</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-05-20 16:19</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-07 12:45</LastChangeTime>
+            </Standard>
+            <SubQuests />
+            <TextTags />
+            <Time />
+            <WinConditions />
+            <QuestText>
+              <QuestStoryText>4075655</QuestStoryText>
+            </QuestText>
+            <QuestMessages>
+              <QuestStartTrigger>FOLLOWUPQUEST_STARTED</QuestStartTrigger>
+            </QuestMessages>
+            <Execution />
+            <MinimapPing />
+            <QuestItem />
+            <Number />
+            <RewardPool />
+            <DecisionQuest />
+            <SelectObjectQuest />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Relation Quests</Name>
+      <GUID>1564863915</GUID>
+      <GroupType>9</GroupType>
+      <Assets>
+        <Asset>
+          <Template>RelationQuest_CatchShip</Template>
+          <Values>
+            <Standard>
+              <GUID>4075705</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-08-09 14:35</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+            </Standard>
+            <Quest>
+              <QuestType>RelationQuest</QuestType>
+              <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+              <QuestBlockTime>3600000</QuestBlockTime>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Preconditions>
+              <MinPlayerLevel>MidGame</MinPlayerLevel>
+              <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+              <TreatyState>Peace</TreatyState>
+              <PlayerCounter>
+                <Item>
+                  <Counter>WarVehicles</Counter>
+                  <Min>2</Min>
+                </Item>
+              </PlayerCounter>
+            </Preconditions>
+            <ThirdPartyQuest>
+              <ThirdParties>
+                <Item>
+                  <Profile>2330023</Profile>
+                </Item>
+              </ThirdParties>
+            </ThirdPartyQuest>
+            <Reward>
+              <RewardLink>2400203</RewardLink>
+            </Reward>
+            <Time />
+            <FollowUpQuest />
+            <QuestMessages>
+              <QuestStartTrigger>RELATIONQUEST_STARTED_RIVAL</QuestStartTrigger>
+              <QuestFinishedTrigger>RELATIONQUEST_FINISHED_RIVAL</QuestFinishedTrigger>
+            </QuestMessages>
+            <QuestText>
+              <QuestStoryText>4075706</QuestStoryText>
+              <QuestCategoryText>1206536</QuestCategoryText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <WinConditions />
+            <CatchShip>
+              <ShipToCatch>20041</ShipToCatch>
+              <EscortShips>
+                <Item>
+                  <Ship>20038</Ship>
+                </Item>
+              </EscortShips>
+            </CatchShip>
+            <QuestItem />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>RelationQuest_Friend</Template>
+          <Values>
+            <Standard>
+              <GUID>4075707</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-08-10 13:01</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+            </Standard>
+            <Quest>
+              <QuestType>RelationQuest</QuestType>
+              <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+              <QuestBlockTime>3600000</QuestBlockTime>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Preconditions>
+              <MinPlayerLevel>LateGame</MinPlayerLevel>
+              <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+              <TreatyState>Peace</TreatyState>
+              <NeededObjects>
+                <Item>
+                  <Object>10186</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+            </Preconditions>
+            <ThirdPartyQuest>
+              <ThirdPartyPreconditions>
+                <Item>
+                  <Counter>Discovered</Counter>
+                  <Min>1</Min>
+                </Item>
+              </ThirdPartyPreconditions>
+              <ThirdParties>
+                <Item>
+                  <Profile>2330025</Profile>
+                </Item>
+              </ThirdParties>
+            </ThirdPartyQuest>
+            <Reward>
+              <RewardLink>2400203</RewardLink>
+            </Reward>
+            <Time>
+              <MaxTime>1800000</MaxTime>
+            </Time>
+            <FollowUpQuest />
+            <QuestMessages />
+            <QuestText>
+              <QuestInfoText>4003004</QuestInfoText>
+              <QuestStoryText>4075708</QuestStoryText>
+              <QuestCategoryText>1206536</QuestCategoryText>
+              <ThirdPartyInfoText>5000068</ThirdPartyInfoText>
+            </QuestText>
+            <Execution>
+              <ExecutionProfile>2330025</ExecutionProfile>
+              <ExecutionLayers>UnderWater</ExecutionLayers>
+            </Execution>
+            <MinimapPing />
+            <WinConditions />
+            <GetWares>
+              <WaresToGet>
+                <Communicator>12</Communicator>
+              </WaresToGet>
+              <NeedsToKnowProducts>1</NeedsToKnowProducts>
+            </GetWares>
+            <ThirdPartyReaction />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>RelationQuest_Friend</Template>
+          <Values>
+            <Standard>
+              <GUID>4075709</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-08-10 13:05</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+            </Standard>
+            <Quest>
+              <QuestType>RelationQuest</QuestType>
+              <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+              <QuestBlockTime>3600000</QuestBlockTime>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Preconditions>
+              <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+              <TreatyState>Peace</TreatyState>
+              <NeededObjects>
+                <Item>
+                  <Object>10045</Object>
+                  <Min>1</Min>
+                </Item>
+              </NeededObjects>
+            </Preconditions>
+            <ThirdPartyQuest>
+              <ThirdPartyPreconditions>
+                <Item>
+                  <Counter>Discovered</Counter>
+                  <Min>1</Min>
+                </Item>
+              </ThirdPartyPreconditions>
+              <PreconditionStates>Peace</PreconditionStates>
+              <ThirdParties>
+                <Item>
+                  <Profile>2330020</Profile>
+                </Item>
+              </ThirdParties>
+              <ThirdPartyPlayerCounterNeeded>
+                <Item>
+                  <Counter>ColonizedIslands</Counter>
+                  <Min>1</Min>
+                </Item>
+              </ThirdPartyPlayerCounterNeeded>
+            </ThirdPartyQuest>
+            <Reward>
+              <RewardLink>2400203</RewardLink>
+            </Reward>
+            <Time>
+              <MaxTime>1800000</MaxTime>
+            </Time>
+            <FollowUpQuest />
+            <QuestMessages />
+            <QuestText>
+              <QuestInfoText>4003004</QuestInfoText>
+              <QuestStoryText>4075710</QuestStoryText>
+              <QuestCategoryText>1206536</QuestCategoryText>
+              <ThirdPartyInfoText>5000068</ThirdPartyInfoText>
+            </QuestText>
+            <Execution>
+              <ExecutionProfile>2330020</ExecutionProfile>
+            </Execution>
+            <MinimapPing />
+            <WinConditions />
+            <GetWares>
+              <WaresToGet>
+                <Fish>6</Fish>
+              </WaresToGet>
+              <NeedsToKnowProducts>1</NeedsToKnowProducts>
+            </GetWares>
+            <ThirdPartyReaction />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>RelationQuest_Rival</Template>
+          <Values>
+            <Standard>
+              <GUID>4075711</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-08-11 15:47</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+            </Standard>
+            <Quest>
+              <QuestType>RelationQuest</QuestType>
+              <InvitationNeeded>0</InvitationNeeded>
+              <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+              <QuestBlockTime>3600000</QuestBlockTime>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Preconditions>
+              <TreatyState>Peace</TreatyState>
+            </Preconditions>
+            <ThirdPartyQuest>
+              <ThirdPartyPreconditions>
+                <Item>
+                  <Counter>TradeAmount</Counter>
+                  <Min>25</Min>
+                </Item>
+              </ThirdPartyPreconditions>
+              <ThirdPartyWinconditions>
+                <Item>
+                  <Counter>TradeAmount</Counter>
+                  <RelativeToStartValue>1</RelativeToStartValue>
+                </Item>
+              </ThirdPartyWinconditions>
+              <PreconditionStates>Peace</PreconditionStates>
+              <ThirdParties>
+                <Item>
+                  <Profile>2330023</Profile>
+                </Item>
+              </ThirdParties>
+            </ThirdPartyQuest>
+            <Reward>
+              <RewardLink>2400203</RewardLink>
+            </Reward>
+            <Time>
+              <MaxTime>1000</MaxTime>
+            </Time>
+            <FollowUpQuest />
+            <QuestMessages />
+            <QuestText>
+              <QuestInfoText>4003003</QuestInfoText>
+              <QuestStoryText>4075712</QuestStoryText>
+              <QuestCategoryText>1206536</QuestCategoryText>
+              <EndInfoText>4000040</EndInfoText>
+              <ThirdPartyInfoText>5000066</ThirdPartyInfoText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <WinConditions>
+              <WinConditionDuration>3600000</WinConditionDuration>
+            </WinConditions>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>RelationQuest_Friend</Template>
+          <Values>
+            <Standard>
+              <GUID>4075713</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-08-15 10:04</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+            </Standard>
+            <Quest>
+              <QuestType>RelationQuest</QuestType>
+              <InvitationNeeded>0</InvitationNeeded>
+              <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+              <QuestBlockTime>3600000</QuestBlockTime>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Preconditions>
+              <TreatyState>Peace</TreatyState>
+            </Preconditions>
+            <ThirdPartyQuest>
+              <ThirdPartyPreconditions>
+                <Item>
+                  <Counter>DiplomacyPoints</Counter>
+                  <Max>59</Max>
+                </Item>
+              </ThirdPartyPreconditions>
+              <ThirdPartyWinconditions>
+                <Item>
+                  <Counter>DiplomacyPoints</Counter>
+                  <Min>10</Min>
+                  <RelativeToStartValue>1</RelativeToStartValue>
+                </Item>
+              </ThirdPartyWinconditions>
+              <ThirdParties>
+                <Item>
+                  <Profile>2330025</Profile>
+                </Item>
+              </ThirdParties>
+            </ThirdPartyQuest>
+            <Reward>
+              <RewardLink>2400203</RewardLink>
+            </Reward>
+            <Time>
+              <MaxTime>3600000</MaxTime>
+            </Time>
+            <FollowUpQuest />
+            <QuestMessages />
+            <QuestText>
+              <QuestInfoText>4003025</QuestInfoText>
+              <QuestStoryText>4075714</QuestStoryText>
+              <QuestCategoryText>1206536</QuestCategoryText>
+              <ThirdPartyInfoText>5000080</ThirdPartyInfoText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <WinConditions />
+            <GetWares />
+            <ThirdPartyReaction />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>RelationQuest_Rival</Template>
+          <Values>
+            <Standard>
+              <GUID>4075715</GUID>
+              <Creator>kalle</Creator>
+              <CreationTime>2011-08-15 10:07</CreationTime>
+              <LastChangeUser>kalle</LastChangeUser>
+              <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+            </Standard>
+            <Quest>
+              <QuestType>RelationQuest</QuestType>
+              <InvitationNeeded>0</InvitationNeeded>
+              <AllowPlayerToDenyQuest>1</AllowPlayerToDenyQuest>
+              <QuestBlockTime>3600000</QuestBlockTime>
+              <MultiplayerBehaviour>Local</MultiplayerBehaviour>
+            </Quest>
+            <Preconditions>
+              <TreatyState>Peace</TreatyState>
+            </Preconditions>
+            <ThirdPartyQuest>
+              <ThirdPartyPreconditions>
+                <Item>
+                  <Counter>TradeAmount</Counter>
+                  <Min>1</Min>
+                </Item>
+              </ThirdPartyPreconditions>
+              <ThirdPartyWinconditions>
+                <Item>
+                  <Counter>TradeAmount</Counter>
+                  <RelativeToStartValue>1</RelativeToStartValue>
+                </Item>
+              </ThirdPartyWinconditions>
+              <PreconditionStates>Peace</PreconditionStates>
+              <ThirdParties>
+                <Item>
+                  <Profile>2330000</Profile>
+                </Item>
+              </ThirdParties>
+            </ThirdPartyQuest>
+            <Reward>
+              <RewardLink>2400203</RewardLink>
+            </Reward>
+            <Time>
+              <MaxTime>1000</MaxTime>
+            </Time>
+            <FollowUpQuest />
+            <QuestMessages />
+            <QuestText>
+              <QuestInfoText>4003003</QuestInfoText>
+              <QuestStoryText>4075716</QuestStoryText>
+              <QuestCategoryText>1206536</QuestCategoryText>
+              <EndInfoText>4000040</EndInfoText>
+              <ThirdPartyInfoText>5000066</ThirdPartyInfoText>
+            </QuestText>
+            <Execution />
+            <MinimapPing />
+            <WinConditions>
+              <WinConditionDuration>3600000</WinConditionDuration>
+            </WinConditions>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>ShipBlockadeClientKontor</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>3</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075504</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:52</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestText>
+          <QuestStoryText>4075568</QuestStoryText>
+        </QuestText>
+        <QuestMessages />
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <ShipBlockade>
+          <BlockingShipType>20106</BlockingShipType>
+          <BlockadeDistanceToKontor>81920</BlockadeDistanceToKontor>
+          <BlockadeProtectionRadius>266240</BlockadeProtectionRadius>
+        </ShipBlockade>
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipBlockadeClientKontor</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>4</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075505</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:52</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestText>
+          <QuestStoryText>4075569</QuestStoryText>
+        </QuestText>
+        <QuestMessages />
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <ShipBlockade>
+          <BlockingShipType>20155</BlockingShipType>
+          <BlockadeProtectionRadius>143360</BlockadeProtectionRadius>
+        </ShipBlockade>
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <BuildingModules>7</BuildingModules>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10262</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075506</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:52</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075570</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Fish>3</Fish>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10045</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075507</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:52</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075571</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <BuildingModules>8</BuildingModules>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10262</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075508</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:52</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075572</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <BuildingModules>6</BuildingModules>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10262</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075509</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:53</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075573</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Soy>19</Soy>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10174</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075510</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:53</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075574</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Vegetables>20</Vegetables>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10012</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075511</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:53</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075575</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Milk>14</Milk>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10183</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075512</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:53</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075576</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Glass>35</Glass>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10114</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075513</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:53</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075577</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Pharmaceuticals>22</Pharmaceuticals>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10168</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075514</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:53</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075578</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Champagne>28</Champagne>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10158</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075515</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:54</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075579</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>WareQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Liquor>4</Liquor>
+          </WaresToGet>
+        </GetWares>
+        <Preconditions>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10046</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075516</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:54</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075580</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+        <QuestToggle />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipQuest</Template>
+      <Values>
+        <EscortShip>
+          <AttackerDistanceToShip>286720</AttackerDistanceToShip>
+          <SpawnAttackerDelay>15000</SpawnAttackerDelay>
+          <AttackingShip>20039</AttackingShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>2</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075517</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:54</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075581</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipQuest</Template>
+      <Values>
+        <EscortShip>
+          <AttackerDistanceToShip>163840</AttackerDistanceToShip>
+          <SpawnAttackerDelay>90000</SpawnAttackerDelay>
+          <AttackingShip>20107</AttackingShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>2</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075518</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:54</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075582</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipQuest</Template>
+      <Values>
+        <EscortShip>
+          <SpawnAttackerDelay>120000</SpawnAttackerDelay>
+          <AttackingShip>20106</AttackingShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>2</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075519</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:54</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075583</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipMultipleQuest</Template>
+      <Values>
+        <EscortShip>
+          <ShipCount>2</ShipCount>
+          <MinSurvivors>2</MinSurvivors>
+          <AttackerDistanceToShip>327680</AttackerDistanceToShip>
+          <AttackingShip>20107</AttackingShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>2</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075520</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:55</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075584</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipQuest</Template>
+      <Values>
+        <EscortShip>
+          <AttackerDistanceToShip>245760</AttackerDistanceToShip>
+          <SpawnAttackerDelay>70000</SpawnAttackerDelay>
+          <AttackersPerShip>3</AttackersPerShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>4</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075521</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:56</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075585</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipMultipleQuest</Template>
+      <Values>
+        <EscortShip>
+          <ShipCount>3</ShipCount>
+          <MinSurvivors>3</MinSurvivors>
+          <AttackerDistanceToShip>860160</AttackerDistanceToShip>
+          <SpawnAttackerDelay>50000</SpawnAttackerDelay>
+          <AttackingShip>20106</AttackingShip>
+          <AttackersPerShip>2</AttackersPerShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>3</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075522</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:56</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075586</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipQuest</Template>
+      <Values>
+        <EscortShip>
+          <SpawnAttackerDelay>30000</SpawnAttackerDelay>
+          <AttackingShip>20039</AttackingShip>
+          <AttackersPerShip>3</AttackersPerShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>4</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075523</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:56</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075587</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>EscortShipQuest</Template>
+      <Values>
+        <EscortShip>
+          <AttackerDistanceToShip>409600</AttackerDistanceToShip>
+          <AttackingShip>20108</AttackingShip>
+          <AttackersPerShip>3</AttackersPerShip>
+        </EscortShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>5</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075524</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:56</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075588</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>FleetQuest</Template>
+      <Values>
+        <CatchShip>
+          <ShipToCatch>20155</ShipToCatch>
+          <FleetDistanceToBorder>286720</FleetDistanceToBorder>
+          <EscortShipRadius>327680</EscortShipRadius>
+          <EscortShips>
+            <Item>
+              <Ship>20038</Ship>
+            </Item>
+          </EscortShips>
+        </CatchShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>3</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075525</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:56</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075589</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>FleetQuest</Template>
+      <Values>
+        <CatchShip>
+          <ShipToCatch>20108</ShipToCatch>
+          <EscortShips>
+            <Item>
+              <Ship>20106</Ship>
+              <Count>3</Count>
+            </Item>
+          </EscortShips>
+        </CatchShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>4</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075526</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:56</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075590</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>HuntingShip</Template>
+      <Values>
+        <CatchShip>
+          <ShipToCatch>20106</ShipToCatch>
+        </CatchShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075527</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:57</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestText>
+          <QuestStoryText>4075591</QuestStoryText>
+        </QuestText>
+        <QuestMessages />
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>HuntingShipWithEscort</Template>
+      <Values>
+        <CatchShip>
+          <ShipToCatch>20106</ShipToCatch>
+          <EscortShips>
+            <Item>
+              <Ship>20106</Ship>
+            </Item>
+          </EscortShips>
+        </CatchShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075528</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:57</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075592</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>HuntingShipWithEscort</Template>
+      <Values>
+        <CatchShip>
+          <ShipToCatch>20107</ShipToCatch>
+          <EscortShips>
+            <Item>
+              <Ship>20106</Ship>
+            </Item>
+          </EscortShips>
+        </CatchShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075529</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:57</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075593</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>HuntingShipWithEscort</Template>
+      <Values>
+        <CatchShip>
+          <ShipToCatch>20040</ShipToCatch>
+          <EscortShips>
+            <Item>
+              <Ship>20155</Ship>
+              <Count>2</Count>
+            </Item>
+          </EscortShips>
+        </CatchShip>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>5</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075530</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:57</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075594</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <Number />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>LightTracking</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075531</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:58</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60787</Item>
+              <SpawnPositionY>-98304</SpawnPositionY>
+              <SpawnPositionRadius>61440</SpawnPositionRadius>
+              <SpawnPositionMinWaterDistance>30</SpawnPositionMinWaterDistance>
+              <RecoverObjectCount>5</RecoverObjectCount>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075595</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <SelectObjectQuest />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>LightTracking</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075532</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:58</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60784</Item>
+              <SpawnPositionY>-98304</SpawnPositionY>
+              <SpawnPositionMinWaterDistance>30</SpawnPositionMinWaterDistance>
+              <RecoverObjectCount>3</RecoverObjectCount>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075596</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <SelectObjectQuest />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>LightTracking</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075533</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:58</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60787</Item>
+              <SpawnPositionY>-98304</SpawnPositionY>
+              <SpawnPositionMinWaterDistance>30</SpawnPositionMinWaterDistance>
+              <RecoverObjectCount>8</RecoverObjectCount>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075597</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <SelectObjectQuest />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>LightTracking</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075534</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:58</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60947</Item>
+              <SpawnPositionY>-98304</SpawnPositionY>
+              <SpawnPositionMinWaterDistance>30</SpawnPositionMinWaterDistance>
+              <RecoverObjectCount>4</RecoverObjectCount>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075598</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <SelectObjectQuest />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>LightTracking</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075535</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:58</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60948</Item>
+              <SpawnPositionY>-98304</SpawnPositionY>
+              <SpawnPositionMinWaterDistance>30</SpawnPositionMinWaterDistance>
+              <RecoverObjectCount>9</RecoverObjectCount>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075599</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <SelectObjectQuest />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>FlotsamQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <RecoverObjectCount>5</RecoverObjectCount>
+          <ObjectDistance>18</ObjectDistance>
+          <MinDistanceToLand>5</MinDistanceToLand>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075536</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:59</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075600</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>CastawayQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <RecoverObjectCount>2</RecoverObjectCount>
+          <WreckCount>2</WreckCount>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075537</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 12:59</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075601</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>FlotsamQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <WreckCount>0</WreckCount>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075538</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:00</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075602</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>CastawayQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <RecoverObjectCount>4</RecoverObjectCount>
+          <ObjectDistance>3</ObjectDistance>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075539</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:00</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075603</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>FlotsamQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <RecoverObjectCount>4</RecoverObjectCount>
+          <ObjectDistance>20</ObjectDistance>
+          <WreckCount>0</WreckCount>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075540</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:00</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075604</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>FlotsamQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <RecoverObjectCount>15</RecoverObjectCount>
+          <ObjectDistance>3</ObjectDistance>
+          <MinDistanceToLand>15</MinDistanceToLand>
+          <WreckCount>0</WreckCount>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075541</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:00</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075605</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>FlotsamQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <RecoverObjectCount>5</RecoverObjectCount>
+          <ObjectDistance>6</ObjectDistance>
+          <MinDistanceToLand>25</MinDistanceToLand>
+          <WreckCount>0</WreckCount>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075542</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:00</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075606</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>CastawayQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Recover>
+          <RecoverObjectCount>3</RecoverObjectCount>
+          <ObjectDistance>3</ObjectDistance>
+          <MinDistanceToLand>3</MinDistanceToLand>
+          <WreckCount>0</WreckCount>
+        </Recover>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <SelectObjectQuest />
+        <Standard>
+          <GUID>4075543</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:00</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <Time />
+        <QuestText>
+          <QuestStoryText>4075607</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestItem />
+        <QuestMessages />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestOpponentObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075544</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:01</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60003</Item>
+              <SpawnedObject>20159</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Character>2330024</Character>
+              <Item>61349</Item>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075608</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075545</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:01</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>61349</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>61363</Item>
+              <AttackerShips>
+                <Item>
+                  <Ship>20106</Ship>
+                  <Count>1</Count>
+                </Item>
+              </AttackerShips>
+              <SpawnedObject>20159</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Character>2330024</Character>
+              <Item>61349</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075609</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestOpponentObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075546</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:01</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60785</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Character>2330024</Character>
+              <Item>60785</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60785</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075610</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestOpponentObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075547</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:01</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60783</Item>
+              <SpawnedObject>20159</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60783</Item>
+              <SpawnedObject>20157</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60783</Item>
+              <SpawnedObject>20160</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+          </TradingRaceStations>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075611</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestOpponentObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075548</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:01</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>61349</Item>
+              <SpawnedObject>20159</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>61349</Item>
+              <AttackerShips>
+                <Item>
+                  <Ship>20106</Ship>
+                  <Count>1</Count>
+                </Item>
+              </AttackerShips>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>61349</Item>
+              <AttackerShips>
+                <Item>
+                  <Ship>20106</Ship>
+                  <Count>1</Count>
+                </Item>
+              </AttackerShips>
+              <SpawnedObject>20159</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+          </TradingRaceStations>
+          <OpponentShip>20072</OpponentShip>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075612</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestOpponentObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075549</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:01</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-11-14 16:12</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60003</Item>
+              <SpawnedObject>20159</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Character>2330024</Character>
+              <Item>61349</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60003</Item>
+              <AttackerShips>
+                <Item>
+                  <Ship>20107</Ship>
+                  <Count>1</Count>
+                </Item>
+              </AttackerShips>
+              <SpawnedObject>20157</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Character>2330024</Character>
+              <Item>61349</Item>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60003</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+          </TradingRaceStations>
+          <OpponentShip>20073</OpponentShip>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075613</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestOpponentObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075550</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:02</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60785</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60785</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60785</Item>
+              <SpawnedObject>20158</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Character>2330024</Character>
+              <Item>60785</Item>
+            </Item>
+          </TradingRaceStations>
+          <OpponentShip>20073</OpponentShip>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075614</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TradingRaceQuestOpponentObject</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075551</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:02</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <TradingRace>
+          <TradingRaceStations>
+            <Item>
+              <Item>60785</Item>
+              <SpawnedObject>20159</SpawnedObject>
+              <SpawnPositionMinWaterDistance>20</SpawnPositionMinWaterDistance>
+            </Item>
+            <Item>
+              <Item>60783</Item>
+              <AttackerShips>
+                <Item>
+                  <Ship>20106</Ship>
+                  <Count>1</Count>
+                </Item>
+              </AttackerShips>
+              <SpawnedObject>20159</SpawnedObject>
+            </Item>
+            <Item>
+              <Character>2330024</Character>
+              <Item>60783</Item>
+              <AttackerShips>
+                <Item>
+                  <Ship>20107</Ship>
+                </Item>
+              </AttackerShips>
+            </Item>
+          </TradingRaceStations>
+          <OpponentShip>20072</OpponentShip>
+        </TradingRace>
+        <QuestText>
+          <QuestStoryText>4075615</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <QuestMessages />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>RobinsonCrusoeMapQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10045</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075552</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:02</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075616</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <MapQuest>
+          <MapProducts>
+            <Fish>3</Fish>
+          </MapProducts>
+          <IslandsWithoutMapCount>1</IslandsWithoutMapCount>
+        </MapQuest>
+        <Number />
+        <QuestItem />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>MapQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10056</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075553</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:02</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075617</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <MapQuest>
+          <MapCount>3</MapCount>
+          <MapProducts>
+            <Tools>2</Tools>
+          </MapProducts>
+        </MapQuest>
+        <Number />
+        <QuestItem />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TreasureHuntQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10056</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075554</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:02</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075618</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <MapQuest>
+          <MapCount>2</MapCount>
+          <MapProducts>
+            <Tools>4</Tools>
+          </MapProducts>
+          <MapIslandTypes>Normal</MapIslandTypes>
+        </MapQuest>
+        <Number />
+        <QuestItem>
+          <QuestItem>61349</QuestItem>
+        </QuestItem>
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>MapQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10186</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400439</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075555</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:02</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075619</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <MapQuest>
+          <MapProducts>
+            <Communicator>22</Communicator>
+          </MapProducts>
+          <MapIslandTypes>Normal</MapIslandTypes>
+        </MapQuest>
+        <Number />
+        <QuestItem />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>MapQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10048</Object>
+              <Min>2</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075556</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:02</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075620</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <MapQuest>
+          <MapProducts>
+            <Soy>10</Soy>
+            <Vegetables>10</Vegetables>
+          </MapProducts>
+          <MapIslandTypes>Normal</MapIslandTypes>
+        </MapQuest>
+        <Number />
+        <QuestItem>
+          <QuestItem>60785</QuestItem>
+        </QuestItem>
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>TreasureHuntQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10056</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075557</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:03</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075621</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <MapQuest>
+          <MapCount>1</MapCount>
+          <MapProducts>
+            <Tools>7</Tools>
+          </MapProducts>
+          <IslandsWithoutMapCount>4</IslandsWithoutMapCount>
+          <MapIslandTypes>Normal</MapIslandTypes>
+        </MapQuest>
+        <Number />
+        <QuestItem>
+          <QuestItem>61349</QuestItem>
+        </QuestItem>
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipAccidentQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Fish>5</Fish>
+          </WaresToGet>
+          <SpawnedShip>20159</SpawnedShip>
+        </GetWares>
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10045</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075558</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:03</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075622</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipAccidentQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Tools>3</Tools>
+          </WaresToGet>
+          <SpawnedShip>20158</SpawnedShip>
+          <ShipDamage>130</ShipDamage>
+        </GetWares>
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10056</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075559</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:03</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075623</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipAccidentQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Liquor>13</Liquor>
+          </WaresToGet>
+          <SpawnedShip>20158</SpawnedShip>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10046</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075560</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:03</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075624</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipAccidentQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Tools>11</Tools>
+          </WaresToGet>
+          <SpawnedShip>20160</SpawnedShip>
+          <ShipDamage>150</ShipDamage>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10056</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075561</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:03</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075625</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipAccidentQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Communicator>15</Communicator>
+          </WaresToGet>
+          <SpawnedShip>20158</SpawnedShip>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10186</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075562</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:03</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075626</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipAccidentQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Tools>3</Tools>
+            <Carbon>8</Carbon>
+          </WaresToGet>
+          <SpawnedShip>20159</SpawnedShip>
+          <ShipDamage>180</ShipDamage>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10112</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075563</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:03</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075627</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ShipAccidentQuest</Template>
+      <Values>
+        <FollowUpQuest />
+        <GetWares>
+          <WaresToGet>
+            <Oil>13</Oil>
+          </WaresToGet>
+          <SpawnedShip>20158</SpawnedShip>
+        </GetWares>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <NeededObjects>
+            <Item>
+              <Object>10092</Object>
+              <Min>1</Min>
+            </Item>
+          </NeededObjects>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075564</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:04</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075628</QuestStoryText>
+        </QuestText>
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VehicleThief</Template>
+      <Values>
+        <FollowUpQuest />
+        <CatchShip>
+          <ShipToCatch>20107</ShipToCatch>
+        </CatchShip>
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075565</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:04</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestText>
+          <QuestStoryText>4075629</QuestStoryText>
+        </QuestText>
+        <QuestMessages />
+        <Execution />
+        <MinimapPing />
+        <QuestItem />
+        <Number />
+        <RewardPool />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VehicleThief</Template>
+      <Values>
+        <FollowUpQuest />
+        <CatchShip>
+          <ShipToCatch>20107</ShipToCatch>
+          <EscortShipRadius>327680</EscortShipRadius>
+          <EscortShips>
+            <Item>
+              <Ship>20106</Ship>
+            </Item>
+          </EscortShips>
+        </CatchShip>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>4</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075566</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:04</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestText>
+          <QuestStoryText>4075630</QuestStoryText>
+        </QuestText>
+        <QuestMessages />
+        <Execution />
+        <MinimapPing />
+        <QuestItem />
+        <Number />
+        <RewardPool />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VehicleThief</Template>
+      <Values>
+        <FollowUpQuest />
+        <CatchShip>
+          <ShipToCatch>20042</ShipToCatch>
+          <EscortShipRadius>163840</EscortShipRadius>
+          <EscortShips>
+            <Item>
+              <Ship>20106</Ship>
+              <Count>2</Count>
+            </Item>
+          </EscortShips>
+        </CatchShip>
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+          <PlayerCounter>
+            <Item>
+              <Counter>WarVehicles</Counter>
+              <Min>4</Min>
+            </Item>
+          </PlayerCounter>
+        </Preconditions>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075567</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-05-17 13:04</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestText>
+          <QuestStoryText>4075631</QuestStoryText>
+        </QuestText>
+        <QuestMessages />
+        <Execution />
+        <MinimapPing />
+        <QuestItem />
+        <Number />
+        <RewardPool />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>PuzzlePictureQuest_Architect</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+        </Preconditions>
+        <PuzzlePicture>
+          <PuzzlePictureUnitCount>3</PuzzlePictureUnitCount>
+        </PuzzlePicture>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075668</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-07-06 10:20</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075675</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>PuzzlePictureQuest_Bear</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MaxPlayerLevel>EarlyGame</MaxPlayerLevel>
+        </Preconditions>
+        <PuzzlePicture>
+          <PuzzlePictureUnitCount>1</PuzzlePictureUnitCount>
+          <AdditionalUnitCount>0</AdditionalUnitCount>
+        </PuzzlePicture>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075669</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-07-06 10:20</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075676</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>PuzzlePictureQuest_Engineer</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>MidGame</MinPlayerLevel>
+          <MaxPlayerLevel>MidGame</MaxPlayerLevel>
+        </Preconditions>
+        <PuzzlePicture>
+          <PuzzlePictureUnitCount>3</PuzzlePictureUnitCount>
+        </PuzzlePicture>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075670</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-07-06 10:20</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075677</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>PuzzlePictureQuest_Architect</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <PuzzlePicture>
+          <PuzzlePictureUnitCount>4</PuzzlePictureUnitCount>
+          <AdditionalUnitCount>2</AdditionalUnitCount>
+        </PuzzlePicture>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075671</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-07-06 10:20</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075678</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>PuzzlePictureQuest_Engineer</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>LateGame</MinPlayerLevel>
+          <MaxPlayerLevel>LateGame</MaxPlayerLevel>
+        </Preconditions>
+        <PuzzlePicture>
+          <PuzzlePictureUnitCount>4</PuzzlePictureUnitCount>
+          <AdditionalUnitCount>2</AdditionalUnitCount>
+        </PuzzlePicture>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075672</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-07-06 10:21</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075679</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>PuzzlePictureQuest_Roudey</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <PuzzlePicture>
+          <PuzzlePictureUnitCount>1</PuzzlePictureUnitCount>
+          <AdditionalUnitCount>0</AdditionalUnitCount>
+        </PuzzlePicture>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075673</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-07-06 10:21</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075680</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>PuzzlePictureQuest_Taxi</Template>
+      <Values>
+        <FollowUpQuest />
+        <Number />
+        <Preconditions>
+          <MinPlayerLevel>EndGame</MinPlayerLevel>
+        </Preconditions>
+        <PuzzlePicture>
+          <PuzzlePictureUnitCount>4</PuzzlePictureUnitCount>
+          <AdditionalUnitCount>3</AdditionalUnitCount>
+        </PuzzlePicture>
+        <Quest>
+          <QuestBlockTime>3600000</QuestBlockTime>
+        </Quest>
+        <Reward>
+          <RewardLink>2400060</RewardLink>
+          <RewardDiplomacyPoints>10</RewardDiplomacyPoints>
+        </Reward>
+        <Standard>
+          <GUID>4075674</GUID>
+          <Creator>kalle</Creator>
+          <CreationTime>2011-07-06 10:21</CreationTime>
+          <LastChangeUser>kalle</LastChangeUser>
+          <LastChangeTime>2011-10-28 16:25</LastChangeTime>
+        </Standard>
+        <SubQuests />
+        <TextTags />
+        <Time />
+        <WinConditions />
+        <QuestMessages />
+        <QuestText>
+          <QuestStoryText>4075681</QuestStoryText>
+        </QuestText>
+        <QuestItem />
+        <Execution />
+        <MinimapPing />
+        <DecisionQuest />
+        <SelectObjectQuest />
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

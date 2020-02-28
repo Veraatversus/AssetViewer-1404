@@ -1,0 +1,1348 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Vehicles</Name>
+      <Groups>
+        <Group>
+          <Name>tycoons</Name>
+          <Assets>
+            <Asset>
+              <Template>SubmarineWarship</Template>
+              <Values>
+                <BuildCost>
+                  <ResourceCost>
+                    <Credits>10000</Credits>
+                  </ResourceCost>
+                  <ProductCost>
+                    <Carbon>80000</Carbon>
+                    <AdvancedWeapons>35000</AdvancedWeapons>
+                  </ProductCost>
+                  <ConstructionTime>480000</ConstructionTime>
+                </BuildCost>
+                <Hitpoints>
+                  <MaxHitpoints>800</MaxHitpoints>
+                </Hitpoints>
+                <InfoLayer />
+                <ItemContainer>
+                  <SpecialActions>
+                    <Item>
+                      <Item>2600005</Item>
+                    </Item>
+                    <Item>
+                      <Item>7210030</Item>
+                    </Item>
+                  </SpecialActions>
+                </ItemContainer>
+                <KIModule />
+                <MaintenanceCost>
+                  <ActiveCost>150</ActiveCost>
+                  <MaintenanceType>Military</MaintenanceType>
+                </MaintenanceCost>
+                <Mesh>
+                  <ShowPlayerColor>1</ShowPlayerColor>
+                </Mesh>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data\graphics\dlc_03\vehicles\tycoons\nuclear_submarine_tycoons\nuclear_submarine_tycoons.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <ObjectSpawner />
+                <RepairShips />
+                <Selection>
+                  <SelectionRadius>4</SelectionRadius>
+                  <IgnoreCameraLayer>1</IgnoreCameraLayer>
+                </Selection>
+                <Ship>
+                  <VisionRadius>50</VisionRadius>
+                  <DriftArea>14336</DriftArea>
+                  <ShipClaimNeeded>49152</ShipClaimNeeded>
+                  <BuildUnderwaterGUID>10033</BuildUnderwaterGUID>
+                  <VehicleDescription>7210005</VehicleDescription>
+                </Ship>
+                <Standard>
+                  <Name>nuclear_submarine_tycoons</Name>
+                  <GUID>7210000</GUID>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2011-11-30 12:04</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2012-07-30 11:22</LastChangeTime>
+                </Standard>
+                <TradingPrice>
+                  <BaseGoldPrice>6000</BaseGoldPrice>
+                </TradingPrice>
+                <Transport>
+                  <SlotCount>1</SlotCount>
+                </Transport>
+                <Walking>
+                  <WalkingSpeed>28672</WalkingSpeed>
+                  <TurnSpeed>184320</TurnSpeed>
+                  <TurnRadius>12288</TurnRadius>
+                  <WalkingType>Submarine;Size_1X1;ShipMovement</WalkingType>
+                  <TurnRadiusMinimum>1843</TurnRadiusMinimum>
+                  <TurnDeceleration>512</TurnDeceleration>
+                  <Acceleration>4096</Acceleration>
+                  <SoundMoving>98420</SoundMoving>
+                </Walking>
+                <Nameable>
+                  <NamePool>Submarine</NamePool>
+                </Nameable>
+                <Flying>
+                  <FlyHeightVariation>819</FlyHeightVariation>
+                  <FlyPitchByAcceleration>0</FlyPitchByAcceleration>
+                  <FlyPitchByDeceleration>0</FlyPitchByDeceleration>
+                  <FlyPitchBySpeed>0</FlyPitchBySpeed>
+                  <FlyVerticalSpeed>12288</FlyVerticalSpeed>
+                  <FlyIdleSequence>idle02</FlyIdleSequence>
+                  <FlyWalkSequence>walk02</FlyWalkSequence>
+                  <TransitionPitchToGroundLevel>122880</TransitionPitchToGroundLevel>
+                  <TransitionPitchToFlightLevel>-122880</TransitionPitchToFlightLevel>
+                  <TransitionRollToGroundLevel>20480</TransitionRollToGroundLevel>
+                  <SoundFlyingMoving>98420</SoundFlyingMoving>
+                  <SoundFlyingIdle>98421</SoundFlyingIdle>
+                </Flying>
+                <TradePartner />
+                <Combat>
+                  <AttackRange>73728</AttackRange>
+                  <AttackSpeed>0</AttackSpeed>
+                  <CombatDamageEfficiency />
+                  <AttackLayer />
+                  <AttackAngles />
+                </Combat>
+                <AIInfos>
+                  <ObjectStrength>4</ObjectStrength>
+                  <DangerSize>24</DangerSize>
+                </AIInfos>
+                <ThirdpartyObject />
+                <Reward>
+                  <RequiresActivation>1</RequiresActivation>
+                </Reward>
+                <Ghost>
+                  <GhostFile>data\graphics\dlc_03\vehicles\techs\nuclear_submarine_techs\nuclear_submarine_hologram_techs.cfg</GhostFile>
+                </Ghost>
+                <DummyManager />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>techs</Name>
+          <Assets>
+            <Asset>
+              <Template>SubmarineWarship</Template>
+              <Values>
+                <BuildCost>
+                  <ResourceCost>
+                    <Credits>10000</Credits>
+                  </ResourceCost>
+                  <ProductCost>
+                    <Carbon>80000</Carbon>
+                    <AdvancedWeapons>35000</AdvancedWeapons>
+                  </ProductCost>
+                  <ConstructionTime>480000</ConstructionTime>
+                </BuildCost>
+                <Hitpoints>
+                  <MaxHitpoints>800</MaxHitpoints>
+                </Hitpoints>
+                <InfoLayer />
+                <ItemContainer>
+                  <SpecialActions>
+                    <Item>
+                      <Item>2600005</Item>
+                    </Item>
+                    <Item>
+                      <Item>7210030</Item>
+                    </Item>
+                  </SpecialActions>
+                </ItemContainer>
+                <KIModule />
+                <MaintenanceCost>
+                  <ActiveCost>150</ActiveCost>
+                  <MaintenanceType>Military</MaintenanceType>
+                </MaintenanceCost>
+                <Mesh>
+                  <ShowPlayerColor>1</ShowPlayerColor>
+                </Mesh>
+                <Object>
+                  <Variations>
+                    <Item>
+                      <Filename>data\graphics\dlc_03\vehicles\techs\nuclear_submarine_techs\nuclear_submarine_techs.cfg</Filename>
+                    </Item>
+                  </Variations>
+                </Object>
+                <ObjectSpawner />
+                <RepairShips />
+                <Selection>
+                  <SelectionRadius>4</SelectionRadius>
+                  <IgnoreCameraLayer>1</IgnoreCameraLayer>
+                </Selection>
+                <Ship>
+                  <VisionRadius>50</VisionRadius>
+                  <DriftArea>14336</DriftArea>
+                  <ShipClaimNeeded>49152</ShipClaimNeeded>
+                  <BuildUnderwaterGUID>10033</BuildUnderwaterGUID>
+                  <VehicleDescription>7210005</VehicleDescription>
+                </Ship>
+                <Standard>
+                  <Name>nuclear_submarine_techs</Name>
+                  <GUID>7210001</GUID>
+                  <Creator>Joachim</Creator>
+                  <CreationTime>2011-11-30 12:05</CreationTime>
+                  <LastChangeUser>fiedler</LastChangeUser>
+                  <LastChangeTime>2012-06-20 12:32</LastChangeTime>
+                </Standard>
+                <TradingPrice>
+                  <BaseGoldPrice>6000</BaseGoldPrice>
+                </TradingPrice>
+                <Transport>
+                  <SlotCount>1</SlotCount>
+                </Transport>
+                <Walking>
+                  <WalkingSpeed>28672</WalkingSpeed>
+                  <TurnSpeed>184320</TurnSpeed>
+                  <TurnRadius>12288</TurnRadius>
+                  <WalkingType>Submarine;Size_1X1;ShipMovement</WalkingType>
+                  <TurnRadiusMinimum>1843</TurnRadiusMinimum>
+                  <TurnDeceleration>512</TurnDeceleration>
+                  <Acceleration>4096</Acceleration>
+                  <SoundMoving>98420</SoundMoving>
+                </Walking>
+                <Nameable>
+                  <NamePool>Submarine</NamePool>
+                </Nameable>
+                <Flying>
+                  <FlyHeightVariation>819</FlyHeightVariation>
+                  <FlyPitchByAcceleration>0</FlyPitchByAcceleration>
+                  <FlyPitchByDeceleration>0</FlyPitchByDeceleration>
+                  <FlyPitchBySpeed>0</FlyPitchBySpeed>
+                  <FlyVerticalSpeed>12288</FlyVerticalSpeed>
+                  <FlyIdleSequence>idle02</FlyIdleSequence>
+                  <FlyWalkSequence>walk02</FlyWalkSequence>
+                  <TransitionPitchToGroundLevel>122880</TransitionPitchToGroundLevel>
+                  <TransitionPitchToFlightLevel>-122880</TransitionPitchToFlightLevel>
+                  <TransitionRollToGroundLevel>20480</TransitionRollToGroundLevel>
+                  <SoundFlyingMoving>98420</SoundFlyingMoving>
+                  <SoundFlyingIdle>98421</SoundFlyingIdle>
+                </Flying>
+                <TradePartner />
+                <Combat>
+                  <AttackRange>73728</AttackRange>
+                  <AttackSpeed>0</AttackSpeed>
+                  <CombatDamageEfficiency />
+                  <AttackLayer />
+                  <AttackAngles />
+                </Combat>
+                <AIInfos>
+                  <ObjectStrength>4</ObjectStrength>
+                  <DangerSize>24</DangerSize>
+                </AIInfos>
+                <ThirdpartyObject />
+                <Reward>
+                  <RequiresActivation>1</RequiresActivation>
+                  <Description>7210040</Description>
+                  <PreviewPicture>data\graphics\dlc_03\ui\rewards\Reward_tech_ship.jpg</PreviewPicture>
+                  <Category>Vehicle</Category>
+                  <PreviewPictureThumb>data\graphics\dlc_03\ui\rewards\Thumbs\Reward_tech_ship_thumbs.jpg</PreviewPictureThumb>
+                </Reward>
+                <Ghost>
+                  <GhostFile>data\graphics\dlc_03\vehicles\techs\nuclear_submarine_techs\nuclear_submarine_hologram_techs.cfg</GhostFile>
+                </Ghost>
+                <DummyManager />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Props</Name>
+      <Assets>
+        <Asset>
+          <Template>SeaMine</Template>
+          <Values>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data\graphics\dlc_03\effects\military\sea_mine.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Standard>
+              <Name>SeaMine</Name>
+              <GUID>7210002</GUID>
+              <Creator>Joachim</Creator>
+              <CreationTime>2012-03-02 10:54</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-05-24 16:22</LastChangeTime>
+            </Standard>
+            <Selection>
+              <AllowRectSelection>0</AllowRectSelection>
+              <HittestPriority>0</HittestPriority>
+            </Selection>
+            <InfoLayer />
+            <Hitpoints>
+              <BurnThresholdPercentage>0</BurnThresholdPercentage>
+              <FireDamagePerMinute>0</FireDamagePerMinute>
+            </Hitpoints>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>SeaMine</Template>
+          <Values>
+            <Mesh />
+            <Object>
+              <ObjectPlacement>Seabed</ObjectPlacement>
+              <Variations>
+                <Item>
+                  <Filename>data\graphics\dlc_03\effects\military\sea_mine.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Standard>
+              <Name>SeaMineUnderwater</Name>
+              <GUID>7210003</GUID>
+              <Creator>Joachim</Creator>
+              <CreationTime>2012-03-02 10:54</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-05-24 16:22</LastChangeTime>
+            </Standard>
+            <Selection>
+              <AllowRectSelection>0</AllowRectSelection>
+              <HittestPriority>0</HittestPriority>
+            </Selection>
+            <InfoLayer />
+            <Hitpoints>
+              <BurnThresholdPercentage>0</BurnThresholdPercentage>
+              <FireDamagePerMinute>0</FireDamagePerMinute>
+            </Hitpoints>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>-PlayerProfile</Name>
+      <Groups>
+        <Group>
+          <Name>Customization</Name>
+          <Groups>
+            <Group>
+              <Name>Portraits</Name>
+              <Assets>
+                <Asset>
+                  <Template>ProfilePortrait</Template>
+                  <Values>
+                    <Standard>
+                      <Name>E.V.E. Variation</Name>
+                      <GUID>7210004</GUID>
+                      <Versions />
+                      <Creator>koenig</Creator>
+                      <CreationTime>2012-03-12 10:39</CreationTime>
+                      <LastChangeUser>sonntag</LastChangeUser>
+                      <LastChangeTime>2012-04-03 10:59</LastChangeTime>
+                    </Standard>
+                    <ProfilePortrait>
+                      <ProfilePicture>data\config\gui\Backgrounds\Prototype\portraits\portrait_eve_variation.bkg</ProfilePicture>
+                      <ProfileObject>data\graphics\dlc_03\portraits\third_party\eve_variation\eve_variation.cfg</ProfileObject>
+                      <ProfileThirdParty>2330050</ProfileThirdParty>
+                      <ProfileIconGUID>2330007</ProfileIconGUID>
+                    </ProfilePortrait>
+                    <Reward>
+                      <Description>1114974</Description>
+                      <PreviewPicture>data\graphics\ui\rewards\portrait_01.jpg</PreviewPicture>
+                      <PreviewPictureThumb>data\graphics\ui\rewards\thumbs\portrait_01.jpg</PreviewPictureThumb>
+                    </Reward>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>ShopItems</Name>
+      <Assets>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>"Schleichfahrt" Paket</Name>
+              <GUID>7210006</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-03-15 09:16</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-04-17 19:04</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7210042</Description>
+              <PreviewPicture>data\graphics\dlc_03\ui\rewards\Shop_DLC03_ship_tycoons.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_03\ui\rewards\Thumbs\Shop_DLC03_ship_tycoons_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7210000</GUID>
+                </Item>
+                <Item>
+                  <GUID>7211016</GUID>
+                </Item>
+                <Item>
+                  <GUID>7211017</GUID>
+                </Item>
+                <Item>
+                  <GUID>7211021</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>2999</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>"Nordamark Baureihe" Paket</Name>
+              <GUID>7210007</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-03-15 09:16</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-04-18 10:48</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7210075</Description>
+              <PreviewPicture>data\graphics\dlc_03\ui\rewards\Shop_DLC03_ornaments.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_03\ui\rewards\Thumbs\Shop_DLC03_ornaments_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7210038</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210043</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210044</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210046</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210045</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210047</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210048</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210049</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>2997</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>"Nordamark Konflikt" Komplettpaket</Name>
+              <GUID>7210008</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-03-15 09:16</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-18 09:30</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7210081</Description>
+              <PreviewPicture>data\graphics\dlc_03\ui\rewards\Shop_DLC03_all.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_03\ui\rewards\Thumbs\Shop_DLC03_all_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7210006</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210009</GUID>
+                </Item>
+                <Item>
+                  <GUID>7210007</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>3400</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>"E.V.E." Paket</Name>
+              <GUID>7210009</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-03-15 09:44</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-04-18 10:49</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7210082</Description>
+              <PreviewPicture>data\graphics\dlc_03\ui\rewards\Shop_DLC03_portrait.jpg</PreviewPicture>
+              <Flags>New;ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_03\ui\rewards\Thumbs\Shop_DLC03_portrait_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7210004</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>2998</Order>
+            </Reward>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Buildings</Name>
+      <Groups>
+        <Group>
+          <Name>ecos</Name>
+          <Groups>
+            <Group>
+              <Name>ornaments</Name>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>1000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Glass>1000</Glass>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateRiverfilterplant</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\ecos\ornaments\eden_line_flagpole\eden_line_flagpole.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_flagpole</Name>
+                      <GUID>7210037</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-22 10:12</CreationTime>
+                      <LastChangeUser>sewenig</LastChangeUser>
+                      <LastChangeTime>2012-04-11 15:18</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>1000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Glass>1000</Glass>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateRiverfilterplant</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\ecos\ornaments\eden_line_flagpole\eden_line_flagpole_variation.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>eden_line_flagpole2</Name>
+                      <GUID>7210068</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-29 11:14</CreationTime>
+                      <LastChangeUser>sewenig</LastChangeUser>
+                      <LastChangeTime>2012-04-11 15:18</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>tycoons</Name>
+          <Groups>
+            <Group>
+              <Name>ornaments</Name>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>1000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Steel>1000</Steel>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateMissileLaunching</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\tycoons\ornaments\detrust_line_flagpole\detrust_line_flagpole_flagpole.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_flagpole_flagpole</Name>
+                      <GUID>7210039</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-22 10:14</CreationTime>
+                      <LastChangeUser>sewenig</LastChangeUser>
+                      <LastChangeTime>2012-04-11 15:18</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>1000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Steel>1000</Steel>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateMissileLaunching</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\tycoons\ornaments\detrust_line_flagpole\detrust_line_flagpole_flagpole_variation.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_flagpole_flagpole2</Name>
+                      <GUID>7210069</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-29 11:16</CreationTime>
+                      <LastChangeUser>sewenig</LastChangeUser>
+                      <LastChangeTime>2012-04-11 15:18</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>others</Name>
+          <Groups>
+            <Group>
+              <Name>ornaments</Name>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>3000</BuildingModules>
+                        <Tools>2000</Tools>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>30</ActiveCost>
+                      <InactiveCost>30</InactiveCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh>
+                      <DefaultIdleSequence>work01</DefaultIdleSequence>
+                    </Mesh>
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_subterrain_cargo\harbor_line_subterrain_cargo.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>harbor_line_subterrain_cargo</Name>
+                      <GUID>7210038</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-22 10:15</CreationTime>
+                      <LastChangeUser>Kevin</LastChangeUser>
+                      <LastChangeTime>2012-04-20 14:41</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>3000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_cargoprops_others\harbor_line_cargoprops_others_v01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>harbor_line_cargoprops</Name>
+                      <GUID>7210043</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-26 16:52</CreationTime>
+                      <LastChangeUser>roesch</LastChangeUser>
+                      <LastChangeTime>2012-04-30 14:21</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>3000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_cargoprops_others\harbor_line_cargoprops_others_v04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>harbor_line_cargoprops2</Name>
+                      <GUID>7210044</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-26 16:53</CreationTime>
+                      <LastChangeUser>roesch</LastChangeUser>
+                      <LastChangeTime>2012-04-30 14:21</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>3000</BuildingModules>
+                        <Tools>1000</Tools>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_gate_others\harbor_line_gate_others.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>harbor_line_gate</Name>
+                      <GUID>7210045</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-26 16:54</CreationTime>
+                      <LastChangeUser>roesch</LastChangeUser>
+                      <LastChangeTime>2012-04-30 14:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>7500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>20000</BuildingModules>
+                        <Tools>10000</Tools>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>100</ActiveCost>
+                      <InactiveCost>100</InactiveCost>
+                      <ActiveEnergyCost>102400</ActiveEnergyCost>
+                      <InactiveEnergyCost>102400</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_lighthouse_others\harbor_line_lighthouse_others.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection>
+                      <GUIType>Lighthouse</GUIType>
+                    </Selection>
+                    <Standard>
+                      <Name>harbor_line_lighthouse</Name>
+                      <GUID>7210046</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-26 16:54</CreationTime>
+                      <LastChangeUser>roesch</LastChangeUser>
+                      <LastChangeTime>2012-04-30 14:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>3000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_cargoprops_others\harbor_line_cargoprops_others_v02.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>harbor_line_cargoprops3</Name>
+                      <GUID>7210047</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-26 17:20</CreationTime>
+                      <LastChangeUser>roesch</LastChangeUser>
+                      <LastChangeTime>2012-04-30 14:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>3000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_cargoprops_others\harbor_line_cargoprops_others_v03.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>harbor_line_cargoprops4</Name>
+                      <GUID>7210048</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-26 17:20</CreationTime>
+                      <LastChangeUser>roesch</LastChangeUser>
+                      <LastChangeTime>2012-04-30 14:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking>
+                      <HarborType>2</HarborType>
+                      <BlockingRules>OverHabourBuilding</BlockingRules>
+                      <CreateWalkingUnitHeights>1</CreateWalkingUnitHeights>
+                      <WalkingUnitHeightOffset>40</WalkingUnitHeightOffset>
+                      <EnableOpticalStreetConnection>0</EnableOpticalStreetConnection>
+                    </Blocking>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>3000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <ObjectPosition>Harbour</ObjectPosition>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_03\buildings\others\ornaments\harbor_line_cargoprops_others\harbor_line_cargoprops_others_v05.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <BaseHarbourSize>2</BaseHarbourSize>
+                      <BuildWithStoneBase>1</BuildWithStoneBase>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>harbor_line_cargoprops5</Name>
+                      <GUID>7210049</GUID>
+                      <Creator>Stony</Creator>
+                      <CreationTime>2012-03-26 17:20</CreationTime>
+                      <LastChangeUser>roesch</LastChangeUser>
+                      <LastChangeTime>2012-04-30 14:22</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Projectiles</Name>
+      <Assets>
+        <Asset>
+          <Template>Projectile</Template>
+          <Values>
+            <BallisticObject>
+              <LaunchSound>98504</LaunchSound>
+              <WaterImpactCFG>data\graphics\effects\military\tycoon_missile_hit.cfg</WaterImpactCFG>
+              <WaterImpactSequence>
+                <Item>
+                  <SequenceID>fight01</SequenceID>
+                </Item>
+              </WaterImpactSequence>
+              <ObjectImpactCFG>data\graphics\effects\military\tycoon_missile_hit.cfg</ObjectImpactCFG>
+              <ObjectImpactSequence>
+                <Item>
+                  <SequenceID>fight01</SequenceID>
+                </Item>
+              </ObjectImpactSequence>
+              <ProjectileType>Nukular</ProjectileType>
+              <ShieldImpactCFG>data\graphics\effects\military\tycoon_missile_hit.cfg</ShieldImpactCFG>
+              <ShieldImpactSequence>
+                <Item>
+                  <SequenceID>fight01</SequenceID>
+                </Item>
+              </ShieldImpactSequence>
+            </BallisticObject>
+            <Mesh>
+              <DefaultIdleSequence>walk01</DefaultIdleSequence>
+            </Mesh>
+            <Object>
+              <ObjectType>Handle</ObjectType>
+              <Variations>
+                <Item>
+                  <Filename>data\graphics\dlc_03\vehicles\techs\nuclear_submarine_techs\missile_techs.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Standard>
+              <Name>nuclear_submarine_missile</Name>
+              <GUID>7210083</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-04-03 10:41</CreationTime>
+              <LastChangeUser>roesch</LastChangeUser>
+              <LastChangeTime>2012-04-12 14:34</LastChangeTime>
+            </Standard>
+            <Ghost />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MetaGame</Name>
+      <Groups>
+        <Group>
+          <Name>WorldEventMails</Name>
+          <Assets>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Started Mail Title</Name>
+                  <GUID>7211011</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2012-04-13 17:16</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-04-13 18:00</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7211012</Content>
+                  <Sender>2330007</Sender>
+                  <AudioList>
+                    <Item>
+                      <GUID>5100200</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100201</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100202</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100203</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100204</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100205</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Mail Progress Title</Name>
+                  <GUID>7211005</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2012-04-13 17:16</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-04-13 17:30</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7211006</Content>
+                  <Sender>2330007</Sender>
+                  <AudioList>
+                    <Item>
+                      <GUID>5100201</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100205</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Mail ReminderTitle</Name>
+                  <GUID>7211007</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2012-04-13 17:16</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-04-13 17:30</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7211008</Content>
+                  <Sender>2330007</Sender>
+                  <AudioList>
+                    <Item>
+                      <GUID>5100205</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100201</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100202</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5100204</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Mail End Title</Name>
+                  <GUID>7211009</GUID>
+                  <Creator>kalle</Creator>
+                  <CreationTime>2012-04-13 17:16</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-04-13 17:30</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7211010</Content>
+                  <Sender>2330007</Sender>
+                  <AudioList>
+                    <Item>
+                      <GUID>5105304</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5117101</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5101200</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5101201</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

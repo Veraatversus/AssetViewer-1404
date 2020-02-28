@@ -1,0 +1,37 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Default Text</Name>
+      <GUIDRangeMin>5000000</GUIDRangeMin>
+      <GUIDRangeMax>5009999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/ThirdPartyDefault.xml</FileName>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>CharacterText</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>EVE Audio ok</Name>
+      <GUIDRangeMin>5100000</GUIDRangeMin>
+      <GUIDRangeMax>5199999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/EveAudios.xml</FileName>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>Character Audio</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>Factions Audio</Name>
+      <GUIDRangeMin>5200000</GUIDRangeMin>
+      <GUIDRangeMax>5999999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/FactionAudios.xml</FileName>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>Character Audio</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>Third Parties Audio</Name>
+      <GUIDRangeMin>6000000</GUIDRangeMin>
+      <GUIDRangeMax>6999999</GUIDRangeMax>
+      <FileName>data/config/TextEditor/ThirdPartyAudios.xml</FileName>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>Character Audio</DefaultTemplate>
+    </Group>
+  </Groups>
+</Group>

@@ -1,0 +1,517 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Assets>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065500</GUID>
+          <Creator>fiedler</Creator>
+          <CreationTime>2011-04-06 18:27</CreationTime>
+          <LastChangeUser>mais</LastChangeUser>
+          <LastChangeTime>2011-11-16 11:52</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>LoseCondition Medium</Text>
+            </German>
+            <Czech>
+              <Status>Final</Status>
+            </Czech>
+          </LocaText>
+          <LokaFlag>0</LokaFlag>
+          <LastGermanText>LoseCondition</LastGermanText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065501</GUID>
+          <Creator>zellmann</Creator>
+          <CreationTime>2011-05-16 09:45</CreationTime>
+          <LastChangeUser>knauz</LastChangeUser>
+          <LastChangeTime>2011-09-02 14:41</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>Sondereinheit</Text>
+              <Status>PreFinal</Status>
+            </German>
+            <English>
+              <Text>Special Unit</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+            <Czech>
+              <Text>Speciální jednotka</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Czech>
+            <French>
+              <Text>Unité spéciale</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </French>
+            <Italian>
+              <Text>Unità speciale</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>Unidad especial</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>Jednostka specjalna</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Polish>
+            <Russian>
+              <Text>Особый отряд</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Russian>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065502</GUID>
+          <Creator>zellmann</Creator>
+          <CreationTime>2011-05-16 09:46</CreationTime>
+          <LastChangeUser>seibold</LastChangeUser>
+          <LastChangeTime>2012-02-08 11:33</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>„Ich treffe lediglich Vorbereitungen für Operationen, die mich wieder ganz nach oben bringen werden!“</Text>
+              <Status>PreFinal</Status>
+            </German>
+            <English>
+              <Text>"I only make preparations for operations that will take me back to the top!"</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+            <Czech>
+              <Text>Připravuji se jen na věci, které mě zase dostanou na vrchol.</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Czech>
+            <French>
+              <Text>"Je m’investis uniquement dans les opérations susceptibles de me mener au sommet !"</Text>
+              <LastFinalText>"Je m’investis uniquement dans les opérations susceptibles de me mener au sommet !"</LastFinalText>
+              <Status>Final</Status>
+              <ExportCount>1</ExportCount>
+            </French>
+            <Italian>
+              <Text>"Faccio preparativi solo per le operazioni che mi riporteranno in vetta!"</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>"¡Solo preparo las operaciones que me lleven de regreso a la cima!"</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>"Przygotowuję się tylko do operacji, które wyniosą mnie prosto na szczyt!"</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Polish>
+            <Russian>
+              <Text>Я всего лишь готовлюсь к действиям, которые вернут меня на вершину! </Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Russian>
+          </LocaText>
+          <LastGermanText>„Dieses Schiff  hat für mich strategisch relevante Informationen an Board."</LastGermanText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065503</GUID>
+          <Creator>zellmann</Creator>
+          <CreationTime>2011-05-16 09:52</CreationTime>
+          <LastChangeUser>knauz</LastChangeUser>
+          <LastChangeTime>2011-09-02 14:41</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>Belastend</Text>
+              <Status>PreFinal</Status>
+            </German>
+            <English>
+              <Text>Incriminating</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+            <Czech>
+              <Text>Inkriminující</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Czech>
+            <French>
+              <Text>Mise en cause</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </French>
+            <Italian>
+              <Text>Incriminante</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>Incriminatorio</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>Obciążające dowody</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Polish>
+            <Russian>
+              <Text>Обвинение</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Russian>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065504</GUID>
+          <Creator>zellmann</Creator>
+          <CreationTime>2011-05-16 09:52</CreationTime>
+          <LastChangeUser>seibold</LastChangeUser>
+          <LastChangeTime>2012-05-02 10:43</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>"If this Ship reaches its destination my reputation will suffer, and it will be your fault!"</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+            <Czech>
+              <Text>Pokud se ta loď dostane k cíli, utrpí tím má reputace!</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Czech>
+            <French>
+              <Text>“Si ce navire atteint sa destination, ma réputation en pâtira, et ce sera de votre faute !“</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </French>
+            <Italian>
+              <Text>"Se questa Nave arriva a destinazione, la mia reputazione ne risentirà e sarà tutta colpa tua!"</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>"¡Si esa nave llega a su destino mi reputación se resentirá, y será culpa tuya!"</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>Moja reputacja ucierpi, jeśli ten statek dotrze do celu i to będzie twoja wina!</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Polish>
+            <Russian>
+              <Text>Если этот корабль достигнет места назначения, моя репутация пострадает, и вы будете виноваты!</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Russian>
+          </LocaText>
+          <LokaFlag>0</LokaFlag>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065505</GUID>
+          <Creator>zellmann</Creator>
+          <CreationTime>2011-05-16 10:01</CreationTime>
+          <LastChangeUser>knauz</LastChangeUser>
+          <LastChangeTime>2011-09-02 14:41</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>Informationspiraterie</Text>
+              <Status>PreFinal</Status>
+            </German>
+            <English>
+              <Text>Information Piracy</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+            <Czech>
+              <Text>Informační pirátství</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Czech>
+            <French>
+              <Text>Piratage d’informations</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </French>
+            <Italian>
+              <Text>Pirateria dell'informazione</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>Pirateo de información</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>Piractwo informacyjne</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Polish>
+            <Russian>
+              <Text>Информационное пиратство</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Russian>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065506</GUID>
+          <Creator>zellmann</Creator>
+          <CreationTime>2011-05-16 10:01</CreationTime>
+          <LastChangeUser>Seibold</LastChangeUser>
+          <LastChangeTime>2012-01-30 17:04</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>„Die Informationen auf diesem Schiff sind zu wichtig, als dass es entkommen darf.“</Text>
+              <Status>PreFinal</Status>
+            </German>
+            <English>
+              <Text>"The information on that Ship is too important to let it get away."</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>4</ExportCount>
+            </English>
+            <Czech>
+              <Text>Informace, které ta loď převáží, jsou příliš cenné na to, abychom ji nechali jen tak uniknout.</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>3</ExportCount>
+            </Czech>
+            <French>
+              <Text>"Les informations que transporte ce navire sont trop importantes pour qu’on le laisse filer."</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>2</ExportCount>
+            </French>
+            <Italian>
+              <Text>"Le informazioni su quella Nave sono troppo importanti per lasciarle sfuggire."</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>2</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>"La información de esa nave es demasiado importante para perderla."</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>2</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>"Informacje na tym statku są zbyt ważne by pozwolić sobie na ich utratę."</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>2</ExportCount>
+            </Polish>
+            <Russian>
+              <Text>Информация, которая есть на корабле, слишком важна для вас, чтобы упустить ее.</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>2</ExportCount>
+            </Russian>
+          </LocaText>
+          <LastGermanText>„Dies Informationen auf diesem Schiff sind zu wichtig, als dass du es entkommen lassen darf.“</LastGermanText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065507</GUID>
+          <Creator>mais</Creator>
+          <CreationTime>2011-10-06 10:09</CreationTime>
+          <LastChangeUser>mais</LastChangeUser>
+          <LastChangeTime>2011-11-16 11:52</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>LoseCondition Easy</Text>
+            </German>
+            <Czech>
+              <Status>Final</Status>
+            </Czech>
+          </LocaText>
+          <LokaFlag>0</LokaFlag>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065508</GUID>
+          <Creator>mais</Creator>
+          <CreationTime>2011-10-06 10:10</CreationTime>
+          <LastChangeUser>mais</LastChangeUser>
+          <LastChangeTime>2011-11-16 11:52</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>LoseCondition Hard</Text>
+            </German>
+            <Czech>
+              <Status>Final</Status>
+            </Czech>
+          </LocaText>
+          <LokaFlag>0</LokaFlag>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065509</GUID>
+          <Kommentar>raider enters map - quest</Kommentar>
+          <Creator>trost</Creator>
+          <CreationTime>2011-10-19 11:33</CreationTime>
+          <LastChangeUser>daniel.richter</LastChangeUser>
+          <LastChangeTime>2011-11-07 10:02</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>High Noon</Text>
+              <Status>PreFinal</Status>
+            </German>
+            <English>
+              <Text>High Noon</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+            <French>
+              <Text>En plein jour</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </French>
+            <Italian>
+              <Text>Mezzogiorno di fuoco</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>Mediodía</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>W samo południe</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Polish>
+            <Czech>
+              <Text>Pravé poledne</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Czech>
+            <Russian>
+              <Text>Ровно в полдень</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Russian>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>4065510</GUID>
+          <Kommentar>statement zu high noon</Kommentar>
+          <Creator>trost</Creator>
+          <CreationTime>2011-10-19 12:01</CreationTime>
+          <LastChangeUser>daniel.richter</LastChangeUser>
+          <LastChangeTime>2011-11-07 10:02</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>"Diesen Kampf wird nur einer von uns beiden überleben ..."</Text>
+              <Status>PreFinal</Status>
+            </German>
+            <English>
+              <Text>Only one of us is going to walk away from this...</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+            <French>
+              <Text>Un seul de nous deux s’en sortira...</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </French>
+            <Italian>
+              <Text>Solo uno di noi se ne andrà da qui...</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Italian>
+            <Spanish>
+              <Text>Solo uno de nosotros va a salir vivo de esta...</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Spanish>
+            <Polish>
+              <Text>Tylko jeden z nas wyjdzie z tego cało</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Polish>
+            <Czech>
+              <Text>Odtud po svých odkráčí jen jeden z nás...</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Czech>
+            <Russian>
+              <Text>Только один из нас уйдет отсюда живым...</Text>
+              <Status>PreFinal</Status>
+              <ExportCount>1</ExportCount>
+            </Russian>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

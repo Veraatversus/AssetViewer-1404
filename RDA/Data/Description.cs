@@ -1,47 +1,21 @@
-﻿using System;
+﻿using RDA.Share;
+using System;
 using System.Linq;
 using System.Xml.Serialization;
 
 namespace RDA.Data {
 
   [Serializable]
-  public class Description : IEquatable<Description> {
+  public class Description : RDA.Share.Description {
 
     #region Properties
-
-    [XmlAttribute]
-    public String ID { get; set; }
-
-    public String EN { get; set; }
-    public String DE { get; set; }
-    public Icon Icon { get; set; }
-
-    [XmlIgnore]
-    public DescriptionFontStyle FontStyleString { get; set; }
-
-    [XmlAttribute]
-    public int FontStyle {
-      get {
-        return (int)FontStyleString;
-      }
-      set {
-        FontStyleString = (DescriptionFontStyle)value;
-      }
-    }
-
-    public Description AdditionalInformation { get; set; }
 
     #endregion Properties
 
     #region Constructors
 
-    public Description(String en, String de, Icon icon = null, Description AdditionalInformation = null, DescriptionFontStyle fontStyle = default) {
-      this.ID = String.Empty;
-      this.EN = en;
-      this.DE = de;
-      this.Icon = icon;
-      this.AdditionalInformation = AdditionalInformation;
-      this.FontStyleString = fontStyle;
+    public Description(String en, String de, Icon icon = null, Description AdditionalInformation = null, DescriptionFontStyle fontStyle = default) : base(en, de, icon, AdditionalInformation, fontStyle) {
+
     }
     public Description() {
     }

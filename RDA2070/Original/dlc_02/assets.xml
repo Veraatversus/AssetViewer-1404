@@ -1,0 +1,1597 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Buildings</Name>
+      <Groups>
+        <Group>
+          <Name>others</Name>
+          <Groups>
+            <Group>
+              <Name>special</Name>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>7500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>30000</BuildingModules>
+                        <Tools>20000</Tools>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints>
+                      <MaxHitpoints>1500</MaxHitpoints>
+                      <BurnThresholdPercentage>60</BurnThresholdPercentage>
+                      <CallFirefighter>1</CallFirefighter>
+                    </Hitpoints>
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>250</ActiveCost>
+                      <InactiveCost>125</InactiveCost>
+                      <ActiveEcoEffect>-20480</ActiveEcoEffect>
+                      <InactiveEcoEffect>-8192</InactiveEcoEffect>
+                      <ActiveEnergyCost>61440</ActiveEnergyCost>
+                      <InactiveEnergyCost>28672</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\others\special\statistic_center_others\statistic_center_others.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>Bailiwick</GUIType>
+                    </Selection>
+                    <Standard>
+                      <Name>statistic_center_others</Name>
+                      <GUID>7110000</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-12-09 13:54</CreationTime>
+                      <LastChangeUser>Stony</LastChangeUser>
+                      <LastChangeTime>2012-03-15 15:44</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                      <Description>7111155</Description>
+                      <PreviewPicture>data\graphics\dlc_02\ui\rewards\DLC02_Statistic_Center_others.jpg</PreviewPicture>
+                      <Category>Building</Category>
+                      <TypeName>1115137</TypeName>
+                      <PreviewPictureThumb>data\graphics\dlc_02\ui\rewards\Thumbs\DLC02_Statistic_Center_others.jpg</PreviewPictureThumb>
+                    </Reward>
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>tycoons</Name>
+          <Groups>
+            <Group>
+              <Name>special</Name>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>7500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>30000</BuildingModules>
+                        <Tools>20000</Tools>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>Intermediate2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints>
+                      <MaxHitpoints>1500</MaxHitpoints>
+                      <BurnThresholdPercentage>60</BurnThresholdPercentage>
+                      <CallFirefighter>1</CallFirefighter>
+                    </Hitpoints>
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>250</ActiveCost>
+                      <InactiveCost>125</InactiveCost>
+                      <ActiveEcoEffect>-20480</ActiveEcoEffect>
+                      <InactiveEcoEffect>-8192</InactiveEcoEffect>
+                      <ActiveEnergyCost>61440</ActiveEnergyCost>
+                      <InactiveEnergyCost>28672</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\special\statistic_center_tycoons\statistic_center_tycoons.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection>
+                      <GUIType>Bailiwick</GUIType>
+                    </Selection>
+                    <Standard>
+                      <Name>statistic_center_tycoons</Name>
+                      <GUID>7110001</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2011-12-19 10:17</CreationTime>
+                      <LastChangeUser>Stony</LastChangeUser>
+                      <LastChangeTime>2012-03-15 15:44</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>ornaments</Name>
+              <Assets>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Steel>1000</Steel>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons3</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_display_panel_tycoons\detrust_line_display_panel_tycoons.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_display_panel</Name>
+                      <GUID>7110002</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-20 10:12</CreationTime>
+                      <LastChangeUser>sewenig</LastChangeUser>
+                      <LastChangeTime>2012-02-06 15:31</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>300</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>15</ActiveCost>
+                      <InactiveCost>15</InactiveCost>
+                      <ActiveEnergyCost>8192</ActiveEnergyCost>
+                      <InactiveEnergyCost>8192</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_searchlight_tycoons\detrust_line_searchlight_tycoons.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_searchlight</Name>
+                      <GUID>7110003</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-20 10:14</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>400</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Concrete>1000</Concrete>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_underground_shopping_tycoons\detrust_line_underground_shopping_tycoons_corner.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_underground_shopping_tycoons_corner</Name>
+                      <GUID>7110004</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-20 10:14</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>400</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Concrete>1000</Concrete>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_underground_shopping_tycoons\detrust_line_underground_shopping_tycoons_cross.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_underground_shopping_tycoons_cross</Name>
+                      <GUID>7110005</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-20 10:14</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>400</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Concrete>1000</Concrete>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_underground_shopping_tycoons\detrust_line_underground_shopping_tycoons_entrance.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_underground_shopping_tycoons_entrance</Name>
+                      <GUID>7110006</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-20 10:14</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>400</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                        <Concrete>1000</Concrete>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons4</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_underground_shopping_tycoons\detrust_line_underground_shopping_tycoons_straight.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_underground_shopping_tycoons_straight</Name>
+                      <GUID>7110007</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-20 10:14</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>2000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>10000</BuildingModules>
+                        <Tools>5000</Tools>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateChampagne</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>30</ActiveCost>
+                      <InactiveCost>30</InactiveCost>
+                      <ActiveEnergyCost>8192</ActiveEnergyCost>
+                      <InactiveEnergyCost>8192</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_waterfall_tycoons\detrust_line_waterfall_tycoons.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_waterfall</Name>
+                      <GUID>7110008</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-20 10:14</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:54</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>1500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Tools>10000</Tools>
+                        <Steel>5000</Steel>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediatePharmaceuticals</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>20</ActiveCost>
+                      <InactiveCost>20</InactiveCost>
+                      <ActiveEnergyCost>8192</ActiveEnergyCost>
+                      <InactiveEnergyCost>8192</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_carousel_display_tycoons\detrust_line_carousel_display_tycoons.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_carousel_display</Name>
+                      <GUID>7110009</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-26 16:37</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateToys</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_security_fence_tycoons\detrust_line_security_fence_tycoons_corner.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_security_fence_tycoons_corner</Name>
+                      <GUID>7110010</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-26 16:37</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateToys</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_security_fence_tycoons\detrust_line_security_fence_tycoons_door.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_security_fence_tycoons_door</Name>
+                      <GUID>7110011</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-26 16:37</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>200</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>1000</BuildingModules>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateToys</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_security_fence_tycoons\detrust_line_security_fence_tycoons_straight.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_security_fence_tycoons_straight</Name>
+                      <GUID>7110012</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-26 16:37</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:15</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentFeedbackBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>7500</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <BuildingModules>25000</BuildingModules>
+                        <Tools>10000</Tools>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateMissileLaunching</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>50</ActiveCost>
+                      <InactiveCost>50</InactiveCost>
+                    </MaintenanceCost>
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_statue_tycoons\detrust_line_statue_tycoons.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_statue</Name>
+                      <GUID>7110013</GUID>
+                      <Versions>Addon01</Versions>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-26 16:37</CreationTime>
+                      <LastChangeUser>fiedler</LastChangeUser>
+                      <LastChangeTime>2012-02-17 16:54</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                    <FeedbackHub />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>OrnamentBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>100</Credits>
+                      </ResourceCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons2</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building />
+                    <Danger />
+                    <Hitpoints />
+                    <Influence />
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_flowerbed_tycoons\detrust_line_flowerbed_tycoons_01.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Selection />
+                    <Standard>
+                      <Name>detrust_line_flowerbed</Name>
+                      <GUID>7110021</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-02-09 12:59</CreationTime>
+                      <LastChangeUser>sewenig</LastChangeUser>
+                      <LastChangeTime>2012-02-23 14:54</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Tree</Template>
+                  <Values>
+                    <Nature>
+                      <BlockingRadius>1228</BlockingRadius>
+                      <LumberObject>7110023</LumberObject>
+                    </Nature>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_02.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_03.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <AssetCategory>333714868</AssetCategory>
+                      <AllowMultipleBuild>1</AllowMultipleBuild>
+                    </Object>
+                    <Standard>
+                      <Name>detrust_line_autumn_tree</Name>
+                      <GUID>7110022</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-02-09 13:02</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2012-03-08 09:49</LastChangeTime>
+                    </Standard>
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>25</Credits>
+                      </ResourceCost>
+                    </BuildCost>
+                    <Reward />
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>DyingObject</Template>
+                  <Values>
+                    <Dying />
+                    <Mesh />
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_01.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_02.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_03.cfg</Filename>
+                        </Item>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\detrust_line_autumn_tree_tycoons\detrust_line_autumn_tree_tycoons_04.cfg</Filename>
+                        </Item>
+                      </Variations>
+                    </Object>
+                    <Standard>
+                      <Name>detrust_line_autumn_tree_lumber</Name>
+                      <GUID>7110023</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-02-09 13:02</CreationTime>
+                      <LastChangeUser>Joachim</LastChangeUser>
+                      <LastChangeTime>2012-02-09 13:05</LastChangeTime>
+                    </Standard>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>public</Name>
+              <Assets>
+                <Asset>
+                  <Template>PublicBuilding</Template>
+                  <Values>
+                    <Blocking />
+                    <BuildCost>
+                      <ResourceCost>
+                        <Credits>2000</Credits>
+                      </ResourceCost>
+                      <ProductCost>
+                        <Tools>5000</Tools>
+                        <BuildingModules>7000</BuildingModules>
+                        <Steel>5000</Steel>
+                      </ProductCost>
+                      <NeedsIntermediatelevel>IntermediateTycoons3</NeedsIntermediatelevel>
+                    </BuildCost>
+                    <Building>
+                      <BuildingType>MarketPlace</BuildingType>
+                    </Building>
+                    <Danger />
+                    <Hitpoints>
+                      <MaxHitpoints>2500</MaxHitpoints>
+                      <CallForFeedbackUnits>1</CallForFeedbackUnits>
+                    </Hitpoints>
+                    <Influence>
+                      <InfluenceRadius>25</InfluenceRadius>
+                      <InfluenceRadiusType>Residence</InfluenceRadiusType>
+                      <InfluenceRadiusTypeNeeded />
+                    </Influence>
+                    <InfoLayer />
+                    <KIModule />
+                    <MaintenanceCost>
+                      <ActiveCost>40</ActiveCost>
+                      <InactiveCost>40</InactiveCost>
+                      <ActiveEnergyCost>4096</ActiveEnergyCost>
+                      <InactiveEnergyCost>4096</InactiveEnergyCost>
+                    </MaintenanceCost>
+                    <Mesh>
+                      <AudioFeedback>2005512</AudioFeedback>
+                    </Mesh>
+                    <Object>
+                      <Variations>
+                        <Item>
+                          <Filename>data\graphics\dlc_02\buildings\tycoons\ornaments\town_center_variation_tycoons\town_center_variation_tycoons.cfg</Filename>
+                        </Item>
+                      </Variations>
+                      <AssetCategory>-258576624</AssetCategory>
+                    </Object>
+                    <PublicBuilding>
+                      <BuildingDemandEfficiency>
+                        <EcosRuin>100</EcosRuin>
+                        <Ecos1>100</Ecos1>
+                        <Ecos2>100</Ecos2>
+                        <Ecos3>100</Ecos3>
+                        <TechsRuin>100</TechsRuin>
+                        <Techs1>100</Techs1>
+                        <Techs2>100</Techs2>
+                        <TycoonsRuin>100</TycoonsRuin>
+                        <Tycoons1>100</Tycoons1>
+                        <Tycoons2>100</Tycoons2>
+                        <Tycoons3>100</Tycoons3>
+                        <Ecos4>100</Ecos4>
+                        <Tycoons4>100</Tycoons4>
+                        <Techs3>100</Techs3>
+                      </BuildingDemandEfficiency>
+                      <BuildingDemandCategories>Company</BuildingDemandCategories>
+                      <BuildingDemandColor>-2048680</BuildingDemandColor>
+                      <HasInfluenceOn>
+                        <Item>
+                          <guid>10021</guid>
+                        </Item>
+                        <Item>
+                          <guid>10076</guid>
+                        </Item>
+                        <Item>
+                          <guid>10116</guid>
+                        </Item>
+                        <Item>
+                          <guid>10118</guid>
+                        </Item>
+                        <Item>
+                          <guid>10011</guid>
+                        </Item>
+                        <Item>
+                          <guid>10013</guid>
+                        </Item>
+                        <Item>
+                          <guid>10119</guid>
+                        </Item>
+                        <Item>
+                          <guid>10117</guid>
+                        </Item>
+                        <Item>
+                          <guid>10088</guid>
+                        </Item>
+                        <Item>
+                          <guid>10209</guid>
+                        </Item>
+                        <Item>
+                          <guid>10221</guid>
+                        </Item>
+                        <Item>
+                          <guid>10222</guid>
+                        </Item>
+                        <Item>
+                          <guid>10223</guid>
+                        </Item>
+                        <Item>
+                          <guid>40000006</guid>
+                        </Item>
+                      </HasInfluenceOn>
+                    </PublicBuilding>
+                    <Selection>
+                      <GUIType>MarketPlace</GUIType>
+                    </Selection>
+                    <Standard>
+                      <Name>town_center_variation_tycoons</Name>
+                      <GUID>7110014</GUID>
+                      <Creator>Joachim</Creator>
+                      <CreationTime>2012-01-26 16:51</CreationTime>
+                      <LastChangeUser>sewenig</LastChangeUser>
+                      <LastChangeTime>2012-03-07 18:03</LastChangeTime>
+                    </Standard>
+                    <TradingPrice />
+                    <Upgradable />
+                    <Warehouse />
+                    <FeedbackHub />
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>MetaGame</Name>
+      <Groups>
+        <Group>
+          <Name>Scenario</Name>
+          <Groups>
+            <Group>
+              <Name>SinglePlayer</Name>
+              <Assets>
+                <Asset>
+                  <Template>ScenarioMission</Template>
+                  <Values>
+                    <Standard>
+                      <Name>dlc02 Scenario01</Name>
+                      <GUID>7111000</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2012-01-24 11:58</CreationTime>
+                      <LastChangeUser>weber</LastChangeUser>
+                      <LastChangeTime>2012-05-23 13:41</LastChangeTime>
+                    </Standard>
+                    <Mission>
+                      <VideoFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_02-1.bkg</VideoFile>
+                      <WorldMapCoordX>2048</WorldMapCoordX>
+                      <WorldMapCoordY>1024</WorldMapCoordY>
+                      <FactionSelectable>0</FactionSelectable>
+                      <ShortDescription>7111085</ShortDescription>
+                      <Difficulty>Medium</Difficulty>
+                      <IsMultiplayer>1</IsMultiplayer>
+                      <DisabledShortDescription>3262019</DisabledShortDescription>
+                      <LeaderBoards>
+                        <Item>
+                          <AssetCounterChoice>MissionSolvedMinTime</AssetCounterChoice>
+                          <MaxValue>780</MaxValue>
+                          <InvertGraphXAxis>1</InvertGraphXAxis>
+                          <Text>41000013</Text>
+                          <TimeFactor>60</TimeFactor>
+                        </Item>
+                      </LeaderBoards>
+                    </Mission>
+                    <MissionBriefing>
+                      <Briefing>
+                        <Text>7111086</Text>
+                        <CharacterList>
+                          <Item>
+                            <Character>2330007</Character>
+                            <CharacterText>1003269</CharacterText>
+                          </Item>
+                        </CharacterList>
+                      </Briefing>
+                      <PictureFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_02-1.bkg</PictureFile>
+                    </MissionBriefing>
+                    <GameSettings>
+                      <LevelFile>data\levels\dlc_02\dlc02_scenario01.www</LevelFile>
+                      <GameWorld>
+                        <QuestFrequency>Standard</QuestFrequency>
+                        <CostRefund>Full</CostRefund>
+                        <Disasters>
+                          <Item>
+                            <Disaster>8540</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8542</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8544</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8563</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8548</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8550</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8552</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8538</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8539</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8546</Disaster>
+                          </Item>
+                        </Disasters>
+                      </GameWorld>
+                      <StartConditions>
+                        <Credit>Medium</Credit>
+                        <Manpower>Few</Manpower>
+                        <Fleet>Standard</Fleet>
+                        <DiscoveredMap>1</DiscoveredMap>
+                        <StartWithIntermediatelevels>IntermediateTycoons</StartWithIntermediatelevels>
+                        <PlayerArk>UsePlayerArkSlot</PlayerArk>
+                      </StartConditions>
+                      <CharacterList>
+                        <Item>
+                          <IsHuman>1</IsHuman>
+                        </Item>
+                        <Item>
+                          <Character>2330003</Character>
+                          <PlayerID>1</PlayerID>
+                          <ArkSlotID>1</ArkSlotID>
+                        </Item>
+                        <Item>
+                          <Character>2330002</Character>
+                          <PlayerID>2</PlayerID>
+                          <ArkSlotID>21</ArkSlotID>
+                        </Item>
+                        <Item>
+                          <Character>2330025</Character>
+                          <PlayerID>3</PlayerID>
+                        </Item>
+                        <Item>
+                          <Character>2330004</Character>
+                          <PlayerID>4</PlayerID>
+                          <ArkSlotID>11</ArkSlotID>
+                        </Item>
+                        <Item>
+                          <Character>2330041</Character>
+                          <PlayerID>5</PlayerID>
+                        </Item>
+                      </CharacterList>
+                      <FactionSelectionLocked>1</FactionSelectionLocked>
+                    </GameSettings>
+                    <ScenarioCutscenes>
+                      <Cutscenes>
+                        <Intro>
+                          <CutscenePositions>
+                            <Item>
+                              <PlayerID>1</PlayerID>
+                              <PositionType>Arc</PositionType>
+                              <MessageID>1</MessageID>
+                              <CameraLayer>3</CameraLayer>
+                            </Item>
+                          </CutscenePositions>
+                        </Intro>
+                        <OutroWin>
+                          <CutscenePositions>
+                            <Item>
+                              <PositionType>PlayerKontor</PositionType>
+                              <MessageID>2</MessageID>
+                              <CameraLayer>3</CameraLayer>
+                              <Profile>2330003</Profile>
+                              <GUIDOnlyFromPlayer>1</GUIDOnlyFromPlayer>
+                            </Item>
+                          </CutscenePositions>
+                        </OutroWin>
+                        <OutroLost>
+                          <CutscenePositions>
+                            <Item>
+                              <PlayerID>1</PlayerID>
+                              <PositionType>Arc</PositionType>
+                              <MessageID>3</MessageID>
+                              <CameraLayer>3</CameraLayer>
+                            </Item>
+                          </CutscenePositions>
+                        </OutroLost>
+                      </Cutscenes>
+                      <FinalIntroTextSub>7111000</FinalIntroTextSub>
+                    </ScenarioCutscenes>
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>ScenarioMission</Template>
+                  <Values>
+                    <Standard>
+                      <Name>dlc02 Scenario02</Name>
+                      <GUID>7111001</GUID>
+                      <Creator>kalle</Creator>
+                      <CreationTime>2012-01-24 16:05</CreationTime>
+                      <LastChangeUser>weber</LastChangeUser>
+                      <LastChangeTime>2012-05-23 13:44</LastChangeTime>
+                    </Standard>
+                    <Mission>
+                      <VideoFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_02-2.bkg</VideoFile>
+                      <WorldMapCoordX>2048</WorldMapCoordX>
+                      <WorldMapCoordY>1024</WorldMapCoordY>
+                      <FactionSelectable>0</FactionSelectable>
+                      <ShortDescription>7111087</ShortDescription>
+                      <Difficulty>Hard</Difficulty>
+                      <IsMultiplayer>1</IsMultiplayer>
+                      <DisabledShortDescription>3262019</DisabledShortDescription>
+                      <LeaderBoards>
+                        <Item>
+                          <AssetCounterChoice>MissionSolvedMinTime</AssetCounterChoice>
+                          <MaxValue>480</MaxValue>
+                          <InvertGraphXAxis>1</InvertGraphXAxis>
+                          <Text>41000013</Text>
+                          <TimeFactor>60</TimeFactor>
+                        </Item>
+                      </LeaderBoards>
+                    </Mission>
+                    <MissionBriefing>
+                      <Briefing>
+                        <Text>7111088</Text>
+                        <CharacterList>
+                          <Item>
+                            <Character>2330007</Character>
+                            <CharacterText>1003269</CharacterText>
+                          </Item>
+                        </CharacterList>
+                      </Briefing>
+                      <PictureFile>data\config\gui\Backgrounds\Prototype\mission_images\dlc_02-2.bkg</PictureFile>
+                    </MissionBriefing>
+                    <GameSettings>
+                      <LevelFile>data\levels\dlc_02\dlc02_scenario02.www</LevelFile>
+                      <GameWorld>
+                        <QuestFrequency>Standard</QuestFrequency>
+                        <CostRefund>Full</CostRefund>
+                        <Disasters>
+                          <Item>
+                            <Disaster>8540</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8542</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8544</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8563</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8548</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8550</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8552</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8546</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8538</Disaster>
+                          </Item>
+                          <Item>
+                            <Disaster>8539</Disaster>
+                          </Item>
+                        </Disasters>
+                      </GameWorld>
+                      <StartConditions>
+                        <Credit>Plenty</Credit>
+                        <Manpower>Few</Manpower>
+                        <Fleet>Standard</Fleet>
+                        <DiscoveredMap>1</DiscoveredMap>
+                        <StartWithIntermediatelevels>IntermediateTycoons</StartWithIntermediatelevels>
+                        <PlayerArk>UsePlayerArkSlot</PlayerArk>
+                        <PlayerArkSlot>16</PlayerArkSlot>
+                      </StartConditions>
+                      <CharacterList>
+                        <Item>
+                          <IsHuman>1</IsHuman>
+                        </Item>
+                        <Item>
+                          <Character>2330003</Character>
+                          <PlayerID>1</PlayerID>
+                          <ArkSlotID>11</ArkSlotID>
+                        </Item>
+                        <Item>
+                          <Character>2330002</Character>
+                          <PlayerID>2</PlayerID>
+                          <ArkSlotID>9</ArkSlotID>
+                        </Item>
+                      </CharacterList>
+                      <FactionSelectionLocked>1</FactionSelectionLocked>
+                    </GameSettings>
+                    <ScenarioCutscenes>
+                      <Cutscenes>
+                        <Intro>
+                          <CutscenePositions>
+                            <Item>
+                              <PlayerID>1</PlayerID>
+                              <PositionType>Arc</PositionType>
+                              <MessageID>1</MessageID>
+                              <CameraLayer>3</CameraLayer>
+                            </Item>
+                          </CutscenePositions>
+                        </Intro>
+                        <OutroWin>
+                          <CutscenePositions>
+                            <Item>
+                              <PositionType>PlayerKontor</PositionType>
+                              <MessageID>2</MessageID>
+                              <CameraLayer>3</CameraLayer>
+                              <Profile>2330003</Profile>
+                            </Item>
+                          </CutscenePositions>
+                        </OutroWin>
+                        <OutroLost>
+                          <CutscenePositions>
+                            <Item>
+                              <PlayerID>1</PlayerID>
+                              <PositionType>Arc</PositionType>
+                              <MessageID>3</MessageID>
+                              <CameraLayer>3</CameraLayer>
+                            </Item>
+                          </CutscenePositions>
+                        </OutroLost>
+                      </Cutscenes>
+                      <FinalIntroTextSub>7111001</FinalIntroTextSub>
+                    </ScenarioCutscenes>
+                    <Reward>
+                      <RequiresActivation>1</RequiresActivation>
+                    </Reward>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>WorldEventMails</Name>
+          <Assets>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Started Mail Title</Name>
+                  <GUID>7111160</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-02-17 17:21</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-02-24 13:24</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7111161</Content>
+                  <Sender>2330003</Sender>
+                  <Icon>2600127</Icon>
+                  <AudioList>
+                    <Item>
+                      <GUID>5201200</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201201</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201202</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201203</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201204</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Mail Progress Title</Name>
+                  <GUID>7111162</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-02-17 17:21</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-02-24 13:24</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7111163</Content>
+                  <Sender>2330003</Sender>
+                  <Icon>2600127</Icon>
+                  <AudioList>
+                    <Item>
+                      <GUID>5201200</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201201</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201202</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201203</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201204</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Mail ReminderTitle</Name>
+                  <GUID>7111164</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-02-17 17:21</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-02-24 13:24</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7111165</Content>
+                  <Sender>2330003</Sender>
+                  <Icon>2600127</Icon>
+                  <AudioList>
+                    <Item>
+                      <GUID>5201200</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201201</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201202</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201203</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201204</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Mail</Template>
+              <Values>
+                <Standard>
+                  <Name>WorldEvent Mail End Title</Name>
+                  <GUID>7111166</GUID>
+                  <Creator>fiedler</Creator>
+                  <CreationTime>2012-02-17 17:22</CreationTime>
+                  <LastChangeUser>kalle</LastChangeUser>
+                  <LastChangeTime>2012-02-24 13:25</LastChangeTime>
+                </Standard>
+                <Mail>
+                  <Content>7111167</Content>
+                  <Sender>2330003</Sender>
+                  <Icon>2600127</Icon>
+                  <AudioList>
+                    <Item>
+                      <GUID>5201200</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201201</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201202</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201203</GUID>
+                    </Item>
+                    <Item>
+                      <GUID>5201204</GUID>
+                    </Item>
+                  </AudioList>
+                </Mail>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Shop Items </Name>
+      <Assets>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>"Statistikzentrale" Package </Name>
+              <GUID>7110017</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-02-02 15:44</CreationTime>
+              <LastChangeUser>Kevin</LastChangeUser>
+              <LastChangeTime>2012-03-22 18:37</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7111081</Description>
+              <PreviewPicture>data\graphics\dlc_02\ui\rewards\Shop_DLC02_statistic_center_tycoons.jpg</PreviewPicture>
+              <Flags>ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_02\ui\rewards\Thumbs\Shop_DLC02_statistic_center_tycoons_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7110001</GUID>
+                </Item>
+                <Item>
+                  <GUID>7111104</GUID>
+                </Item>
+                <Item>
+                  <GUID>7111105</GUID>
+                </Item>
+                <Item>
+                  <GUID>7111106</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>1999</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>"Against the crisis" Package</Name>
+              <GUID>7110018</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-02-02 15:45</CreationTime>
+              <LastChangeUser>Kevin</LastChangeUser>
+              <LastChangeTime>2012-03-22 18:37</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7111082</Description>
+              <PreviewPicture>data\graphics\dlc_02\ui\rewards\Shop_DLC02_szenarios.jpg</PreviewPicture>
+              <Flags>ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_02\ui\rewards\Thumbs\Shop_DLC02_szenarios_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7111000</GUID>
+                </Item>
+                <Item>
+                  <GUID>7111001</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>1998</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>"Detrust Line" Package </Name>
+              <GUID>7110019</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-02-02 15:45</CreationTime>
+              <LastChangeUser>Kevin</LastChangeUser>
+              <LastChangeTime>2012-03-22 18:37</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7111083</Description>
+              <PreviewPicture>data\graphics\dlc_02\ui\rewards\Shop_DLC02_ornaments.jpg</PreviewPicture>
+              <Flags>ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_02\ui\rewards\Thumbs\Shop_DLC02_ornaments_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7110014</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110004</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110005</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110006</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110007</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110009</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110010</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110011</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110012</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110003</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>1997</Order>
+            </Reward>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ShopItem</Template>
+          <Values>
+            <Standard>
+              <Name>Detrust Complete Package </Name>
+              <GUID>7110020</GUID>
+              <Creator>fiedler</Creator>
+              <CreationTime>2012-02-02 15:45</CreationTime>
+              <LastChangeUser>fiedler</LastChangeUser>
+              <LastChangeTime>2012-07-18 09:30</LastChangeTime>
+            </Standard>
+            <Reward>
+              <RequiresActivation>1</RequiresActivation>
+              <Description>7111084</Description>
+              <PreviewPicture>data\graphics\dlc_02\ui\rewards\Shop_DLC02_all.jpg</PreviewPicture>
+              <Flags>ShopItem</Flags>
+              <Category>Package</Category>
+              <TypeName>1115124</TypeName>
+              <PreviewPictureThumb>data\graphics\dlc_02\ui\rewards\Thumbs\Shop_DLC02_all_thumbs.jpg</PreviewPictureThumb>
+              <ContainedGUIDs>
+                <Item>
+                  <GUID>7110019</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110018</GUID>
+                </Item>
+                <Item>
+                  <GUID>7110017</GUID>
+                </Item>
+              </ContainedGUIDs>
+              <Order>3300</Order>
+            </Reward>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

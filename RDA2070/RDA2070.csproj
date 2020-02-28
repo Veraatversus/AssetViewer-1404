@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB98EAAB-B99C-418D-A8B0-767EE3A77CB3}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>RDA</RootNamespace>
+    <AssemblyName>RDA2070</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\Asset.cs" />
+    <Compile Include="Data\Description.cs" />
+    <Compile Include="Data\Icon.cs" />
+    <Compile Include="Data\TempSource.cs" />
+    <Compile Include="Data\Upgrade.cs" />
+    <Compile Include="Data\UpgradeList.cs" />
+    <Compile Include="Engine.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Modified\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RDAShare\RDAShare.csproj">
+      <Project>{d991de08-5e4a-435f-b170-483fee13cff2}</Project>
+      <Name>RDAShare</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Original\addondata\balancing\addon_01_aiprofiles.xml" />
+    <Content Include="Original\addondata\balancing\addon_01_assets.xml" />
+    <Content Include="Original\addondata\balancing\addon_01_quests.xml" />
+    <Content Include="Original\addondata\balancing\addon_01_static.xml" />
+    <Content Include="Original\addondata\balancing\addon_01_texts.xml" />
+    <Content Include="Original\addondata\features\items.xml" />
+    <Content Include="Original\addondata\texteditor\chapters.xml" />
+    <Content Include="Original\addondata\texteditor\guids.xml" />
+    <Content Include="Original\addondata\texteditor\interface.xml" />
+    <Content Include="Original\addondata\texteditor\news.xml" />
+    <Content Include="Original\addondata\texteditor\quests.xml" />
+    <Content Include="Original\addondata\texteditor\quests_father.xml" />
+    <Content Include="Original\addondata\texteditor\quests_tech.xml" />
+    <Content Include="Original\addondata\texteditor\residents.xml" />
+    <Content Include="Original\addondata\texteditor\standardquests.xml" />
+    <Content Include="Original\ai\factions.xml" />
+    <Content Include="Original\ai\playerprofiles.xml" />
+    <Content Include="Original\ai\properties.xml" />
+    <Content Include="Original\ai\residents.xml" />
+    <Content Include="Original\ai\special.xml" />
+    <Content Include="Original\ai\templates.xml" />
+    <Content Include="Original\ai\test.xml" />
+    <Content Include="Original\ai\thirdparties.xml" />
+    <Content Include="Original\dlc_01\assets.xml" />
+    <Content Include="Original\dlc_01\features.xml" />
+    <Content Include="Original\dlc_01\profiles.xml" />
+    <Content Include="Original\dlc_01\texts.xml" />
+    <Content Include="Original\dlc_02\assets.xml" />
+    <Content Include="Original\dlc_02\features.xml" />
+    <Content Include="Original\dlc_02\texts.xml" />
+    <Content Include="Original\dlc_03\assets.xml" />
+    <Content Include="Original\dlc_03\features.xml" />
+    <Content Include="Original\dlc_03\texts.xml" />
+    <Content Include="Original\dlc_04\assets.xml" />
+    <Content Include="Original\dlc_04\features.xml" />
+    <Content Include="Original\dlc_04\texts.xml" />
+    <Content Include="Original\features\features.xml" />
+    <Content Include="Original\features\items.xml" />
+    <Content Include="Original\features\properties.xml" />
+    <Content Include="Original\features\templates.xml" />
+    <Content Include="Original\game\assets.xml" />
+    <Content Include="Original\game\conquestchapter.xml" />
+    <Content Include="Original\game\datasets.xml" />
+    <Content Include="Original\game\icons.xml" />
+    <Content Include="Original\game\properties.xml" />
+    <Content Include="Original\game\templates.xml" />
+    <Content Include="Original\gui\iconfilemap.xml" />
+    <Content Include="Original\gui\iconvariations.xml" />
+    <Content Include="Original\gui\properties.xml" />
+    <Content Include="Original\questconfig\achievements.xml" />
+    <Content Include="Original\questconfig\aquanaut.xml" />
+    <Content Include="Original\questconfig\blackmarkettrader.xml" />
+    <Content Include="Original\questconfig\ecofaction.xml" />
+    <Content Include="Original\questconfig\ecowarrior.xml" />
+    <Content Include="Original\questconfig\eve.xml" />
+    <Content Include="Original\questconfig\helperquests.xml" />
+    <Content Include="Original\questconfig\metagamequests.xml" />
+    <Content Include="Original\questconfig\oilbaron.xml" />
+    <Content Include="Original\questconfig\pirate.xml" />
+    <Content Include="Original\questconfig\properties.xml" />
+    <Content Include="Original\questconfig\quests.xml" />
+    <Content Include="Original\questconfig\raider.xml" />
+    <Content Include="Original\questconfig\residents.xml" />
+    <Content Include="Original\questconfig\rewards.xml" />
+    <Content Include="Original\questconfig\rival.xml" />
+    <Content Include="Original\questconfig\scientist.xml" />
+    <Content Include="Original\questconfig\supporter.xml" />
+    <Content Include="Original\questconfig\techfaction.xml" />
+    <Content Include="Original\questconfig\templates.xml" />
+    <Content Include="Original\questconfig\testquests.xml" />
+    <Content Include="Original\questconfig\thirdpartyreactions.xml" />
+    <Content Include="Original\questconfig\tycoonfaction.xml" />
+    <Content Include="Original\texteditor\achievements.xml" />
+    <Content Include="Original\texteditor\audiopooloffsets.xml" />
+    <Content Include="Original\texteditor\audios_aquanauts.xml" />
+    <Content Include="Original\texteditor\audios_blackmarkettrader.xml" />
+    <Content Include="Original\texteditor\audios_ecowarrior.xml" />
+    <Content Include="Original\texteditor\audios_oilbaron.xml" />
+    <Content Include="Original\texteditor\audios_pirate2.xml" />
+    <Content Include="Original\texteditor\audios_pirate.xml" />
+    <Content Include="Original\texteditor\audios_raider.xml" />
+    <Content Include="Original\texteditor\audios_rival.xml" />
+    <Content Include="Original\texteditor\audios_scientist.xml" />
+    <Content Include="Original\texteditor\audios_supporter.xml" />
+    <Content Include="Original\texteditor\campaign.xml" />
+    <Content Include="Original\texteditor\centralinterface.xml" />
+    <Content Include="Original\texteditor\chapters.xml" />
+    <Content Include="Original\texteditor\chapter_01.xml" />
+    <Content Include="Original\texteditor\chapter_02.xml" />
+    <Content Include="Original\texteditor\chapter_03.xml" />
+    <Content Include="Original\texteditor\chat.xml" />
+    <Content Include="Original\texteditor\eveaudios.xml" />
+    <Content Include="Original\texteditor\factionaudios.xml" />
+    <Content Include="Original\texteditor\fpp.xml" />
+    <Content Include="Original\texteditor\fullscreenmenus.xml" />
+    <Content Include="Original\texteditor\gamesettingstooltips.xml" />
+    <Content Include="Original\texteditor\gamesettings.xml" />
+    <Content Include="Original\texteditor\guids.xml" />
+    <Content Include="Original\texteditor\helpermails.xml" />
+    <Content Include="Original\texteditor\helperquests.xml" />
+    <Content Include="Original\texteditor\icons.xml" />
+    <Content Include="Original\texteditor\infobar.xml" />
+    <Content Include="Original\texteditor\infolayer.xml" />
+    <Content Include="Original\texteditor\interface.xml" />
+    <Content Include="Original\texteditor\internal.xml" />
+    <Content Include="Original\texteditor\items.xml" />
+    <Content Include="Original\texteditor\keyboard.xml" />
+    <Content Include="Original\texteditor\locatest.xml" />
+    <Content Include="Original\texteditor\mainmenu.xml" />
+    <Content Include="Original\texteditor\mediaandcredits.xml" />
+    <Content Include="Original\texteditor\metagamequests.xml" />
+    <Content Include="Original\texteditor\misc.xml" />
+    <Content Include="Original\texteditor\names.xml" />
+    <Content Include="Original\texteditor\news.xml" />
+    <Content Include="Original\texteditor\objectmenus.xml" />
+    <Content Include="Original\texteditor\options.xml" />
+    <Content Include="Original\texteditor\properties.xml" />
+    <Content Include="Original\texteditor\questdata.xml" />
+    <Content Include="Original\texteditor\quests.xml" />
+    <Content Include="Original\texteditor\quests_aquanaut.xml" />
+    <Content Include="Original\texteditor\quests_blackmarkettrader.xml" />
+    <Content Include="Original\texteditor\quests_dimitri.xml" />
+    <Content Include="Original\texteditor\quests_ecowarrior.xml" />
+    <Content Include="Original\texteditor\quests_eve.xml" />
+    <Content Include="Original\texteditor\quests_oilbaron.xml" />
+    <Content Include="Original\texteditor\quests_pirate.xml" />
+    <Content Include="Original\texteditor\quests_raider.xml" />
+    <Content Include="Original\texteditor\quests_rival.xml" />
+    <Content Include="Original\texteditor\quests_rufus.xml" />
+    <Content Include="Original\texteditor\quests_scientist.xml" />
+    <Content Include="Original\texteditor\quests_supporter.xml" />
+    <Content Include="Original\texteditor\quests_yana.xml" />
+    <Content Include="Original\texteditor\residents.xml" />
+    <Content Include="Original\texteditor\screentext.xml" />
+    <Content Include="Original\texteditor\standardquests.xml" />
+    <Content Include="Original\texteditor\templates.xml" />
+    <Content Include="Original\texteditor\test.xml" />
+    <Content Include="Original\texteditor\texts.xml" />
+    <Content Include="Original\texteditor\texttagparts.xml" />
+    <Content Include="Original\texteditor\thirdparties.xml" />
+    <Content Include="Original\texteditor\thirdpartyaudios.xml" />
+    <Content Include="Original\texteditor\thirdpartydefault.xml" />
+    <Content Include="Original\texteditor\world_events.xml" />
+    <Content Include="Original\texteditor\world_event_01.xml" />
+    <Content Include="Original\texteditor\world_event_02.xml" />
+    <Content Include="Original\texteditor\world_event_03.xml" />
+    <Content Include="Original\texteditor\world_event_04.xml" />
+    <Content Include="Original\texteditor\world_event_05.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

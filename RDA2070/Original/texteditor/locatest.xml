@@ -1,0 +1,76 @@
+<Group>
+  <Assets>
+    <Asset>
+      <Template>Standard Text</Template>
+      <Values>
+        <Standard>
+          <GUID>5100000</GUID>
+          <Creator>shenouda</Creator>
+        </Standard>
+        <SubAssets />
+        <Text>
+          <LocaText>
+            <German>
+              <Text>yipdidiplalal</Text>
+              <LastFinalText>yipdidiplalal</LastFinalText>
+              <Status>Final</Status>
+            </German>
+            <English>
+              <Text>yalalala</Text>
+              <LastFinalText>yalalala</LastFinalText>
+              <Status>Final</Status>
+            </English>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Standard Text</Template>
+      <Values>
+        <Standard>
+          <GUID>5100001</GUID>
+          <Creator>shenouda</Creator>
+        </Standard>
+        <SubAssets />
+        <Text>
+          <LocaText>
+            <German>
+              <Text>yoyoyo</Text>
+              <LastFinalText>yoyoyo</LastFinalText>
+              <Status>Final</Status>
+            </German>
+            <English>
+              <Text>lulululu</Text>
+              <LastFinalText>lulululu</LastFinalText>
+              <Status>Final</Status>
+            </English>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Standard Text</Template>
+      <Values>
+        <Standard>
+          <GUID>5100002</GUID>
+          <Creator>shenouda</Creator>
+        </Standard>
+        <SubAssets />
+        <Text>
+          <LocaText>
+            <German>
+              <Text>lalalala</Text>
+              <LastFinalText>lalalala</LastFinalText>
+              <Status>Final</Status>
+            </German>
+            <English>
+              <Text>yayayaya</Text>
+              <LastFinalText>yayayaya</LastFinalText>
+              <Status>Final</Status>
+            </English>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

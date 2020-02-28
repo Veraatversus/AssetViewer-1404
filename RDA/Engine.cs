@@ -18,7 +18,7 @@ namespace RDA {
     public static Dictionary<String, Dictionary<Languages, (string text, List<string> subtext)>> Text { get; set; } = new Dictionary<string, Dictionary<Languages, (string, List<string>)>>();
     public static XElement Game { get; private set; }
     public static XElement QuestConfig { get; private set; }
-    public static XElement TextEditor { get; private set; }
+    //public static XElement TextEditor { get; private set; }
     public static XElement DataSets { get; private set; }
     public static Dictionary<string, XElement> IconFilemap { get; private set; }
     public static Dictionary<string, XElement> Icons { get; private set; }
@@ -37,7 +37,7 @@ namespace RDA {
       Ai = XmlLoader.LoadXml(PathRoot + @"\Original\ai\aiprofiles.xml");
       Game = XmlLoader.LoadXml(PathRoot + @"\Original\game\assets.xml");
       QuestConfig = XmlLoader.LoadXml(PathRoot + @"\Original\questconfig\quests.xml");
-      TextEditor = XmlLoader.LoadXml(PathRoot + @"\Original\texteditor\guids.xml");
+      //TextEditor = XmlLoader.LoadXml(PathRoot + @"\Original\texteditor\guids.xml");
       DataSets = XDocument.Load(PathRoot + @"\Original\game\datasets.xml").Root;
 
       ProcessingTextEditorFolder();
