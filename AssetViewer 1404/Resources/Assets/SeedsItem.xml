@@ -1,3 +1,1090 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63a1a28cdea5ffe1e3fbe3f0b4e190f60f638274aa1027280c76bcfd22036e00
-size 38040
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SeedsItem>
+  <Asset ID="8033" Name="SeedsClay">
+    <Text ID="8033" FontStyle="0">
+      <EN>Clay seeds</EN>
+      <DE>Saatgut Ton</DE>
+      <Icon d3p1:type="Icon" FileIndex="16" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>From the womb of the Earth... </EN>
+        <DE>Aus dem Schoß der Erde... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>100  Honour</EN>
+      <DE>100  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Clay.</EN>
+          <DE>Fruchtbarkeit: Ton</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8046" Name="SeedsBees">
+    <Text ID="8046" FontStyle="0">
+      <EN>Bee seeds</EN>
+      <DE>Saatgut Bienenvolk</DE>
+      <Icon d3p1:type="Icon" FileIndex="56" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Buzzing and droning... </EN>
+        <DE>Ein Summen und Brummen... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>200  Honour</EN>
+      <DE>200  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137593" FontStyle="0">
+          <EN>Can only be used on Islands in the North.</EN>
+          <DE>Nur auf Nordinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Bees.</EN>
+          <DE>Fruchtbarkeit: Bienen</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645000</ID>
+        <Text ID="1645000" FontStyle="0">
+          <EN>Harbour - Lord Richard Northburgh</EN>
+          <DE>Hafen - Lord Richard Northburgh</DE>
+          <Icon d5p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645000" FontStyle="0">
+            <EN>Lord Richard Northburgh</EN>
+            <DE>Lord Richard Northburgh</DE>
+            <Icon d6p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8106" Name="SeedsDates">
+    <Text ID="8106" FontStyle="0">
+      <EN>Date seeds</EN>
+      <DE>Saatgut Datteln</DE>
+      <Icon d3p1:type="Icon" FileIndex="32" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>The Bread of the Desert! </EN>
+        <DE>Das Brot der Wüste! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Dates.</EN>
+          <DE>Fruchtbarkeit: Datteln</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8045" Name="SeedsRose">
+    <Text ID="8045" FontStyle="0">
+      <EN>Rose seeds</EN>
+      <DE>Saatgut Rosen</DE>
+      <Icon d3p1:type="Icon" FileIndex="66" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>What fragrance! </EN>
+        <DE>Welch ein Duft! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>200  Honour</EN>
+      <DE>200  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Roses.</EN>
+          <DE>Fruchtbarkeit: Rosen</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8050" Name="SeedsSugarcane">
+    <Text ID="8050" FontStyle="0">
+      <EN>Sugar cane seeds</EN>
+      <DE>Saatgut Zuckerrohr</DE>
+      <Icon d3p1:type="Icon" FileIndex="29" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Sweet treats... </EN>
+        <DE>Süße Gaumenfreuden... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>200  Honour</EN>
+      <DE>200  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Sugar cane.</EN>
+          <DE>Fruchtbarkeit: Zuckerrohr</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8015" Name="SeedsHemp">
+    <Text ID="8015" FontStyle="0">
+      <EN>Hemp seeds</EN>
+      <DE>Saatgut Hanf</DE>
+      <Icon d3p1:type="Icon" FileIndex="43" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Thrives almost anywhere... </EN>
+        <DE>Gedeiht fast überall... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Hemp.</EN>
+          <DE>Fruchtbarkeit: Hanf</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137593" FontStyle="0">
+          <EN>Can only be used on Islands in the North.</EN>
+          <DE>Nur auf Nordinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>5309001</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="5309001" FontStyle="0">
+            <EN>Tactical retreat</EN>
+            <DE>Taktischer Rückzug</DE>
+          </Description>
+          <Description ID="5309005" FontStyle="0">
+            <EN>The art of War</EN>
+            <DE>Die Kunst des Krieges</DE>
+          </Description>
+          <Description ID="5309011" FontStyle="0">
+            <EN>Just our luck</EN>
+            <DE>Pleiten, Pech und Pannen</DE>
+          </Description>
+          <Description ID="5309013" FontStyle="0">
+            <EN>Delayed</EN>
+            <DE>Im Verzug</DE>
+          </Description>
+          <Description ID="5309015" FontStyle="0">
+            <EN>Perjury</EN>
+            <DE>Eidbruch</DE>
+          </Description>
+          <Description ID="5309017" FontStyle="0">
+            <EN>Too much work</EN>
+            <DE>Zu viel Arbeit</DE>
+          </Description>
+          <Description ID="5309019" FontStyle="0">
+            <EN>The renegade</EN>
+            <DE>Der Abtrünnige</DE>
+          </Description>
+          <Description ID="5309021" FontStyle="0">
+            <EN>Forbidden knowledge</EN>
+            <DE>Verbotenes Wissen</DE>
+          </Description>
+          <Description ID="5309165" FontStyle="0">
+            <EN>Betrayal!</EN>
+            <DE>Verrat!</DE>
+          </Description>
+          <Description ID="5309025" FontStyle="0">
+            <EN>Day of blood</EN>
+            <DE>Tag des Blutes</DE>
+          </Description>
+          <Description ID="5309027" FontStyle="0">
+            <EN>The Ally I</EN>
+            <DE>Der Verbündete I</DE>
+          </Description>
+          <Description ID="5309033" FontStyle="0">
+            <EN>Watery grave</EN>
+            <DE>Feuchtes Grab</DE>
+          </Description>
+          <Description ID="5309036" FontStyle="0">
+            <EN>Cowardice in the face of the enemy</EN>
+            <DE>Feigheit vor dem Feind</DE>
+          </Description>
+          <Description ID="5309039" FontStyle="0">
+            <EN>Renegade</EN>
+            <DE>Abtrünnig</DE>
+          </Description>
+          <Description ID="5309042" FontStyle="0">
+            <EN>Balance of power</EN>
+            <DE>Kräfteausgleich</DE>
+          </Description>
+          <Description ID="5309169" FontStyle="0">
+            <EN>Code and Faith I</EN>
+            <DE>Kodex und Glauben I</DE>
+          </Description>
+          <Description ID="5309173" FontStyle="0">
+            <EN>The path of the Warrior I</EN>
+            <DE>Weg des Kriegers I</DE>
+          </Description>
+          <Description ID="5309179" FontStyle="0">
+            <EN>The path of the Warrior IV</EN>
+            <DE>Weg des Kriegers IV</DE>
+          </Description>
+          <Description ID="5309181" FontStyle="0">
+            <EN>The path of the Warrior V</EN>
+            <DE>Weg des Kriegers V</DE>
+          </Description>
+          <Description ID="5309166" FontStyle="0">
+            <EN>Dangerous Quest</EN>
+            <DE>Heikler Auftrag</DE>
+          </Description>
+          <Description ID="5309009" FontStyle="0">
+            <EN>Honourable Quest</EN>
+            <DE>Ehrenwerter Auftrag</DE>
+          </Description>
+          <Description ID="5309172" FontStyle="0">
+            <EN>Code and Faith II</EN>
+            <DE>Kodex und Glauben II</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645000</ID>
+        <Text ID="1645000" FontStyle="0">
+          <EN>Harbour - Lord Richard Northburgh</EN>
+          <DE>Hafen - Lord Richard Northburgh</DE>
+          <Icon d5p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645000" FontStyle="0">
+            <EN>Lord Richard Northburgh</EN>
+            <DE>Lord Richard Northburgh</DE>
+            <Icon d6p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8084" Name="SeedsCider">
+    <Text ID="8084" FontStyle="0">
+      <EN>Cider seeds</EN>
+      <DE>Saatgut Most</DE>
+      <Icon d3p1:type="Icon" FileIndex="34" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>From the Seed a mighty tree grows! </EN>
+        <DE>Aus dem Samen erwächst ein Baum! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Cider.</EN>
+          <DE>Fruchtbarkeit: Most</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137593" FontStyle="0">
+          <EN>Can only be used on Islands in the North.</EN>
+          <DE>Nur auf Nordinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645000</ID>
+        <Text ID="1645000" FontStyle="0">
+          <EN>Harbour - Lord Richard Northburgh</EN>
+          <DE>Hafen - Lord Richard Northburgh</DE>
+          <Icon d5p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645000" FontStyle="0">
+            <EN>Lord Richard Northburgh</EN>
+            <DE>Lord Richard Northburgh</DE>
+            <Icon d6p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8044" Name="SeedsGrape">
+    <Text ID="8044" FontStyle="0">
+      <EN>Grape seeds</EN>
+      <DE>Saatgut Trauben</DE>
+      <Icon d3p1:type="Icon" FileIndex="38" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>The Vines are fruitful... </EN>
+        <DE>Die Reben gedeihen... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>200  Honour</EN>
+      <DE>200  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Grapes.</EN>
+          <DE>Fruchtbarkeit: Trauben</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137593" FontStyle="0">
+          <EN>Can only be used on Islands in the North.</EN>
+          <DE>Nur auf Nordinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645000</ID>
+        <Text ID="1645000" FontStyle="0">
+          <EN>Harbour - Lord Richard Northburgh</EN>
+          <DE>Hafen - Lord Richard Northburgh</DE>
+          <Icon d5p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645000" FontStyle="0">
+            <EN>Lord Richard Northburgh</EN>
+            <DE>Lord Richard Northburgh</DE>
+            <Icon d6p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8049" Name="SeedsSilk">
+    <Text ID="8049" FontStyle="0">
+      <EN>Silkworm seeds</EN>
+      <DE>Saatgut Seidenraupen</DE>
+      <Icon d3p1:type="Icon" FileIndex="68" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Spin the finest threads! </EN>
+        <DE>Spinnen feinste Fäden! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>150  Honour</EN>
+      <DE>150  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Silk.</EN>
+          <DE>Fruchtbarkeit: Seide</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8041" Name="SeedsWheat">
+    <Text ID="8041" FontStyle="0">
+      <EN>Wheat seeds</EN>
+      <DE>Saatgut Weizen</DE>
+      <Icon d3p1:type="Icon" FileIndex="25" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Golden ears... </EN>
+        <DE>Goldene Ähren... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>100  Honour</EN>
+      <DE>100  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Wheat.</EN>
+          <DE>Fruchtbarkeit: Weizen</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137593" FontStyle="0">
+          <EN>Can only be used on Islands in the North.</EN>
+          <DE>Nur auf Nordinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645000</ID>
+        <Text ID="1645000" FontStyle="0">
+          <EN>Harbour - Lord Richard Northburgh</EN>
+          <DE>Hafen - Lord Richard Northburgh</DE>
+          <Icon d5p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645000" FontStyle="0">
+            <EN>Lord Richard Northburgh</EN>
+            <DE>Lord Richard Northburgh</DE>
+            <Icon d6p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8083" Name="SeedsHerbs">
+    <Text ID="8083" FontStyle="0">
+      <EN>Herb seeds</EN>
+      <DE>Saatgut Kräuter</DE>
+      <Icon d3p1:type="Icon" FileIndex="35" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Fresh and healthy... </EN>
+        <DE>Frisch und gesund... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>100  Honour</EN>
+      <DE>100  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Herbs.</EN>
+          <DE>Fruchtbarkeit: Kräuter</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137593" FontStyle="0">
+          <EN>Can only be used on Islands in the North.</EN>
+          <DE>Nur auf Nordinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645000</ID>
+        <Text ID="1645000" FontStyle="0">
+          <EN>Harbour - Lord Richard Northburgh</EN>
+          <DE>Hafen - Lord Richard Northburgh</DE>
+          <Icon d5p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645000" FontStyle="0">
+            <EN>Lord Richard Northburgh</EN>
+            <DE>Lord Richard Northburgh</DE>
+            <Icon d6p1:type="Icon" FileIndex="169" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8012" Name="SeedsAlmond">
+    <Text ID="8012" FontStyle="0">
+      <EN>Almond seeds</EN>
+      <DE>Saatgut Mandeln</DE>
+      <Icon d3p1:type="Icon" FileIndex="28" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Let mother Earth blossom... </EN>
+        <DE>Lässt Mutter Erde erblühen... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>200  Honour</EN>
+      <DE>200  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Almonds.</EN>
+          <DE>Fruchtbarkeit: Mandeln</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8048" Name="SeedsIndigo">
+    <Text ID="8048" FontStyle="0">
+      <EN>Indigo seeds</EN>
+      <DE>Saatgut Indigo</DE>
+      <Icon d3p1:type="Icon" FileIndex="69" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>What magnificent colours! </EN>
+        <DE>Welch prächtige Farben! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>100  Honour</EN>
+      <DE>100  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Indigo.</EN>
+          <DE>Fruchtbarkeit: Indigo</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8082" Name="SeedsSpices">
+    <Text ID="8082" FontStyle="0">
+      <EN>Spice seeds</EN>
+      <DE>Saatgut Gewürz</DE>
+      <Icon d3p1:type="Icon" FileIndex="33" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Exotic smells float through the air! </EN>
+        <DE>Exotische Gerüche liegen in der Luft! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>100  Honour</EN>
+      <DE>100  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Spices.</EN>
+          <DE>Fruchtbarkeit: Gewürze</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8047" Name="SeedsCoffee">
+    <Text ID="8047" FontStyle="0">
+      <EN>Coffee seeds</EN>
+      <DE>Saatgut Kaffee</DE>
+      <Icon d3p1:type="Icon" FileIndex="40" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>A taste of Luxury... </EN>
+        <DE>Ein Hauch von Luxus... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137602" FontStyle="0">
+      <EN>Warehouse item</EN>
+      <DE>Kontor-Item</DE>
+    </ItemType>
+    <ItemCategory>Warehouse</ItemCategory>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>200  Honour</EN>
+      <DE>200  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <Seed>
+      <Upgrade>
+        <Text ID="137532" FontStyle="0">
+          <EN>Fertility: Coffee.</EN>
+          <DE>Fruchtbarkeit: Kaffee</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+      <Upgrade>
+        <Text ID="137594" FontStyle="0">
+          <EN>Can only be used on Islands in the South.</EN>
+          <DE>Nur auf Südinseln verwendbar.</DE>
+        </Text>
+        <Value />
+      </Upgrade>
+    </Seed>
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645001</ID>
+        <Text ID="1645001" FontStyle="0">
+          <EN>Harbour - Grand Vizier Al Zahir</EN>
+          <DE>Hafen - Großwesir Al Zahir</DE>
+          <Icon d5p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645001" FontStyle="0">
+            <EN>Grand Vizier Al Zahir</EN>
+            <DE>Großwesir Al Zahir</DE>
+            <Icon d6p1:type="Icon" FileIndex="168" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+</SeedsItem>

@@ -1,0 +1,294 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41317000</GUIDRangeMin>
+      <GUIDRangeMax>41317019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41317000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>So heißt dieses Szenario (Für Main Menu und Ingame Title)</Text>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41317001</GUID>
+              <Kommentar>Intro Text </Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Intro text (ANNO Sprecher erklärt das Setting)</Text>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41317002</GUID>
+              <Kommentar>Outro Text</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Outro text (ANNO Sprecher lobt den Spieler)</Text>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <GUIDRangeMin>41317020</GUIDRangeMin>
+      <GUIDRangeMax>41317049</GUIDRangeMax>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <GUIDRangeMin>41317050</GUIDRangeMin>
+      <GUIDRangeMax>41317099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41317050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Melting Pot</Text>
+                </German>
+                <English>
+                  <Text>WiP: Melting Pot</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41317052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Establish a flourishing oriantal metropolis!</Text>
+                </German>
+                <English>
+                  <Text>WiP: Establish a flourishing oriantal metropolis!</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Al Zahir</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41317056</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: [THIRDPARTY_SENDER_PLAYER] asks you to help him in the establisment of an envoy metropolis.</Text>
+                </German>
+                <English>
+                  <Text>WiP: Al Zahir asks you to help him in the establisment of an envoy metropolis.</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MQ01_Envoy Metropolis</Name>
+      <GUIDRangeMin>41317100</GUIDRangeMin>
+      <GUIDRangeMax>41317149</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41317100</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Envoy Metropolis</Text>
+                </German>
+                <English>
+                  <Text>WiP: Envoy Metropolis</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41317101</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Reach the envoy metropolis status!</Text>
+                </German>
+                <English>
+                  <Text>WiP: Reach the envoy metropolis status!</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>AL Zahir</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41317106</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Al Zahir happily notices, that you have reached the status of envoy metropolis.</Text>
+                </German>
+                <English>
+                  <Text>WiP: Al Zahir happily notices, that you have reached the status of envoy metropolis.</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MQ02_Sultan's Mosque</Name>
+      <GUIDRangeMin>41317150</GUIDRangeMin>
+      <GUIDRangeMax>41317199</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41317150</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Sultan's Mosque</Text>
+                </German>
+                <English>
+                  <Text>WiP: Sultan's Mosque</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41317151</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Build sultan's Mosque</Text>
+                </German>
+                <English>
+                  <Text>WiP: Build sultan's Mosque</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Al Zahir</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41317156</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>WiP: Al Zahir happily notices, that you have created the sultan's mosque</Text>
+                </German>
+                <English>
+                  <Text>WiP: Al Zahir happily notices, that you have created the sultan's mosque</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

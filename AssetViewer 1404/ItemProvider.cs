@@ -52,7 +52,12 @@ namespace AssetViewer1404 {
                 "AssetViewer1404.Resources.Assets.TollItem.xml",
                 "AssetViewer1404.Resources.Assets.TrashItem.xml",
                 "AssetViewer1404.Resources.Assets.WarehouseItem.xml",
-                "AssetViewer1404.Resources.Assets.WhiteFlagItem.xml"
+                "AssetViewer1404.Resources.Assets.WhiteFlagItem.xml",
+                "AssetViewer1404.Resources.Assets.CustomResourceItem.xml",
+                "AssetViewer1404.Resources.Assets.DoctorItem.xml",
+                "AssetViewer1404.Resources.Assets.EndlessResourceItem.xml",
+                "AssetViewer1404.Resources.Assets.SpyBaseDetectionItem.xml",
+                "AssetViewer1404.Resources.Assets.SpyBaseItem.xml"
             };
 
       foreach (var str in arr) {

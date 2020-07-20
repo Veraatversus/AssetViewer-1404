@@ -41,10 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Data\Description.cs" />
+    <Compile Include="Data\DescriptionBase.cs" />
     <Compile Include="Data\DescriptionFontStyle.cs" />
     <Compile Include="Data\Details.cs" />
-    <Compile Include="Data\Icon.cs" />
+    <Compile Include="Data\IconBase.cs" />
     <Compile Include="Data\Languages.cs" />
     <Compile Include="Data\SourceWithDetails.cs" />
     <Compile Include="Data\SourceWithDetailsList.cs" />

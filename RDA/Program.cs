@@ -13,29 +13,34 @@ namespace RDA {
 
     private static void Main(string[] args) {
       Engine.Init();
-      Program.ProcessingItems("ShipItem", true);
-      Program.ProcessingItems("RepairShipItem", true);
-      Program.ProcessingItems("LetterOfMarqueItem", true);
-      Program.ProcessingItems("ExplosionItem", true);
-      Program.ProcessingItems("WhiteFlagItem", true);
-      Program.ProcessingItems("ExpeditionItem", true);
       Program.ProcessingItems("BoardersItem", true);
-      Program.ProcessingItems("ShroudOfSmokeItem", true);
-      Program.ProcessingItems("PetItem", true);
-      Program.ProcessingItems("SeaChartItem", true);
-      Program.ProcessingItems("IslandProductionBoostItem", true);
-      Program.ProcessingItems("WarehouseItem", true);
-      Program.ProcessingItems("TollItem", true);
-      Program.ProcessingItems("PopulationItem", true);
-      Program.ProcessingItems("ForceTreatyItem", true);
-      Program.ProcessingItems("SeedsItem", true);
       Program.ProcessingItems("ConstructionItem", true);
+      Program.ProcessingItems("CustomResourceItem", true);
+      Program.ProcessingItems("DoctorItem", true);
+      Program.ProcessingItems("DocumentItem", true);
+      Program.ProcessingItems("EndlessResourceItem", true);
+      Program.ProcessingItems("ExpeditionItem", true);
+      Program.ProcessingItems("ExplosionItem", true);
+      Program.ProcessingItems("ForceTreatyItem", true);
+      Program.ProcessingItems("IslandProductionBoostItem", true);
+      Program.ProcessingItems("LetterOfMarqueItem", true);
+      Program.ProcessingItems("MilitaryItem", true);
+      Program.ProcessingItems("PetItem", true);
+      Program.ProcessingItems("PopulationItem", true);
+      Program.ProcessingItems("PrestigeItem", true);
       Program.ProcessingItems("QuestItem", true);
       Program.ProcessingItems("QuestUnitItem", true);
-      Program.ProcessingItems("PrestigeItem", true);
-      Program.ProcessingItems("DocumentItem", true);
-      Program.ProcessingItems("MilitaryItem", true);
-      Program.ProcessingItems("TrashItem", true);
+      Program.ProcessingItems("RepairShipItem", true);
+      Program.ProcessingItems("SeaChartItem", true);
+      Program.ProcessingItems("SeedsItem", true);
+      Program.ProcessingItems("ShipItem", true);
+      Program.ProcessingItems("ShroudOfSmokeItem", true);
+      Program.ProcessingItems("SpyBaseDetectionItem", true);
+      Program.ProcessingItems("SpyBaseItem", true);
+      Program.ProcessingItems("TollItem", true);
+      Program.ProcessingItems("VenetianItem", true);
+      Program.ProcessingItems("WarehouseItem", true);
+      Program.ProcessingItems("WhiteFlagItem", true);
     }
     private static void ProcessingItems(String template, bool findSources = false) {
       var result = new List<Asset>();

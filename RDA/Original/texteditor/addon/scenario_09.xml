@@ -1,0 +1,503 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41309000</GUIDRangeMin>
+      <GUIDRangeMax>41309019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41309000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>So heißt dieses Szenario (Für Main Menu und Ingame Title)</Text>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309001</GUID>
+              <Kommentar>Intro Text </Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Intro text (ANNO Sprecher erklärt das Setting)</Text>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309002</GUID>
+              <Kommentar>Outro Text</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Outro text (ANNO Sprecher lobt den Spieler)</Text>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <GUIDRangeMin>41309020</GUIDRangeMin>
+      <GUIDRangeMax>41309049</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41309020</GUID>
+              <Kommentar>Asset XY</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Items und Namen (OPTIONAL, falls keine Standard-Einträge benutzt werden können)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <GUIDRangeMin>41309050</GUIDRangeMin>
+      <GUIDRangeMax>41309099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Titel (MUST - Lokaflag aus bei versteckten Quests)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309051</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Infotext (optional, NUR wenn kein Standardtext vorhanden)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Storytext (MUST - max. 30-50 Worte)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Character Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309053</GUID>
+              <Kommentar>Quest Started Audio</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL – kann ALTERNATIV zu Standardaudios vorgeschlagen werden, aber nur für neue Figuren (Giacomo Garibaldi, Spion) 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309054</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erzählt, was bei der Quest gemacht werden muss. 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Character Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309055</GUID>
+              <Kommentar>Quest Finished Audio</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL – kann ALTERNATIV zu Standardaudios vorgeschlagen werden, aber nur für neue Figuren (Giacomo Garibaldi, Spion) 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309056</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist begeistert/überrascht/ärgerlich, dass es der Spieler geschafft hat. 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MQ01_Description</Name>
+      <GUIDRangeMin>41309100</GUIDRangeMin>
+      <GUIDRangeMax>41309149</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309100</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Titel (MUST - Lokaflag aus bei versteckten Quests)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309101</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Infotext (optional, NUR wenn kein Standardtext vorhanden)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309102</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Storytext (MUST - max. 30-50 Worte)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Character Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309103</GUID>
+              <Kommentar>Quest Started Audio</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL – kann ALTERNATIV zu Standardaudios vorgeschlagen werden, aber nur für neue Figuren (Giacomo Garibaldi, Spion) 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309104</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erzählt, was bei der Quest gemacht werden muss. 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Character Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309105</GUID>
+              <Kommentar>Quest Finished Audio</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL – kann ALTERNATIV zu Standardaudios vorgeschlagen werden, aber nur für neue Figuren (Giacomo Garibaldi, Spion) 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309106</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL - [THIRDPARTY_SENDER_PLAYER] ist begeistert/überrascht/ärgerlich, dass es der Spieler geschafft hat. 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ01_Description</Name>
+      <GUIDRangeMin>41309150</GUIDRangeMin>
+      <GUIDRangeMax>41309199</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309150</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Titel (MUST - Lokaflag aus bei versteckten Quests)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309151</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Infotext (optional, NUR wenn kein Standardtext vorhanden)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41309152</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Storytext (MUST - max. 30-50 Worte)</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Character Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309153</GUID>
+              <Kommentar>Quest Started Audio</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL – kann ALTERNATIV zu Standardaudios vorgeschlagen werden, aber nur für neue Figuren (Giacomo Garibaldi, Spion) 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309154</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erzählt, was bei der Quest gemacht werden muss. 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Character Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309155</GUID>
+              <Kommentar>Quest Finished Audio</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL – kann ALTERNATIV zu Standardaudios vorgeschlagen werden, aber nur für neue Figuren (Giacomo Garibaldi, Spion) 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41309156</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>OPTIONAL - [THIRDPARTY_SENDER_PLAYER] ist begeistert/überrascht/ärgerlich, dass es der Spieler geschafft hat. 
+!!! Sprecher bei SprecherAuswahl eintragen !!!</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

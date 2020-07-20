@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConstructionPlanItem>
+  <Asset ID="1156" Name="TestConstructionItem">
+    <PatchVersion>Release</PatchVersion>
+    <Text ID="1156" FontStyle="0">
+      <EN>TestConstructionItem</EN>
+      <DE>TestConstructionItem</DE>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" />
+    </Text>
+    <ItemQuality>TestItem</ItemQuality>
+    <ItemTarget>Island</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>  Honour</EN>
+      <DE>  Ökobilanz</DE>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <IsScienceItem>false</IsScienceItem>
+    <ItemAllocationCategory ID="1206183" FontStyle="0">
+      <EN>all Warehouses, Goods depots and Port authorities</EN>
+      <DE>alle Kontore, Warendepots und Hafenbehörden</DE>
+    </ItemAllocationCategory>
+    <ItemDescription ID="1206414" FontStyle="0">
+      <EN>Allows the &lt;b&gt;construction of a certain Building&lt;/b&gt;.</EN>
+      <DE>Ermöglicht den &lt;b&gt;Bau eines bestimmten Gebäudes&lt;/b&gt;.</DE>
+    </ItemDescription>
+  </Asset>
+  <Asset ID="61015" Name="ConstructionPlan HydroelectricPowerPlant">
+    <PatchVersion>Release</PatchVersion>
+    <Text ID="61015" FontStyle="0">
+      <EN>Blueprint: [GUIDNAME 10087]</EN>
+      <DE>Konstruktionsplan: [GUIDNAME 10087]</DE>
+      <Icon d3p1:type="Icon" FileIndex="1" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_01.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Clean, safe, efficient.</EN>
+        <DE>Sauber, sicher, effizient.</DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>D</ItemQuality>
+    <ItemType ID="" FontStyle="0">
+      <EN>1206409</EN>
+      <DE>1206409</DE>
+    </ItemType>
+    <ItemTarget>Island</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>  Honour</EN>
+      <DE>  Ökobilanz</DE>
+    </HonourPrice>
+    <UtilizationCount>1</UtilizationCount>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <IsScienceItem>true</IsScienceItem>
+    <ItemAllocationCategory ID="1206183" FontStyle="0">
+      <EN>all Warehouses, Goods depots and Port authorities</EN>
+      <DE>alle Kontore, Warendepots und Hafenbehörden</DE>
+    </ItemAllocationCategory>
+    <ItemDescription ID="1206414" FontStyle="0">
+      <EN>Allows the &lt;b&gt;construction of a certain Building&lt;/b&gt;.</EN>
+      <DE>Ermöglicht den &lt;b&gt;Bau eines bestimmten Gebäudes&lt;/b&gt;.</DE>
+    </ItemDescription>
+  </Asset>
+  <Asset ID="7001004" Name="Konstruktionsplan: Guardian 1.0">
+    <PatchVersion>dlc1</PatchVersion>
+    <Text ID="7001004" FontStyle="0">
+      <EN>Construction plan: [GUIDNAME 7102007]</EN>
+      <DE>Konstruktionsplan: [GUIDNAME 7102007]</DE>
+      <Icon d3p1:type="Icon" FileIndex="19" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_01.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Ecology and functionality in one neat package!</EN>
+        <DE>Ökologie und Funktionalität in einem! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemType ID="" FontStyle="0">
+      <EN>1206409</EN>
+      <DE>1206409</DE>
+    </ItemType>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>  Honour</EN>
+      <DE>  Ökobilanz</DE>
+    </HonourPrice>
+    <UtilizationCount>1</UtilizationCount>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <IsScienceItem>true</IsScienceItem>
+  </Asset>
+  <Asset ID="7001003" Name="Konstruktionsplan: Sentinel 1.0">
+    <PatchVersion>dlc1</PatchVersion>
+    <Text ID="7001003" FontStyle="0">
+      <EN>Construction plan: [GUIDNAME 7102006]</EN>
+      <DE>Konstruktionsplan: [GUIDNAME 7102006]</DE>
+      <Icon d3p1:type="Icon" FileIndex="41" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_01.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Combining ecology and elegance!</EN>
+        <DE>Ökologie und Eleganz in einem!</DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemType ID="" FontStyle="0">
+      <EN>1206409</EN>
+      <DE>1206409</DE>
+    </ItemType>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>  Honour</EN>
+      <DE>  Ökobilanz</DE>
+    </HonourPrice>
+    <UtilizationCount>1</UtilizationCount>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <IsScienceItem>true</IsScienceItem>
+  </Asset>
+  <Asset ID="40000168" Name="ConstructionPlan Oildriller Sokow Transnational">
+    <PatchVersion>addon1</PatchVersion>
+    <Text ID="40000168" FontStyle="0">
+      <EN>Blueprint: [GUIDNAME 40000167]</EN>
+      <DE>Konstruktionsplan: [GUIDNAME 40000167]</DE>
+      <Icon d3p1:type="Icon" FileIndex="431" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_01.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Made by Sokow Transnational.</EN>
+        <DE>Made by Sokow Transnational.</DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemType ID="" FontStyle="0">
+      <EN>1206409</EN>
+      <DE>1206409</DE>
+    </ItemType>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>  Honour</EN>
+      <DE>  Ökobilanz</DE>
+    </HonourPrice>
+    <UtilizationCount>1</UtilizationCount>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <IsScienceItem>true</IsScienceItem>
+  </Asset>
+</ConstructionPlanItem>

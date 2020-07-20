@@ -1,0 +1,140 @@
+<Templates>
+  <ToolOneVersion>5</ToolOneVersion>
+  <Group>
+    <Name>Text</Name>
+    <Template>
+      <Name>Asset Text</Name>
+      <Properties>
+        <Standard />
+        <SubAssets />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>CharacterText</Name>
+      <Icon>
+        <IconFileID>3</IconFileID>
+        <IconIndex>313</IconIndex>
+      </Icon>
+      <Properties>
+        <Sound />
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>GUI Text</Name>
+      <Properties>
+        <Standard />
+        <SubAssets />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>News Text</Name>
+      <Properties>
+        <IngameMessage>
+          <MsgSound>2231</MsgSound>
+        </IngameMessage>
+        <Standard />
+        <SubAssets />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>QuestText</Name>
+      <Properties>
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Standard Text</Name>
+      <Properties>
+        <Standard />
+        <SubAssets />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>TextOnly</Name>
+      <Properties>
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Tooltip Text</Name>
+      <Properties>
+        <Standard />
+        <SubAssets />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Tooltip Text Fixed</Name>
+      <Properties>
+        <Standard />
+        <SubAssets>
+          <SubAssetDataset>TooltipFixed</SubAssetDataset>
+        </SubAssets>
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Tooltip Text Titled</Name>
+      <Properties>
+        <Standard />
+        <SubAssets />
+        <Text />
+      </Properties>
+    </Template>
+  </Group>
+  <Group>
+    <Name>Audio</Name>
+    <Template>
+      <Name>Character Audio</Name>
+      <Icon>
+        <IconFileID>333</IconFileID>
+        <IconIndex>94</IconIndex>
+      </Icon>
+      <Properties>
+        <Sound />
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Feedback Audio</Name>
+      <Properties>
+        <Sound />
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>News Audio</Name>
+      <Properties>
+        <Sound />
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Sequenz Audio+Text</Name>
+      <Properties>
+        <Sound />
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+    <Template>
+      <Name>Unit Audio</Name>
+      <Properties>
+        <Sound />
+        <Standard />
+        <Text />
+      </Properties>
+    </Template>
+  </Group>
+</Templates>

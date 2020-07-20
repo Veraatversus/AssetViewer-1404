@@ -18,9 +18,7 @@ namespace RDA2070 {
       //Program.ProcessingItems("ConstructionPlanItem", false);
       Program.ProcessingItems(false);
       //var z = Engine
-      //   .Features
-      //   .AllFeatures
-      //   .Descendants("Asset")
+      //   .Features.SelectMany(f=> f.Value.Descendants("Asset"))
       //   .Where(e => e.Element("Values")?.Element("Item")?.HasElements ?? false)
       //   .Select(f => f.Element("Template").Value)
       //   .Distinct();
@@ -30,11 +28,11 @@ namespace RDA2070 {
     }
     private static void ProcessingItems(bool findSources = false) {
       var arr = new[] {
-        "ToggleHeightItem",
-        "TakeOverAction",
-        "LongDistanceRockets",
-        "UnderwaterBomb",
-        "EMP",
+        //"ToggleHeightItem",
+        //"TakeOverAction",
+        //"LongDistanceRockets",
+        //"UnderwaterBomb",
+        //"EMP",
         "SpawnDroneItem",
         "StealthDetectionItem",
         "HijackerItem",

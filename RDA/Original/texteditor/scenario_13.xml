@@ -1,0 +1,2161 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41313000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Bündnis mit einem Barden</Text>
+                  <LastFinalText>Bündnis mit einem Barden</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Pact with a Bard</Text>
+                  <LastFinalText>Pact with a Bard</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Союз с бардом</Text>
+                  <LastFinalText>Союз с бардом</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Pacte avec un barde</Text>
+                  <LastFinalText>Pacte avec un barde</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Pacto con un bardo</Text>
+                  <LastFinalText>Pacto con un bardo</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Patto con un bardo</Text>
+                  <LastFinalText>Patto con un bardo</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Pakt z bardem</Text>
+                  <LastFinalText>Pakt z bardem</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Pakt s bardem</Text>
+                  <LastFinalText>Pakt s bardem</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313031</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Leif Jorgensen hat wieder einmal ein unglückliches Händchen bewiesen ...</Text>
+                  <LastFinalText>Leif Jorgensen hat wieder einmal ein unglückliches Händchen bewiesen ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Leif Jorgensen has once again proven his ineptitude in choosing his muses... </Text>
+                  <LastFinalText>Leif Jorgensen has once again proven his ineptitude in choosing his muses... </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Несчастному Лейфу Йоргенсену как обычно не везет, ...</Text>
+                  <LastFinalText>Несчастному Лейфу Йоргенсену как обычно не везет, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Leif Jorgensen a encore prouvé son inaptitude à choisir ses muses...</Text>
+                  <LastFinalText>Leif Jorgensen a encore prouvé son inaptitude à choisir ses muses...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Leif Jorgensen ha vuelto a demostrar su ineptitud eligiendo a sus musas... </Text>
+                  <LastFinalText>Leif Jorgensen ha vuelto a demostrar su ineptitud eligiendo a sus musas... </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Leif Jorgensen ha ancora una volta dato prova della sua inettitudine nella scelta delle proprie muse...</Text>
+                  <LastFinalText>Leif Jorgensen ha ancora una volta dato prova della sua inettitudine nella scelta delle proprie muse...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Leif Jorgensen opět při volbě svých múz prokázal značnou neobratnost,...</Text>
+                  <LastFinalText>Leif Jorgensen opět při volbě svých múz prokázal značnou neobratnost,...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Leif Jorgensen po raz kolejny pokazał, że nie potrafi dobierać sobie muz... </Text>
+                  <LastFinalText>Leif Jorgensen po raz kolejny pokazał, że nie potrafi dobierać sobie muz... </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313032</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  und sich ausgerechnet Baronessa Zanchi als Muse auserkoren. </Text>
+                  <LastFinalText>...  und sich ausgerechnet Baronessa Zanchi als Muse auserkoren. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… and it is Baronessa Zanchi, of all people, whom he takes as his new muse.</Text>
+                  <LastFinalText>… and it is Baronessa Zanchi, of all people, whom he takes as his new muse.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  и на этот раз он избрал своей музой баронессу Занхи. </Text>
+                  <LastFinalText>...  и на этот раз он избрал своей музой баронессу Занхи. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et cette fois, il a porté son dévolu sur Baronessa Zanchi.</Text>
+                  <LastFinalText>... et cette fois, il a porté son dévolu sur Baronessa Zanchi.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... De todas las posibles, ha elegido a la baronesa Zanchi.</Text>
+                  <LastFinalText>... De todas las posibles, ha elegido a la baronesa Zanchi.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...infatti, tra tutte, ha eletto la Baronessa Zanchi a sua nuova ispiratrice.</Text>
+                  <LastFinalText>...infatti, tra tutte, ha eletto la Baronessa Zanchi a sua nuova ispiratrice.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... neboť si za svou novou múzu vybral zrovna baronku Zanchi.</Text>
+                  <LastFinalText>... neboť si za svou novou múzu vybral zrovna baronku Zanchi.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…gdyż na nową muzę wybrał Baronessę Zanchi.</Text>
+                  <LastFinalText>…gdyż na nową muzę wybrał Baronessę Zanchi.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313033</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die ist jedoch mitnichten entzückt!</Text>
+                  <LastFinalText>Die ist jedoch mitnichten entzückt!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>She is not at all amused!</Text>
+                  <LastFinalText>She is not at all amused!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>А она от этого совсем не в восторге!</Text>
+                  <LastFinalText>А она от этого совсем не в восторге!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Et elle est loin de s'amuser !</Text>
+                  <LastFinalText>Et elle est loin de s'amuser !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Y a ella no le hace ni pizca de gracia!</Text>
+                  <LastFinalText>¡Y a ella no le hace ni pizca de gracia!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La cosa non la diverte per nulla!</Text>
+                  <LastFinalText>La cosa non la diverte per nulla!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Ona se vůbec nebaví!</Text>
+                  <LastFinalText>Ona se vůbec nebaví!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wcale jej się to nie podoba!</Text>
+                  <LastFinalText>Wcale jej się to nie podoba!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313034</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Zahllose Ständchen und Liebesbriefe haben sie bereits dermaßen in Rage gebracht, ...</Text>
+                  <LastFinalText>Zahllose Ständchen und Liebesbriefe haben sie bereits dermaßen in Rage gebracht, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Countless serenades and love letters have driven her into such a rage …</Text>
+                  <LastFinalText>Countless serenades and love letters have driven her into such a rage …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Бесчисленные серенады и любовные письма привели ее в такую ярость, ...</Text>
+                  <LastFinalText>Бесчисленные серенады и любовные письма привели ее в такую ярость, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Les innombrables sérénades et lettres d'amour ont déchaîné sa rage...</Text>
+                  <LastFinalText>Les innombrables sérénades et lettres d'amour ont déchaîné sa rage...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Las incontables serenatas y cartas de amor la han hecho enfurecer a tal punto...</Text>
+                  <LastFinalText>Las incontables serenatas y cartas de amor la han hecho enfurecer a tal punto...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Infinite serenate e lettere d'amore hanno scatenato in lei una tale rabbia...</Text>
+                  <LastFinalText>Infinite serenate e lettere d'amore hanno scatenato in lei una tale rabbia...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Všechny ty serenády a milostné dopisy jí dohnaly k takovému hněvu,...</Text>
+                  <LastFinalText>Všechny ty serenády a milostné dopisy jí dohnaly k takovému hněvu,...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Niezliczone serenady i listy miłosne tak ją rozwścieczyły…</Text>
+                  <LastFinalText>Niezliczone serenady i listy miłosne tak ją rozwścieczyły…</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313035</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... dass sie nur noch eines im Sinn hat: </Text>
+                  <LastFinalText>... dass sie nur noch eines im Sinn hat: </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… that she now has but one goal: </Text>
+                  <LastFinalText>… that she now has but one goal: </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... что теперь она мечтает лишь об одном: </Text>
+                  <LastFinalText>... что теперь она мечтает лишь об одном: </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et depuis elle n'a plus qu'un seul but :</Text>
+                  <LastFinalText>... et depuis elle n'a plus qu'un seul but :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... que ya solo tiene un objetivo en mente: </Text>
+                  <LastFinalText>... que ya solo tiene un objetivo en mente: </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...che ora il suo obiettivo è uno solo:</Text>
+                  <LastFinalText>...che ora il suo obiettivo è uno solo:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...že chce jen jediné:</Text>
+                  <LastFinalText>...že chce jen jediné:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…że ma tylko jeden cel: </Text>
+                  <LastFinalText>…że ma tylko jeden cel: </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313036</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Den unglückseligen Barden zu vernichten!</Text>
+                  <LastFinalText>Den unglückseligen Barden zu vernichten!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text> to utterly destroy the unlucky bard.</Text>
+                  <LastFinalText> to utterly destroy the unlucky bard.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>уничтожить несчастного барда!</Text>
+                  <LastFinalText>уничтожить несчастного барда!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... anéantir le pauvre barde.</Text>
+                  <LastFinalText>... anéantir le pauvre barde.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text> acabar por completo con el infausto bardo.</Text>
+                  <LastFinalText> acabar por completo con el infausto bardo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>distruggere completamente lo sfortunato bardo.</Text>
+                  <LastFinalText>distruggere completamente lo sfortunato bardo.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>toho nešťastného barda zničit.</Text>
+                  <LastFinalText>toho nešťastného barda zničit.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text> zniszczyć pechowego barda.</Text>
+                  <LastFinalText> zniszczyć pechowego barda.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313037</GUID>
+              <Kommentar>Intro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Können Sie Leifs armseliges Leben vor dem Zorn der Furie bewahren?</Text>
+                  <LastFinalText>Können Sie Leifs armseliges Leben vor dem Zorn der Furie bewahren?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Can you save Leif's miserable life from the fury's wrath?</Text>
+                  <LastFinalText>Can you save Leif's miserable life from the fury's wrath?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Сумеете ли вы спасти несчастного Лейфа от этой фурии?</Text>
+                  <LastFinalText>Сумеете ли вы спасти несчастного Лейфа от этой фурии?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Pouvez-vous protéger le misérable Leif face à cette furie ?</Text>
+                  <LastFinalText>Pouvez-vous protéger le misérable Leif face à cette furie ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¿Puedes salvar la triste vida de Leif de la ira de la baronesa?</Text>
+                  <LastFinalText>¿Puedes salvar la triste vida de Leif de la ira de la baronesa?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sei in grado di salvare la miserabile vita di Leif dall'ira di quella furia?</Text>
+                  <LastFinalText>Sei in grado di salvare la miserabile vita di Leif dall'ira di quella furia?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dokážete zachránit Leifův bídný život před hněvem té fúrie?</Text>
+                  <LastFinalText>Dokážete zachránit Leifův bídný život před hněvem té fúrie?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Czy zdołasz ocalić marny żywot Leifa przed gniewem tej furii?</Text>
+                  <LastFinalText>Czy zdołasz ocalić marny żywot Leifa przed gniewem tej furii?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313038</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ihnen allein ist es zu verdanken, ...</Text>
+                  <LastFinalText>Ihnen allein ist es zu verdanken, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>It is thanks to you, and you alone...</Text>
+                  <LastFinalText>It is thanks to you, and you alone, …</LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>Лишь благодаря вам ...</Text>
+                  <LastFinalText>Лишь благодаря вам ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>C'est grâce à vous, et vous seul,...</Text>
+                  <LastFinalText>C'est grâce à vous, et vous seul,...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Gracias a ti, y a nadie más que a ti...</Text>
+                  <LastFinalText>Gracias a ti, y a nadie más que a ti...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>È grazie a te, e a te soltanto...</Text>
+                  <LastFinalText>È grazie a te, e a te soltanto...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Jen a jen díky vám...</Text>
+                  <LastFinalText>Jen a jen díky vám...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Tylko dzięki tobie, …</Text>
+                  <LastFinalText>Tylko dzięki tobie, …</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313039</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... dass Leifs Leben von der Rage der Baronessa verschont blieb. </Text>
+                  <LastFinalText>... dass Leifs Leben von der Rage der Baronessa verschont blieb. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… that Leif's life was saved from the Baronessa's rage. </Text>
+                  <LastFinalText>… that Leif's life was saved from the Baronessa's rage. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... Лейфу удалось спастись от ярости баронессы. </Text>
+                  <LastFinalText>... Лейфу удалось спастись от ярости баронессы. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... que Leif n'a pas été victime de la fureur de Baronessa.</Text>
+                  <LastFinalText>... que Leif n'a pas été victime de la fureur de Baronessa.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... Leif no ha sucumbido a la furia de la baronesa. </Text>
+                  <LastFinalText>... Leif no ha sucumbido a la furia de la baronesa. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...che Leif è riuscito a sopravvivere alla rabbia della Baronessa.</Text>
+                  <LastFinalText>...che Leif è riuscito a sopravvivere alla rabbia della Baronessa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... byl Leif ušetřen hněvu baronky.</Text>
+                  <LastFinalText>... byl Leif ušetřen hněvu baronky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…udało się ocalić życie Leifa przed gniewem Baronessy. </Text>
+                  <LastFinalText>…udało się ocalić życie Leifa przed gniewem Baronessy. </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313040</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Und wenn er auch zutiefst dankbar ist, mit dem Schrecken davon gekommen zu sein, ...</Text>
+                  <LastFinalText>Und wenn er auch zutiefst dankbar ist, mit dem Schrecken davon gekommen zu sein, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As grateful as he is to have gotten off with nothing more than a fright...</Text>
+                  <LastFinalText>As grateful as he is to have gotten off with nothing more than a fright, ... </LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>Он отделался легким испугом и очень благодарен вам, ...</Text>
+                  <LastFinalText>Он отделался легким испугом и очень благодарен вам, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Aussi reconnaissant qu'il est d'avoir été débarrassé de cette terreur,...</Text>
+                  <LastFinalText>Aussi reconnaissant qu'il est d'avoir été débarrassé de cette terreur,...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Como está muy agradecido por que todo haya quedado en un susto... </Text>
+                  <LastFinalText>Como está muy agradecido por que todo haya quedado en un susto... </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La gratitudine per essersela cavata solo con uno spavento è tale...</Text>
+                  <LastFinalText>La gratitudine per essersela cavata solo con uno spavento è tale...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Leif, vděčný, že z toho vyvázl jen s mírným polekáním, ... </Text>
+                  <LastFinalText>Leif, vděčný, že z toho vyvázl jen s mírným polekáním, ... </LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Leif jest wdzięczny, że uszedł z życiem najadłszy się tylko strachu... </Text>
+                  <LastFinalText>Leif jest wdzięczny, że uszedł z życiem najadłszy się tylko strachu... </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313041</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... kann Leif ein improvisiertes Requiem ...</Text>
+                  <LastFinalText>... kann Leif ein improvisiertes Requiem ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Leif cannot help but perform an improvised requiem...</Text>
+                  <LastFinalText>… Leif cannot help but perform an improvised requiem … </LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>... но все же не смог сдержаться ...</Text>
+                  <LastFinalText>... но все же не смог сдержаться ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... Leif ne peut s'empêcher de se lancer dans un requiem improvisé... </Text>
+                  <LastFinalText>... Leif ne peut s'empêcher de se lancer dans un requiem improvisé... </LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... Leif decide interpretar un improvisado réquiem... </Text>
+                  <LastFinalText>... Leif decide interpretar un improvisado réquiem... </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...che Leif non può fare a meno di improvvisare un requiem...</Text>
+                  <LastFinalText>...che Leif non può fare a meno di improvvisare un requiem...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... si nemohl pomoci a zahrál improvizované rekviem ...</Text>
+                  <LastFinalText>... si nemohl pomoci a zahrál improvizované rekviem ...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…ale nie mógł powstrzymać się od wyśpiewania improwizowanego requiem … </Text>
+                  <LastFinalText>…ale nie mógł powstrzymać się od wyśpiewania improwizowanego requiem … </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313042</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... auf die verlorene Muse nicht unterdrücken. </Text>
+                  <LastFinalText>... auf die verlorene Muse nicht unterdrücken. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… about the loss of his muse. </Text>
+                  <LastFinalText>… about the loss of his muse. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... и написал реквием по потерянной музе. </Text>
+                  <LastFinalText>... и написал реквием по потерянной музе. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... sur la perte de sa muse.</Text>
+                  <LastFinalText>... sur la perte de sa muse.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... sobre la pérdida de su musa. </Text>
+                  <LastFinalText>... sobre la pérdida de su musa. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...sulla perdita della sua musa.</Text>
+                  <LastFinalText>...sulla perdita della sua musa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... o ztrátě své múzy. </Text>
+                  <LastFinalText>... o ztrátě své múzy. </LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…o utracie muzy. </Text>
+                  <LastFinalText>…o utracie muzy. </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313043</GUID>
+              <Kommentar>Outro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Doch gottlob! Die Trauer des Barden währt nicht lange, ...</Text>
+                  <LastFinalText>Doch gottlob! Die Trauer des Barden währt nicht lange, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>But praise God! The bard's sorrow does not last long ...</Text>
+                  <LastFinalText>But praise God! The bard's sorrow does not last long ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Впрочем, слава Богу! Скоробь барда длилась недолго, ...</Text>
+                  <LastFinalText>Впрочем, слава Богу! Скоробь барда длилась недолго, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Mais Dieu soit loué ! Le barde trouve vite consolation...</Text>
+                  <LastFinalText>Mais Dieu soit loué ! Le barde trouve vite consolation...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Pero, ¡loado sea el cielo! La desdicha del bardo no dura mucho...</Text>
+                  <LastFinalText>Pero ¡loado sea el cielo! La desdicha del bardo no dura mucho...</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ma grazie a dio, la tristezza del bardo è di breve durata...</Text>
+                  <LastFinalText>Ma grazie a dio, la tristezza del bardo è di breve durata...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Ale chvála bohu! Bardův smutek netrvá dlouho...</Text>
+                  <LastFinalText>Ale chvála bohu! Bardův smutek netrvá dlouho...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Ale chwała Bogu, że cierpienie barda nie trwa długo...</Text>
+                  <LastFinalText>Ale chwała Bogu, że cierpienie barda nie trwa długo...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313044</GUID>
+              <Kommentar>Outro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... denn hat er bereits eine neue Muse erwählt: </Text>
+                  <LastFinalText>... denn hat er bereits eine neue Muse erwählt: </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… for Leif has already found a new muse:</Text>
+                  <LastFinalText>… for Leif has already found a new muse:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... поскольку он уже выбрал себе новую музу: </Text>
+                  <LastFinalText>... поскольку он уже выбрал себе новую музу: </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... en se découvrant une nouvelle muse :</Text>
+                  <LastFinalText>... en se découvrant une nouvelle muse :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Leif ha encontrado una nueva musa!</Text>
+                  <LastFinalText>¡Leif ha encontrado una nueva musa!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...perché Leif ha già trovato una nuova musa:</Text>
+                  <LastFinalText>...perché Leif ha già trovato una nuova musa:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... neboť si Leif již našel novou múzu:</Text>
+                  <LastFinalText>... neboť si Leif již našel novou múzu:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…bo Leif znalazł nową muzę:</Text>
+                  <LastFinalText>…bo Leif znalazł nową muzę:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313045</GUID>
+              <Kommentar>Outro Text 8</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie!</Text>
+                  <LastFinalText>Sie!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>you!</Text>
+                  <LastFinalText>you!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы!</Text>
+                  <LastFinalText>Вы!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... vous !</Text>
+                  <LastFinalText>... vous !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Tú!</Text>
+                  <LastFinalText>¡Tú!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>te!</Text>
+                  <LastFinalText>te!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>vás!</Text>
+                  <LastFinalText>vás!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>ciebie!</Text>
+                  <LastFinalText>ciebie!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41313020</GUID>
+              <Kommentar>Timer (wird derzeit nicht verwendet)</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Zeit bis zu Constanzas Kriegserklärung:</Text>
+                  <LastFinalText>Zeit bis zu Constanzas Kriegserklärung:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Time until Constanza declares war:</Text>
+                  <LastFinalText>Time until Constanza declares war:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Время до объявления войны:</Text>
+                  <LastFinalText>Время до объявления войны:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Temps avant que Constanza ne déclare la guerre :</Text>
+                  <LastFinalText>Temps avant que Constanza ne déclare la guerre :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tiempo hasta que Constanza declare la guerra:</Text>
+                  <LastFinalText>Tiempo hasta que Constanza declare la guerra:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Tempo rimanente prima che Costanza dichiari guerra:</Text>
+                  <LastFinalText>Tempo rimanente prima che Costanza dichiari guerra:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Je čas, dokud Constanza nevyhlásí válku:</Text>
+                  <LastFinalText>Je čas, dokud Constanza nevyhlásí válku:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Czas do wypowiedzenia wojny przez Constanzę:</Text>
+                  <LastFinalText>Czas do wypowiedzenia wojny przez Constanzę:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41313022</GUID>
+              <Kommentar>Name für Route</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Gewürzroute</Text>
+                  <LastFinalText>Gewürzroute</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Spice route</Text>
+                  <LastFinalText>Spice route</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Путь пряностей</Text>
+                  <LastFinalText>Путь пряностей</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Route des Épices</Text>
+                  <LastFinalText>Route des Épices</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Ruta de especias</Text>
+                  <LastFinalText>Ruta de especias</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Rotta della Spezia</Text>
+                  <LastFinalText>Rotta della Spezia</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Kořeněná cesta</Text>
+                  <LastFinalText>Kořeněná cesta</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Szlak przyprawowy</Text>
+                  <LastFinalText>Szlak przyprawowy</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41313100</GUID>
+              <Kommentar>Verlustbedingung</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Leifs Ueberleben </Text>
+                  <LastFinalText>Leifs Ueberleben </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>(WIP) Leifs life</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41313200</GUID>
+              <Kommentar>Verlustbedingung</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Constanza Ueberleben</Text>
+                  <LastFinalText>Constanza Ueberleben</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>(WIP) Constanza life</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41313050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Lied oder leben</Text>
+                  <LastFinalText>Lied oder leben</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Ballad or life</Text>
+                  <LastFinalText>Ballad or life</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Песня или жизнь!</Text>
+                  <LastFinalText>Песня или жизнь!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>La ballade ou la vie</Text>
+                  <LastFinalText>La ballade ou la vie</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La balada o la vida</Text>
+                  <LastFinalText>La balada o la vida</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La ballata o la vita</Text>
+                  <LastFinalText>La ballata o la vita</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Balada nebo život</Text>
+                  <LastFinalText>Balada nebo život</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Ballada albo życie</Text>
+                  <LastFinalText>Ballada albo życie</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41313051</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sorgen Sie dafür, dass [GUIDNAME 1645020] aus der Region verschwindet, bevor sie Ihren Verbündeten [QUEST_SENDER] vernichtet.</Text>
+                  <LastFinalText>Sorgen Sie dafür, dass [GUIDNAME 1645020] aus der Region verschwindet, bevor sie Ihren Verbündeten [QUEST_SENDER] vernichtet.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Make sure that [GUIDNAME 1645020] leaves the region before she can destroy your ally [QUEST_SENDER].</Text>
+                  <LastFinalText>Make sure that [GUIDNAME 1645020] leaves the region before she can destroy your ally [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Позаботьтесь о том, чтобы [GUIDNAME 1645020] покинула регион, покуда еще жив ваш союзник, несчастный [QUEST_SENDER].</Text>
+                  <LastFinalText>Позаботьтесь о том, чтобы [GUIDNAME 1645020] покинула регион, покуда еще жив ваш союзник, несчастный [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Assurez-vous que [GUIDNAME 1645020] quitte la région avant qu'elle n'anéantisse votre allié [QUEST_SENDER].</Text>
+                  <LastFinalText>Assurez-vous que [GUIDNAME 1645020] quitte la région avant qu'elle n'anéantisse votre allié [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Asegúrate de que [GUIDNAME 1645020] abandone la región antes de que acabe con tu aliado [QUEST_SENDER].</Text>
+                  <LastFinalText>Asegúrate de que [GUIDNAME 1645020] abandone la región antes de que acabe con tu aliado [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Fai in modo che la [GUIDNAME 1645020] lasci la regione prima che riesca a distruggere il tuo alleato, [QUEST_SENDER].</Text>
+                  <LastFinalText>Fai in modo che la [GUIDNAME 1645020] lasci la regione prima che riesca a distruggere il tuo alleato, [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dohlédněte na to, ať [GUIDNAME 1645020] opustí oblast dřív, než stačí zničit vašeho spojence jménem [QUEST_SENDER].</Text>
+                  <LastFinalText>Dohlédněte na to, ať [GUIDNAME 1645020] opustí oblast dřív, než stačí zničit vašeho spojence jménem [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[GUIDNAME 1645020] musi opuścić ten region, zanim zniszczy ona twego sojusznika, którym jest [QUEST_SENDER].</Text>
+                  <LastFinalText>[GUIDNAME 1645020] musi opuścić ten region, zanim zniszczy ona twego sojusznika, którym jest [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41313052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als Barde hat man es nicht leicht. Schon gar nicht, wenn man [QUEST_SENDER]s Qualitäten als Sänger aufweist und sich unbedingt [GUIDNAME 1645020] als Muse erwählen muss.[CR] [CR]Die Baronessa steht kurz davor, dem talentlosen Leif den letzten Marsch zu blasen. Nur wenn Sie es schaffen, ihren Palast zu zerstören,  besteht noch Hoffnung. Organisieren Sie ein paar Fernkämpfer, um [GUIDNAME 1645020]s Residenz aus sicherer Entfernung anzugreifen.[CR] [CR]Es ist an Ihnen, [QUEST_SENDER] zur Seite zu stehen und sowohl dessen Leben als auch die Versorgung seiner Stadt zu erhalten.</Text>
+                  <LastFinalText>Als Barde hat man es nicht leicht. Schon gar nicht, wenn man [QUEST_SENDER]s Qualitäten als Sänger aufweist und sich unbedingt [GUIDNAME 1645020] als Muse erwählen muss.[CR] [CR]Die Baronessa steht kurz davor, dem talentlosen Leif den letzten Marsch zu blasen. Nur wenn Sie es schaffen, ihren Palast zu zerstören,  besteht noch Hoffnung. Organisieren Sie ein paar Fernkämpfer, um [GUIDNAME 1645020]s Residenz aus sicherer Entfernung anzugreifen.[CR] [CR]Es ist an Ihnen, [QUEST_SENDER] zur Seite zu stehen und sowohl dessen Leben als auch die Versorgung seiner Stadt zu erhalten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Life as a bard is not easy. Especially not when one has [QUEST_SENDER]'s questionable ability as a singer and chooses [GUIDNAME 1645020] of all people as their muse. [CR] [CR]The Baroness is now on the verge of playing the talentless Leif his funeral dirge. Now it is up to you to save the poor soul's life, and your only hope lies in the destruction of her Palace. Organise a few Ranged combat fighters to attack [GUIDNAME 1645020]'s Residence from a safe distance. [CR] [CR] It's up to you to help [QUEST_SENDER] and both save his life and look after his city.</Text>
+                  <LastFinalText>Life as a bard is not easy. Especially not when one has [QUEST_SENDER]'s questionable ability as a singer and chooses [GUIDNAME 1645020] of all people as their muse. [CR] [CR]The Baroness is now on the verge of playing the talentless Leif his funeral dirge. Now it is up to you to both save the poor soul's life, and your only hope lies in the destruction of her Palace. Organise a few Ranged combat fighters to attack [GUIDNAME 1645020]'s Residence from a safe distance. [CR] [CR] It's up to you to help [QUEST_SENDER] and both save his life and look after his city.</LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>Нелегко живется бардам. Особенно теперь, когда [QUEST_SENDER] открыл в себе талант певца. [GUIDNAME 1645020] стала его музой.[CR] [CR]Баронесса уже готовится сыграть похоронный марш для бездарного Лейфа. Только если вы сумеете разрушить ее дворец, у вас останется еще надежда. Организуйте парочку дальних боев, чтобы захватить резиденцию, где укрывается [GUIDNAME 1645020], на расстоянии.[CR] [CR]Теперь вам придется встать на защиту слабейшего, каковым является [QUEST_SENDER], и спасти его жизнь и его город.</Text>
+                  <LastFinalText>Нелегко живется бардам. Особенно теперь, когда [QUEST_SENDER] открыл в себе талант певца. [GUIDNAME 1645020] стала его музой.[CR] [CR]Баронесса уже готовится сыграть похоронный марш для бездарного Лейфа. Только если вы сумеете разрушить ее дворец, у вас останется еще надежда. Организуйте парочку дальних боев, чтобы захватить резиденцию, где укрывается [GUIDNAME 1645020], на расстоянии.[CR] [CR]Теперь вам придется встать на защиту слабейшего, каковым является [QUEST_SENDER], и спасти его жизнь и его город.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>La vie d'un barde est loin d'être aisée. Surtout quand on s'appelle [QUEST_SENDER], qu'on a des qualités de chanteur discutables et qu'on choisit [GUIDNAME 1645020] comme muse. [CR] [CR]La Baronne est sur le point de jouer son hymne funèbre au misérable Leif. Vous devez sauver la vie de ce pauvre bougre et pour cela, votre seul recours est de détruire le Palais de la Baronne. Demandez à quelques combattants à distance d'attaquer la résidence de [GUIDNAME 1645020] sans s'en approcher. [CR] [CR] Votre mission est de sauver [QUEST_SENDER] et de veiller sur sa ville.</Text>
+                  <LastFinalText>La vie d'un barde est loin d'être aisée. Surtout quand on s'appelle [QUEST_SENDER], qu'on a des qualités de chanteur discutables et qu'on choisit [GUIDNAME 1645020] comme muse. [CR] [CR]La Baronne est sur le point de jouer son hymne funèbre au misérable Leif. Vous devez sauver la vie de ce pauvre bougre et pour cela, votre seul recours est de détruire le Palais de la Baronne. Demandez à quelques combattants à distance d'attaquer la résidence de [GUIDNAME 1645020] sans s'en approcher. [CR] [CR] Votre mission est de sauver [QUEST_SENDER] et de veiller sur sa ville.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La vida del bardo no es fácil. Sobre todo cuando alguien con dotes tan dudosas como las de [QUEST_SENDER] elige como musa a [GUIDNAME 1645020]. [CR] [CR]La baronesa está a punto de lanzarse a entonar un canto fúnebre por el patán de Leif. De ti depende la salvación de esa pobre alma. Tu única esperanza pasa por destruir el palacio de la baronesa. Prepara a unos cuantos hombres hábiles con los proyectiles y ataca la residencia de [GUIDNAME 1645020] desde una distancia segura. [CR] [CR]Tú verás si quieres ayudar a [QUEST_SENDER] y salvar así su vida y su ciudad.</Text>
+                  <LastFinalText>La vida del bardo no es fácil. Sobre todo cuando alguien con dotes tan dudosas como las de [QUEST_SENDER] elige como musa a [GUIDNAME 1645020]. [CR] [CR]La baronesa está a punto de lanzarse a entonar un canto fúnebre por el patán de Leif. De ti depende la salvación de esa pobre alma. Tu única esperanza pasa por destruir el palacio de la baronesa. Prepara a unos cuantos hombres hábiles con los proyectiles y ataca la residencia de [GUIDNAME 1645020] desde una distancia segura. [CR] [CR]Tú verás si quieres ayudar a [QUEST_SENDER] y salvar así su vida y su ciudad.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La vita di un bardo non è facile. Soprattutto se si hanno le discutibili abilità canore di [QUEST_SENDER] e fra tutte le persone si va a scegliere proprio la [GUIDNAME 1645020] come propria musa. [CR] [CR]Ora la Baronessa è sul punto di intonare all'incapace Leif il suo canto funebre. Tocca a te salvare la vita di quel poverino: la tua unica speranza sta nel distruggere il Palazzo della Baronessa. Appresta dei guerrieri per un Combattimento a distanza e attacca la Residenza della [GUIDNAME 1645020] da una distanza di sicurezza. [CR] [CR] Sta a te aiutare [QUEST_SENDER], salvandogli la vita e tenendo in piedi la sua città.</Text>
+                  <LastFinalText>La vita di un bardo non è facile. Soprattutto se si hanno le discutibili abilità canore di [QUEST_SENDER] e fra tutte le persone si va a scegliere proprio la [GUIDNAME 1645020] come propria musa. [CR] [CR]Ora la Baronessa è sul punto di intonare all'incapace Leif il suo canto funebre. Tocca a te salvare la vita di quel poverino: la tua unica speranza sta nel distruggere il Palazzo della Baronessa. Appresta dei guerrieri per un Combattimento a distanza e attacca la Residenza della [GUIDNAME 1645020] da una distanza di sicurezza. [CR] [CR] Sta a te aiutare [QUEST_SENDER], salvandogli la vita e tenendo in piedi la sua città.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Żywot barda to nie precel z masłem. Zwłaszcza jeśli śpiewa się tak, jak [QUEST_SENDER] i nie kto inny, jak [GUIDNAME 1645020] staje się twoją muzą. [CR] [CR]Baronowa jest o krok od zagrania gamoniowatemu Leifowi marsza pogrzebowego. W tobie cała nadzieja na uratowanie duszy nieszczęśnika, a jedynym sposobem na to jest zniszczenie jej pałacu. Zorganizuj kilka jednostek zdolnych do ostrzału z bezpiecznej odległości pałacu, którym zarządza [GUIDNAME 1645020]. [CR] [CR] [QUEST_SENDER] składa w twoje ręce nie tylko swoje życie, ale i miasto, którym musisz się zająć.</Text>
+                  <LastFinalText>Żywot barda to nie precel z masłem. Zwłaszcza jeśli śpiewa się tak, jak [QUEST_SENDER] i nie kto inny, jak [GUIDNAME 1645020] staje się twoją muzą. [CR] [CR]Baronowa jest o krok od zagrania gamoniowatemu Leifowi marsza pogrzebowego. W tobie cała nadzieja na uratowanie duszy nieszczęśnika, a jedynym sposobem na to jest zniszczenie jej pałacu. Zorganizuj kilka jednostek zdolnych do ostrzału z bezpiecznej odległości pałacu, którym zarządza [GUIDNAME 1645020]. [CR] [CR] [QUEST_SENDER] składa w twoje ręce nie tylko swoje życie, ale i miasto, którym musisz się zająć.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Život barda není jednoduchý. Obzvlášť pokud někdo zpívá jako [QUEST_SENDER] a za svou múzu si vybere zrovna postavu jménem [GUIDNAME 1645020]. [CR] [CR]Baronka by v současné době Leifovi nejradši zahrála pohřební žalozpěv. Je tedy jen na vás, zda se rozhodnete duši toho chudáka zachránit, neboť máte jedinou naději. Zničit její palác. Dejte dohromady pár bojovníků na dálku a zaútočte na rezidenci postavy jménem [GUIDNAME 1645020] z bezpečné vzdálenosti. [CR] [CR] Rozhodněte se, zda postavě jménem [QUEST_SENDER] pomůžete, zachráníte jí život a postaráte se o její město.</Text>
+                  <LastFinalText>Život barda není jednoduchý. Obzvlášť pokud někdo zpívá jako [QUEST_SENDER] a za svou múzu si vybere zrovna postavu jménem [GUIDNAME 1645020]. [CR] [CR]Baronka by v současné době Leifovi nejradši zahrála pohřební žalozpěv. Je tedy jen na vás, zda se rozhodnete duši toho chudáka zachránit, neboť máte jedinou naději. Zničit její palác. Dejte dohromady pár bojovníků na dálku a zaútočte na rezidenci postavy jménem [GUIDNAME 1645020] z bezpečné vzdálenosti. [CR] [CR] Rozhodněte se, zda postavě jménem [QUEST_SENDER] pomůžete, zachráníte jí život a postaráte se o její město.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313053</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erleichtert über Ihre Ankunft bittet Sie [THIRDPARTY_SENDER_PLAYER], ihn vor [GUIDNAME 1645020]s Rachegelüsten zu schützen.</Text>
+                  <LastFinalText>Erleichtert über Ihre Ankunft bittet Sie [THIRDPARTY_SENDER_PLAYER], ihn vor [GUIDNAME 1645020]s Rachegelüsten zu schützen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Relieved at your arrival, [THIRDPARTY_SENDER_PLAYER] begs you to protect him from [GUIDNAME 1645020]'s overwhelming wrath!</Text>
+                  <LastFinalText>Relieved at your arrival, [THIRDPARTY_SENDER_PLAYER] begs you to protect him from [GUIDNAME 1645020]'s overwhelming wrath!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Обрадованный вашим заступничеством, [THIRDPARTY_SENDER_PLAYER] просит вас защитить его, что бы там ни замышляла [GUIDNAME 1645020].</Text>
+                  <LastFinalText>Обрадованный вашим заступничеством, [THIRDPARTY_SENDER_PLAYER] просит вас защитить его, что бы там ни замышляла [GUIDNAME 1645020].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Soulagé de votre venue, [THIRDPARTY_SENDER_PLAYER] vous demande de le protéger du courroux implacable de [GUIDNAME 1645020] !</Text>
+                  <LastFinalText>Soulagé de votre venue, [THIRDPARTY_SENDER_PLAYER] vous demande de le protéger du courroux implacable de [GUIDNAME 1645020] !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Aliviado por tu llegada, [THIRDPARTY_SENDER_PLAYER] te implora que lo protejas de la ira sin límites de [GUIDNAME 1645020]!</Text>
+                  <LastFinalText>¡Aliviado por tu llegada, [THIRDPARTY_SENDER_PLAYER] te implora que lo protejas de la ira sin límites de [GUIDNAME 1645020]!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Confortato dal tuo arrivo, [THIRDPARTY_SENDER_PLAYER] ti supplica di proteggerlo dall'ira travolgente della [GUIDNAME 1645020]!</Text>
+                  <LastFinalText>Confortato dal tuo arrivo, [THIRDPARTY_SENDER_PLAYER] ti supplica di proteggerlo dall'ira travolgente della [GUIDNAME 1645020]!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si po vašem příjezdu oddechl a žádá vás, abyste ho chránil před nezkrotným hněvem postavy jménem [GUIDNAME 1645020]!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si po vašem příjezdu oddechl a žádá vás, abyste ho chránil před nezkrotným hněvem postavy jménem [GUIDNAME 1645020]!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Ciesząc się z twego przybycia, [THIRDPARTY_SENDER_PLAYER] błaga cię o obronę przed wielkim gniewem, którym pała [GUIDNAME 1645020]!</Text>
+                  <LastFinalText>Ciesząc się z twego przybycia, [THIRDPARTY_SENDER_PLAYER] błaga cię o obronę przed wielkim gniewem, którym pała [GUIDNAME 1645020]!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313054</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erleichtert stellt [THIRDPARTY_SENDER_PLAYER] fest, dass ihm nun keine Gefahr mehr droht.</Text>
+                  <LastFinalText>Erleichtert stellt [THIRDPARTY_SENDER_PLAYER] fest, dass ihm nun keine Gefahr mehr droht.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Relieved, [THIRDPARTY_SENDER_PLAYER] realizes that the threat has been abated.</Text>
+                  <LastFinalText>Relieved, [THIRDPARTY_SENDER_PLAYER] realizes that the threat has been abated.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] с облегчением отмечает, что ему больше ничто не угрожает.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] с облегчением отмечает, что ему больше ничто не угрожает.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Soulagé, [THIRDPARTY_SENDER_PLAYER] réalise que la menace a été écartée.</Text>
+                  <LastFinalText>Soulagé, [THIRDPARTY_SENDER_PLAYER] réalise que la menace a été écartée.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Aliviado, [THIRDPARTY_SENDER_PLAYER] se da cuenta de que la amenaza ha remitido.</Text>
+                  <LastFinalText>Aliviado, [THIRDPARTY_SENDER_PLAYER] se da cuenta de que la amenaza ha remitido.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sollevato, [THIRDPARTY_SENDER_PLAYER] si rende conto che la minaccia è stata sventata.</Text>
+                  <LastFinalText>Sollevato, [THIRDPARTY_SENDER_PLAYER] si rende conto che la minaccia è stata sventata.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si s úlevou uvědomuje, že hrozba byla odvrácena.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si s úlevou uvědomuje, že hrozba byla odvrácena.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z ulgą uświadamia sobie, że niebezpieczeństwo zostało zażegnane.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z ulgą uświadamia sobie, że niebezpieczeństwo zostało zażegnane.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41313225</GUID>
+              <Kommentar>Alternativer Infotext mit Schloss</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Zerstören Sie [GUIDNAME 1645020]s Palast, damit diese aus der Region verschwindet, bevor sie Ihren Verbündeten [QUEST_SENDER] vernichtet.</Text>
+                  <LastFinalText>Zerstören Sie [GUIDNAME 1645020]s Palast, damit diese aus der Region verschwindet, bevor sie Ihren Verbündeten [QUEST_SENDER] vernichtet.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Destroy [GUIDNAME 1645020]'s manorial palace to force her to leave the area before she can destroy your ally, [QUEST_SENDER].</Text>
+                  <LastFinalText>Destroy [GUIDNAME 1645020]'s manorial palace to force her to leave the area before she can destroy your ally [QUEST_SENDER].</LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>Уничтожьте замок, владелицей которого является [GUIDNAME 1645020], покуда еще жив ваш союзник, несчастный [QUEST_SENDER].</Text>
+                  <LastFinalText>Уничтожьте замок, владелицей которого является [GUIDNAME 1645020], покуда еще жив ваш союзник, несчастный [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Détruisez le Palais seigneurial de [GUIDNAME 1645020] pour la forcer à quitter la région avant qu'elle n'anéantisse votre allié [QUEST_SENDER].</Text>
+                  <LastFinalText>Détruisez le Palais seigneurial de [GUIDNAME 1645020] pour la forcer à quitter la région avant qu'elle n'anéantisse votre allié [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Destruye el palacio señorial de [GUIDNAME 1645020] para obligarla a irse antes de que acabe con tu aliado [QUEST_SENDER].</Text>
+                  <LastFinalText>Destruye el palacio señorial de [GUIDNAME 1645020] para obligarla a irse antes de que acabe con tu aliado [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Distruggi il palazzo feudale della [GUIDNAME 1645020] per costringerla a lasciare l'area prima che riesca a distruggere il tuo alleato, [QUEST_SENDER].</Text>
+                  <LastFinalText>Distruggi il palazzo feudale della [GUIDNAME 1645020] per costringerla a lasciare l'area prima che riesca a distruggere il tuo alleato, [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Zburz pałac, którym zarządza [GUIDNAME 1645020] i zmuś ją do opuszczenia tych ziem, nim zdoła zniszczyć twojego sprzymierzeńca, którym jest [QUEST_SENDER].</Text>
+                  <LastFinalText>Zburz pałac, którym zarządza [GUIDNAME 1645020] i zmuś ją do opuszczenia tych ziem, nim zdoła zniszczyć twojego sprzymierzeńca, którym jest [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Zničte panský palác postavy jménem [GUIDNAME 1645020], abyste ji donutil odejít dřív, než zničí vašeho spojence jménem [QUEST_SENDER].</Text>
+                  <LastFinalText>Zničte panský palác postavy jménem [GUIDNAME 1645020], abyste ji donutil odejít dřív, než zničí vašeho spojence jménem [QUEST_SENDER].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ_LoseCondition</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41313214</GUID>
+              <Kommentar>Lose Condition Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie können Baronessa Zanchis Rachefeldzug nichts mehr entgegensetzen. Leif Jorgensens Stadt liegt am Boden, er selbst hat sich im hintersten Winkel seines Kontors verkrochen. Würde Constanza nicht so laut keifen, könnte man das Liedchen hören, dass der unglückselige Barde angsterfüllt vor sich hin pfeift...</Text>
+                  <LastFinalText>Sie können Baronessa Zanchis Rachefeldzug nichts mehr entgegensetzen. Leif Jorgensens Stadt liegt am Boden, er selbst hat sich im hintersten Winkel seines Kontors verkrochen. Würde Constanza nicht so laut keifen, könnte man das Liedchen hören, dass der unglückselige Barde angsterfüllt vor sich hin pfeift...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Now nothing can stop the Baronessa's rage. Leif Jorgensen's city lies in ruins, and he has holed up in the farthest corner of his office. Were it not for Constanza's caterwauling one would be able to hear the song the unfortunate bard is fearful whistling to himself ...</Text>
+                  <LastFinalText>Now nothing can stop the Baronessa's rage. Leif Jorgensen's city lies in ruins, and he has holed up in the farthest corner of his office. Were it not for Constanza's caterwauling one would be able to hear the song the unfortunate bard is fearful whistling to himself ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Теперь мстительную баронессу уже ничто не остановит. Город Лейфа Йоргенсена лежит в руинах, а сам он прячется в самом дальнем углу своей конторы. Если бы Констанца не так громко бранилась, можно было бы расслышать песенку, которую тихонько напевает скованный ужасом бард...</Text>
+                  <LastFinalText>Теперь мстительную баронессу уже ничто не остановит. Город Лейфа Йоргенсена лежит в руинах, а сам он прячется в самом дальнем углу своей конторы. Если бы Констанца не так громко бранилась, можно было бы расслышать песенку, которую тихонько напевает скованный ужасом бард...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Plus rien ne peut enrayer la rage de Baronessa. La ville de Leif Jorgensen n'est plus qu'un tas de ruines et il s'est terré dans son bureau. S'il n'y avait les miaulements de Constanza, on pourrait entendre la chanson que le malheureux barde se chante à lui-même...</Text>
+                  <LastFinalText>Plus rien ne peut enrayer la rage de Baronessa. La ville de Leif Jorgensen n'est plus qu'un tas de ruines et il s'est terré dans son bureau. S'il n'y avait les miaulements de Constanza, on pourrait entendre la chanson que le malheureux barde se chante à lui-même...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Ahora nada puede detener la ira de la baronesa. La ciudad de Leif Jorgensen está en ruinas y él se ha atrincherado en el rincón más escondido de su despacho. Si no fuese por los aullidos de Constanza, se podría oír el canto que el desventurado bardo entona en soledad...</Text>
+                  <LastFinalText>Ahora nada puede detener la ira de la baronesa. La ciudad de Leif Jorgensen está en ruinas y él se ha atrincherado en el rincón más escondido de su despacho. Si no fuese por los aullidos de Constanza, se podría oír el canto que el desventurado bardo entona en soledad...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ora nulla può arrestare la rabbia della Baronessa. La città di Leif Jorgensen è in rovina e lui si è rintanato nell'angolo più lontano del suo studio. Se non fosse per lo strillare di Costanza, si potrebbe anche sentire la canzone che lo sfortunato bardo sta fischiettando impaurito tra sé e sé...</Text>
+                  <LastFinalText>Ora nulla può arrestare la rabbia della Baronessa. La città di Leif Jorgensen è in rovina e lui si è rintanato nell'angolo più lontano del suo studio. Se non fosse per lo strillare di Costanza, si potrebbe anche sentire la canzone che lo sfortunato bardo sta fischiettando impaurito tra sé e sé...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Řádění baronky už nedokáže zastavit nic. Město Leifa Jorgensena leží v troskách a on sám se ukryl v nejzazším rohu své pracovny. Nebýt Constanzina jekotu, člověk by mohl zaslechnout, jak si ten nešťastný bard pro sebe bojácně píská...</Text>
+                  <LastFinalText>Řádění baronky už nedokáže zastavit nic. Město Leifa Jorgensena leží v troskách a on sám se ukryl v nejzazším rohu své pracovny. Nebýt Constanzina jekotu, člověk by mohl zaslechnout, jak si ten nešťastný bard pro sebe bojácně píská...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Nic nie może powstrzymać gniewu Baronessy. Miasto Leifa Jorgensena legło w gruzach, a on skrył się w najciemniejszym kącie swej komnaty. Gdyby nie wrzaski Consanzy, można byłoby usłyszeć piosenkę gwizdaną przez przerażonego barda...</Text>
+                  <LastFinalText>Nic nie może powstrzymać gniewu Baronessy. Miasto Leifa Jorgensena legło w gruzach, a on skrył się w najciemniejszym kącie swej komnaty. Gdyby nie wrzaski Consanzy, można byłoby usłyszeć piosenkę gwizdaną przez przerażonego barda...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41313228</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>LoseConQuest</Text>
+                  <LastFinalText>LoseConQuest</LastFinalText>
+                  <Status>Edit</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Other messages</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313215</GUID>
+              <Kommentar>Anlanden von Constanzas Truppen auf Insel vom Spieler</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Empört, dass Sie [GUIDNAME 1645021] unterstützen, startet [THIRDPARTY_SENDER_PLAYER] einen Angriff gegen [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Empört, dass Sie [GUIDNAME 1645021] unterstützen, startet [THIRDPARTY_SENDER_PLAYER] einen Angriff gegen [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Outraged at your supporting [GUIDNAME 1645021], [THIRDPARTY_SENDER_PLAYER] launches an attack on [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Outraged at your supporting [GUIDNAME 1645021], [THIRDPARTY_SENDER_PLAYER] launches an attack on [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] возмущается тем, что [GUIDNAME 1645021] получил вашу поддержку, и атакует город [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] возмущается тем, что [GUIDNAME 1645021] получил вашу поддержку, и атакует город [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Indignée de votre soutien pour [GUIDNAME 1645021], [THIRDPARTY_SENDER_PLAYER] lance une attaque sur [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Indignée de votre soutien pour [GUIDNAME 1645021], [THIRDPARTY_SENDER_PLAYER] lance une attaque sur [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Furiosa por tu apoyo a [GUIDNAME 1645021], [THIRDPARTY_SENDER_PLAYER] lanza un ataque contra [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Furiosa por tu apoyo a [GUIDNAME 1645021], [THIRDPARTY_SENDER_PLAYER] lanza un ataque contra [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Indignata per l'aiuto che stai dando a [GUIDNAME 1645021], la [THIRDPARTY_SENDER_PLAYER] attacca [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Indignata per l'aiuto che stai dando a [GUIDNAME 1645021], la [THIRDPARTY_SENDER_PLAYER] attacca [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vaše pomoc postavě jménem [GUIDNAME 1645021] pobouřila postavu jménem [THIRDPARTY_SENDER_PLAYER], byl tak zahájen útok na město [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Vaše pomoc postavě jménem [GUIDNAME 1645021] pobouřila postavu jménem [THIRDPARTY_SENDER_PLAYER], byl tak zahájen útok na město [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Poparcie, którego udzielasz osobie znanej jako [GUIDNAME 1645021] sprawia, że [THIRDPARTY_SENDER_PLAYER] wpada w furię i atakuje miasto: [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Poparcie, którego udzielasz osobie znanej jako [GUIDNAME 1645021] sprawia, że [THIRDPARTY_SENDER_PLAYER] wpada w furię i atakuje miasto: [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313216</GUID>
+              <Kommentar>eines der Truppenlager von Leif wurde vernichtet </Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Verängstigt muss [THIRDPARTY_SENDER_PLAYER] zusehen, wie seine Truppen von [GUIDNAME 1645020] vernichtet werden.</Text>
+                  <LastFinalText>Verängstigt muss [THIRDPARTY_SENDER_PLAYER] zusehen, wie seine Truppen von [GUIDNAME 1645020] vernichtet werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A frightened [THIRDPARTY_SENDER_PLAYER] can only watch as [GUIDNAME 1645020] destroys his troops.</Text>
+                  <LastFinalText>A frightened [THIRDPARTY_SENDER_PLAYER] can only watch as [GUIDNAME 1645020] destroys his troops.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>С ужасом [THIRDPARTY_SENDER_PLAYER] наблюдает, как [GUIDNAME 1645020] уничтожает его войска.</Text>
+                  <LastFinalText>С ужасом [THIRDPARTY_SENDER_PLAYER] наблюдает, как [GUIDNAME 1645020] уничтожает его войска.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Effrayé, [THIRDPARTY_SENDER_PLAYER] ne peut qu'assister à la destruction de ses troupes par [GUIDNAME 1645020].</Text>
+                  <LastFinalText>Effrayé, [THIRDPARTY_SENDER_PLAYER] ne peut qu'assister à la destruction de ses troupes par [GUIDNAME 1645020].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Aterrado, [THIRDPARTY_SENDER_PLAYER] contempla estupefacto cómo [GUIDNAME 1645020] masacra a sus tropas.</Text>
+                  <LastFinalText>Aterrado, [THIRDPARTY_SENDER_PLAYER] contempla estupefacto cómo [GUIDNAME 1645020] masacra a sus tropas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un terrorizzato [THIRDPARTY_SENDER_PLAYER] non può far altro che stare a guardare mentre le sue truppe vengono distrutte dalla [GUIDNAME 1645020].</Text>
+                  <LastFinalText>Un terrorizzato [THIRDPARTY_SENDER_PLAYER] non può far altro che stare a guardare mentre le sue truppe vengono distrutte dalla [GUIDNAME 1645020].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>K smrti vystrašená postava jménem [THIRDPARTY_SENDER_PLAYER] může jenom přihlížet tomu, jak [GUIDNAME 1645020] ničí jeho vojsko.</Text>
+                  <LastFinalText>K smrti vystrašená postava jménem [THIRDPARTY_SENDER_PLAYER] může jenom přihlížet tomu, jak [GUIDNAME 1645020] ničí jeho vojsko.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] może tylko z przerażeniem patrzeć jak [GUIDNAME 1645020] niszczy jego wojska.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] może tylko z przerażeniem patrzeć jak [GUIDNAME 1645020] niszczy jego wojska.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313217</GUID>
+              <Kommentar>bestimmte Anzahl von Gebäuden wurde durch Constanza vernichtet/eingenommen </Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Schlotternd vor Angst berichtet [THIRDPARTY_SENDER_PLAYER], dass [GUIDNAME 1645020] bereits unzählige seiner Gebäude niedergebrannt hat.</Text>
+                  <LastFinalText>Schlotternd vor Angst berichtet [THIRDPARTY_SENDER_PLAYER], dass [GUIDNAME 1645020] bereits unzählige seiner Gebäude niedergebrannt hat.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Shaking with fear, [THIRDPARTY_SENDER_PLAYER] reports that [GUIDNAME 1645020] has already burnt many of his buildings to the ground.</Text>
+                  <LastFinalText>Shaking with fear, [THIRDPARTY_SENDER_PLAYER] reports that [GUIDNAME 1645020] has already burnt many of his buildings to the ground.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER], дрожа от страха, сообщает, что [GUIDNAME 1645020] сравняла с землей принадлежащие ему здания.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER], дрожа от страха, сообщает, что [GUIDNAME 1645020] сравняла с землей принадлежащие ему здания.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Tremblant de peur, [THIRDPARTY_SENDER_PLAYER] rapporte que [GUIDNAME 1645020] a déjà brûlé bon nombre de ses bâtiments.</Text>
+                  <LastFinalText>Tremblant de peur, [THIRDPARTY_SENDER_PLAYER] rapporte que [GUIDNAME 1645020] a déjà brûlé bon nombre de ses bâtiments.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Temblando de miedo, [THIRDPARTY_SENDER_PLAYER] te comunica que [GUIDNAME 1645020] ya ha reducido a cenizas muchos de sus edificios.</Text>
+                  <LastFinalText>Temblando de miedo, [THIRDPARTY_SENDER_PLAYER] te comunica que [GUIDNAME 1645020] ya ha reducido a cenizas muchos de sus edificios.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un [THIRDPARTY_SENDER_PLAYER] tremante per la paura ti riferisce che la [GUIDNAME 1645020] ha già dato alle fiamme molti dei suoi edifici.</Text>
+                  <LastFinalText>Un [THIRDPARTY_SENDER_PLAYER] tremante per la paura ti riferisce che la [GUIDNAME 1645020] ha già dato alle fiamme molti dei suoi edifici.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>K smrti vystrašený [THIRDPARTY_SENDER_PLAYER] oznamuje, že [GUIDNAME 1645020] srovnává se zemí mnoho jeho budov.</Text>
+                  <LastFinalText>K smrti vystrašený [THIRDPARTY_SENDER_PLAYER] oznamuje, že [GUIDNAME 1645020] srovnává se zemí mnoho jeho budov.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Trzęsąc się z przerażenia, [THIRDPARTY_SENDER_PLAYER] informuje, że wiele należących do niego budynków zostało spalonych do cna przez siły, którymi dowodzi [GUIDNAME 1645020].</Text>
+                  <LastFinalText>Trzęsąc się z przerażenia, [THIRDPARTY_SENDER_PLAYER] informuje, że wiele należących do niego budynków zostało spalonych do cna przez siły, którymi dowodzi [GUIDNAME 1645020].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313218</GUID>
+              <Kommentar>Spielertruppen zum ersten Mal auf Constanzas Insel</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Während sich Ihre Truppen auf [GUIDNAME 1645020]s Insel formieren, komponiert [THIRDPARTY_SENDER_PLAYER] hoffnungsvoll einen Kriegsmarsch.</Text>
+                  <LastFinalText>Während sich Ihre Truppen auf [GUIDNAME 1645020]s Insel formieren, komponiert [THIRDPARTY_SENDER_PLAYER] hoffnungsvoll einen Kriegsmarsch.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As your troops form up on [GUIDNAME 1645020]'s island, [THIRDPARTY_SENDER_PLAYER] composes a military march in hope.</Text>
+                  <LastFinalText>As your troops form up on [GUIDNAME 1645020]'s island, [THIRDPARTY_SENDER_PLAYER] composes a military march in hope.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Покуда вы направляете войска на остров, где властвует [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] с надеждой сочиняет военные марши.</Text>
+                  <LastFinalText>Покуда вы направляете войска на остров, где властвует [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] с надеждой сочиняет военные марши.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Alors que vos troupes se forment sur l'île de [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] compose une marche militaire.</Text>
+                  <LastFinalText>Alors que vos troupes se forment sur l'île de [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] compose une marche militaire.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Mientras tus tropas forman en la isla de [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] compone esperanzado una marcha militar.</Text>
+                  <LastFinalText>Mientras tus tropas forman en la isla de [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] compone esperanzado una marcha militar.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Mentre le tue truppe si schierano sull'isola della [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] compone una marcia militare che infonda speranza.</Text>
+                  <LastFinalText>Mentre le tue truppe si schierano sull'isola della [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] compone una marcia militare che infonda speranza.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vaši vojáci se formují na ostrově postavy jménem [GUIDNAME 1645020] a [THIRDPARTY_SENDER_PLAYER] v naději skládá vojenský pochod.</Text>
+                  <LastFinalText>Vaši vojáci se formují na ostrově postavy jménem [GUIDNAME 1645020] a [THIRDPARTY_SENDER_PLAYER] v naději skládá vojenský pochod.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Gdy twe wojska zbierają się na wyspie, którą włada [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] komponuje z tej okazji pieśń marszową.</Text>
+                  <LastFinalText>Gdy twe wojska zbierają się na wyspie, którą włada [GUIDNAME 1645020], [THIRDPARTY_SENDER_PLAYER] komponuje z tej okazji pieśń marszową.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313219</GUID>
+              <Kommentar>Meldungen von Constanza zu verlorenen Truppen/Schiffen </Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wutschnaubend nimmt [THIRDPARTY_SENDER_PLAYER] zur Kenntnis, dass sie eine Schlacht verloren hat.</Text>
+                  <LastFinalText>Wutschnaubend nimmt [THIRDPARTY_SENDER_PLAYER] zur Kenntnis, dass sie eine Schlacht verloren hat.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A raging [THIRDPARY_SENDER_PLAYER] is forced to admit that she has lost a battle.</Text>
+                  <LastFinalText>A raging [THIRDPARY_SENDER_PLAYER] is forced to admit that she has lost a battle.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] вне себя от ярости отмечает, что вы проиграли сражение.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] вне себя от ярости отмечает, что вы проиграли сражение.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Furieuse, [THIRDPARY_SENDER_PLAYER] est forcée d'admettre qu'elle a perdu la bataille.</Text>
+                  <LastFinalText>Furieuse, [THIRDPARY_SENDER_PLAYER] est forcée d'admettre qu'elle a perdu la bataille.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARY_SENDER_PLAYER], airada, se ve obligada a admitir que ha perdido la batalla.</Text>
+                  <LastFinalText>[THIRDPARY_SENDER_PLAYER], airada, se ve obligada a admitir que ha perdido la batalla.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un'infuriata [THIRDPARY_SENDER_PLAYER] è costretta ad ammettere di avere perso la battaglia.</Text>
+                  <LastFinalText>Un'infuriata [THIRDPARY_SENDER_PLAYER] è costretta ad ammettere di avere perso la battaglia.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Rozlícená [THIRDPARY_SENDER_PLAYER] je nucena přiznat, že bitvu prohrála.</Text>
+                  <LastFinalText>Rozlícená [THIRDPARY_SENDER_PLAYER] je nucena přiznat, že bitvu prohrála.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARY_SENDER_PLAYER] z wściekłością przyznaje, że przegrała bitwę.</Text>
+                  <LastFinalText>[THIRDPARY_SENDER_PLAYER] z wściekłością przyznaje, że przegrała bitwę.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313220</GUID>
+              <Kommentar>Anlanden von Constanzas Truppen auf Insel von Leif </Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wild entschlossen formiert [THIRDPARTY_SENDER_PLAYER] ihre Truppen zum Angriff auf [GUIDNAME 1645021]s Stadt.</Text>
+                  <LastFinalText>Wild entschlossen formiert [THIRDPARTY_SENDER_PLAYER] ihre Truppen zum Angriff auf [GUIDNAME 1645021]s Stadt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A fiercely determined [THIRDPARTY_SENDER_PLAYER] forms up his troops to attack [GUIDNAME 1645021]'s city.</Text>
+                  <LastFinalText>A fiercely determined [THIRDPARTY_SENDER_PLAYER] forms up his troops to attack [GUIDNAME 1645021]'s city.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] решительно выстраивает свои войска, готовясь атаковать остров, где дрожит от страха [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] решительно выстраивает свои войска, готовясь атаковать остров, где дрожит от страха [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Avec détermination, [THIRDPARTY_SENDER_PLAYER] forme ses troupes pour lancer une attaque sur la ville de [GUIDNAME 1645021].</Text>
+                  <LastFinalText>Avec détermination, [THIRDPARTY_SENDER_PLAYER] forme ses troupes pour lancer une attaque sur la ville de [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Con determinación y valor, [THIRDPARTY_SENDER_PLAYER] forma a sus tropas para atacar la ciudad de [GUIDNAME 1645021].</Text>
+                  <LastFinalText>Con determinación y valor, [THIRDPARTY_SENDER_PLAYER] forma a sus tropas para atacar la ciudad de [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La fiera e determinata [THIRDPARTY_SENDER_PLAYER] schiera le sue truppe per attaccare la città di [GUIDNAME 1645021].</Text>
+                  <LastFinalText>La fiera e determinata [THIRDPARTY_SENDER_PLAYER] schiera le sue truppe per attaccare la città di [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Odhodlaný [THIRDPARTY_SENDER_PLAYER] formuje své vojsko k útoku na město postavy jménem [GUIDNAME 1645021].</Text>
+                  <LastFinalText>Odhodlaný [THIRDPARTY_SENDER_PLAYER] formuje své vojsko k útoku na město postavy jménem [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z wielką determinacją szykuje wojska do ataku na miasto, którym włada [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z wielką determinacją szykuje wojska do ataku na miasto, którym włada [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313221</GUID>
+              <Kommentar>eines der Truppenlager des Spielers wurde vernichtet </Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Triumphierend beobachtet [THIRDPARTY_SENDER_PLAYER] die Vernichtung Ihrer Einheiten.</Text>
+                  <LastFinalText>Triumphierend beobachtet [THIRDPARTY_SENDER_PLAYER] die Vernichtung Ihrer Einheiten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] triumphantly watches the defeat of your troops.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] triumphantly watches the defeat of your troops.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] триумфально наблюдает гибель ваших войск.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] триумфально наблюдает гибель ваших войск.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] observe avec triomphe la défaite de vos troupes.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] observe avec triomphe la défaite de vos troupes.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] contempla triunfante la derrota de tus tropas.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] contempla triunfante la derrota de tus tropas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La [THIRDPARTY_SENDER_PLAYER] assiste trionfante alla sconfitta delle tue truppe.</Text>
+                  <LastFinalText>La [THIRDPARTY_SENDER_PLAYER] assiste trionfante alla sconfitta delle tue truppe.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] triumfálně přihlíží porážce vašeho vojska.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] triumfálně přihlíží porážce vašeho vojska.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] triumfalnie obserwuje porażkę twych wojsk.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] triumfalnie obserwuje porażkę twych wojsk.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313222</GUID>
+              <Kommentar>Spielertruppen zum ersten Mal auf Constanzas Insel</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als [THIRDPARTY_SENDER_PLAYER] Ihren Truppenaufmarsch bemerkt, rüstet Sie erbost zum Gegenschlag.</Text>
+                  <LastFinalText>Als [THIRDPARTY_SENDER_PLAYER] Ihren Truppenaufmarsch bemerkt, rüstet Sie erbost zum Gegenschlag.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>When [THIRDPARTY_SENDER_PLAYER] notices the deployment of your troops, she immediately begins arming for a counterstrike.</Text>
+                  <LastFinalText>When [THIRDPARTY_SENDER_PLAYER] notices the deployment of your troops, she immediately begins arming for a counterstrike.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Когда [THIRDPARTY_SENDER_PLAYER] замечает ваши войска на марше, вы отчаянно бросается в контратаку.</Text>
+                  <LastFinalText>Когда [THIRDPARTY_SENDER_PLAYER] замечает ваши войска на марше, вы отчаянно бросается в контратаку.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Quand [THIRDPARTY_SENDER_PLAYER] apprend le déploiement de vos troupes, elle prépare immédiatement une contre-attaque.</Text>
+                  <LastFinalText>Quand [THIRDPARTY_SENDER_PLAYER] apprend le déploiement de vos troupes, elle prépare immédiatement une contre-attaque.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando [THIRDPARTY_SENDER_PLAYER] se percata del despliegue de tus tropas, comienza inmediatamente a armarse para un contraataque.</Text>
+                  <LastFinalText>Cuando [THIRDPARTY_SENDER_PLAYER] se percata del despliegue de tus tropas, comienza inmediatamente a armarse para un contraataque.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Appena la [THIRDPARTY_SENDER_PLAYER] si accorge dello spiegamento delle tue truppe, inizia immediatamente a prepararsi per il contrattacco.</Text>
+                  <LastFinalText>Appena la [THIRDPARTY_SENDER_PLAYER] si accorge dello spiegamento delle tue truppe, inizia immediatamente a prepararsi per il contrattacco.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Když si [THIRDPARTY_SENDER_PLAYER] všimne vašich rozmístěných vojsk, okamžitě začne připravovat protiútok.</Text>
+                  <LastFinalText>Když si [THIRDPARTY_SENDER_PLAYER] všimne vašich rozmístěných vojsk, okamžitě začne připravovat protiútok.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Gdy [THIRDPARTY_SENDER_PLAYER] zauważa rozmieszczenie twoich oddziałów, zaczyna przygotowania do kontrataku.</Text>
+                  <LastFinalText>Gdy [THIRDPARTY_SENDER_PLAYER] zauważa rozmieszczenie twoich oddziałów, zaczyna przygotowania do kontrataku.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313223</GUID>
+              <Kommentar>Constanza erklärt Leif den Krieg</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist die mickrigen Avancen des unseligen Barden endgültig Leid und erklärt [GUIDNAME 1645021] den Krieg.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist die mickrigen Avancen des unseligen Barden endgültig Leid und erklärt [GUIDNAME 1645021] den Krieg.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] has finally had enough of the unfortunate bard's ridiculous advances and declares war on [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] has finally had enough of the unfortunate bard's ridiculous advances and declares war on [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] в ярости из-за глупых авансов безумного барда. Она объявляет ему войну! Страшись, [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] в ярости из-за глупых авансов безумного барда. Она объявляет ему войну! Страшись, [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER], fatiguée des avances ridicules du pauvre barde, déclare finalement la guerre à [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER], fatiguée des avances ridicules du pauvre barde, déclare finalement la guerre à [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ya está harta de los ridículos lances del desventurado bardo y declara la guerra a [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ya está harta de los ridículos lances del desventurado bardo y declara la guerra a [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La [THIRDPARTY_SENDER_PLAYER] ne ha infine abbastanza delle ridicole avance dello sfortunato bardo e dichiara guerra a [GUIDNAME 1645021].</Text>
+                  <LastFinalText>La [THIRDPARTY_SENDER_PLAYER] ne ha infine abbastanza delle ridicole avance dello sfortunato bardo e dichiara guerra a [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] už má směšných návrhů toho barda po krk a postavě jménem [GUIDNAME 1645021] vyhlašuje válku.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] už má směšných návrhů toho barda po krk a postavě jménem [GUIDNAME 1645021] vyhlašuje válku.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] miała dość żałosnych zalotów nieszczęsnego barda i wypowiedziała wojnę osobie znanej jako [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] miała dość żałosnych zalotów nieszczęsnego barda i wypowiedziała wojnę osobie znanej jako [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313224</GUID>
+              <Kommentar>Constanza verlässt die Region (Schloss kaputt)</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ohne standesgemäße Unterkunft, in der sie sich von all den Strapazen erholen kann, ist [THIRDPARTY_SENDER_PLAYER] nicht länger in der Stimmung für diese Auseinandersetzung und verlässt die Region.</Text>
+                  <LastFinalText>Ohne standesgemäße Unterkunft, in der sie sich von all den Strapazen erholen kann, ist [THIRDPARTY_SENDER_PLAYER] nicht länger in der Stimmung für diese Auseinandersetzung und verlässt die Region.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Without a befitting accommodation in which she can recover from all the stress and strain, [THIRDPARTY_SENDER_PLAYER] is no longer in the mood for any disputes and decides to leave the region.</Text>
+                  <LastFinalText>Without a befitting accommodation in which she can recover from all the stress and strain, [THIRDPARTY_SENDER_PLAYER] is no longer in the mood for any disputes and decides to leave the region.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Не имея подходящего убежища, где можно было бы отдохнуть от кровопролития, [THIRDPARTY_SENDER_PLAYER], махнув рукой, покидает регион.</Text>
+                  <LastFinalText>Не имея подходящего убежища, где можно было бы отдохнуть от кровопролития, [THIRDPARTY_SENDER_PLAYER], махнув рукой, покидает регион.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Sans une résidence décente où se remettre de toute cette tension, [THIRDPARTY_SENDER_PLAYER] n'a plus le cœur à se battre et décide finalement de quitter la région.</Text>
+                  <LastFinalText>Sans une résidence décente où se remettre de toute cette tension, [THIRDPARTY_SENDER_PLAYER] n'a plus le cœur à se battre et décide finalement de quitter la région.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Sin alojamiento adecuado para recuperarse del estrés y el cansancio, [THIRDPARTY_SENDER_PLAYER] ya no está de humor para disputas y decide abandonar la región.</Text>
+                  <LastFinalText>Sin alojamiento adecuado para recuperarse del estrés y el cansancio, [THIRDPARTY_SENDER_PLAYER] ya no está de humor para disputas y decide abandonar la región.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Privata di un'opportuna sistemazione in cui potersi riprendere da tutto lo stress e le tensioni, la [THIRDPARTY_SENDER_PLAYER] non è più dell'umore per un conflitto e decide di lasciare la regione.</Text>
+                  <LastFinalText>Privata di un'opportuna sistemazione in cui potersi riprendere da tutto lo stress e le tensioni, la [THIRDPARTY_SENDER_PLAYER] non è più dell'umore per un conflitto e decide di lasciare la regione.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] postrádá vhodné ubytování, kde se může zbavit stresu a vypětí. A jelikož už nemá náladu na hádky, rozhoduje se oblast opustit.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] postrádá vhodné ubytování, kde se může zbavit stresu a vypětí. A jelikož už nemá náladu na hádky, rozhoduje se oblast opustit.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Nie mając już warunków do odreagowywania stresu i napięcia, [THIRDPARTY_SENDER_PLAYER] nie ma ochoty na dalsze spory i postanawia opuścić ten region.</Text>
+                  <LastFinalText>Nie mając już warunków do odreagowywania stresu i napięcia, [THIRDPARTY_SENDER_PLAYER] nie ma ochoty na dalsze spory i postanawia opuścić ten region.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313226</GUID>
+              <Kommentar>Tributforderung spezial</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fordert einen Tribut von [THIRDPARTY_TRIBUTE] Goldmünzen, andernfalls erklärt sie Ihnen augenblicklich den Krieg.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fordert einen Tribut von [THIRDPARTY_TRIBUTE] Goldmünzen, andernfalls erklärt sie Ihnen augenblicklich den Krieg.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] demands a Tribute of [THIRDPARTY_TRIBUTE] Gold coins - otherwise she will immediately declare war.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] demands a Tribute of [THIRDPARTY_TRIBUTE] Gold coins - otherwise she will immediately declare war.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] требует дань в размере [THIRDPARTY_TRIBUTE] золотых, иначе она немедленно объявит вам войну.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] требует дань в размере [THIRDPARTY_TRIBUTE] золотых, иначе она немедленно объявит вам войну.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] demande un Tribut de [THIRDPARTY_TRIBUTE] pièces d'or. Sans quoi, elle déclarera immédiatement la guerre.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] demande un Tribut de [THIRDPARTY_TRIBUTE] pièces d'or. Sans quoi, elle déclarera immédiatement la guerre.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] exige un tributo de [THIRDPARTY_TRIBUTE] monedas de oro. Si te niegas, te declarará la guerra de inmediato.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] exige un tributo de [THIRDPARTY_TRIBUTE] monedas de oro. Si te niegas, te declarará la guerra de inmediato.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] pretende un Tributo di [THIRDPARTY_TRIBUTE] Monete d'oro, o dichiarerà guerra seduta stante.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] pretende un Tributo di [THIRDPARTY_TRIBUTE] Monete d'oro, o dichiarerà guerra seduta stante.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] domaga się trybutu w wysokości [THIRDPARTY_TRIBUTE] szt. złotych monet - w przeciwnym razie natychmiast wypowie wojnę.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] domaga się trybutu w wysokości [THIRDPARTY_TRIBUTE] szt. złotych monet - w przeciwnym razie natychmiast wypowie wojnę.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] požaduje tribut ve výši [THIRDPARTY_TRIBUTE] zlatých, jinak vám okamžitě vyhlásí válku.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] požaduje tribut ve výši [THIRDPARTY_TRIBUTE] zlatých, jinak vám okamžitě vyhlásí válku.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41313227</GUID>
+              <Kommentar>Hint Fernkampf Schloss</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Solange Sie nicht mit Fernkampfeinheiten anrücken, hat [THIRDPARTY_SENDER_PLAYER] wenig Angst vor Ihren Angriffen.</Text>
+                  <LastFinalText>Solange Sie nicht mit Fernkampfeinheiten anrücken, hat [THIRDPARTY_SENDER_PLAYER] wenig Angst vor Ihren Angriffen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As long as you don't send Ranged combat fighters up against her, [THIRDPARTY_SENDER_PLAYER] has little fear of your attacks.</Text>
+                  <LastFinalText>As long as you don't send Ranged combat fighters up against her, [THIRDPARTY_SENDER_PLAYER] has little fear of your attacks.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Пока вы не научились дальнему бою, [THIRDPARTY_SENDER_PLAYER] не особенно боится вас.</Text>
+                  <LastFinalText>Пока вы не научились дальнему бою, [THIRDPARTY_SENDER_PLAYER] не особенно боится вас.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Tant que vous n'enverrez pas des combattants à distance, [THIRDPARTY_SENDER_PLAYER] ne craindra pas vos attaques.</Text>
+                  <LastFinalText>Tant que vous n'enverrez pas des combattants à distance, [THIRDPARTY_SENDER_PLAYER] ne craindra pas vos attaques.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Mientras no envíes contra ella hombres que ataquen a distancia, [THIRDPARTY_SENDER_PLAYER] no va a sentir temor ante tus embates.</Text>
+                  <LastFinalText>Mientras no envíes contra ella hombres que ataquen a distancia, [THIRDPARTY_SENDER_PLAYER] no va a sentir temor ante tus embates.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Finché non mandi dei guerrieri per un Combattimento a distanza contro di lei, la [THIRDPARTY_SENDER_PLAYER] non avrà nessuna paura dei tuoi attacchi.</Text>
+                  <LastFinalText>Finché non mandi dei guerrieri per un Combattimento a distanza contro di lei, la [THIRDPARTY_SENDER_PLAYER] non avrà nessuna paura dei tuoi attacchi.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Dopiero gdy uda ci się wysłać do walki jednostki miotające pociskami na odległość, możesz liczyć na to, że [THIRDPARTY_SENDER_PLAYER] zacznie się choć trochę obawiać twoich ataków.</Text>
+                  <LastFinalText>Dopiero gdy uda ci się wysłać do walki jednostki miotające pociskami na odległość, możesz liczyć na to, że [THIRDPARTY_SENDER_PLAYER] zacznie się choć trochę obawiać twoich ataków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se sotva zalekne vašich útoků, pokud na ni nepošlete bojovníky na dálku.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se sotva zalekne vašich útoků, pokud na ni nepošlete bojovníky na dálku.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645020</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

@@ -1,0 +1,1201 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41310000</GUIDRangeMin>
+      <GUIDRangeMax>41310019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41310000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Noblesse Oblige</Text>
+                  <LastFinalText>Noblesse Oblige</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Noblesse Oblige</Text>
+                  <LastFinalText>Noblesse Oblige</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Положение обязывает</Text>
+                  <LastFinalText>Положение обязывает</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Noblesse oblige</Text>
+                  <LastFinalText>Noblesse oblige</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Nobleza obliga</Text>
+                  <LastFinalText>Nobleza obliga</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Noblesse oblige</Text>
+                  <LastFinalText>Noblesse oblige</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Szlachecka powinność</Text>
+                  <LastFinalText>Szlachecka powinność</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Šlechetný závazek</Text>
+                  <LastFinalText>Šlechetný závazek</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Eine wichtige diplomatische Mission führt Sie ins Herz des Orients. </Text>
+                  <LastFinalText>Eine wichtige diplomatische Mission führt Sie ins Herz des Orients. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You have been sent to the heart of the Orient on a diplomatic mission of the utmost importance.</Text>
+                  <LastFinalText>You have been sent to the heart of the Orient on a diplomatic mission of the utmost importance.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Важная дипломатическая миссия привела вас в самое сердце Востока. </Text>
+                  <LastFinalText>Важная дипломатическая миссия привела вас в самое сердце Востока. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez été envoyé en plein cœur de l'Orient pour une mission diplomatique de la plus haute importance.</Text>
+                  <LastFinalText>Vous avez été envoyé en plein cœur de l'Orient pour une mission diplomatique de la plus haute importance.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Te han enviado al corazón de Oriente para una misión diplomática de vital importancia.</Text>
+                  <LastFinalText>Te han enviado al corazón de Oriente para una misión diplomática de vital importancia.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai ricevuto l'incarico di recarti nel cuore dell'Oriente per una missione diplomatica della massima importanza.</Text>
+                  <LastFinalText>Hai ricevuto l'incarico di recarti nel cuore dell'Oriente per una missione diplomatica della massima importanza.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Byl jste vyslán do centra Orientu na veledůležitou diplomatickou misi.</Text>
+                  <LastFinalText>Byl jste vyslán do centra Orientu na veledůležitou diplomatickou misi.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wysłano cię do serca Orientu z niezwykle ważną misją dyplomatyczną.</Text>
+                  <LastFinalText>Wysłano cię do serca Orientu z niezwykle ważną misją dyplomatyczną.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310002</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Dort hat der Kaiser den Bau einer Metropole befohlen. </Text>
+                  <LastFinalText>Dort hat der Kaiser den Bau einer Metropole befohlen. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The Emperor has commanded that a Metropolis be built there. </Text>
+                  <LastFinalText>The Emperor has commanded that a Metropolis be built there. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Император приказал вам построить там метрополию. </Text>
+                  <LastFinalText>Император приказал вам построить там метрополию. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>L'Empereur a ordonné la construction d'une Métropole.</Text>
+                  <LastFinalText>L'Empereur a ordonné la construction d'une Métropole.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>El Emperador ha ordenado la construcción de una metrópolis allí. </Text>
+                  <LastFinalText>El Emperador ha ordenado la construcción de una metrópolis allí. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>L'Imperatore ha ordinato che là venga costruita una Metropoli.</Text>
+                  <LastFinalText>L'Imperatore ha ordinato che là venga costruita una Metropoli.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Císař tam přikázal postavit metropoli.</Text>
+                  <LastFinalText>Císař tam přikázal postavit metropoli.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Cesarz rozkazał zbudować tam Metropolię. </Text>
+                  <LastFinalText>Cesarz rozkazał zbudować tam Metropolię. </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie soll dem Sultan dazu dienen, ...</Text>
+                  <LastFinalText>Sie soll dem Sultan dazu dienen, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>It's purpose is to allow the Sultan to ...</Text>
+                  <LastFinalText>It's purpose is to allow the Sultan to ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Это поможет султану...</Text>
+                  <LastFinalText>Это поможет султану...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Ceci afin de permettre au Sultan...</Text>
+                  <LastFinalText>Ceci afin de permettre au Sultan...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Su propósito es permitir que el Sultán...</Text>
+                  <LastFinalText>Su propósito es permitir que el Sultán...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Lo scopo è quello di consentire al Sultano di...</Text>
+                  <LastFinalText>Lo scopo è quello di consentire al Sultano di...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Účelem je, aby se sultán mohl...</Text>
+                  <LastFinalText>Účelem je, aby se sultán mohl...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Dzięki niej Sułtan będzie mógł...</Text>
+                  <LastFinalText>Dzięki niej Sułtan będzie mógł...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... mehr über die abendländische Kultur zu erfahren.</Text>
+                  <LastFinalText>... mehr über die abendländische Kultur zu erfahren.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... learn more about Western culture.</Text>
+                  <LastFinalText>... learn more about Western culture.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... больше узнать о западной культуре.</Text>
+                  <LastFinalText>... больше узнать о западной культуре.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... d'approfondir sa culture de l'Occident.</Text>
+                  <LastFinalText>... d'approfondir sa culture de l'Occident.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... conozca mejor la cultura occidental.</Text>
+                  <LastFinalText>... conozca mejor la cultura occidental.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...approfondire la sua conoscenza della cultura occidentale.</Text>
+                  <LastFinalText>...approfondire la sua conoscenza della cultura occidentale.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... poučit o západní kultuře.</Text>
+                  <LastFinalText>... poučit o západní kultuře.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...dowiedzieć się czegoś więcej o zachodniej kulturze.</Text>
+                  <LastFinalText>...dowiedzieć się czegoś więcej o zachodniej kulturze.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die karge Wüste erschwert jedoch die Versorgung der Bevölkerung. </Text>
+                  <LastFinalText>Die karge Wüste erschwert jedoch die Versorgung der Bevölkerung. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The barren desert, however, complicates the provisioning of your population. </Text>
+                  <LastFinalText>The barren desert, however, complicates the provisioning of your population. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Но в бесплодной пустыне трудно обеспечить население всем необходимым. </Text>
+                  <LastFinalText>Но в бесплодной пустыне трудно обеспечить население всем необходимым. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Mais le désert aride complique l'approvisionnement de votre population.</Text>
+                  <LastFinalText>Mais le désert aride complique l'approvisionnement de votre population.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>El árido desierto, sin embargo, complica el abastecimiento de la población. </Text>
+                  <LastFinalText>El árido desierto, sin embargo, complica el abastecimiento de la población. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>L'arido deserto rende però complicato rifornire la popolazione di provviste.</Text>
+                  <LastFinalText>L'arido deserto rende però complicato rifornire la popolazione di provviste.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Nehostinná poušť ale komplikuje zásobování vaší populace.</Text>
+                  <LastFinalText>Nehostinná poušť ale komplikuje zásobování vaší populace.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Jednak jałowa pustynia komplikuje dostarczanie zasobów twoim poddanym. </Text>
+                  <LastFinalText>Jednak jałowa pustynia komplikuje dostarczanie zasobów twoim poddanym. </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wird des Kaisers Stadt eine Fata Morgana bleiben?</Text>
+                  <LastFinalText>Wird des Kaisers Stadt eine Fata Morgana bleiben?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Will the Emperor's city remain a nothing but a mirage?</Text>
+                  <LastFinalText>Will the Emperor's city remain a nothing but a mirage?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Неужели город императора окажется лишь Фата Морганой?</Text>
+                  <LastFinalText>Неужели город императора окажется лишь Фата Морганой?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>La ville de l'Empereur ne restera-t-elle qu'un mirage ?</Text>
+                  <LastFinalText>La ville de l'Empereur ne restera-t-elle qu'un mirage ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¿Se quedará en un espejismo la ciudad del Emperador?</Text>
+                  <LastFinalText>¿Se quedará en un espejismo la ciudad del Emperador?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La città dell'Imperatore resterà solo un miraggio?</Text>
+                  <LastFinalText>La città dell'Imperatore resterà solo un miraggio?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Bude císařovo město pouhým zázrakem?</Text>
+                  <LastFinalText>Bude císařovo město pouhým zázrakem?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Czy miasto Cesarza okaże się niczym więcej niźli mirażem?</Text>
+                  <LastFinalText>Czy miasto Cesarza okaże się niczym więcej niźli mirażem?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310007</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Indem Sie eine florierende Stadt inmitten der Wüste errichtet haben, ...</Text>
+                  <LastFinalText>Indem Sie eine florierende Stadt inmitten der Wüste errichtet haben, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>In building a flourishing settlement in the midst of the desert,</Text>
+                  <LastFinalText>In building a flourishing settlement in the midst of the desert,</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Построив процветающий город в самом сердце пустыни, ...</Text>
+                  <LastFinalText>Построив процветающий город в самом сердце пустыни, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>En bâtissant une Colonie florissante au milieu du désert,</Text>
+                  <LastFinalText>En bâtissant une Colonie florissante au milieu du désert,</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Construyendo un floreciente asentamiento en mitad del desierto</Text>
+                  <LastFinalText>Construyendo un floreciente asentamiento en mitad del desierto</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Costruendo un fiorente insediamento nel bel mezzo del deserto,</Text>
+                  <LastFinalText>Costruendo un fiorente insediamento nel bel mezzo del deserto,</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Výstavbou vzkvétající osady uprostřed pouště</Text>
+                  <LastFinalText>Výstavbou vzkvétající osady uprostřed pouště</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Budując kwitnące miasto pośrodku pustyni,</Text>
+                  <LastFinalText>Budując kwitnące miasto pośrodku pustyni,</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310008</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... haben Sie gleich zwei mächtige Herrscher zufriedengestellt. </Text>
+                  <LastFinalText>... haben Sie gleich zwei mächtige Herrscher zufriedengestellt. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...you will please two mighty rulers at the same time.</Text>
+                  <LastFinalText>...you will please two mighty rulers at the same time.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... вы порадовали сразу двоих великих властителей. </Text>
+                  <LastFinalText>... вы порадовали сразу двоих великих властителей. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... vous comblerez deux puissants souverains.</Text>
+                  <LastFinalText>... vous comblerez deux puissants souverains.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... complacerás a dos poderosos gobernantes al mismo tiempo.</Text>
+                  <LastFinalText>... complacerás a dos poderosos gobernantes al mismo tiempo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...compiacerai due potenti sovrani in un colpo solo.</Text>
+                  <LastFinalText>...compiacerai due potenti sovrani in un colpo solo.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... potěšíte dva mocné panovníky najednou.</Text>
+                  <LastFinalText>... potěšíte dva mocné panovníky najednou.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...zadowolisz jednocześnie dwóch potężnych władców.</Text>
+                  <LastFinalText>...zadowolisz jednocześnie dwóch potężnych władców.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310009</GUID>
+              <Kommentar>Outro Text 13</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Und während der Sultan seinen ersten Wissensdurst vor Ort stillt, ...</Text>
+                  <LastFinalText>Und während der Sultan seinen ersten Wissensdurst vor Ort stillt, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>And as the Sultan first slakes his thirst for knowledge ...</Text>
+                  <LastFinalText>And as the Sultan first slakes his thirst for knowledge ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>И пока султан удовлетворяет первое любопытство, осматривая это чудесное место, ...</Text>
+                  <LastFinalText>И пока султан удовлетворяет первое любопытство, осматривая это чудесное место, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Alors que le Sultan assouvit sa soif de connaissances...</Text>
+                  <LastFinalText>Alors que le Sultan assouvit sa soif de connaissances...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>El Sultán saciará sus ansias de conocimiento...</Text>
+                  <LastFinalText>El Sultán saciará sus ansias de conocimiento...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>E mentre il Sultano per la prima volta può soddisfare la sua sete di conoscenza...</Text>
+                  <LastFinalText>E mentre il Sultano per la prima volta può soddisfare la sua sete di conoscenza...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>A když sultán poprvé ukojí svou touhu po vědění,...</Text>
+                  <LastFinalText>A když sultán poprvé ukojí svou touhu po vědění,...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>A gdy Sułtan po raz pierwszy zaspokaja swój głód wiedzy...</Text>
+                  <LastFinalText>A gdy Sułtan po raz pierwszy zaspokaja swój głód wiedzy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310010</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... klopft Ihnen Lord Northburgh anerkennend auf die Schulter.</Text>
+                  <LastFinalText>... klopft Ihnen Lord Northburgh anerkennend auf die Schulter.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... Lord Northburgh slaps you on the shoulder in appreciation of your efforts.</Text>
+                  <LastFinalText>... Lord Northburgh slaps you on the shoulder in appreciation of your efforts.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... лорд Нортберг с чувством хлопает вас по плечу.</Text>
+                  <LastFinalText>... лорд Нортберг с чувством хлопает вас по плечу.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... Lord Northburgh vous tape sur l'épaule en signe de remerciement.</Text>
+                  <LastFinalText>... Lord Northburgh vous tape sur l'épaule en signe de remerciement.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... y el señor Northburgh te dará palmaditas en el hombro para agradecerte tu esfuerzo.</Text>
+                  <LastFinalText>... y el señor Northburgh te dará palmaditas en el hombro para agradecerte tu esfuerzo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...Lord Northburgh ti dà una pacca sulla spalla in segno di apprezzamento per i tuoi sforzi.</Text>
+                  <LastFinalText>...Lord Northburgh ti dà una pacca sulla spalla in segno di apprezzamento per i tuoi sforzi.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... poplácá vás lord Northburgh uznale po rameni.</Text>
+                  <LastFinalText>... poplácá vás lord Northburgh uznale po rameni.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...Lord Northburgh klepie cię po ramieniu, w uznaniu twych starań.</Text>
+                  <LastFinalText>...Lord Northburgh klepie cię po ramieniu, w uznaniu twych starań.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310011</GUID>
+              <Kommentar>Outro Text 15</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wieder einmal haben Sie ihn und den Kaiser ...</Text>
+                  <LastFinalText>Wieder einmal haben Sie ihn und den Kaiser ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Once again both Lord Northburgh and the Emperor ...</Text>
+                  <LastFinalText>Once again both Lord Northburgh and the Emperor ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Снова благодаря вам их с императором сердца ...</Text>
+                  <LastFinalText>Снова благодаря вам их с императором сердца ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Une fois encore Lord Northburgh et l'Empereur...</Text>
+                  <LastFinalText>Une fois encore Lord Northburgh et l'Empereur...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>De nuevo, el señor Northburgh y el Emperador...</Text>
+                  <LastFinalText>De nuevo, el señor Northburgh y el Emperador...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ancora una volta Lord Northburgh e l'Imperatore...</Text>
+                  <LastFinalText>Ancora una volta Lord Northburgh e l'Imperatore...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Lord Northburgh i císař se opět mohou dmout...</Text>
+                  <LastFinalText>Lord Northburgh i císař se opět mohou dmout...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Lord Northburgh i Cesarz ponownie...</Text>
+                  <LastFinalText>Lord Northburgh i Cesarz ponownie...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310012</GUID>
+              <Kommentar>Outro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... mit Stolz erfüllt.</Text>
+                  <LastFinalText>... mit Stolz erfüllt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... are filled with pride.</Text>
+                  <LastFinalText>... are filled with pride.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... наполнились гордостью.</Text>
+                  <LastFinalText>... наполнились гордостью.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... sont emplis de fierté.</Text>
+                  <LastFinalText>... sont emplis de fierté.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... están llenos de orgullo.</Text>
+                  <LastFinalText>... están llenos de orgullo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...sono colmi di orgoglio.</Text>
+                  <LastFinalText>...sono colmi di orgoglio.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... pýchou.</Text>
+                  <LastFinalText>... pýchou.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...są przepełnieni dumą.</Text>
+                  <LastFinalText>...są przepełnieni dumą.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Story Quest</Name>
+      <GUIDRangeMin>41310050</GUIDRangeMin>
+      <GUIDRangeMax>41310099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41310050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Perle der Wüste</Text>
+                  <LastFinalText>Perle der Wüste</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Desert pearl</Text>
+                  <LastFinalText>Desert pearl</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Жемчужина пустыни</Text>
+                  <LastFinalText>Жемчужина пустыни</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Perle du désert</Text>
+                  <LastFinalText>Perle du désert</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Perla del desierto</Text>
+                  <LastFinalText>Perla del desierto</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Perla del deserto</Text>
+                  <LastFinalText>Perla del deserto</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Pouštní perla</Text>
+                  <LastFinalText>Pouštní perla</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Perła pustyni</Text>
+                  <LastFinalText>Perła pustyni</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41310052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Das Interesse des Sultans an der abendländischen Kultur ist allgemein bekannt. Doch um diese aus nächster Nähe zu studieren, müsste man eine okzidentale Stadt im Herzen des Orients errichten...[CR] [CR][GUIDNAME 1645000] hat Sie im Namen des Kaisers mit dem Bau einer solchen Metropole betraut. Werden Sie allen Widrigkeiten zum Trotz den Wunsch der beiden Herrscher erfüllen können?</Text>
+                  <LastFinalText>Das Interesse des Sultans an der abendländischen Kultur ist allgemein bekannt. Doch um diese aus nächster Nähe zu studieren, müsste man eine okzidentale Stadt im Herzen des Orients errichten...[CR] [CR][GUIDNAME 1645000] hat Sie im Namen des Kaisers mit dem Bau einer solchen Metropole betraut. Werden Sie allen Widrigkeiten zum Trotz den Wunsch der beiden Herrscher erfüllen können?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The Sultan's interest in Western culture is common knowledge. But in order for him to study it first-hand, one would have to build an Occidental city in the heart of the Orient ... [CR] [CR][GUIDNAME 1645000] has entrusted you on behalf of the Emperor with the construction of just such a Metropolis. Will you be able to overcome all obstacles and fulfill the two rulers' desires?</Text>
+                  <LastFinalText>The Sultan's interest in Western culture is common knowledge. But in order for him to study it first-hand, one would have to build an Occidental city in the heart of the Orient ... [CR] [CR][GUIDNAME 1645000] has entrusted you on behalf of the Emperor with the construction of just such a Metropolis. Will you be able to overcome all obstacles and fulfill the two rulers' desires?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Все знаю, как султан интересуется западной культурой. Чтобы он мог разобраться во всех ее тонкостях, нужно построить западный город посреди пустыни...[CR] [CR][GUIDNAME 1645000] от имени императора поручает вам строительство этой метрополии. Сумеете ли вы преодолеть все преграды на радость обоим правителям?</Text>
+                  <LastFinalText>Все знаю, как султан интересуется западной культурой. Чтобы он мог разобраться во всех ее тонкостях, нужно построить западный город посреди пустыни...[CR] [CR][GUIDNAME 1645000] от имени императора поручает вам строительство этой метрополии. Сумеете ли вы преодолеть все преграды на радость обоим правителям?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>L'intérêt que porte le Sultan à la culture occidentale est connu de tous. Mais pour lui permettre de l'étudier de plus près, il faudrait bâtir une ville occidentale en plein cœur de l'Orient... [CR] [CR][GUIDNAME 1645000] vous a confié, au nom de l'Empereur, la construction de cette Métropole. Saurez-vous surmonter tous les obstacles et satisfaire les désirs des deux souverains ?</Text>
+                  <LastFinalText>L'intérêt que porte le Sultan à la culture occidentale est connu de tous. Mais pour lui permettre de l'étudier de plus près, il faudrait bâtir une ville occidentale en plein cœur de l'Orient... [CR] [CR][GUIDNAME 1645000] vous a confié, au nom de l'Empereur, la construction de cette Métropole. Saurez-vous surmonter tous les obstacles et satisfaire les désirs des deux souverains ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Todo el mundo conoce el interés del Sultán por la cultura occidental, pero para que pudiera estudiarla de primera mano, habría que construir una ciudad occidental en el corazón de Oriente. [CR] [CR][GUIDNAME 1645000] te ha encomendado, en nombre del Emperador, la misión de levantar esa metrópolis. ¿Serás capaz de superar todos los obstáculos y cumplir los deseos de los dos gobernantes?</Text>
+                  <LastFinalText>Todo el mundo conoce el interés del Sultán por la cultura occidental, pero para que pudiera estudiarla de primera mano, habría que construir una ciudad occidental en el corazón de Oriente. [CR] [CR][GUIDNAME 1645000] te ha encomendado, en nombre del Emperador, la misión de levantar esa metrópolis. ¿Serás capaz de superar todos los obstáculos y cumplir los deseos de los dos gobernantes?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>L'interesse del Sultano per la cultura occidentale è cosa nota. Per consentirgli però di studiarla di persona, sarebbe necessario costruire una città occidentale nel cuore dell'Oriente... [CR] [CR][GUIDNAME 1645000] ti ha incaricato, per conto dell'Imperatore, della costruzione di tale Metropoli. Riuscirai a superare tutti gli ostacoli e a soddisfare i desideri dei due sovrani?</Text>
+                  <LastFinalText>L'interesse del Sultano per la cultura occidentale è cosa nota. Per consentirgli però di studiarla di persona, sarebbe necessario costruire una città occidentale nel cuore dell'Oriente... [CR] [CR][GUIDNAME 1645000] ti ha incaricato, per conto dell'Imperatore, della costruzione di tale Metropoli. Riuscirai a superare tutti gli ostacoli e a soddisfare i desideri dei due sovrani?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Powszechnie wiadomo, że Sułtan jest żywo zainteresowany kulturą Zachodu. Jednakże, aby mógł studiować jej niuanse bezpośrednio, należałoby wybudować łacińskie miasto w samym sercu Orientu... [CR] [CR][GUIDNAME 1645000] powierza ci w imieniu Cesarza zadanie wybudowanie takiej właśnie metropolii. Czy uda ci się przezwyciężyć wszystkie przeciwności i spełnić pragnienia obu wielkich władców?</Text>
+                  <LastFinalText>Powszechnie wiadomo, że Sułtan jest żywo zainteresowany kulturą Zachodu. Jednakże, aby mógł studiować jej niuanse bezpośrednio, należałoby wybudować łacińskie miasto w samym sercu Orientu... [CR] [CR][GUIDNAME 1645000] powierza ci w imieniu Cesarza zadanie wybudowanie takiej właśnie metropolii. Czy uda ci się przezwyciężyć wszystkie przeciwności i spełnić pragnienia obu wielkich władców?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>O sultánově zájmu o západní kulturu se ví. Ale aby ji mohl studovat hned z první ruky, bude mu muset někdo postavit západní město přímo v srdci Orientu... [CR] [CR][GUIDNAME 1645000] vás jménem císaře pověřuje k výstavbě takové metropole. Dokážete překonat všechny překážky a naplnit touhy těch dvou panovníků?</Text>
+                  <LastFinalText>O sultánově zájmu o západní kulturu se ví. Ale aby ji mohl studovat hned z první ruky, bude mu muset někdo postavit západní město přímo v srdci Orientu... [CR] [CR][GUIDNAME 1645000] vás jménem císaře pověřuje k výstavbě takové metropole. Dokážete překonat všechny překážky a naplnit touhy těch dvou panovníků?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310054</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bittet Sie im Auftrag des Kaisers, eine Adligenstadt aufzubauen, damit der Sultan die abendländische Kultur besser kennen lernen kann.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bittet Sie im Auftrag des Kaisers, eine Adligenstadt aufzubauen, damit der Sultan die abendländische Kultur besser kennen lernen kann.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] asks you on behalf of the Emperor to build a noble city, so that the Sultan may learn more of Western culture.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] asks you on behalf of the Emperor to build a noble city, so that the Sultan may learn more of Western culture.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] просит вас по поручению императора построить город дворян, чтобы дать султану возможность поближе познакомиться с культурой запада.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] просит вас по поручению императора построить город дворян, чтобы дать султану возможность поближе познакомиться с культурой запада.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous demande au nom de l'Empereur de bâtir une ville noble pour permettre au Sultan de s'instruire sur la culture occidentale.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous demande au nom de l'Empereur de bâtir une ville noble pour permettre au Sultan de s'instruire sur la culture occidentale.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te ha pedido, en nombre del Emperador, que construyas una ciudad nobiliaria para que el Sultán conozca más a fondo la cultura occidental.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te ha pedido, en nombre del Emperador, que construyas una ciudad nobiliaria para que el Sultán conozca más a fondo la cultura occidental.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti chiede per conto dell'Imperatore di costruire una nobile città, in modo che il Sultano possa approfondire la conoscenza della cultura occidentale.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti chiede per conto dell'Imperatore di costruire una nobile città, in modo che il Sultano possa approfondire la conoscenza della cultura occidentale.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vás jménem císaře žádá o výstavbu šlechtického města, aby se mohl sultán dozvědět více o západní kultuře.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vás jménem císaře žádá o výstavbu šlechtického města, aby se mohl sultán dozvědět více o západní kultuře.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] prosi cię w imieniu Cesarza o zbudowanie zamieszkiwanego przez Arystokratów miasta, dzięki któremu Sułtan dowie się czegoś więcej o zachodniej kulturze.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] prosi cię w imieniu Cesarza o zbudowanie zamieszkiwanego przez Arystokratów miasta, dzięki któremu Sułtan dowie się czegoś więcej o zachodniej kulturze.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41310057</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Errichten Sie eine Stadt und sorgen Sie dafür, dass dort Adlige sesshaft werden.</Text>
+                  <LastFinalText>Errichten Sie eine Stadt und sorgen Sie dafür, dass dort Adlige sesshaft werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Build a city and raise it to Noblemen status.</Text>
+                  <LastFinalText>Build a city and raise it to Noblemen status.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Постройте город и позаботьтесь о том, чтобы дворяне в нем ни в чем не нуждались.</Text>
+                  <LastFinalText>Постройте город и позаботьтесь о том, чтобы дворяне в нем ни в чем не нуждались.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Bâtissez une ville et atteignez le statut de Noblesse.</Text>
+                  <LastFinalText>Bâtissez une ville et atteignez le statut de Noblesse.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Construye una ciudad y haz que alcance un estatus nobiliario.</Text>
+                  <LastFinalText>Construye una ciudad y haz que alcance un estatus nobiliario.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Costruisci una città e portala allo stato dei Nobili.</Text>
+                  <LastFinalText>Costruisci una città e portala allo stato dei Nobili.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Postavte město a povyšte ho na šlechtický statut.</Text>
+                  <LastFinalText>Postavte město a povyšte ho na šlechtický statut.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zbuduj miasto i spraw, by zamieszkali w nim Arystokraci.</Text>
+                  <LastFinalText>Zbuduj miasto i spraw, by zamieszkali w nim Arystokraci.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310056</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erfreut teilt Ihnen [THIRDPARTY_SENDER_PLAYER] mit, dass Kaiser und Sultan höchst erfreut über Ihre glanzvolle Stadt sind.</Text>
+                  <LastFinalText>Erfreut teilt Ihnen [THIRDPARTY_SENDER_PLAYER] mit, dass Kaiser und Sultan höchst erfreut über Ihre glanzvolle Stadt sind.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is visibly pleased to inform you that both the Emperor and the Sultan are very pleased with the wonderful city you have built.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is visibly pleased to inform you that both the Emperor and the Sultan are very pleased with the wonderful city you have built.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] радостно сообщает вам, что султан и император оба в восторге от вашего прекрасного города.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] радостно сообщает вам, что султан и император оба в восторге от вашего прекрасного города.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est apparemment ravi de vous informer que l'Empereur et le Sultan sont enchantés de la magnifique ville que vous avez bâtie.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est apparemment ravi de vous informer que l'Empereur et le Sultan sont enchantés de la magnifique ville que vous avez bâtie.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Es un placer para [THIRDPARTY_SENDER_PLAYER] informarte de que el Emperador y el Sultán se muestran muy complacidos con la maravillosa ciudad que has construido.</Text>
+                  <LastFinalText>Es un placer para [THIRDPARTY_SENDER_PLAYER] informarte de que el Emperador y el Sultán se muestran muy complacidos con la maravillosa ciudad que has construido.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è visibilmente lieto di informarti che sia l'Imperatore che il Sultano sono molto soddisfatti della meravigliosa città che hai costruito.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è visibilmente lieto di informarti che sia l'Imperatore che il Sultano sono molto soddisfatti della meravigliosa città che hai costruito.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] cítí spokojenost, když vám může oznámit, že císař i sultán jsou tím báječným městem, které jste postavil, velmi potěšeni.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] cítí spokojenost, když vám může oznámit, že císař i sultán jsou tím báječným městem, které jste postavil, velmi potěšeni.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z zadowoleniem informuje cię, że Cesarz i Sułtan są bardzo zadowoleni ze zbudowanego przez ciebie wspaniałego miasta.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z zadowoleniem informuje cię, że Cesarz i Sułtan są bardzo zadowoleni ze zbudowanego przez ciebie wspaniałego miasta.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ_LoseCondition</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41310102</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ihre horrenden Schulden machen es unmöglich, Ihren Auftrag in die Tat umzusetzen. Und als wäre die Enttäuschung beider Herrscher über Ihr Versagen nicht Schmach genug, ist auch die Hoffnung auf einen Austausch der Kulturen in weite Ferne gerückt.</Text>
+                  <LastFinalText>Ihre horrenden Schulden machen es unmöglich, Ihren Auftrag in die Tat umzusetzen. Und als wäre die Enttäuschung beider Herrscher über Ihr Versagen nicht Schmach genug, ist auch die Hoffnung auf einen Austausch der Kulturen in weite Ferne gerückt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Your horrendous debts make it impossible to for you to complete your mission. And, as if the two rulers' disappointment at your failure were not shameful enough, the hope of any meaningful cultural exchange in the near future has been dashed.</Text>
+                  <LastFinalText>Your horrendous debts make it impossible to for you to complete your mission. And, as if the two rulers' disappointment at your failure were not shameful enough, the hope of any meaningful cultural exchange in the near future has been dashed.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>У вас столько долгов, что вы уже не сможете выполнить данное вам поручение. И как будто недостаточно разочарования обоих правителей - теперь надежда на сближение культур откладывается в далекое будущее.</Text>
+                  <LastFinalText>У вас столько долгов, что вы уже не сможете выполнить данное вам поручение. И как будто недостаточно разочарования обоих правителей - теперь надежда на сближение культур откладывается в далекое будущее.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vos épouvantables dettes rendent impossible l'accomplissement de votre mission. Et, comme si la déception des deux souverains à votre égard n'était pas suffisamment déshonorante, l'espoir d'un réel échange culturel dans un proche futur a été anéanti.</Text>
+                  <LastFinalText>Vos épouvantables dettes rendent impossible l'accomplissement de votre mission. Et, comme si la déception des deux souverains à votre égard n'était pas suffisamment déshonorante, l'espoir d'un réel échange culturel dans un proche futur a été anéanti.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tus deudas excesivas te impiden cumplir tu misión. Y por si no fuese suficientemente vergonzoso el haber defraudado a los dos gobernantes, se ha desvanecido cualquier esperanza de intercambio cultural futuro.</Text>
+                  <LastFinalText>Tus deudas excesivas te impiden cumplir tu misión. Y por si no fuese suficientemente vergonzoso el haber defraudado a los dos gobernantes, se ha desvanecido cualquier esperanza de intercambio cultural futuro.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Con quei terribili debiti è impossibile completare la missione. E, come se il disappunto dei due sovrani per il tuo fallimento non fosse già abbastanza umiliante, è svanita anche la speranza di un significativo scambio culturale nel prossimo futuro.</Text>
+                  <LastFinalText>Con quei terribili debiti è impossibile completare la missione. E, come se il disappunto dei due sovrani per il tuo fallimento non fosse già abbastanza umiliante, è svanita anche la speranza di un significativo scambio culturale nel prossimo futuro.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Kvůli ohromným dluhům nemůžete dokončit svou misi. Nejen že jste zklamal ty dva panovníky, vy jste i zbrzdil jakoukoliv kulturní výměnu v příštích letech.</Text>
+                  <LastFinalText>Kvůli ohromným dluhům nemůžete dokončit svou misi. Nejen že jste zklamal ty dva panovníky, vy jste i zbrzdil jakoukoliv kulturní výměnu v příštích letech.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Twe olbrzymie długi uniemożliwiają ci wykonanie zadania. A do rozczarowania dwóch władców trzeba dodać jeszcze zaprzepaszczenie szansy na znaczącą wymianę kulturalną w najbliższej przyszłości.</Text>
+                  <LastFinalText>Twe olbrzymie długi uniemożliwiają ci wykonanie zadania. A do rozczarowania dwóch władców trzeba dodać jeszcze zaprzepaszczenie szansy na znaczącą wymianę kulturalną w najbliższej przyszłości.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Mood Text</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310103</GUID>
+              <Kommentar>Mood Story</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erinnert Sie daran, wie wichtig die Fertigstellung Ihrer Stadt für die Annäherung von Orient und Okzident ist.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] erinnert Sie daran, wie wichtig die Fertigstellung Ihrer Stadt für die Annäherung von Orient und Okzident ist.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] reminds you of just how important the completion of your City is for the convergence of the Orient and the Occident.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] reminds you of just how important the completion of your City is for the convergence of the Orient and the Occident.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] напоминает вам, как важно подготовить ваш город к сближению востока и запада.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] напоминает вам, как важно подготовить ваш город к сближению востока и запада.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous rappelle combien l'achèvement de votre Ville est important pour la convergence de l'Orient et de l'Occident.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous rappelle combien l'achèvement de votre Ville est important pour la convergence de l'Orient et de l'Occident.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te recuerda la importancia de la finalización de tu ciudad para la convergencia de Oriente y Occidente.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te recuerda la importancia de la finalización de tu ciudad para la convergencia de Oriente y Occidente.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti ricorda che, al fine di integrare Oriente e Occidente, il completamento della tua Città è fondamentale.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti ricorda che, al fine di integrare Oriente e Occidente, il completamento della tua Città è fondamentale.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] przypomina ci, jak ważne jest ukończenie twojego miasta dla stosunków pomiędzy Orientem a Zachodem.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] przypomina ci, jak ważne jest ukończenie twojego miasta dla stosunków pomiędzy Orientem a Zachodem.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám připomíná, že výstavba vašeho města je pro sblížení Orientu a západu nesmírně důležitá.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám připomíná, že výstavba vašeho města je pro sblížení Orientu a západu nesmírně důležitá.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41310104</GUID>
+              <Kommentar>Mood Story</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] gesteht ergriffen, dass Sie dem Sultan mit Ihrer Stadt einen Herzenswunsch erfüllen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] gesteht ergriffen, dass Sie dem Sultan mit Ihrer Stadt einen Herzenswunsch erfüllen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A moved [THIRDPARTY_SENDER_PLAYER] admits that your City fulfills one of the Sultan's most heartfelt desires.</Text>
+                  <LastFinalText>A moved [THIRDPARTY_SENDER_PLAYER] admits that your City fulfills one of the Sultan's most heartfelt desires.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] взволнованно признает, что, построив свой город, вы выполнили заветное желание султана.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] взволнованно признает, что, построив свой город, вы выполнили заветное желание султана.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] admet que votre Ville répond à l'un des désirs les plus sincères du Sultan.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] admet que votre Ville répond à l'un des désirs les plus sincères du Sultan.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER], conmovido, afirma que con tu ciudad se ve cumplido uno de los deseos más sinceros del Sultán.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER], conmovido, afirma que con tu ciudad se ve cumplido uno de los deseos más sinceros del Sultán.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un commosso [THIRDPARTY_SENDER_PLAYER] ammette che la tua Città realizza uno dei più profondi desideri del Sultano.</Text>
+                  <LastFinalText>Un commosso [THIRDPARTY_SENDER_PLAYER] ammette che la tua Città realizza uno dei più profondi desideri del Sultano.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] jest głęboko poruszony i przyznaje, że twoje miasto jest w stanie spełnić nawet najskrytsze marzenia Sułtana.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] jest głęboko poruszony i przyznaje, że twoje miasto jest w stanie spełnić nawet najskrytsze marzenia Sułtana.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s dojetím přiznává, že vaše město splňuje sultánovy nejtajnější touhy.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s dojetím přiznává, že vaše město splňuje sultánovy nejtajnější touhy.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

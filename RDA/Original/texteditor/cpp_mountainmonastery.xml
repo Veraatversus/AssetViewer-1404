@@ -1,0 +1,3315 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Profil</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5303001</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_COOLDOWN</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erbittet etwas Zeit, damit sich seine Esel ausruhen können. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] erbittet etwas Zeit, damit sich seine Esel ausruhen können. </LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] asks for some time so his Donkeys may rest. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] asks for some time so his Donkeys may rest. </LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous demande de laisser ses Ânes se reposer. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous demande de laisser ses Ânes se reposer. </LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] pide tiempo para que sus burros descansen. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] pide tiempo para que sus burros descansen. </LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chiede del tempo per fare riposare i suoi Asini.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chiede del tempo per fare riposare i suoi Asini.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5303002</GUID>
+              <Kommentar>FUNCTION_INVITATION_ACCEPTED</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] schickt seine Esel los.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] schickt seine Esel los.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] sends off his Donkeys.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] sends off his Donkeys.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] envoie ses Ânes.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] envoie ses Ânes.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] manda a sus burros.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] manda a sus burros.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fa partire i suoi Asini.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fa partire i suoi Asini.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5303006</GUID>
+              <Kommentar>FUNCTION_RUNNING</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]'s Esel sind bereits auf dem Weg.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]'s Esel sind bereits auf dem Weg.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]'s Donkeys are on their way.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]'s Donkeys are on their way.</LastFinalText>
+                </English>
+                <French>
+                  <Text>Les Ânes de [THIRDPARTY_SENDER_PLAYER] sont en route.</Text>
+                  <LastFinalText>Les Ânes de [THIRDPARTY_SENDER_PLAYER] sont en route.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>Los burros de [THIRDPARTY_SENDER_PLAYER] están en camino.</Text>
+                  <LastFinalText>Los burros de [THIRDPARTY_SENDER_PLAYER] están en camino.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>Gli Asini di [THIRDPARTY_SENDER_PLAYER] sono in cammino.</Text>
+                  <LastFinalText>Gli Asini di [THIRDPARTY_SENDER_PLAYER] sono in cammino.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>StandardQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303008</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Handelsschiff geriet in Seenot. Der Kapitän warf in der Hoffnung, dem Klabautermann zu entgehen, alle für [QUEST_SENDER] bestimmten Waren über Bord. Vergeblich! Die Waren sind übrig, das Schiff sank.</Text>
+                      <LastFinalText>Ein Handelsschiff geriet in Seenot. Der Kapitän warf in der Hoffnung, dem Klabautermann zu entgehen, alle für [QUEST_SENDER] bestimmten Waren über Bord. Vergeblich! Die Waren sind übrig, das Schiff sank.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303009</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Tribut für die See</Text>
+                      <LastFinalText>Tribut für die See</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Tribute for the Sea</Text>
+                      <LastFinalText>Tribute for the Sea</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Offrande à la mer</Text>
+                      <LastFinalText>Offrande à la mer</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Tributo para el mar</Text>
+                      <LastFinalText>Tributo para el mar</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Un Tributo per il Mare</Text>
+                      <LastFinalText>Un Tributo per il Mare</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303011</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Zwei Nonnen wurden von Korsaren entführt. Nachdem sie die Hälfte der Mannschaft zum wahren Glauben bekehrt haben, liess sie der Kapitän entnervt über Bord werfen. [QUEST_SENDER] würde ihnen gerne persönlich gratulieren.</Text>
+                      <LastFinalText>Zwei Nonnen wurden von Korsaren entführt. Nachdem sie die Hälfte der Mannschaft zum wahren Glauben bekehrt haben, liess sie der Kapitän entnervt über Bord werfen. [QUEST_SENDER] würde ihnen gerne persönlich gratulieren.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303012</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Ei gelegt ...</Text>
+                      <LastFinalText>Ein Ei gelegt ...</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>His own fault…</Text>
+                      <LastFinalText>His own fault…</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>C’est sa faute...</Text>
+                      <LastFinalText>C’est sa faute...</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Fue culpa suya...</Text>
+                      <LastFinalText>Fue culpa suya...</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Per sua stessa colpa...</Text>
+                      <LastFinalText>Per sua stessa colpa...</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303015</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Wertvolles Nass</Text>
+                      <LastFinalText>Wertvolles Nass</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Precious wet</Text>
+                      <LastFinalText>Precious wet</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Un précieux liquide</Text>
+                      <LastFinalText>Un précieux liquide</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Preciado líquido</Text>
+                      <LastFinalText>Preciado líquido</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Preziosi liquidi</Text>
+                      <LastFinalText>Preziosi liquidi</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303018</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Offen für Neues</Text>
+                      <LastFinalText>Offen für Neues</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Open to new things</Text>
+                      <LastFinalText>Open to new things</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L'ouverture aux nouveautés</Text>
+                      <LastFinalText>L'ouverture aux nouveautés</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Una mente abierta</Text>
+                      <LastFinalText>Una mente abierta</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Verso nuove esperienze</Text>
+                      <LastFinalText>Verso nuove esperienze</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303020</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Wieder ist ein Händler mit dem Bier der Mönche havariert. Offenbar hat die Mannschaft sich an der Ladung vergriffen. [QUEST_SENDER] bittet Sie, die Repartur zu übernehmen. </Text>
+                      <LastFinalText>Wieder ist ein Händler mit dem Bier der Mönche havariert. Offenbar hat die Mannschaft sich an der Ladung vergriffen. [QUEST_SENDER] bittet Sie, die Repartur zu übernehmen. </LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303021</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Alkohol am Steuerrad</Text>
+                      <LastFinalText>Alkohol am Steuerrad</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Alcohol at the helm</Text>
+                      <LastFinalText>Alcohol at the helm</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Alcool à la barre</Text>
+                      <LastFinalText>Alcool à la barre</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Alcohol al timón</Text>
+                      <LastFinalText>Alcohol al timón</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Alcool al timone</Text>
+                      <LastFinalText>Alcool al timone</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303023</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Schiff eines befreundeten Mönchs einer anderen Abtei bekam es auf dem Weg zu [QUEST_SENDER] mit einem Seeungeheuer zu tun und kenterte. Helfen Sie ihm, bevor das Ungeheuer zurückkommt.</Text>
+                      <LastFinalText>Das Schiff eines befreundeten Mönchs einer anderen Abtei bekam es auf dem Weg zu [QUEST_SENDER] mit einem Seeungeheuer zu tun und kenterte. Helfen Sie ihm, bevor das Ungeheuer zurückkommt.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303024</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ungeheuer gefährlich!</Text>
+                      <LastFinalText>Ungeheuer gefährlich!</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Incredibly dangerous!</Text>
+                      <LastFinalText>Incredibly dangerous!</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Extrêmement dangereux !</Text>
+                      <LastFinalText>Extrêmement dangereux !</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>¡Peligrosísimo!</Text>
+                      <LastFinalText>¡Peligrosísimo!</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Grande pericolo!</Text>
+                      <LastFinalText>Grande pericolo!</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303026</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Mönch aus [QUEST_SENDER]' Kloster hat auf einem Frachter als Schiffsgeistlicher angeheuert. Da die Seeleute tagsüber arbeiten, müssen sie nachts die Bibel studieren. Dazu braucht es jedoch Kerzen.</Text>
+                      <LastFinalText>Ein Mönch aus [QUEST_SENDER]' Kloster hat auf einem Frachter als Schiffsgeistlicher angeheuert. Da die Seeleute tagsüber arbeiten, müssen sie nachts die Bibel studieren. Dazu braucht es jedoch Kerzen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303027</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Illumination</Text>
+                      <LastFinalText>Illumination</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Illumination</Text>
+                      <LastFinalText>Illumination</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L’illumination</Text>
+                      <LastFinalText>L’illumination</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Iluminación</Text>
+                      <LastFinalText>Iluminación</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Folgorazione</Text>
+                      <LastFinalText>Folgorazione</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303029</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Nach dem letzten Besuch der Mönche in Ihrer Stadt hat ein Bruder aus [QUEST_SENDER]' Gruppe zu tief ins Glas geschaut und wurde vergessen. Jetzt irrt er hilflos durch Ihre Stadt.</Text>
+                      <LastFinalText>Nach dem letzten Besuch der Mönche in Ihrer Stadt hat ein Bruder aus [QUEST_SENDER]' Gruppe zu tief ins Glas geschaut und wurde vergessen. Jetzt irrt er hilflos durch Ihre Stadt.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303030</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der vermisste Mönch</Text>
+                      <LastFinalText>Der vermisste Mönch</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The missing Monk</Text>
+                      <LastFinalText>The missing Monk</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le moine disparu</Text>
+                      <LastFinalText>Le moine disparu</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El monje perdido</Text>
+                      <LastFinalText>El monje perdido</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Monaco scomparso</Text>
+                      <LastFinalText>Il Monaco scomparso</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303032</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] möchte eine neue Rezeptur für Bier versuchen und benötigt dafür einige exotische Ingredienzen. Das kräftige Bier soll für besonders festliche Anlässe hergestellt werden.</Text>
+                      <LastFinalText>[QUEST_SENDER] möchte eine neue Rezeptur für Bier versuchen und benötigt dafür einige exotische Ingredienzen. Das kräftige Bier soll für besonders festliche Anlässe hergestellt werden.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] would like to find a new recipe for Beer and requires some exotic ingredients. The strong Beer will be produced for particularly festive occasions.</Text>
+                      <LastFinalText>[QUEST_SENDER] would like to find a new recipe for Beer and requires some exotic ingredients. The strong Beer will be produced for particularly festive occasions.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] souhaite élaborer une nouvelle Recette de Bière et a besoin d'ingrédients exotiques. Cette Bière forte sera brassée pour les occasions particulièrement festives.</Text>
+                      <LastFinalText>[QUEST_SENDER] souhaite élaborer une nouvelle Recette de Bière et a besoin d'ingrédients exotiques. Cette Bière forte sera brassée pour les occasions particulièrement festives.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>A [QUEST_SENDER] le gustaría elaborar una nueva variedad de cerveza y necesita unos ingredientes exóticos. Esta cerveza de intenso sabor se servirá en las ocasiones más especiales.</Text>
+                      <LastFinalText>A [QUEST_SENDER] le gustaría elaborar una nueva variedad de cerveza y necesita unos ingredientes exóticos. Esta cerveza de intenso sabor se servirá en las ocasiones más especiales.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] vorrebbe trovare una nuova formula per fare la Birra e ha bisogno di ingredienti esotici. La Birra di forte gradazione sarà prodotta in occasione di festività particolari.</Text>
+                      <LastFinalText>[QUEST_SENDER] vorrebbe trovare una nuova formula per fare la Birra e ha bisogno di ingredienti esotici. La Birra di forte gradazione sarà prodotta in occasione di festività particolari.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303033</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Festbier I</Text>
+                      <LastFinalText>Festbier I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Special brew I</Text>
+                      <LastFinalText>Special brew I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Breuvage spécial I</Text>
+                      <LastFinalText>Breuvage spécial I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Cerveza especial I</Text>
+                      <LastFinalText>Cerveza especial I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Birra speciale I</Text>
+                      <LastFinalText>Birra speciale I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303035</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die neue Rezeptur ist ein großer Erfolg! [QUEST_SENDER] bittet Sie, eine Lieferung des Festbiers sicher zum diesjährigen Braufest zu geleiten und achtzugeben, dass nichts verschüttet wird.</Text>
+                      <LastFinalText>Die neue Rezeptur ist ein großer Erfolg! [QUEST_SENDER] bittet Sie, eine Lieferung des Festbiers sicher zum diesjährigen Braufest zu geleiten und achtzugeben, dass nichts verschüttet wird.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The new recipe is a great success! [QUEST_SENDER] asks you to safely escort a delivery of the strong brew to this year's Beer festival, and to ensure that not a single drop is spilled.</Text>
+                      <LastFinalText>The new recipe is a great success! [QUEST_SENDER] asks you to safely escort a delivery of the strong brew to this year's Beer festival, and to ensure that not a single drop is spilled.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La nouvelle Recette rencontre un grand succès ! [QUEST_SENDER] vous demande d'escorter une livraison de Bière forte sur le site du Festival de la Bière ; vous devez veiller à ce qu'aucune goutte ne soit renversée.</Text>
+                      <LastFinalText>La nouvelle Recette rencontre un grand succès ! [QUEST_SENDER] vous demande d'escorter une livraison de Bière forte sur le site du Festival de la Bière ; vous devez veiller à ce qu'aucune goutte ne soit renversée.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>¡La nueva receta es todo un éxito! [QUEST_SENDER] desea que escoltes una entrega de esta sabrosa bebida al festival de la cerveza de este año y que procures que no se derrame ni una gota.</Text>
+                      <LastFinalText>¡La nueva receta es todo un éxito! [QUEST_SENDER] desea que escoltes una entrega de esta sabrosa bebida al festival de la cerveza de este año y que procures que no se derrame ni una gota.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La nuova formula è un enorme successo! [QUEST_SENDER] ti chiede di scortare la consegna di questa Birra di forte gradazione al festival annuale della Birra e assicurarti che non ne venga versata nemmeno una goccia.</Text>
+                      <LastFinalText>La nuova formula è un enorme successo! [QUEST_SENDER] ti chiede di scortare la consegna di questa Birra di forte gradazione al festival annuale della Birra e assicurarti che non ne venga versata nemmeno una goccia.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303036</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Festbier II</Text>
+                      <LastFinalText>Festbier II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Special brew II</Text>
+                      <LastFinalText>Special brew II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Breuvage spécial II</Text>
+                      <LastFinalText>Breuvage spécial II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Cerveza especial II</Text>
+                      <LastFinalText>Cerveza especial II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Birra speciale I</Text>
+                      <LastFinalText>Birra speciale I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303038</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Da die Eigenproduktion an Bier nicht mehr ausreicht, muß [QUEST_SENDER] Fremdbier anfordern. Da die Mannschaft sich jedoch über Gebühr an der Lieferung bedient hat, ist diese unvollständig. Können Sie aushelfen?</Text>
+                      <LastFinalText>Da die Eigenproduktion an Bier nicht mehr ausreicht, muß [QUEST_SENDER] Fremdbier anfordern. Da die Mannschaft sich jedoch über Gebühr an der Lieferung bedient hat, ist diese unvollständig. Können Sie aushelfen?</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303039</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Lieferengpass</Text>
+                      <LastFinalText>Lieferengpass</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Supply bottleneck</Text>
+                      <LastFinalText>Supply bottleneck</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Baisse des approvisionnements</Text>
+                      <LastFinalText>Baisse des approvisionnements</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Atasco en los suministros</Text>
+                      <LastFinalText>Atasco en los suministros</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Rifornimenti bloccati</Text>
+                      <LastFinalText>Rifornimenti bloccati</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303041</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] warnte seine Glaubensbrüder davor, auf dem Korsarenschiff anzuheuern. Die Korsaren waren ihrer irgendwann überdrüssig und setzten sie kurzerhand in Fässern aus. Jetzt treiben die Ärmsten hilflos im Ozean.</Text>
+                      <LastFinalText>[QUEST_SENDER] warnte seine Glaubensbrüder davor, auf dem Korsarenschiff anzuheuern. Die Korsaren waren ihrer irgendwann überdrüssig und setzten sie kurzerhand in Fässern aus. Jetzt treiben die Ärmsten hilflos im Ozean.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303042</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Mönch im Fass</Text>
+                      <LastFinalText>Mönch im Fass</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Monk in the Barrel</Text>
+                      <LastFinalText>Monk in the Barrel</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le moine dans le tonneau</Text>
+                      <LastFinalText>Le moine dans le tonneau</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El monje del tonel</Text>
+                      <LastFinalText>El monje del tonel</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Monaco nel Barile</Text>
+                      <LastFinalText>Il Monaco nel Barile</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303044</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Entrüstet stellt [QUEST_SENDER] fest, dass der dubiose Kapitän die bestellten Bibeln einfach über Bord geworfen hat, statt sie auszuliefern. Die Bücher müssen dringend geborgen werden, ehe sie völlig durchnäßt sind.</Text>
+                      <LastFinalText>Entrüstet stellt [QUEST_SENDER] fest, dass der dubiose Kapitän die bestellten Bibeln einfach über Bord geworfen hat, statt sie auszuliefern. Die Bücher müssen dringend geborgen werden, ehe sie völlig durchnäßt sind.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303046</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Seit Tagen schon treiben Mönche aus [QUEST_SENDER]' Kloster nach einem Sturm auf See. Einzig ihr Glaube und der Inhalt der Weinfässer ließ sie so lange durchhalten. Nun soll ihr Martyrium enden.</Text>
+                      <LastFinalText>Seit Tagen schon treiben Mönche aus [QUEST_SENDER]' Kloster nach einem Sturm auf See. Einzig ihr Glaube und der Inhalt der Weinfässer ließ sie so lange durchhalten. Nun soll ihr Martyrium enden.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303047</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Martyrium auf See</Text>
+                      <LastFinalText>Martyrium auf See</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Ordeal at Sea</Text>
+                      <LastFinalText>Ordeal at Sea</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Épreuve en mer</Text>
+                      <LastFinalText>Épreuve en mer</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Odisea en el mar</Text>
+                      <LastFinalText>Odisea en el mar</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Dura prova in Mare</Text>
+                      <LastFinalText>Dura prova in Mare</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303048</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Feuchte Worte des Herrn</Text>
+                      <LastFinalText>Feuchte Worte des Herrn</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Washing the Word of the Lord</Text>
+                      <LastFinalText>Washing the Word of the Lord</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Parole du Seigneur prend l’eau</Text>
+                      <LastFinalText>La Parole du Seigneur prend l’eau</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La palabra del Señor en remojo</Text>
+                      <LastFinalText>La palabra del Señor en remojo</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Lavare la Parola di Dio</Text>
+                      <LastFinalText>Lavare la Parola di Dio</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303055</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Mit Entsetzen hat [QUEST_SENDER] festgestellt, dass es einige geheime Zugänge zum Weinkeller des Klosters gibt. Diese müssen schleunigst verrammelt werden. </Text>
+                      <LastFinalText>Mit Entsetzen hat [QUEST_SENDER] festgestellt, dass es einige geheime Zugänge zum Weinkeller des Klosters gibt. Diese müssen schleunigst verrammelt werden. </LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303056</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Geheime Zugänge</Text>
+                      <LastFinalText>Geheime Zugänge</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Secret passages</Text>
+                      <LastFinalText>Secret passages</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Passages secrets</Text>
+                      <LastFinalText>Passages secrets</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Pasadizos secretos</Text>
+                      <LastFinalText>Pasadizos secretos</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Passaggi segreti</Text>
+                      <LastFinalText>Passaggi segreti</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303058</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] und seine Brüder planen, eine neuartige Köstlichkeit zu brennen: einen Kräuterschnaps aus den besten Zutaten aus Morgen- und Abendland. Einige davon fehlen den Mönchen allerdings noch.</Text>
+                      <LastFinalText>[QUEST_SENDER] und seine Brüder planen, eine neuartige Köstlichkeit zu brennen: einen Kräuterschnaps aus den besten Zutaten aus Morgen- und Abendland. Einige davon fehlen den Mönchen allerdings noch.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303059</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Kräuter vom Besten</Text>
+                      <LastFinalText>Kräuter vom Besten</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The best Herbs</Text>
+                      <LastFinalText>The best Herbs</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Les meilleures plantes</Text>
+                      <LastFinalText>Les meilleures plantes</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Las mejores hierbas</Text>
+                      <LastFinalText>Las mejores hierbas</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Le Erbe migliori</Text>
+                      <LastFinalText>Le Erbe migliori</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303061</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] beschliesst, das alte Klostern zu renovieren und dabei den ohnehin viel zu kleinen Weinkeller großzügig auszubauen. Er benötigt dafür jedoch diverse Materialien.</Text>
+                      <LastFinalText>[QUEST_SENDER] beschliesst, das alte Klostern zu renovieren und dabei den ohnehin viel zu kleinen Weinkeller großzügig auszubauen. Er benötigt dafür jedoch diverse Materialien.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303062</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ausbau des Klosters</Text>
+                      <LastFinalText>Ausbau des Klosters</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Expanding the Monastery</Text>
+                      <LastFinalText>Expanding the Monastery</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L’agrandissement du monastère</Text>
+                      <LastFinalText>L’agrandissement du monastère</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Ampliación del monasterio</Text>
+                      <LastFinalText>Ampliación del monasterio</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Espandere il Monastero</Text>
+                      <LastFinalText>Espandere il Monastero</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303063</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] und seine Brüder haben wieder einmal eine große Bierlieferung transportfertig gemacht. Da sich die Qualität der Ware weit herumgesprochen hat, bitten die Mönche Sie um Geleitschutz.</Text>
+                      <LastFinalText>[QUEST_SENDER] und seine Brüder haben wieder einmal eine große Bierlieferung transportfertig gemacht. Da sich die Qualität der Ware weit herumgesprochen hat, bitten die Mönche Sie um Geleitschutz.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303064</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] interessierte sich immer schon für fremde Kulturen. Deshalb will er einige seiner Brüder zu einem Treffen morgen-und abendländischer Gelehrter entsenden und bittet Sie um Geleitschutz.</Text>
+                      <LastFinalText>[QUEST_SENDER] interessierte sich immer schon für fremde Kulturen. Deshalb will er einige seiner Brüder zu einem Treffen morgen-und abendländischer Gelehrter entsenden und bittet Sie um Geleitschutz.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303066</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] ist begeistert von der Arbeit einer Ordensschwester. Sie soll Äbtissin eines eigenen Klosters werden. Geleiten Sie einen Boten mit [QUEST_SENDER]' Gesuch in die Kaiserstadt.</Text>
+                      <LastFinalText>[QUEST_SENDER] ist begeistert von der Arbeit einer Ordensschwester. Sie soll Äbtissin eines eigenen Klosters werden. Geleiten Sie einen Boten mit [QUEST_SENDER]' Gesuch in die Kaiserstadt.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] is very pleased with the work carried out by a particular Sister, who would make an excellent Abbess for one your Monasteries. Escort a Messenger to the Imperial city with [QUEST_SENDER]'s request.</Text>
+                      <LastFinalText>[QUEST_SENDER] is very pleased with the work carried out by a particular Sister, who would make an excellent Abbess for one your Monasteries. Escort a Messenger to the Imperial city with [QUEST_SENDER]'s request.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] est ravi par les travaux réalisés par une Sœur ; il estime qu'elle ferait une excellente Abbesse pour l'un de vos Monastères. Escortez un Messager portant la requête formulée par [QUEST_SENDER] jusqu'à la Ville impériale.</Text>
+                      <LastFinalText>[QUEST_SENDER] est ravi par les travaux réalisés par une Sœur ; il estime qu'elle ferait une excellente Abbesse pour l'un de vos Monastères. Escortez un Messager portant la requête formulée par [QUEST_SENDER] jusqu'à la Ville impériale.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>A [QUEST_SENDER] le ha gustado mucho el trabajo de una de las hermanas, quien sería una excelente abadesa para uno de tus monasterios. Escolta a un mensajero hasta la ciudad imperial con la petición de [QUEST_SENDER].</Text>
+                      <LastFinalText>A [QUEST_SENDER] le ha gustado mucho el trabajo de una de las hermanas, quien sería una excelente abadesa para uno de tus monasterios. Escolta a un mensajero hasta la ciudad imperial con la petición de [QUEST_SENDER].</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] si compiace dell'opera svolta da una della Sorelle, che sarebbe un'ottima Badessa per uno dei Monasteri. Scorta un Messaggero alla Città imperiale con la richiesta di [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] si compiace dell'opera svolta da una della Sorelle, che sarebbe un'ottima Badessa per uno dei Monasteri. Scorta un Messaggero alla Città imperiale con la richiesta di [QUEST_SENDER].</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303067</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Frauenkloster I</Text>
+                      <LastFinalText>Das Frauenkloster I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Nunnery I</Text>
+                      <LastFinalText>The Nunnery I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Couvent I</Text>
+                      <LastFinalText>Le Couvent I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El convento I</Text>
+                      <LastFinalText>El convento I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Convento I</Text>
+                      <LastFinalText>Il Convento I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303069</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Ersuchen traf in der Kaiserstadt auf Wohlwollen. [QUEST_SENDER] bittet Sie nun, die auserkorene Nonne in Ihrer Stadt zu suchen und zu ihm zu bringen.</Text>
+                      <LastFinalText>Das Ersuchen traf in der Kaiserstadt auf Wohlwollen. [QUEST_SENDER] bittet Sie nun, die auserkorene Nonne in Ihrer Stadt zu suchen und zu ihm zu bringen.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The request was very well received in the Imperial city. [QUEST_SENDER] now asks you to find the chosen Nun in your City, and bring her to him.</Text>
+                      <LastFinalText>The request was very well received in the Imperial city. [QUEST_SENDER] now asks you to find the chosen Nun in your City, and bring her to him.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La requête a été très bien accueillie dans la Ville impériale. [QUEST_SENDER] vous demande maintenant de trouver la Sœur qu'il a choisie dans votre Ville et de l'amener à lui.</Text>
+                      <LastFinalText>La requête a été très bien accueillie dans la Ville impériale. [QUEST_SENDER] vous demande maintenant de trouver la Sœur qu'il a choisie dans votre Ville et de l'amener à lui.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La solicitud se aprobó sin problemas en la ciudad imperial. Ahora [QUEST_SENDER] te pide que busques en tu ciudad a la monja elegida y que la lleves ante él.</Text>
+                      <LastFinalText>La solicitud se aprobó sin problemas en la ciudad imperial. Ahora [QUEST_SENDER] te pide que busques en tu ciudad a la monja elegida y que la lleves ante él.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La richiesta è stata ben accolta nella Città imperiale. [QUEST_SENDER] ti chiede di trovare la Suora prescelta e portarla da lui.</Text>
+                      <LastFinalText>La richiesta è stata ben accolta nella Città imperiale. [QUEST_SENDER] ti chiede di trovare la Suora prescelta e portarla da lui.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303070</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Frauenkloster II</Text>
+                      <LastFinalText>Das Frauenkloster II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Nunnery II</Text>
+                      <LastFinalText>The Nunnery II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Couvent II</Text>
+                      <LastFinalText>Le Couvent II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El convento II</Text>
+                      <LastFinalText>El convento II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Convento II</Text>
+                      <LastFinalText>Il Convento II</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303072</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Nonne und [QUEST_SENDER] haben für den Bau des Frauenklosters eine abgelegene Insel auserkoren. Starten Sie eine Expedition dorthin und bringen Sie eine detaillierte Karte mit.</Text>
+                      <LastFinalText>Die Nonne und [QUEST_SENDER] haben für den Bau des Frauenklosters eine abgelegene Insel auserkoren. Starten Sie eine Expedition dorthin und bringen Sie eine detaillierte Karte mit.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Nun and [QUEST_SENDER] have selected a remote Island on which to build the Nunnery. Organise an Expedition there and take a detailed Map with you.</Text>
+                      <LastFinalText>The Nun and [QUEST_SENDER] have selected a remote Island on which to build the Nunnery. Organise an Expedition there and take a detailed Map with you.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Sœur et [QUEST_SENDER] ont sélectionné une Île lointaine, sur laquelle sera construit le Couvent. Organisez une Expédition afin de vous y rendre et emmenez une carte détaillée.</Text>
+                      <LastFinalText>La Sœur et [QUEST_SENDER] ont sélectionné une Île lointaine, sur laquelle sera construit le Couvent. Organisez une Expédition afin de vous y rendre et emmenez une carte détaillée.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La monja y [QUEST_SENDER] han elegido una isla remota para construir el convento. Organiza una expedición a la ínsula y llévate un mapa detallado.</Text>
+                      <LastFinalText>La monja y [QUEST_SENDER] han elegido una isla remota para construir el convento. Organiza una expedición a la ínsula y llévate un mapa detallado.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Suora e [QUEST_SENDER] hanno scelto un'Isola remota per costruire il Convento. Organizza una Spedizione sull'Isola e porta con te una Mappa dettagliata.</Text>
+                      <LastFinalText>La Suora e [QUEST_SENDER] hanno scelto un'Isola remota per costruire il Convento. Organizza una Spedizione sull'Isola e porta con te una Mappa dettagliata.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303073</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Frauenkloster III</Text>
+                      <LastFinalText>Das Frauenkloster III</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Nunnery III</Text>
+                      <LastFinalText>The Nunnery III</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Couvent III</Text>
+                      <LastFinalText>Le Couvent III</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El convento III</Text>
+                      <LastFinalText>El convento III</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Convento III</Text>
+                      <LastFinalText>Il Convento III</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303076</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Frauenkloster IV</Text>
+                      <LastFinalText>Das Frauenkloster IV</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Nunnery IV</Text>
+                      <LastFinalText>The Nunnery IV</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Couvent IV</Text>
+                      <LastFinalText>Le Couvent IV</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El convento IV</Text>
+                      <LastFinalText>El convento IV</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Convento IV</Text>
+                      <LastFinalText>Il Convento IV</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5303077</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Insel scheint perfekt für das Kloster zu sein. [QUEST_SENDER] möchte zum Abschied der Nonne ein großes Fest ausrichten und hofft dabei auf Ihre Unterstützung.</Text>
+                      <LastFinalText>Die Insel scheint perfekt für das Kloster zu sein. [QUEST_SENDER] möchte zum Abschied der Nonne ein großes Fest ausrichten und hofft dabei auf Ihre Unterstützung.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Island appears to be the perfect site for the Monastery. [QUEST_SENDER] would like to host a large feast to wish the Nun farewell, and is hoping for your support.</Text>
+                      <LastFinalText>The Island appears to be the perfect site for the Monastery. [QUEST_SENDER] would like to host a large feast to wish the Nun farewell, and is hoping for your support.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L'Île semble être l'endroit idéal pour le Monastère. [QUEST_SENDER] souhaite tenir un grand festin d'adieu en l'honneur de la Sœur et compte sur votre aide.</Text>
+                      <LastFinalText>L'Île semble être l'endroit idéal pour le Monastère. [QUEST_SENDER] souhaite tenir un grand festin d'adieu en l'honneur de la Sœur et compte sur votre aide.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La isla parece ofrecer el entorno perfecto para el monasterio. A [QUEST_SENDER] le gustaría dar una gran fiesta de despedida a la monja y cuenta con tu ayuda.</Text>
+                      <LastFinalText>La isla parece ofrecer el entorno perfecto para el monasterio. A [QUEST_SENDER] le gustaría dar una gran fiesta de despedida a la monja y cuenta con tu ayuda.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Isola sembra essere il posto perfetto per il Monastero. [QUEST_SENDER] vorrebbe tenere una grande festa per l'addio della Suora e confida nel tuo aiuto.</Text>
+                      <LastFinalText>L'Isola sembra essere il posto perfetto per il Monastero. [QUEST_SENDER] vorrebbe tenere una grande festa per l'addio della Suora e confida nel tuo aiuto.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Helperquests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>FirstSelection</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5303049</GUID>
+                      <Kommentar>Questname</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Klosterwaren</Text>
+                          <LastFinalText>Klosterwaren</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>Monastery goods</Text>
+                          <LastFinalText>Monastery goods</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Les Marchandises du Monastère</Text>
+                          <LastFinalText>Les Marchandises du Monastère</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>Bienes monacales</Text>
+                          <LastFinalText>Bienes monacales</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Merci del Monastero</Text>
+                          <LastFinalText>Merci del Monastero</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5303050</GUID>
+                      <Kommentar>Infotext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[QUEST_SENDER] vom Bergkloster ist gern zum Handeln bereit.</Text>
+                          <LastFinalText>[QUEST_SENDER] vom Bergkloster ist gern zum Handeln bereit.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[QUEST_SENDER] from the Mountain monastery is willing to trade with you.</Text>
+                          <LastFinalText>[QUEST_SENDER] from the Mountain monastery is willing to trade with you.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[QUEST_SENDER] du Monastère de la Montagne est prêt à faire affaires avec vous.</Text>
+                          <LastFinalText>[QUEST_SENDER] du Monastère de la Montagne est prêt à faire affaires avec vous.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[QUEST_SENDER], del monasterio de la montaña, quiere comerciar contigo.</Text>
+                          <LastFinalText>[QUEST_SENDER], del monasterio de la montaña, quiere comerciar contigo.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER] dal Monastero sui monti vorrebbe commerciare con te.</Text>
+                          <LastFinalText>[QUEST_SENDER] dal Monastero sui monti vorrebbe commerciare con te.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5303051</GUID>
+                      <Kommentar>Storytext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>In ihren Klostergärten und Werkstätten produzieren [QUEST_SENDER] und seine Mönche zahlreiche Waren. Binden Sie sein Bergkloster mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Wählen Sie im Gebäudemenü jene Waren aus, die Sie kaufen möchten. Sofort wird eine Eselskarawane aufbrechen und Ihnen die Bestellung liefern.</Text>
+                          <LastFinalText>In ihren Klostergärten und Werkstätten produzieren [QUEST_SENDER] und seine Mönche zahlreiche Waren. Binden Sie sein Bergkloster mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Wählen Sie im Gebäudemenü jene Waren aus, die Sie kaufen möchten. Sofort wird eine Eselskarawane aufbrechen und Ihnen die Bestellung liefern.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[QUEST_SENDER] and his Monks produce a wide range of Goods in their Monastery garden and Workshops. Create a Road connection between his Mountain monastery and one of your Trade buildings to take advantage of this![CR]Go to the Buildings menu and select the Goods you would like to buy. A Mule train will set out immediately to deliver your order.</Text>
+                          <LastFinalText>[QUEST_SENDER] and his Monks produce a wide range of Goods in their Monastery garden and Workshops. Create a Road connection between his Mountain monastery and one of your Trade buildings to take advantage of this![CR]Go to the Buildings menu and select the Goods you would like to buy. A Mule train will set out immediately to deliver your order.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[QUEST_SENDER] et ses Moines produisent un vaste assortiment de Marchandises dans le Jardin et les Ateliers de leur Monastère. Créez une Route entre le Monastère de la Montagne et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Accédez au menu Bâtiments et sélectionnez les Marchandises que vous voulez acheter. Un train de Mules partira immédiatement pour livrer votre commande.</Text>
+                          <LastFinalText>[QUEST_SENDER] et ses Moines produisent un vaste assortiment de Marchandises dans le Jardin et les Ateliers de leur Monastère. Créez une Route entre le Monastère de la Montagne et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Accédez au menu Bâtiments et sélectionnez les Marchandises que vous voulez acheter. Un train de Mules partira immédiatement pour livrer votre commande.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[QUEST_SENDER] y sus monjes producen gran variedad de bienes en el jardín monacal y en los talleres. ¡Crea un camino de acceso entre el monasterio de la montaña y uno de tus edificios comerciales para sacarle partido![CR]Ve al menú Edificios y selecciona los bienes que quieras comprar. Saldrá inmediatamente una caravana de mulas para entregarte el pedido.</Text>
+                          <LastFinalText>[QUEST_SENDER] y sus monjes producen gran variedad de bienes en el jardín monacal y en los talleres. ¡Crea un camino de acceso entre el monasterio de la montaña y uno de tus edificios comerciales para sacarle partido![CR]Ve al menú Edificios y selecciona los bienes que quieras comprar. Saldrá inmediatamente una caravana de mulas para entregarte el pedido.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER] e i suoi Monaci producono una vasta gamma di Merci nel Giardino del monastero e nelle loro Officine. Crea una Strada che colleghi il Monastero sui monti a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Dal Menu Edifici seleziona le Merci che vuoi acquistare. Una Carovana di muli consegnerà il tuo ordine immediatamente.</Text>
+                          <LastFinalText>[QUEST_SENDER] e i suoi Monaci producono una vasta gamma di Merci nel Giardino del monastero e nelle loro Officine. Crea una Strada che colleghi il Monastero sui monti a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Dal Menu Edifici seleziona le Merci che vuoi acquistare. Una Carovana di muli consegnerà il tuo ordine immediatamente.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Character Audio</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Bruder Hilarius</Sprecher>
+                      <Intonation>herzlich glucksend</Intonation>
+                    </Sound>
+                    <Standard>
+                      <GUID>5303052</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Gott, es sind tatsächlich Menschen an der Pforte! Sagt, habt Ihr zufällig Interesse an unseren Erzeugnissen?</Text>
+                          <LastFinalText>Gott, es sind tatsächlich Menschen an der Pforte! Sagt, habt Ihr zufällig Interesse an unseren Erzeugnissen?</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>My God, there are actually men at the gate! Tell me, would you be interested in our Products, by any chance?</Text>
+                          <LastFinalText>My God, there are actually men at the gate! Tell me, would you be interested in our Products, by any chance?</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Mon Dieu, il y a bien longtemps que personne n'avait frappé à notre porte ! Dites-moi, vous ne seriez pas intéressé par nos Produits, par hasard ?</Text>
+                          <LastFinalText>Mon Dieu, il y a bien longtemps que personne n'avait frappé à notre porte ! Dites-moi, vous ne seriez pas intéressé par nos Produits, par hasard ?</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>Dios mío, pero ¡si hay alguien la puerta! Dime, ¿por casualidad no te interesarán nuestros productos?</Text>
+                          <LastFinalText>Dios mío, pero ¡si hay alguien la puerta! Dime, ¿por casualidad no te interesarán nuestros productos?</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Buon Dio, c'è qualcuno alle porte! Dimmi, per caso ti interessano i nostri Prodotti?</Text>
+                          <LastFinalText>Buon Dio, c'è qualcuno alle porte! Dimmi, per caso ti interessano i nostri Prodotti?</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>CharacterText</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Bruder Hilarius</Sprecher>
+                    </Sound>
+                    <Standard>
+                      <GUID>5303053</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] würde sich freuen, mit Ihnen zu handeln.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] würde sich freuen, mit Ihnen zu handeln.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] would be delighted to trade with you.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] would be delighted to trade with you.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] serait ravi de faire affaires avec vous.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] serait ravi de faire affaires avec vous.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] estaría encantado de comerciar contigo.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] estaría encantado de comerciar contigo.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] sarebbe lieto di commerciare con te.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] sarebbe lieto di commerciare con te.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

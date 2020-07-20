@@ -5,8 +5,8 @@ using System.Xml.Serialization;
 
 namespace RDA.Data {
 
-  [Serializable]
-  public class Description : RDA.Share.Description {
+  [XmlInclude(typeof(Icon))]
+  public class Description : DescriptionBase {
 
     #region Properties
 
@@ -41,8 +41,8 @@ namespace RDA.Data {
         }
       }
 
-      if (Engine.Icons.ContainsKey(this.ID)) {
-        this.Icon = new Icon(this.ID);
+      if (Engine.Icons.ContainsKey(id)) {
+        this.Icon = new Icon(id);
       }
       this.FontStyleString = fontStyle;
     }

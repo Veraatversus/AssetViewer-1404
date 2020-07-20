@@ -1,0 +1,1163 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41306000</GUIDRangeMin>
+      <GUIDRangeMax>41306019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41306000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Archipel</Text>
+                  <LastFinalText>Archipel</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Archipelago</Text>
+                  <LastFinalText>Archipelago</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Архипелаг</Text>
+                  <LastFinalText>Архипелаг</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Archipel</Text>
+                  <LastFinalText>Archipel</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Archipiélago</Text>
+                  <LastFinalText>Archipiélago</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Arcipelago</Text>
+                  <LastFinalText>Arcipelago</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Archipelag</Text>
+                  <LastFinalText>Archipelag</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Souostroví</Text>
+                  <LastFinalText>Souostroví</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Dass Sie just an jenem Tag verschlafen mussten, ...</Text>
+                  <LastFinalText>Dass Sie just an jenem Tag verschlafen mussten, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Today of all days you had to oversleep…</Text>
+                  <LastFinalText>Today of all days you had to oversleep…</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>И надо же вам было умудриться проспать в тот самый день, ...</Text>
+                  <LastFinalText>И надо же вам было умудриться проспать в тот самый день, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Il a fallu qu'aujourd'hui vous fassiez la grasse matinée...</Text>
+                  <LastFinalText>Il a fallu qu'aujourd'hui vous fassiez la grasse matinée...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>No había un día mejor para que se te pegasen las sábanas...</Text>
+                  <LastFinalText>No había un día mejor para que se te pegasen las sábanas...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Fra tutti i giorni, dovevi svegliarti tardi proprio oggi...</Text>
+                  <LastFinalText>Fra tutti i giorni, dovevi svegliarti tardi proprio oggi...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Że też dziś zdarzyło ci się zaspać...</Text>
+                  <LastFinalText>Że też dziś zdarzyło ci się zaspać...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>V den, kdy císař rozdělaloval svým nejvěrnějším vazalům půdu...</Text>
+                  <LastFinalText>V den, kdy císař rozdělaloval svým nejvěrnějším vazalům půdu...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306002</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... an dem der Kaiser neue Ländereien an die treuesten seiner Vasallen verteilte! </Text>
+                  <LastFinalText>... an dem der Kaiser neue Ländereien an die treuesten seiner Vasallen verteilte! </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… the day on which the Emperor bestowed new lands upon his most loyal vassals.</Text>
+                  <LastFinalText>… the day on which the Emperor bestowed new lands upon his most loyal vassals.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... когда император раздавал земельные наделы самым верным вассалам! </Text>
+                  <LastFinalText>... когда император раздавал земельные наделы самым верным вассалам! </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... le jour où l'Empereur octroyait de nouvelles terres à ses plus fidèles vassaux.</Text>
+                  <LastFinalText>... le jour où l'Empereur octroyait de nouvelles terres à ses plus fidèles vassaux.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... justo el día en que el Emperador iba a conceder nuevas tierras a sus vasallos más leales.</Text>
+                  <LastFinalText>... justo el día en que el Emperador iba a conceder nuevas tierras a sus vasallos más leales.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...il giorno in cui l'Imperatore ha deciso di donare nuove terre ai suoi più fedeli vassalli.</Text>
+                  <LastFinalText>...il giorno in cui l'Imperatore ha deciso di donare nuove terre ai suoi più fedeli vassalli.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...w dniu, w którym Cesarz obdarzył ziemią najwierniejszych wasali.</Text>
+                  <LastFinalText>...w dniu, w którym Cesarz obdarzył ziemią najwierniejszych wasali.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... jste zrovna musel zaspat.</Text>
+                  <LastFinalText>... jste zrovna musel zaspat.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Denn als Sie endlich den Thronsaal erreichen, ...</Text>
+                  <LastFinalText>Denn als Sie endlich den Thronsaal erreichen, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>For when you reach the throne room...</Text>
+                  <LastFinalText>For when you reach the throne room...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Потому что, когда вы, наконец, до тронного зала, ...</Text>
+                  <LastFinalText>Потому что, когда вы, наконец, до тронного зала, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Quand vous êtes arrivé dans la salle du trône...</Text>
+                  <LastFinalText>Quand vous êtes arrivé dans la salle du trône...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando llegas al salón del trono...</Text>
+                  <LastFinalText>Cuando llegas al salón del trono...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>E quando raggiungi la sala del trono...</Text>
+                  <LastFinalText>E quando raggiungi la sala del trono...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Gdy docierasz do sali tronowej...</Text>
+                  <LastFinalText>Gdy docierasz do sali tronowej...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Proto když přijdete do trůnního sálu...</Text>
+                  <LastFinalText>Proto když přijdete do trůnního sálu...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  ist nur noch die Besitzurkunde über dieses klägliche Archipel mit seinen winzigen Inseln übrig.</Text>
+                  <LastFinalText>...  ist nur noch die Besitzurkunde über dieses klägliche Archipel mit seinen winzigen Inseln übrig.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… all that is left is the Deed of Ownership for a pathetic little Archipelago made up of tiny Islands.</Text>
+                  <LastFinalText>… all that is left is the Deed of Ownership for a pathetic little Archipelago made up of tiny Islands.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  не врученной осталась только грамота на владение этим жалким архипелагом с крошечными островками.</Text>
+                  <LastFinalText>...  не врученной осталась только грамота на владение этим жалким архипелагом с крошечными островками.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... tout ce qui restait était l'Acte de propriété d'un ridicule archipel composé d'îles minuscules.</Text>
+                  <LastFinalText>... tout ce qui restait était l'Acte de propriété d'un ridicule archipel composé de minuscules îles.</LastFinalText>
+                  <Status>Edit</Status>
+                </French>
+                <Spanish>
+                  <Text>... lo único que queda es la escritura de propiedad de un pequeño y patético archipiélago, compuesto de islas diminutas.</Text>
+                  <LastFinalText>... lo único que queda es la escritura de propiedad de un pequeño y patético archipiélago, compuesto de islas diminutas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...tutto ciò che resta è l'Atto di proprietà di un insignificante e minuscolo Arcipelago composto di piccole Isole.</Text>
+                  <LastFinalText>...tutto ciò che resta è l'Atto di proprietà di un insignificante e minuscolo Arcipelago composto di piccole Isole.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>…został tylko akt własności żałosnego archipelagu małych wysepek.</Text>
+                  <LastFinalText>…został tylko akt własności żałosnego archipelagu małych wysepek.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... zjišťujete, že už zbyla jen majetková smlouva na malinkaté soustroví tvořené malými ostrůvky.</Text>
+                  <LastFinalText>... zjišťujete, že už zbyla jen majetková smlouva na malinkaté soustroví tvořené malými ostrůvky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Nichtsdestotrotz erwartet Seine Majestät, ...</Text>
+                  <LastFinalText>Nichtsdestotrotz erwartet Seine Majestät, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Nevertheless, His Majesty expects you...</Text>
+                  <LastFinalText>Nevertheless, His Majesty expects you...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Тем не менее, его величество ожидает...</Text>
+                  <LastFinalText>Тем не менее, его величество ожидает...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Sa Majesté n'en attend pas moins de vous...</Text>
+                  <LastFinalText>Sa Majesté n'en attend pas moins de vous...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Aun así, Su Majestad espera que...</Text>
+                  <LastFinalText>Aun así, Su Majestad espera que...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Tuttavia, Sua Maestà si aspetta...</Text>
+                  <LastFinalText>Tuttavia, Sua Maestà si aspetta...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Mimo to, Jego Wysokość oczekuje, że...</Text>
+                  <LastFinalText>Mimo to, Jego Wysokość oczekuje, że...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Jeho veličenstvo nicméně očekává...</Text>
+                  <LastFinalText>Jeho veličenstvo nicméně očekává...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... dass Sie zu seinen Ehren eine florierende Stadt errichten. </Text>
+                  <LastFinalText>... dass Sie zu seinen Ehren eine florierende Stadt errichten. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...to establish a flourishing city in his honour.</Text>
+                  <LastFinalText>...to establish a flourishing city in his honour.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... что вы сумеете построить в его честь процветающий город. </Text>
+                  <LastFinalText>... что вы сумеете построить в его честь процветающий город. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... que vous bâtissiez une ville prospère en son honneur.</Text>
+                  <LastFinalText>... que vous bâtissiez une ville prospère en son honneur.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... establezcas en él una ciudad próspera en su honor.</Text>
+                  <LastFinalText>... establezcas en él una ciudad próspera en su honor.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...che tu fondi una florida città in suo onore.</Text>
+                  <LastFinalText>...che tu fondi una florida città in suo onore.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>…zbudujesz na jego cześć kwitnące miasto.</Text>
+                  <LastFinalText>…zbudujesz na jego cześć kwitnące miasto.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... že na jeho počest vybudujete prosperující město.</Text>
+                  <LastFinalText>... že na jeho počest vybudujete prosperující město.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306007</GUID>
+              <Kommentar>Intro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie muss ja nicht groß sein...</Text>
+                  <LastFinalText>Sie muss ja nicht groß sein...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>It need not be all that large...</Text>
+                  <LastFinalText>It need not be all that large...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Не обязательно ему быть большим...</Text>
+                  <LastFinalText>Не обязательно ему быть большим...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Pas la peine qu'elle soit immense...</Text>
+                  <LastFinalText>Pas la peine qu'elle soit immense...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>No tiene por qué ser muy grande...</Text>
+                  <LastFinalText>No tiene por qué ser muy grande...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Non dovrà essere grandissima...</Text>
+                  <LastFinalText>Non dovrà essere grandissima...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Nie musi być duże...</Text>
+                  <LastFinalText>Nie musi być duże...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Nemusí být moc velké...</Text>
+                  <LastFinalText>Nemusí být moc velké...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306008</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie haben Ihre anspruchsvolle Aufgabe mit Bravour gemeistert! </Text>
+                  <LastFinalText>Sie haben Ihre anspruchsvolle Aufgabe mit Bravour gemeistert! </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You mastered your demanding task with flying colors!</Text>
+                  <LastFinalText>You mastered your demanding task with flying colors!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы отважно взялись за выполнение этой сложной задачи! </Text>
+                  <LastFinalText>Вы отважно взялись за выполнение этой сложной задачи! </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez relevé votre défi haut la main !</Text>
+                  <LastFinalText>Vous avez relevé votre défi haut la main !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Has llevado a buen término la exigente tarea!</Text>
+                  <LastFinalText>¡Has llevado a buen término la exigente tarea!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai svolto il tuo compito con successo!</Text>
+                  <LastFinalText>Hai svolto il tuo compito con successo!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Udało ci się znakomicie wykonać zadanie!</Text>
+                  <LastFinalText>Udało ci się znakomicie wykonać zadanie!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Zhostil jste se svého náročného úkolu více než úspěšně!</Text>
+                  <LastFinalText>Zhostil jste se svého náročného úkolu více než úspěšně!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306009</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Auf dem wenigen Land, dass Ihnen zur Verfügung stand, ...</Text>
+                  <LastFinalText>Auf dem wenigen Land, dass Ihnen zur Verfügung stand, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Despite the pittance of land available...</Text>
+                  <LastFinalText>Despite the pittance of land available...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>На этом крошечном клочке земли, ...</Text>
+                  <LastFinalText>На этом крошечном клочке земли, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Malgré le peu de terrain disponible...</Text>
+                  <LastFinalText>Malgré le peu de terrain disponible...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A pesar de la escasa cantidad de tierra disponible...</Text>
+                  <LastFinalText>A pesar de la escasa cantidad de tierra disponible...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Nonostante la scarsa terra a disposizione...</Text>
+                  <LastFinalText>Nonostante la scarsa terra a disposizione...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Choć nadana ziemia była żałosna...</Text>
+                  <LastFinalText>Choć nadana ziemia była żałosna...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Navzdory malému prostoru...</Text>
+                  <LastFinalText>Navzdory malému prostoru...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306010</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... haben Sie eine kleine, aber gut organisierte Stadt errichtet, ...</Text>
+                  <LastFinalText>... haben Sie eine kleine, aber gut organisierte Stadt errichtet, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...you have managed to establish a small, but well-organised City, ...</Text>
+                  <LastFinalText>...you have managed to establish a small, but well-organised City, ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... вы построили небольшой, но отлично организованный город, ...</Text>
+                  <LastFinalText>... вы построили небольшой, но отлично организованный город, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... vous avez réussi à bâtir une Ville petite, certes, mais bien organisée...</Text>
+                  <LastFinalText>... vous avez réussi à bâtir une Ville petite, certes, mais bien organisée...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... has conseguido establecer una ciudad, pequeña pero bien estructurada...</Text>
+                  <LastFinalText>... has conseguido establecer una ciudad, pequeña pero bien estructurada...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...hai fondato una Città piccola ma ben organizzata...</Text>
+                  <LastFinalText>...hai fondato una Città piccola ma ben organizzata...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>…udało ci się zbudować małe, ale dobrze zorganizowane miasto...</Text>
+                  <LastFinalText>…udało ci się zbudować małe, ale dobrze zorganizowane miasto...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>...se vám podařilo vybudovat malé, ale uspořádané město...</Text>
+                  <LastFinalText>...se vám podařilo vybudovat malé, ale uspořádané město...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306011</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... die den Vergleich mit den großen Metropolen des Kaiserreichs ...</Text>
+                  <LastFinalText>... die den Vergleich mit den großen Metropolen des Kaiserreichs ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… whose quality rivals that ...</Text>
+                  <LastFinalText>… whose quality rivals that ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... за который не приходится краснеть даже в сравнении ...</Text>
+                  <LastFinalText>... за который не приходится краснеть даже в сравнении ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... qui rivalise avec...</Text>
+                  <LastFinalText>... qui rivalise avec...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... cuya calidad rivaliza con la de...</Text>
+                  <LastFinalText>... cuya calidad rivaliza con la de...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...il cui lustro è pari...</Text>
+                  <LastFinalText>...il cui lustro è pari...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>…które może konkurować z...</Text>
+                  <LastFinalText>…które może konkurować z...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... které by se svou kvalitou vyrovnalo ...</Text>
+                  <LastFinalText>... které by se svou kvalitou vyrovnalo ...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306012</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>nicht zu scheuen braucht.</Text>
+                  <LastFinalText>nicht zu scheuen braucht.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… of the Empire's greatest Metropolises ...</Text>
+                  <LastFinalText>… of the Empire's greatest Metropolises ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>с главными метрополиями империи.</Text>
+                  <LastFinalText>с главными метрополиями империи.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... les plus grandes Métropoles de l'Empire...</Text>
+                  <LastFinalText>... les plus grandes Métropoles de l'Empire...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... las mayores metrópolis del imperio...</Text>
+                  <LastFinalText>... las mayores metrópolis del imperio...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...a quello delle più grandi Metropoli dell'Impero...</Text>
+                  <LastFinalText>...a quello delle più grandi Metropoli dell'Impero...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...najwspanialszymi metropoliami Cesarstwa...</Text>
+                  <LastFinalText>...najwspanialszymi metropoliami Cesarstwa...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... největším metropolím říše ...</Text>
+                  <LastFinalText>... největším metropolím říše ...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306013</GUID>
+              <Kommentar>Outro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein beeindruckendes Beispiel meisterhafter Planung!</Text>
+                  <LastFinalText>Ein beeindruckendes Beispiel meisterhafter Planung!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A magnificent example of masterly planning!</Text>
+                  <LastFinalText>A magnificent example of masterly planning!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Впечатляющий пример мастерского планирования!</Text>
+                  <LastFinalText>Впечатляющий пример мастерского планирования!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un magnifique exemple de planification réfléchie !</Text>
+                  <LastFinalText>Un magnifique exemple de planification réfléchie !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Un magnífico ejemplo de planificación!</Text>
+                  <LastFinalText>¡Un magnífico ejemplo de planificación!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un magistrale esempio di capacità organizzative!</Text>
+                  <LastFinalText>Un magistrale esempio di capacità organizzative!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Przykład wspaniałego planowania!</Text>
+                  <LastFinalText>Przykład wspaniałego planowania!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Jedná se o ukázkový příklad mistrného plánování!</Text>
+                  <LastFinalText>Jedná se o ukázkový příklad mistrného plánování!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <GUIDRangeMin>41306020</GUIDRangeMin>
+      <GUIDRangeMax>41306049</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41306020</GUID>
+              <Kommentar>internal balancing asset, no translation necessary</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>S06_BalancingAsset</Text>
+                  <LastFinalText>S06_BalancingAsset</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41306021</GUID>
+              <Kommentar>internal dummy quest used for scenario achievement</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>S06_DQ_SettlementController</Text>
+                  <LastFinalText>S06_DQ_SettlementController</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <GUIDRangeMin>41306050</GUIDRangeMin>
+      <GUIDRangeMax>41306099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41306050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Schwieriges Terrain</Text>
+                  <LastFinalText>Schwieriges Terrain</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Difficult territory</Text>
+                  <LastFinalText>Difficult territory</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Скудная земля</Text>
+                  <LastFinalText>Скудная земля</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un territoire difficile</Text>
+                  <LastFinalText>Un territoire difficile</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Territorio difícil</Text>
+                  <LastFinalText>Territorio difícil</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un territorio difficile</Text>
+                  <LastFinalText>Un territorio difficile</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Trudny teren</Text>
+                  <LastFinalText>Trudny teren</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Problémové teritorium</Text>
+                  <LastFinalText>Problémové teritorium</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41306051</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Siedeln Sie in dieser Region 500 Adlige an. [CR][KANN MAN HIER NICHT STANDARDTEXT 500585 verwenden?]</Text>
+                  <LastFinalText>Siedeln Sie in dieser Region 500 Adlige an. [CR][KANN MAN HIER NICHT STANDARDTEXT 500585 verwenden?]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Settle 500 Noblemen in the region!</Text>
+                  <LastFinalText>Settle 500 Noblemen in the region!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Расселите в этом регионе 500 дворян. [CR][KANN MAN HIER NICHT STANDARDTEXT 500585 verwenden?]</Text>
+                  <LastFinalText>Расселите в этом регионе 500 дворян. [CR][KANN MAN HIER NICHT STANDARDTEXT 500585 verwenden?]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41306052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Bauland ist in Ihrem neuen Herrschaftsgebiet Mangelware. Sie sollten daher sorgsam damit umgehen und Ihre Stadt vorausschauend planen. [QUEST_SENDER] wird die Erfüllung des kaiserlichen Wunsches überwachen und Ihnen wie immer mit Rat und Tat zur Seite stehen. </Text>
+                  <LastFinalText>Bauland ist in Ihrem neuen Herrschaftsgebiet Mangelware. Sie sollten daher sorgsam damit umgehen und Ihre Stadt vorausschauend planen. [QUEST_SENDER] wird die Erfüllung des kaiserlichen Wunsches überwachen und Ihnen wie immer mit Rat und Tat zur Seite stehen. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Land is in short supply in your new Territory. Therefore, you should use it wisely and plan your city carefully in advance. [QUEST_SENDER] is to monitor your fulfillment of the Imperial desire and will, as always, be there to offer you help and advice.</Text>
+                  <LastFinalText>Land is in short supply in your new Territory. Therefore, you should use it wisely and plan your city carefully in advance. [QUEST_SENDER] is to monitor your fulfillment of the Imperial desire and will, as always, be there to offer you help and advice.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>В вашем новом владении участки под застройку - большой дефицит. Поэтому  обращайтесь с ними бережно и тщательно планируйте строительство города. [QUEST_SENDER] будет следить за выполнением пожелания императора, и в любой момент может помочь вам советом или делом. </Text>
+                  <LastFinalText>В вашем новом владении участки под застройку - большой дефицит. Поэтому  обращайтесь с ними бережно и тщательно планируйте строительство города. [QUEST_SENDER] будет следить за выполнением пожелания императора, и в любой момент может помочь вам советом или делом. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Votre nouveau Territoire comporte peu de terre. Vous allez devoir l'utiliser à bon escient et planifier avec soin votre ville. [QUEST_SENDER] est là pour veiller à la réalisation du souhait de l'Empereur et, comme toujours, vous offrir son aide et ses conseils.</Text>
+                  <LastFinalText>Votre nouveau Territoire comporte peu de terre. Vous allez devoir l'utiliser à bon escient et planifier avec soin votre ville. [QUEST_SENDER] est là pour veiller à la réalisation du souhait de l'Empereur et, comme toujours, vous offrir son aide et ses conseils.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Apenas hay tierra disponible en tu nuevo territorio. Por lo tanto, deberás utilizarlo con sabiduría y planificar el desarrollo de la ciudad con cuidado de antemano. [QUEST_SENDER] va a supervisar el cumplimiento de la voluntad imperial. Como siempre, podrá ofrecerte su ayuda y consejo.</Text>
+                  <LastFinalText>Apenas hay tierra disponible en tu nuevo territorio. Por lo tanto, deberás utilizarlo con sabiduría y planificar el desarrollo de la ciudad con cuidado de antemano. [QUEST_SENDER] va a supervisar el cumplimiento de la voluntad imperial. Como siempre, podrá ofrecerte su ayuda y consejo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Nel tuo nuovo Territorio la terra scarseggia. Ecco perché dovresti farne un uso saggio e pianificare con largo anticipo lo sviluppo della città. [QUEST_SENDER] controllerà che tu realizzi il desiderio dell'Imperatore e come sempre sarà a disposizione per fornirti aiuti e consigli.</Text>
+                  <LastFinalText>Nel tuo nuovo Territorio la terra scarseggia. Ecco perché dovresti farne un uso saggio e pianificare con largo anticipo lo sviluppo della città. [QUEST_SENDER] controllerà che tu realizzi il desiderio dell'Imperatore e come sempre sarà a disposizione per fornirti aiuti e consigli.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Na twoim nowym terytorium jest mało ziem. Dlatego wykorzystuj je rozważnie i planuj rozwój miasta. [QUEST_SENDER] będzie, jak zawsze, nadzorować wykonanie cesarskiej woli, będzie też służyć ci pomocą i radą.</Text>
+                  <LastFinalText>Na twoim nowym terytorium jest mało ziem. Dlatego wykorzystuj je rozważnie i planuj rozwój miasta. [QUEST_SENDER] będzie, jak zawsze, nadzorować wykonanie cesarskiej woli, będzie też służyć ci pomocą i radą.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Půda je ve vašem novém teritoriu nedostatkovým zbožím. Měl byste s ní proto nakládat s rozmyslem a své město si rozvrhnout předem. Postava jménem [QUEST_SENDER] bude na vaše plnění imperiální vůle dohlížet a jako vždy vám bude pomáhat.</Text>
+                  <LastFinalText>Půda je ve vašem novém teritoriu nedostatkovým zbožím. Měl byste s ní proto nakládat s rozmyslem a své město si rozvrhnout předem. Postava jménem [QUEST_SENDER] bude na vaše plnění imperiální vůle dohlížet a jako vždy vám bude pomáhat.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306053</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] heißt Sie in der Region willkommen und erwartet, dass Sie hier eine Stadt errichten, in der sich auch der Adel des Landes wohlfühlt.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] heißt Sie in der Region willkommen und erwartet, dass Sie hier eine Stadt errichten, in der sich auch der Adel des Landes wohlfühlt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] welcomes you to the region and expects you to build a city which satisfies even the sophisticated Needs of the Noblemen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] welcomes you to the region and expects you to build a city which satisfies even the sophisticated Needs of the Noblemen.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] приветствует вас в этом регионе и надеется, что вы построите здесь город, в котором местное дворянство будет себя чувствовать комфортно.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] приветствует вас в этом регионе и надеется, что вы построите здесь город, в котором местное дворянство будет себя чувствовать комфортно.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous accueille dans la région et attend de vous que vous bâtissiez une ville qui répond même aux Besoins sophistiqués des Nobles.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous accueille dans la région et attend de vous que vous bâtissiez une ville qui répond même aux Besoins sophistiqués des Nobles.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te da la bienvenida a la región y espera que construyas una ciudad que satisfaga incluso las necesidades más sofisticadas de los nobles.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te da la bienvenida a la región y espera que construyas una ciudad que satisfaga incluso las necesidades más sofisticadas de los nobles.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti dà il benvenuto nella regione e si aspetta che tu costruisca una città in grado di soddisfare anche i sofisticati Bisogni dei Nobili.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti dà il benvenuto nella regione e si aspetta che tu costruisca una città in grado di soddisfare anche i sofisticati Bisogni dei Nobili.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wita cię w regionie i oczekuje, że zbudujesz miasto trafiające w najbardziej wyszukane gusta arystokracji.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wita cię w regionie i oczekuje, że zbudujesz miasto trafiające w najbardziej wyszukane gusta arystokracji.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vás vítá v oblasti a očekává, že vybudujete město, které splní i velmi sofistikované potřeby šlechticů.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vás vítá v oblasti a očekává, že vybudujete město, které splní i velmi sofistikované potřeby šlechticů.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306054</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] stellt bewegt fest, dass Sie auf dem Archipel eine blühende Stadt errichten konnten.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] stellt bewegt fest, dass Sie auf dem Archipel eine blühende Stadt errichten konnten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is moved when he sees that you have actually managed to build a flourishing City here on the Archipelago.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is moved when he sees that you have actually managed to build a flourishing City here on the Archipelago.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] радостно констатирует, что вы сумели построить на этом архипелаге цветущий город.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] радостно констатирует, что вы сумели построить на этом архипелаге цветущий город.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est ému de voir que vous avez réussi à bâtir une Ville florissante sur cet archipel.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est ému de voir que vous avez réussi à bâtir une Ville florissante sur cet archipel.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se conmueve al ver que has conseguido levantar una ciudad floreciente en el archipiélago.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se conmueve al ver que has conseguido levantar una ciudad floreciente en el archipiélago.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si commuove nel vedere che alla fine hai costruito una fiorente Città qui nell'Arcipelago.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si commuove nel vedere che alla fine hai costruito una fiorente Città qui nell'Arcipelago.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] jest poruszony, widząc, że udało ci się zbudować wspaniałe miasto na archipelagu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] jest poruszony, widząc, że udało ci się zbudować wspaniałe miasto na archipelagu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s dojetím pozoruje, že se vám na tomto souostroví podařilo vybudovat prosperující město.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s dojetím pozoruje, že se vám na tomto souostroví podařilo vybudovat prosperující město.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Mood Text</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41306055</GUID>
+              <Kommentar>Mood Story</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bedauert, dass Sie bei der Vergabe der Ländereien Pech hatten, ist aber dennoch überzeugt, dass Sie hier eine Metropole errichten werden.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bedauert, dass Sie bei der Vergabe der Ländereien Pech hatten, ist aber dennoch überzeugt, dass Sie hier eine Metropole errichten werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] regrets the poor luck you had in the awarding of lands, but is still convinced that you will be able to build a Metropolis here.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] regrets the poor luck you had in the awarding of lands, but is still convinced that you will be able to build a Metropolis here.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] сожалеет, что вам так не повезло при распределении земельных наделов, но все же не сомневается, что вы и здесь сможете создать метрополию.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] сожалеет, что вам так не повезло при распределении земельных наделов, но все же не сомневается, что вы и здесь сможете создать метрополию.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] regrette la malchance que vous avez eue dans l'attribution des terres, mais il reste convaincu que vous pourrez bâtir ici une Métropole.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] regrette la malchance que vous avez eue dans l'attribution des terres, mais il reste convaincu que vous pourrez bâtir ici une Métropole.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] lamenta la mala suerte que has tenido en la concesión de tierras. No obstante, tiene el convencimiento de que podrás construir aquí una metrópolis.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] lamenta la mala suerte que has tenido en la concesión de tierras. No obstante, tiene el convencimiento de que podrás construir aquí una metrópolis.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si rammarica nel vedere lo sfortunato esito dell'assegnazione delle terre, ma non ha dubbi che sarai in grado di costruirvi una Metropoli.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si rammarica nel vedere lo sfortunato esito dell'assegnazione delle terre, ma non ha dubbi che sarai in grado di costruirvi una Metropoli.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ubolewa, że przypadła ci tak uboga kraina, ale i tak wierzy, że uda ci się zbudować tu metropolię.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ubolewa, że przypadła ci tak uboga kraina, ale i tak wierzy, że uda ci się zbudować tu metropolię.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] lituje, že jste měl při rozdělování půdy smůlu, ale doufá, že i tak zde dokážete vybudovat metropoli.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] lituje, že jste měl při rozdělování půdy smůlu, ale doufá, že i tak zde dokážete vybudovat metropoli.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

@@ -5,7 +5,7 @@ using System.Linq;
 namespace RDA.Data {
 
   [Serializable]
-  public class Icon : RDA.Share.Icon {
+  public class Icon : RDA.Share.IconBase {
 
     #region Constructors
 

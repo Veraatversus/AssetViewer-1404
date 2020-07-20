@@ -1,0 +1,2267 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence +</Name>
+      <GUIDRangeMin>41311000</GUIDRangeMin>
+      <GUIDRangeMax>41311019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41311000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Eine lausige Wette</Text>
+                  <LastFinalText>Eine lausige Wette</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A rotten bet</Text>
+                  <LastFinalText>A rotten bet</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Сомнительное пари</Text>
+                  <LastFinalText>Сомнительное пари</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un pari pourri</Text>
+                  <LastFinalText>Un pari pourri</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Una mala apuesta</Text>
+                  <LastFinalText>Una mala apuesta</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La maledetta scommessa</Text>
+                  <LastFinalText>La maledetta scommessa</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Kiepski zakład</Text>
+                  <LastFinalText>Kiepski zakład</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Zatracená sázka</Text>
+                  <LastFinalText>Zatracená sázka</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Im Nachhinein betrachtet war es eine Schnapsidee, ...</Text>
+                  <LastFinalText>Im Nachhinein betrachtet war es eine Schnapsidee, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Looking back it was a stupid idea, ...</Text>
+                  <LastFinalText>Looking back it was a stupid idea, ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Задним числом вы понимаете, что это была сумасбродная затея, ...</Text>
+                  <LastFinalText>Задним числом вы понимаете, что это была сумасбродная затея, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Avec du recul, c'était une idée stupide...</Text>
+                  <LastFinalText>Avec du recul, c'était une idée stupide...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Viéndolo con perspectiva, fue una idea estúpida...</Text>
+                  <LastFinalText>Viéndolo con perspectiva, fue una idea estúpida...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ripensandoci, era un'idea stupida...</Text>
+                  <LastFinalText>Ripensandoci, era un'idea stupida...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Z perspektywy czasu, to był głupi pomysł...</Text>
+                  <LastFinalText>Z perspektywy czasu, to był głupi pomysł...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Když se nad tím zamyslím, nevím, co mě to napadlo...</Text>
+                  <LastFinalText>Když se nad tím zamyslím, nevím, co mě to napadlo...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311002</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... geboren aus dem weinseligen Disput mit einem Bettler vor der Schenke.</Text>
+                  <LastFinalText>... geboren aus dem weinseligen Disput mit einem Bettler vor der Schenke.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... born out of wine-soaked dispute with a Beggar in front of the Tavern.</Text>
+                  <LastFinalText>... born out of wine-soaked dispute with a Beggar in front of the Tavern.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... родившаяся во время пьяного спора с нищим перед трактиром.</Text>
+                  <LastFinalText>... родившаяся во время пьяного спора с нищим перед трактиром.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... suite à une discussion bien arrosée avec un Mendiant devant la Taverne.</Text>
+                  <LastFinalText>... suite à une discussion bien arrosée avec un Mendiant devant la Taverne.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... fruto de una disputa remojada en vino, con un mendigo, delante de la taberna.</Text>
+                  <LastFinalText>... fruto de una disputa remojada en vino, con un mendigo, delante de la taberna.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...nata da una disputa alcolica con un Mendicante davanti alla Taverna.</Text>
+                  <LastFinalText>...nata da una disputa alcolica con un Mendicante davanti alla Taverna.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...zrodzony podczas przesiąkniętej winem dyskusji z żebrakiem przed tawerną.</Text>
+                  <LastFinalText>...zrodzony podczas przesiąkniętej winem dyskusji z żebrakiem przed tawerną.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... vsadit se v opilosti s žebrákem před krčmou.</Text>
+                  <LastFinalText>... vsadit se v opilosti s žebrákem před krčmou.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Dunkel steigen Erinnerungen in Ihnen hoch ... </Text>
+                  <LastFinalText>Dunkel steigen Erinnerungen in Ihnen hoch ... </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Vague memories begin to surface …</Text>
+                  <LastFinalText>Vague memories begin to surface …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Потихоньку память возвращается к вам ... </Text>
+                  <LastFinalText>Потихоньку память возвращается к вам ... </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>De vagues souvenirs remontent à la surface...</Text>
+                  <LastFinalText>De vagues souvenirs remontent à la surface...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Los vagos recuerdos empiezan a tomar forma...</Text>
+                  <LastFinalText>Los vagos recuerdos empiezan a tomar forma...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Vaghi ricordi tornano alla luce...</Text>
+                  <LastFinalText>Vaghi ricordi tornano alla luce...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Powracają mgliste wspomnienia...</Text>
+                  <LastFinalText>Powracają mgliste wspomnienia...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Začínají se mi vracet neurčité vzpomínky...</Text>
+                  <LastFinalText>Začínají se mi vracet neurčité vzpomínky...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Es ging um Wohltätigkeit ... und um eine Wette ...</Text>
+                  <LastFinalText>Es ging um Wohltätigkeit ... und um eine Wette ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>It was about charity ... and a bet ...</Text>
+                  <LastFinalText>It was about charity ... and a bet ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Речь шла о благотворительности... и о пари...</Text>
+                  <LastFinalText>Речь шла о благотворительности... и о пари...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Il était question de charité... et d'un pari...</Text>
+                  <LastFinalText>Il était question de charité... et d'un pari...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Hablamos de caridad... y de una apuesta...</Text>
+                  <LastFinalText>Hablamos de caridad... y de una apuesta...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Qualcosa a proposito della carità... e di una scommessa...</Text>
+                  <LastFinalText>Qualcosa a proposito della carità... e di una scommessa...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Chodziło o dobroczynność... i zakład...</Text>
+                  <LastFinalText>Chodziło o dobroczynność... i zakład...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Bavili jsme se o štědrosti, nějaké sázce...</Text>
+                  <LastFinalText>Bavili jsme se o štědrosti, nějaké sázce...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... um eine Stadt, in der jeder Bettler Zuflucht findet.</Text>
+                  <LastFinalText>... um eine Stadt, in der jeder Bettler Zuflucht findet.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… about a city in which any Beggar can find a home.</Text>
+                  <LastFinalText>… about a city in which any Beggar can find a home.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... а еще о городе, где будут рады всем нищим.</Text>
+                  <LastFinalText>... а еще о городе, где будут рады всем нищим.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... à propos d'une ville où tous les Mendiants pourraient vivre.</Text>
+                  <LastFinalText>... à propos d'une ville où tous les Mendiants pourraient vivre.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... acerca de una ciudad en la que cualquier mendigo pudiera tener un hogar.</Text>
+                  <LastFinalText>... acerca de una ciudad en la que cualquier mendigo pudiera tener un hogar.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...su una città in cui ogni Mendicante potesse avere una casa.</Text>
+                  <LastFinalText>...su una città in cui ogni Mendicante potesse avere una casa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...o miasto, które będzie domem dla wszystkich żebraków.</Text>
+                  <LastFinalText>...o miasto, które będzie domem dla wszystkich żebraków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... kde figurovalo město, kde najde útočiště jakýkoliv žebrák.</Text>
+                  <LastFinalText>... kde figurovalo město, kde najde útočiště jakýkoliv žebrák.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Das Pergament mit Ihrer Unterschrift beweist: Sie haben sich tatsächlich auf diese Wette eingelassen.</Text>
+                  <LastFinalText>Das Pergament mit Ihrer Unterschrift beweist: Sie haben sich tatsächlich auf diese Wette eingelassen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>And the piece of parchment bearing your signature is proof: You really did accept the bet.</Text>
+                  <LastFinalText>And the piece of parchment bearing your signature is proof: You really did accept the bet.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Пергамент с вашей подписью доказывает, что вы действительно ввязались в это отчаянное предприятие.</Text>
+                  <LastFinalText>Пергамент с вашей подписью доказывает, что вы действительно ввязались в это отчаянное предприятие.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Et le bout de parchemin avec votre signature en est la preuve : vous avez vraiment accepté le pari.</Text>
+                  <LastFinalText>Et le bout de parchemin avec votre signature en est la preuve : vous avez vraiment accepté le pari.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Y el trozo de pergamino que lleva tu firma lo prueba: aceptaste la apuesta.</Text>
+                  <LastFinalText>Y el trozo de pergamino que lleva tu firma lo prueba: aceptaste la apuesta.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>E il pezzo di pergamena con la tua firma ne è la prova: hai veramente accettato la scommessa.</Text>
+                  <LastFinalText>E il pezzo di pergamena con la tua firma ne è la prova: hai veramente accettato la scommessa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Dowodem jest kawałek pergaminu z twoim podpisem: zakład został przyjęty.</Text>
+                  <LastFinalText>Dowodem jest kawałek pergaminu z twoim podpisem: zakład został przyjęty.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>A tenhle pergamen s vaším podpisem to dokazuje: Vy jste na tu sázku skutečně přistoupil.</Text>
+                  <LastFinalText>A tenhle pergamen s vaším podpisem to dokazuje: Vy jste na tu sázku skutečně přistoupil.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311007</GUID>
+              <Kommentar>Intro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Strengen Sie sich an! Ihre Ehre steht auf dem Spiel!</Text>
+                  <LastFinalText>Strengen Sie sich an! Ihre Ehre steht auf dem Spiel!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Get to it! Your honour is at stake!</Text>
+                  <LastFinalText>Get to it! Your honour is at stake!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Теперь придется поднапрячься! На кону стоит ваша честь!</Text>
+                  <LastFinalText>Теперь придется поднапрячься! На кону стоит ваша честь!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Allez-y ! Votre honneur est en jeu !</Text>
+                  <LastFinalText>Allez-y ! Votre honneur est en jeu !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡A trabajar! ¡Tu honor está en juego!</Text>
+                  <LastFinalText>¡A trabajar! ¡Tu honor está en juego!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Al lavoro! Ne va dal tuo onore!</Text>
+                  <LastFinalText>Al lavoro! Ne va dal tuo onore!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Do dzieła! Stawką jest twój honor!</Text>
+                  <LastFinalText>Do dzieła! Stawką jest twój honor!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Do toho! Je v sázce vaše pověst!</Text>
+                  <LastFinalText>Do toho! Je v sázce vaše pověst!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311008</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Malachias und seinem Lumpenpack sind schwer beeindruckt:</Text>
+                  <LastFinalText>Malachias und seinem Lumpenpack sind schwer beeindruckt:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Malachias and his rabble are most impressed:</Text>
+                  <LastFinalText>Malachias and his rabble are most impressed:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Малахиас и его нищая братия просто поражены:</Text>
+                  <LastFinalText>Малахиас и его нищая братия просто поражены:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Malachias et ses acolytes sont très impressionnés :</Text>
+                  <LastFinalText>Malachias et ses acolytes sont très impressionnés :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Malaquías y su chusma están impresionados:</Text>
+                  <LastFinalText>Malaquías y su chusma están impresionados:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Malachia e la sua plebaglia sono molto colpiti:</Text>
+                  <LastFinalText>Malachia e la sua plebaglia sono molto colpiti:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Malachias i jego hałastra są pod wrażeniem:</Text>
+                  <LastFinalText>Malachias i jego hałastra są pod wrażeniem:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Malachias a ta jeho sebranka jsou ohromeni:</Text>
+                  <LastFinalText>Malachias a ta jeho sebranka jsou ohromeni:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311009</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie haben die Wette tatsächlich gewonnen!</Text>
+                  <LastFinalText>Sie haben die Wette tatsächlich gewonnen!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You actually won the bet!</Text>
+                  <LastFinalText>You actually won the bet!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>вы действительно выиграли пари!</Text>
+                  <LastFinalText>вы действительно выиграли пари!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez gagné le pari !</Text>
+                  <LastFinalText>Vous avez gagné le pari !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡has ganado la apuesta!</Text>
+                  <LastFinalText>¡has ganado la apuesta!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai davvero vinto la scommessa!</Text>
+                  <LastFinalText>Hai davvero vinto la scommessa!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>udało ci się wygrać zakład!</Text>
+                  <LastFinalText>udało ci się wygrać zakład!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Vy jste tu sázku vyhrál!</Text>
+                  <LastFinalText>Vy jste tu sázku vyhrál!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311010</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Während Sie Malachias jubelnd zum Oberhaupt aller Bettler kürt, ...</Text>
+                  <LastFinalText>Während Sie Malachias jubelnd zum Oberhaupt aller Bettler kürt, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As a jubilant Malachias names you King of the Beggars …</Text>
+                  <LastFinalText>As a jubilant Malachias names you King of the Beggars …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>В то время как Малахиас, торжествуя, провозглашает вас главой всех попрошаек, ...</Text>
+                  <LastFinalText>В то время как Малахиас, торжествуя, провозглашает вас главой всех попрошаек, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Exultant, Malachias vous nomme Roi des Mendiants.</Text>
+                  <LastFinalText>Exultant, Malachias vous nomme Roi des Mendiants.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando el radiante Malaquías te nombra Rey de los mendigos...</Text>
+                  <LastFinalText>Cuando el radiante Malaquías te nombra Rey de los mendigos...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Mentre un Malachia entusiasta ti nomina Re dei Mendicanti...</Text>
+                  <LastFinalText>Mentre un Malachia entusiasta ti nomina Re dei Mendicanti...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Uradowany Malachias mianuje cię Królem Żebraków...</Text>
+                  <LastFinalText>Uradowany Malachias mianuje cię Królem Żebraków...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Když vás Malachias jmenuje králem žebráků...</Text>
+                  <LastFinalText>Když vás Malachias jmenuje králem žebráků...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311011</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... umringt Sie plötzlich immer mehr Lumpengesindel, ...</Text>
+                  <LastFinalText>... umringt Sie plötzlich immer mehr Lumpengesindel, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… more and more Beggars suddenly surround you …</Text>
+                  <LastFinalText>… more and more Beggars suddenly surround you …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... толпа нищих окружает вас, ...</Text>
+                  <LastFinalText>... толпа нищих окружает вас, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Soudain de plus en plus de mendiants vous entourent...</Text>
+                  <LastFinalText>Soudain de plus en plus de mendiants vous entourent...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... te rodean, de pronto, más y más pordioseros...</Text>
+                  <LastFinalText>... te rodean, de pronto, más y más pordioseros...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...all'improvviso, sempre più Mendicanti ti circondano...</Text>
+                  <LastFinalText>...all'improvviso, sempre più Mendicanti ti circondano...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...i zaczyna otaczać cię coraz więcej żebraków...</Text>
+                  <LastFinalText>...i zaczyna otaczać cię coraz więcej żebraków...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... začne vás náhle obklopovat víc a víc žebráků...</Text>
+                  <LastFinalText>... začne vás náhle obklopovat víc a víc žebráků...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311012</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... packt Sie mit rauen Händen ... hebt Sie grob auf ihre verkrüppelten Schultern ...</Text>
+                  <LastFinalText>... packt Sie mit rauen Händen ... hebt Sie grob auf ihre verkrüppelten Schultern ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… and grab you with rough and weathered hands … to raise you onto their crippled shoulders …</Text>
+                  <LastFinalText>… and grab you with rough and weathered hands … to raise you onto their crippled shoulders …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... хватает вас своими грязными руками... грубо поднимает вас на сгорбленные плечи ...</Text>
+                  <LastFinalText>... хватает вас своими грязными руками... грубо поднимает вас на сгорбленные плечи ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et vous attrapent avec leurs mains rugueuses et abîmées... pour vous soulever sur leurs frêles épaules...</Text>
+                  <LastFinalText>... et vous attrapent avec leurs mains rugueuses et abîmées... pour vous soulever sur leurs frêles épaules...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... que te agarran, con sus manos recias y ajadas... y te suben a sus hombros lisiados...</Text>
+                  <LastFinalText>... que te agarran, con sus manos recias y ajadas... y te suben a sus hombros lisiados...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...afferrandoti con mani ruvide e consunte, per sollevarti sopra le loro spalle piegate...</Text>
+                  <LastFinalText>...afferrandoti con mani ruvide e consunte, per sollevarti sopra le loro spalle piegate...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...chwytają cię szorstkimi i zniszczonymi rękoma... biorą cię na swe schorowane ramiona...</Text>
+                  <LastFinalText>...chwytają cię szorstkimi i zniszczonymi rękoma... biorą cię na swe schorowane ramiona...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... kteří po vás šmátrají hrubýma a ošlehanýma rukama... aby vás mohli zvednout na svá chatrná ramena...</Text>
+                  <LastFinalText>... kteří po vás šmátrají hrubýma a ošlehanýma rukama... aby vás mohli zvednout na svá chatrná ramena...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311013</GUID>
+              <Kommentar>Outro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein etwas mulmiges Gefühl ...</Text>
+                  <LastFinalText>Ein etwas mulmiges Gefühl ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A strange feeling indeed ...</Text>
+                  <LastFinalText>A strange feeling indeed ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Сомнительное ощущение ...</Text>
+                  <LastFinalText>Сомнительное ощущение ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Une étrange sensation certes...</Text>
+                  <LastFinalText>Une étrange sensation certes...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Un sentimiento ciertamente extraño...</Text>
+                  <LastFinalText>Un sentimiento ciertamente extraño...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Una sensazione davvero strana...</Text>
+                  <LastFinalText>Una sensazione davvero strana...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Zaprawdę, dziwne to uczucie...</Text>
+                  <LastFinalText>Zaprawdę, dziwne to uczucie...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Je to velmi zvláštní pocit...</Text>
+                  <LastFinalText>Je to velmi zvláštní pocit...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311014</GUID>
+              <Kommentar>Outro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  aber auch schön ... irgendwie ...</Text>
+                  <LastFinalText>...  aber auch schön ... irgendwie ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… but somehow … good …</Text>
+                  <LastFinalText>… but somehow … good …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  но, в целом, приятное... некоторым образом...</Text>
+                  <LastFinalText>...  но, в целом, приятное... некоторым образом...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... mais pas si désagréable...</Text>
+                  <LastFinalText>... mais pas si désagréable...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... pero, de alguna forma... agradable...</Text>
+                  <LastFinalText>... pero, de alguna forma... agradable...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...ma in qualche modo... positiva...</Text>
+                  <LastFinalText>...ma in qualche modo... positiva...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...ale, w pewnym sensie... miłe...</Text>
+                  <LastFinalText>...ale, w pewnym sensie... miłe...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... ale v podstatě... dobrý...</Text>
+                  <LastFinalText>... ale v podstatě... dobrý...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets +</Name>
+      <GUIDRangeMin>41311020</GUIDRangeMin>
+      <GUIDRangeMax>41311049</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41311020</GUID>
+              <Kommentar>Asset XY</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wette gewonnen in: </Text>
+                  <LastFinalText>Wette gewonnen in: </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You will win your bet in:</Text>
+                  <LastFinalText>You will win your bet in:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Пари выиграно за: </Text>
+                  <LastFinalText>Пари выиграно за: </LastFinalText>
+                  <Status>Exported</Status>
+                </Russian>
+                <French>
+                  <Text>Vous gagnerez votre pari dans : </Text>
+                  <LastFinalText>Vous gagnerez votre pari dans : </LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Ganarás la apuesta en:</Text>
+                  <LastFinalText>Ganarás la apuesta en:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Vincerai la tua scommessa in: </Text>
+                  <LastFinalText>Vincerai la tua scommessa in: </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Uda ci się wygrać zakład za:</Text>
+                  <LastFinalText>Uda ci się wygrać zakład za:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Svou sázku vyhrajete za:</Text>
+                  <LastFinalText>Svou sázku vyhrajete za:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41311021</GUID>
+              <Kommentar>Name für einen Anführer der Bettler, der als Talking Profile auftreten kann</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Malachias der Verlauste</Text>
+                  <LastFinalText>Malachias der Verlauste</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Malachias the Lousy</Text>
+                  <LastFinalText>Malachias the Lousy</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вшивый Малахиас</Text>
+                  <LastFinalText>Вшивый Малахиас</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Malachias le Pouilleux</Text>
+                  <LastFinalText>Malachias le Pouilleux</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Malaquías el Terrible</Text>
+                  <LastFinalText>Malaquías el Terrible</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Malachia il pidocchioso</Text>
+                  <LastFinalText>Malachia il pidocchioso</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Malachias Podły</Text>
+                  <LastFinalText>Malachias Podły</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Všivákem Malachiem</Text>
+                  <LastFinalText>Všivákem Malachiem</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41311022</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Lumpenheim</Text>
+                  <LastFinalText>Lumpenheim</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Rabbleton</Text>
+                  <LastFinalText>Rabbleton</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Приют нищих</Text>
+                  <LastFinalText>Приют нищих</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Plèbeville</Text>
+                  <LastFinalText>Plèbeville</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Villachusma</Text>
+                  <LastFinalText>Villachusma</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Marmagliaio</Text>
+                  <LastFinalText>Marmagliaio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Podżegacz</Text>
+                  <LastFinalText>Podżegacz</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Chátrov</Text>
+                  <LastFinalText>Chátrov</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Storyquest +</Name>
+      <GUIDRangeMin>41311050</GUIDRangeMin>
+      <GUIDRangeMax>41311099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wette is' Wette!</Text>
+                  <LastFinalText>Wette is' Wette!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You got yourself a bet!</Text>
+                  <LastFinalText>You got yourself a bet!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Пари есть пари!</Text>
+                  <LastFinalText>Пари есть пари!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un défi à relever !</Text>
+                  <LastFinalText>Un défi à relever !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Es una apuesta!</Text>
+                  <LastFinalText>¡Es una apuesta!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai fatto una scommessa!</Text>
+                  <LastFinalText>Hai fatto una scommessa!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Bierzesz udział w zakładzie!</Text>
+                  <LastFinalText>Bierzesz udział w zakładzie!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Sázka je sázka!</Text>
+                  <LastFinalText>Sázka je sázka!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311051</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erfüllen Sie alle Wettbedingungen und halten Sie diesen Zustand für 60 Sekunden aufrecht: [CR] [CR] • In Ihrer Siedlung leben [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR]• Ihre Bilanz ist positiv. [CR] [CR] • Ihre Bevölkerung ist mindestens "glücklich". </Text>
+                  <LastFinalText>Erfüllen Sie alle Wettbedingungen und halten Sie diesen Zustand für 60 Sekunden aufrecht: [CR] [CR] • In Ihrer Siedlung leben [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR]• Ihre Bilanz ist positiv. [CR] [CR] • Ihre Bevölkerung ist mindestens "glücklich". </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Fulfill all of the conditions of the bet and maintain that status for 60 seconds: [CR] [CR] • Have at least [QUEST_GETRESIDENTSPERLEVEL] living in your Settlement. [CR] [CR] • Your Balance is positive. [CR] [CR] • Your Population is at least "Happy."</Text>
+                  <LastFinalText>Fulfill all of the conditions of the bet and maintain that status for 60 seconds: [CR] [CR] • Have at least [QUEST_GETRESIDENTSPERLEVEL] living in your Settlement. [CR] [CR] • Your Balance is positive. [CR] [CR] • Your Population is at least "Happy."</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Выполните все условия пари и продержитесь 60 секунд: [CR] [CR] • В вашем селении живут [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR]• У вас положительный баланс. [CR] [CR] • Ваше население по меньшей мере "счастливо". </Text>
+                  <LastFinalText>Выполните все условия пари и продержитесь 60 секунд: [CR] [CR] • В вашем селении живут [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR]• У вас положительный баланс. [CR] [CR] • Ваше население по меньшей мере "счастливо". </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Remplissez toutes les conditions du pari et maintenez ce statut pendant 60 secondes : [CR] [CR] • Ayez au moins [QUEST_GETRESIDENTSPERLEVEL] dans votre Camp. [CR] [CR] • Votre Solde est positif. [CR] [CR] • Votre Population est au moins "heureuse".</Text>
+                  <LastFinalText>Remplissez toutes les conditions du pari et maintenez ce statut pendant 60 secondes : [CR] [CR] • Ayez au moins [QUEST_GETRESIDENTSPERLEVEL] dans votre Camp. [CR] [CR] • Votre Solde est positif. [CR] [CR] • Votre Population est au moins "heureuse".</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cumple todas las condiciones de la apuesta y mantén el estado durante 60 segundos: [CR] [CR] • Ten al menos [QUEST_GETRESIDENTSPERLEVEL] viviendo en tu asentamiento. [CR] [CR] • Ten un balance positivo. [CR] [CR] • Ten a la población, al menos, "feliz".</Text>
+                  <LastFinalText>Cumple todas las condiciones de la apuesta y mantén el estado durante 60 segundos: [CR] [CR] • Ten al menos [QUEST_GETRESIDENTSPERLEVEL] viviendo en tu asentamiento. [CR] [CR] • Ten un balance positivo. [CR] [CR] • Ten a la población, al menos, "feliz".</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Soddisfa tutte le condizioni della scommessa e mantieni tale stato per 60 secondi: [CR] [CR] • Almeno [QUEST_GETRESIDENTSPERLEVEL] nel tuo Insediamento. [CR] [CR] • Bilancio in positivo. [CR] [CR] • Popolazione almeno "Felice".</Text>
+                  <LastFinalText>Soddisfa tutte le condizioni della scommessa e mantieni tale stato per 60 secondi: [CR] [CR] • Almeno [QUEST_GETRESIDENTSPERLEVEL] nel tuo Insediamento. [CR] [CR] • Bilancio in positivo. [CR] [CR] • Popolazione almeno "Felice".</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Wypełnij wszystkie warunki zakładu i utrzymaj ten stan przez 60 sekund: [CR] [CR] • W twojej osadzie muszą znaleźć się: [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR] • Twój bilans jest dodatni. [CR] [CR] • Twoja populacja jest przynajmniej "Szczęśliwa".</Text>
+                  <LastFinalText>Wypełnij wszystkie warunki zakładu i utrzymaj ten stan przez 60 sekund: [CR] [CR] • W twojej osadzie muszą znaleźć się: [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR] • Twój bilans jest dodatni. [CR] [CR] • Twoja populacja jest przynajmniej "Szczęśliwa".</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Splňte všechny podmínky sázky a udržte daný stav po dobu 60-ti vteřin: [CR] [CR] • Ve vaší osadě musí žít minimálně: [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR] • Musíte mít kladnou bilanci. [CR] [CR] • Vaše populace musí být alespoň "spokojená".</Text>
+                  <LastFinalText>Splňte všechny podmínky sázky a udržte daný stav po dobu 60-ti vteřin: [CR] [CR] • Ve vaší osadě musí žít minimálně: [QUEST_GETRESIDENTSPERLEVEL]. [CR] [CR] • Musíte mít kladnou bilanci. [CR] [CR] • Vaše populace musí být alespoň "spokojená".</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wenn Sie Ihr Gesicht vor [QUEST_SENDER] und all seinen Lumpenpack-Kumpanen nicht verlieren wollen, müssen Sie die Wette gewinnen.[CR] [CR]Bedenken Sie dabei, dass Ihre Bevölkerung umso unzufriedener wird, je mehr arme Schlucker sich auf den Straßen Ihrer Stadt herumtreiben. Außerdem kosten Sie die vielen Bettler einen beträchtlichen Teil Ihrer Steuereinnahmen. Werden Sie diese Herausforderung meistern?</Text>
+                  <LastFinalText>Wenn Sie Ihr Gesicht vor [QUEST_SENDER] und all seinen Lumpenpack-Kumpanen nicht verlieren wollen, müssen Sie die Wette gewinnen.[CR] [CR]Bedenken Sie dabei, dass Ihre Bevölkerung umso unzufriedener wird, je mehr arme Schlucker sich auf den Straßen Ihrer Stadt herumtreiben. Außerdem kosten Sie die vielen Bettler einen beträchtlichen Teil Ihrer Steuereinnahmen. Werden Sie diese Herausforderung meistern?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>If you don't want to lose face in front of [QUEST_SENDER] and all his riff-raff cronies you must win the bet. [CR] [CR] Keep in mind that the more of those poor devils there are hanging around your streets, the more dissatisfied your Population will become. In addition, that many Beggars will cost you a significant portion of your Taxes. Are you up to the challenge?</Text>
+                  <LastFinalText>If you don't want to lose face in front of [QUEST_SENDER] and all his riff-raff cronies you must win the bet. [CR] [CR] Keep in mind that the more of those poor devils there are hanging around your streets, the more dissatisfied your Population will become. In addition, that many Beggars will cost you a significant portion of your Taxes. Are you up to the challenge?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Если вы не хотите, чтобы [QUEST_SENDER] и его нищая братия утратили всяческое уважение к вам, придется выиграть пари.[CR] [CR]При этом имейте в виду, что уровень недовольства населения будет расти по мере увеличения количества нищих, шатающихся по улицам вашего города. Кроме того, на нищих уходит значительная часть собранных налогов. Ну как, справитесь?</Text>
+                  <LastFinalText>Если вы не хотите, чтобы [QUEST_SENDER] и его нищая братия утратили всяческое уважение к вам, придется выиграть пари.[CR] [CR]При этом имейте в виду, что уровень недовольства населения будет расти по мере увеличения количества нищих, шатающихся по улицам вашего города. Кроме того, на нищих уходит значительная часть собранных налогов. Ну как, справитесь?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Si vous ne voulez pas perdre la face devant [QUEST_SENDER] et les canailles qui l'accompagnent, vous devez gagner le pari. [CR] [CR] N'oubliez pas que plus vous avez de ces pauvres âmes errant dans vos rues, plus votre Population sera mécontente. De plus, tous ces Mendiants vous coûteront une part significative de vos Taxes. Êtes-vous prêt à relever le défi ?</Text>
+                  <LastFinalText>Si vous ne voulez pas perdre la face devant [QUEST_SENDER] et les canailles qui l'accompagnent, vous devez gagner le pari. [CR] [CR] N'oubliez pas que plus vous avez de ces pauvres âmes errant dans vos rues, plus votre Population sera mécontente. De plus, tous ces Mendiants vous coûteront une part significative de vos Taxes. Êtes-vous prêt à relever le défi ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Si no quieres perder la cara delante de [QUEST_SENDER] y su chusma tendrás que ganar la apuesta. [CR] [CR] No olvides que, cuantos más pobres diablos deambulen por las calles, más descontenta estará tu población. Además, tantos mendigos te costarán una buena parte de los impuestos. ¿Aceptas el desafío?</Text>
+                  <LastFinalText>Si no quieres perder la cara delante de [QUEST_SENDER] y su chusma tendrás que ganar la apuesta. [CR] [CR] No olvides que, cuantos más pobres diablos deambulen por las calles, más descontenta estará tu población. Además, tantos mendigos te costarán una buena parte de los impuestos. ¿Aceptas el desafío?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Se non vuoi perdere la faccia con [QUEST_SENDER] e tutta la sua marmaglia, devi vincere la scommessa.[CR] [CR] Ricordati che più poveri diavoli come loro si aggirano per le tue strade, e più la tua Popolazione è insoddisfatta. Inoltre, tutti quei Mendicanti ti costeranno una consistente porzione di Tasse. Sarai all'altezza della sfida?</Text>
+                  <LastFinalText>Se non vuoi perdere la faccia con [QUEST_SENDER] e tutta la sua marmaglia, devi vincere la scommessa.[CR] [CR] Ricordati che più poveri diavoli come loro si aggirano per le tue strade, e più la tua Popolazione è insoddisfatta. Inoltre, tutti quei Mendicanti ti costeranno una consistente porzione di Tasse. Sarai all'altezza della sfida?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Musisz wygrać zakład, żeby [QUEST_SENDER] i jego hołota nie stwierdzili, że brak ci honoru. [CR] [CR] Pamiętaj, że im więcej biedaków na ulicach, tym mniej zadowoleni będą mieszkańcy. Ponadto, taka ilość żebraków będzie odbierać ci sporo wpływów z podatków. Podołasz temu wyzwaniu?</Text>
+                  <LastFinalText>Musisz wygrać zakład, żeby [QUEST_SENDER] i jego hołota nie stwierdzili, że brak ci honoru. [CR] [CR] Pamiętaj, że im więcej biedaków na ulicach, tym mniej zadowoleni będą mieszkańcy. Ponadto, taka ilość żebraków będzie odbierać ci sporo wpływów z podatków. Podołasz temu wyzwaniu?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Pokud se nechcete před postavou jménem [QUEST_SENDER] a její sebrankou shodit, musíte sázku vyhrát. [CR] [CR] Uvědomte si ale, že čím víc těchto chudáků bude kráčet vašimi ulicemi, tím bude spokojenost vaší populace klesat. Takový počet žebráků vás navíc bude stát velkou část vašich příjmů z daní. Jdete do toho?</Text>
+                  <LastFinalText>Pokud se nechcete před postavou jménem [QUEST_SENDER] a její sebrankou shodit, musíte sázku vyhrát. [CR] [CR] Uvědomte si ale, že čím víc těchto chudáků bude kráčet vašimi ulicemi, tím bude spokojenost vaší populace klesat. Takový počet žebráků vás navíc bude stát velkou část vašich příjmů z daní. Jdete do toho?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311054</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erinnert Sie an Ihre Wette und fasst die Bedingungen noch einmal zusammen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] erinnert Sie an Ihre Wette und fasst die Bedingungen noch einmal zusammen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] reminds you of your bet and recaps the conditions.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] reminds you of your bet and recaps the conditions.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] напоминает вам о пари и еще раз повторяет условия.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] напоминает вам о пари и еще раз повторяет условия.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous rappelle votre pari et récapitule les conditions.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous rappelle votre pari et récapitule les conditions.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te recuerda la apuesta y sus condiciones.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te recuerda la apuesta y sus condiciones.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti ricorda la scommessa e ti riepiloga le condizioni.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti ricorda la scommessa e ti riepiloga le condizioni.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] przypomina ci o zakładzie i powtarza warunki.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] przypomina ci o zakładzie i powtarza warunki.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám připomíná vaši sázku a její podmínky.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám připomíná vaši sázku a její podmínky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311056</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Anerkennend bemerken [THIRDPARTY_SENDER_PLAYER] und seine Kumpane, dass Sie Ihre Stadt zu einer echten Bettlerstadt gemacht haben.</Text>
+                  <LastFinalText>Anerkennend bemerken [THIRDPARTY_SENDER_PLAYER] und seine Kumpane, dass Sie Ihre Stadt zu einer echten Bettlerstadt gemacht haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] and his cronies note with appreciation that you have made this City a real home for Beggars.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] and his cronies note with appreciation that you have made this City a real home for Beggars.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>С уважением [THIRDPARTY_SENDER_PLAYER] и его компания отмечают, что ваш город стал настоящим городом нищих.</Text>
+                  <LastFinalText>С уважением [THIRDPARTY_SENDER_PLAYER] и его компания отмечают, что ваш город стал настоящим городом нищих.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] et ses acolytes remarquent avec satisfaction que vous avez fait de cette Ville un vrai refuge pour les Mendiants.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] et ses acolytes remarquent avec satisfaction que vous avez fait de cette Ville un vrai refuge pour les Mendiants.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] y sus compinches hacen notar con admiración que has convertido esta ciudad en un verdadero hogar para los mendigos.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] y sus compinches hacen notar con admiración que has convertido esta ciudad en un verdadero hogar para los mendigos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] e i suoi amici notano con soddisfazione che hai reso questa Città una vera casa per i Mendicanti.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] e i suoi amici notano con soddisfazione che hai reso questa Città una vera casa per i Mendicanti.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] i jego hołota z uznaniem stwierdzają, że miasto stało się prawdziwym domem żebraków.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] i jego hołota z uznaniem stwierdzają, że miasto stało się prawdziwym domem żebraków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a jeho cháska si uznale všímají, že jste z tohoto města udělal opravdový domov pro žebráky.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a jeho cháska si uznale všímají, že jste z tohoto města udělal opravdový domov pro žebráky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311057</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Invisible Dummyquest</Text>
+                  <LastFinalText>Invisible Dummyquest</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>HQ01_Bettler +</Name>
+      <GUIDRangeMin>41311100</GUIDRangeMin>
+      <GUIDRangeMax>41311109</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311100</GUID>
+              <Kommentar>Quest Name</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Vorwärts, Lumpenpack!</Text>
+                  <LastFinalText>Vorwärts, Lumpenpack!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>On, you Beggars, on!</Text>
+                  <LastFinalText>On, you Beggars, on!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вперед, нищеброды!</Text>
+                  <LastFinalText>Вперед, нищеброды!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>En avant les Mendiants !</Text>
+                  <LastFinalText>En avant les Mendiants !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Vamos, mendigos, vamos!</Text>
+                  <LastFinalText>¡Vamos, mendigos, vamos!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Muovetevi, Mendicanti!</Text>
+                  <LastFinalText>Muovetevi, Mendicanti!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Przybywajcie żebracy, przybywajcie!</Text>
+                  <LastFinalText>Przybywajcie żebracy, przybywajcie!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Do toho, žebráci, do toho!</Text>
+                  <LastFinalText>Do toho, žebráci, do toho!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311102</GUID>
+              <Kommentar>Quest Info Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>The more Inhabitants your City has, the more Beggars it attracts.</Text>
+                  <LastFinalText>The more Inhabitants your City has, the more Beggars it attracts.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>Je mehr Einwohner Ihre Stadt hat, desto mehr Bettler werden von ihr angezogen.</Text>
+                  <LastFinalText>Je mehr Einwohner Ihre Stadt hat, desto mehr Bettler werden von ihr angezogen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Чем больше жителей в городе, тем больше нищих в него приходит.</Text>
+                  <LastFinalText>Чем больше жителей в городе, тем больше нищих в него приходит.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Plus votre Ville a d'Habitants, plus vous attirez de Mendiants.</Text>
+                  <LastFinalText>Plus votre Ville a d'Habitants, plus vous attirez de Mendiants.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuantos más habitantes tenga la ciudad, más mendigos atraerá.</Text>
+                  <LastFinalText>Cuantos más habitantes tenga la ciudad, más mendigos atraerá.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Più Abitanti ha la tua Città, più Mendicanti attirerà.</Text>
+                  <LastFinalText>Più Abitanti ha la tua Città, più Mendicanti attirerà.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Im więcej mieszkańców ma twoje miasto, tym więcej przyciąga żebraków.</Text>
+                  <LastFinalText>Im więcej mieszkańców ma twoje miasto, tym więcej przyciąga żebraków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Čím více má vaše město obyvatel, tím více přiláká žebráků.</Text>
+                  <LastFinalText>Čím více má vaše město obyvatel, tím více přiláká žebráků.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311101</GUID>
+              <Kommentar>Quest Story Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sorgen Sie zunächst dafür, dass einige Bürger in Ihre Siedlung ziehen, damit auch die ersten Bettler auftauchen.[CR] [CR]Nur wenn Ihre Stadt stetig wächst, werden auch weiterhin Seelenverkäufer mit Bettlern an Bord eintreffen. Bleiben die Schiffe hingegen aus, stagnieren womöglich die Einwohnerzahlen.[CR] [CR]Werfen Sie hin und wieder einen Blick auf Ihre Bevölkerungsentwicklung und errichten Sie bei Bedarf neue Wohnhäuser.</Text>
+                  <LastFinalText>Sorgen Sie zunächst dafür, dass einige Bürger in Ihre Siedlung ziehen, damit auch die ersten Bettler auftauchen.[CR] [CR]Nur wenn Ihre Stadt stetig wächst, werden auch weiterhin Seelenverkäufer mit Bettlern an Bord eintreffen. Bleiben die Schiffe hingegen aus, stagnieren womöglich die Einwohnerzahlen.[CR] [CR]Werfen Sie hin und wieder einen Blick auf Ihre Bevölkerungsentwicklung und errichten Sie bei Bedarf neue Wohnhäuser.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>First ensure that Citizens move into your city so that the first Beggars begin to appear.[CR][CR] Soul Catchers will only arrive in your Harbour bearing Beggars as long as your City continues to grow. And if the Ships fail to arrive, your Population may soon begin to stagnate.[CR][CR]Keep an eye on your Inhabitants' Needs and build new Houses if neccessary.</Text>
+                  <LastFinalText>First ensure that Citizens move into your city so that the first Beggars begin to appear.[CR][CR] Soul Catchers will only arrive in your Harbour bearing Beggars as long as your City continues to grow. And if the Ships fail to arrive, your Population may soon begin to stagnate.[CR][CR]Keep an eye on your Inhabitants' Needs and build new Houses if neccessary.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Для начала позаботьтесь о том, чтобы в городе появились горожане - это привлечет и первых нищих.[CR] [CR]Только если ваш город будет постоянно расти, в него будут прибывать работорговцы с нищими. Если же кораблей не будет, прирост населения прекратится.[CR] [CR]Постоянно проверяйте, как растет население и, в случае необходимости, стройте новые жилые дома.</Text>
+                  <LastFinalText>Для начала позаботьтесь о том, чтобы в городе появились горожане - это привлечет и первых нищих.[CR] [CR]Только если ваш город будет постоянно расти, в него будут прибывать работорговцы с нищими. Если же кораблей не будет, прирост населения прекратится.[CR] [CR]Постоянно проверяйте, как растет население и, в случае необходимости, стройте новые жилые дома.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Assurez-vous d'abord que des Citoyens s'installent dans votre Ville pour attirer les premiers Mendiants.[CR][CR] Les Vendeurs d'âme n'arriveront dans votre Port avec des Mendiants que si votre Ville continue à croître. Si les Navires ne viennent pas, votre Population risque de vite stagner.[CR][CR]Surveillez les Besoins de vos Habitants et construisez de nouvelles Maisons si nécessaire.</Text>
+                  <LastFinalText>Assurez-vous d'abord que des Citoyens s'installent dans votre Ville pour attirer les premiers Mendiants.[CR][CR] Les Vendeurs d'âme n'arriveront dans votre Port avec des Mendiants que si votre Ville continue à croître. Si les Navires ne viennent pas, votre Population risque de vite stagner.[CR][CR]Surveillez les Besoins de vos Habitants et construisez de nouvelles Maisons si nécessaire.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Asegúrate de que los ciudadanos se instalan en tu ciudad para que empiecen a aparecer los primeros mendigos.[CR][CR] Los recogedores de almas solo llegarán a tu puerto con mendigos mientras la ciudad siga creciendo. Si los barcos no llegan, la población puede estancarse pronto.[CR][CR]No pierdas de vista las necesidades de tus habitantes y construye nuevas casas si fuese necesario.</Text>
+                  <LastFinalText>Asegúrate de que los ciudadanos se instalan en tu ciudad para que empiecen a aparecer los primeros mendigos.[CR][CR] Los recogedores de almas solo llegarán a tu puerto con mendigos mientras la ciudad siga creciendo. Si los barcos no llegan, la población puede estancarse pronto.[CR][CR]No pierdas de vista las necesidades de tus habitantes y construye nuevas casas si fuese necesario.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Prima di tutto, assicurati che molti Cittadini si trasferiscano nella tua Città, in modo che comincino ad apparire i primi Mendicanti.[CR][CR] Fintanto che la tua Città continuerà a crescere, continueranno ad arrivare Venditori di anime portando Mendicanti nel tuo Porto. Se le Navi non arrivano, la tua Popolazione potrebbe presto ristagnare.[CR][CR]Tieni d'occhio i Bisogni dei tuoi Abitanti e, se necessario, edifica nuove Case.</Text>
+                  <LastFinalText>Prima di tutto, assicurati che molti Cittadini si trasferiscano nella tua Città, in modo che comincino ad apparire i primi Mendicanti.[CR][CR] Fintanto che la tua Città continuerà a crescere, continueranno ad arrivare Venditori di anime portando Mendicanti nel tuo Porto. Se le Navi non arrivano, la tua Popolazione potrebbe presto ristagnare.[CR][CR]Tieni d'occhio i Bisogni dei tuoi Abitanti e, se necessario, edifica nuove Case.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Najpierw zadbaj, żeby do miasta wprowadzali się mieszczanie, co przyciągnie pierwszych żebraków.[CR][CR] W porcie będą pojawiać się Łowcy Dusz tylko wówczas, jeśli twe miasto będzie się rozwijać. Jeżeli okręty nie przybędą, twoja populacja może popaść w stagnację.[CR][CR]Obserwuj potrzeby mieszkańców i w razie konieczności buduj nowe domy.</Text>
+                  <LastFinalText>Najpierw zadbaj, żeby do miasta wprowadzali się mieszczanie, co przyciągnie pierwszych żebraków.[CR][CR] W porcie będą pojawiać się Łowcy Dusz tylko wówczas, jeśli twe miasto będzie się rozwijać. Jeżeli okręty nie przybędą, twoja populacja może popaść w stagnację.[CR][CR]Obserwuj potrzeby mieszkańców i w razie konieczności buduj nowe domy.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Pokud chcete, aby se začali objevovat první žebráci, musíte do svého města nejdříve nastěhovat občany.[CR][CR] Chytače duší s žebráky budou do vašeho přístavu připlouvat jen tehdy, bude-li se vaše město rozrůstat. V případě, že k vám tyto lodě nepřiplují, je možné, že vaše populace začne brzy stagnovat.[CR][CR]Starejte se o potřeby svých občanů a budujte nové domy, když to bude nutné.</Text>
+                  <LastFinalText>Pokud chcete, aby se začali objevovat první žebráci, musíte do svého města nejdříve nastěhovat občany.[CR][CR] Chytače duší s žebráky budou do vašeho přístavu připlouvat jen tehdy, bude-li se vaše město rozrůstat. V případě, že k vám tyto lodě nepřiplují, je možné, že vaše populace začne brzy stagnovat.[CR][CR]Starejte se o potřeby svých občanů a budujte nové domy, když to bude nutné.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311103</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erinnert Sie, dass nur dann Bettler in Ihre Stadt kommen, wenn es dort auch genug reiche Bürger gibt.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] erinnert Sie, dass nur dann Bettler in Ihre Stadt kommen, wenn es dort auch genug reiche Bürger gibt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] reminds you that Beggars will only come to your City when there are enough wealthy Citizens.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] reminds you that Beggars will only come to your City when there are enough wealthy Citizens.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] напоминает вам, что нищие будут приходить в город только в том случае, если в нем будет достаточно богатых горожан.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] напоминает вам, что нищие будут приходить в город только в том случае, если в нем будет достаточно богатых горожан.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous rappelle que les Mendiants ne viendront dans votre Ville que s'il y a suffisamment de Citoyens riches.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous rappelle que les Mendiants ne viendront dans votre Ville que s'il y a suffisamment de Citoyens riches.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te recuerda que los mendigos solo llegarán a tu ciudad si hay suficientes ciudadanos ricos.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te recuerda que los mendigos solo llegarán a tu ciudad si hay suficientes ciudadanos ricos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti ricorda che i Mendicanti arriveranno nella tua Città solo quando ci saranno abbastanza Cittadini danarosi.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti ricorda che i Mendicanti arriveranno nella tua Città solo quando ci saranno abbastanza Cittadini danarosi.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] przypomina ci, że żebracy zjawią się w mieście tylko, jeśli będzie w nim dużo bogatych mieszczan.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] przypomina ci, że żebracy zjawią się w mieście tylko, jeśli będzie w nim dużo bogatych mieszczan.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám připomíná, že žebráci do vašeho města přijdou jen tehdy, bude-li v něm dostatek bohatých občanů.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám připomíná, že žebráci do vašeho města přijdou jen tehdy, bude-li v něm dostatek bohatých občanů.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>HQ02_Kein Hospiz +</Name>
+      <GUIDRangeMin>41311150</GUIDRangeMin>
+      <GUIDRangeMax>41311199</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311150</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Unter frei'm Himm'l</Text>
+                  <LastFinalText>Unter frei'm Himm'l</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Outdoor Adventure</Text>
+                  <LastFinalText>Outdoor Adventure</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Под открытым небом</Text>
+                  <LastFinalText>Под открытым небом</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Aventure en plein air</Text>
+                  <LastFinalText>Aventure en plein air</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Aventura al aire libre</Text>
+                  <LastFinalText>Aventura al aire libre</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Avventura all'aperto</Text>
+                  <LastFinalText>Avventura all'aperto</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Przygoda na świeżym powietrzu</Text>
+                  <LastFinalText>Przygoda na świeżym powietrzu</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Dobrodružství pod širým nebem</Text>
+                  <LastFinalText>Dobrodružství pod širým nebem</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311151</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Armenhäuser bleiben diesmal leer - so schreibt es die Wette vor.</Text>
+                  <LastFinalText>Armenhäuser bleiben diesmal leer - so schreibt es die Wette vor.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The Alms houses stay empty - one of the rules of the bet.</Text>
+                  <LastFinalText>The Alms houses stay empty - one of the rules of the bet.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>На этот раз богадельни пустуют - таковы условия пари.</Text>
+                  <LastFinalText>На этот раз богадельни пустуют - таковы условия пари.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Les Hospices restent vides : l'une des conditions du pari.</Text>
+                  <LastFinalText>Les Hospices restent vides : l'une des conditions du pari.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Los hospicios se quedan vacíos: una de las reglas de la apuesta.</Text>
+                  <LastFinalText>Los hospicios se quedan vacíos: una de las reglas de la apuesta.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>I Ricoveri devono essere vuoti: è una delle regole della scommessa.</Text>
+                  <LastFinalText>I Ricoveri devono essere vuoti: è una delle regole della scommessa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Przytułki muszą być puste - to jeden z warunków zakładu.</Text>
+                  <LastFinalText>Przytułki muszą być puste - to jeden z warunków zakładu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Azyly zůstanou prázdné, tak zní podmínka sázky.</Text>
+                  <LastFinalText>Azyly zůstanou prázdné, tak zní podmínka sázky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41311156</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Bedingungen der Wette lauten eindeutig, dass sich die Bettler auf den Straßen Ihrer Stadt herumtreiben dürfen. Außerdem sind [QUEST_SENDER] und seine Kumpane echte Naturburschen! Sparen Sie sich also lieber die Baukosten für Armenhäuser. </Text>
+                  <LastFinalText>Die Bedingungen der Wette lauten eindeutig, dass sich die Bettler auf den Straßen Ihrer Stadt herumtreiben dürfen. Außerdem sind [QUEST_SENDER] und seine Kumpane echte Naturburschen! Sparen Sie sich also lieber die Baukosten für Armenhäuser. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The conditions of your bet clearly state that the Beggars have to live and move freely in your City's streets. Besides, [QUEST_SENDER] and his cronies are real nature lovers! So don't bother wasting your money building Alms houses.</Text>
+                  <LastFinalText>The conditions of your bet clearly state that the Beggars have to live and move freely in your City's streets. Besides, [QUEST_SENDER] and his cronies are real nature lovers! So don't bother wasting your money building Alms houses.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>По условию нищие обязательно должны находиться на улицах города. Кроме того, [QUEST_SENDER] и его дружки - настоящие дети природы. Это значит, что вы можете сэкономить за счет строительства богаделен. </Text>
+                  <LastFinalText>По условию нищие обязательно должны находиться на улицах города. Кроме того, [QUEST_SENDER] и его дружки - настоящие дети природы. Это значит, что вы можете сэкономить за счет строительства богаделен. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Les termes de votre pari spécifient clairement que les Mendiants doivent vivre et circuler librement dans les rues de votre Ville. [QUEST_SENDER] et ses acolytes adorent le grand air ! Ne gaspillez pas votre argent dans la construction d'Hospices.</Text>
+                  <LastFinalText>Les termes de votre pari spécifient clairement que les Mendiants doivent vivre et circuler librement dans les rues de votre Ville. [QUEST_SENDER] et ses acolytes adorent le grand air ! Ne gaspillez pas votre argent dans la construction d'Hospices.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Las condiciones de la apuesta dicen claramente que los mendigos deben vivir y moverse libremente por las calles de tu ciudad. ¡Además, [QUEST_SENDER] y sus compinches son unos verdaderos amantes de la naturaleza! No te molestes en gastar dinero en hospicios.</Text>
+                  <LastFinalText>Las condiciones de la apuesta dicen claramente que los mendigos deben vivir y moverse libremente por las calles de tu ciudad. ¡Además, [QUEST_SENDER] y sus compinches son unos verdaderos amantes de la naturaleza! No te molestes en gastar dinero en hospicios.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Le condizioni della scommessa dicono chiaramente che i Mendicanti devono vivere e muoversi liberamente nelle strade della tua Città. E poi, [QUEST_SENDER] e i suoi amici sono dei veri amanti della natura! Evita quindi di buttare il tuo denaro costruendo Ricoveri.</Text>
+                  <LastFinalText>Le condizioni della scommessa dicono chiaramente che i Mendicanti devono vivere e muoversi liberamente nelle strade della tua Città. E poi, [QUEST_SENDER] e i suoi amici sono dei veri amanti della natura! Evita quindi di buttare il tuo denaro costruendo Ricoveri.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Warunki zakładu mówią, że żebracy muszą mieszkać i swobodnie poruszać się po ulicach miasta. Poza tym, [QUEST_SENDER] i jego hołota naprawdę kochają przyrodę! Więc nie trać pieniędzy na budowę przytułków.</Text>
+                  <LastFinalText>Warunki zakładu mówią, że żebracy muszą mieszkać i swobodnie poruszać się po ulicach miasta. Poza tym, [QUEST_SENDER] i jego hołota naprawdę kochają przyrodę! Więc nie trać pieniędzy na budowę przytułków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>V podmínkách vaší sázky jasně stojí, že žebráci mohou kráčet ulicemi vašeho města zcela svobodně. [QUEST_SENDER] a jeho sebranka jsou navíc skutečnými milovníky přírody! S výstavbou azylů si tedy nedělejte škodu.</Text>
+                  <LastFinalText>V podmínkách vaší sázky jasně stojí, že žebráci mohou kráčet ulicemi vašeho města zcela svobodně. [QUEST_SENDER] a jeho sebranka jsou navíc skutečnými milovníky přírody! S výstavbou azylů si tedy nedělejte škodu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311154</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] hält nichts davon, in ein Armenhaus zu ziehen - er will lieber unter freiem Himmel schlafen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] hält nichts davon, in ein Armenhaus zu ziehen - er will lieber unter freiem Himmel schlafen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] doesn't want to move into an Alms house - he'd rather sleep under the stars.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] doesn't want to move into an Alms house - he'd rather sleep under the stars.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] не в восторге от перспективы переехать в богадельню - он предпочитает спать под открытым небом.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] не в восторге от перспективы переехать в богадельню - он предпочитает спать под открытым небом.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ne veut pas aller dans un Hospice, il préfère dormir à la belle étoile.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ne veut pas aller dans un Hospice, il préfère dormir à la belle étoile.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] no quiere vivir en un hospicio: prefiere dormir a cielo abierto.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] no quiere vivir en un hospicio: prefiere dormir a cielo abierto.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] non vuole stabilirsi in un Ricovero: preferisce dormire sotto le stelle.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] non vuole stabilirsi in un Ricovero: preferisce dormire sotto le stelle.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nie chce wprowadzić się do przytułku - woli spać pod gwiazdami.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nie chce wprowadzić się do przytułku - woli spać pod gwiazdami.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se nechce nastěhovat do azylu, to radši bude spát pod širákem.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se nechce nastěhovat do azylu, to radši bude spát pod širákem.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>HQ03_Nix geht mehr +</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311155</GUID>
+              <Kommentar>Quest Name</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>So sicha nich'!</Text>
+                  <LastFinalText>So sicha nich'!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Not like that!</Text>
+                  <LastFinalText>Not like that!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Ну уж нет!</Text>
+                  <LastFinalText>Ну уж нет!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Pas comme ça !</Text>
+                  <LastFinalText>Pas comme ça !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Así no!</Text>
+                  <LastFinalText>¡Así no!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Non così!</Text>
+                  <LastFinalText>Non così!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Nie tak!</Text>
+                  <LastFinalText>Nie tak!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Takhle tedy ne!</Text>
+                  <LastFinalText>Takhle tedy ne!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41311157</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Bleiben die Seelenverkäufer aus, läuft etwas in Ihrer Stadt verkehrt.</Text>
+                  <LastFinalText>Bleiben die Seelenverkäufer aus, läuft etwas in Ihrer Stadt verkehrt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>When the Soul Catchers stop coming, something is wrong in your Settlement.</Text>
+                  <LastFinalText>When the Soul Catchers stop coming, something is wrong in your Settlement.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Если работорговцев не будет, в вашем городе что-то пойдет не так.</Text>
+                  <LastFinalText>Если работорговцев не будет, в вашем городе что-то пойдет не так.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Quand les Vendeurs d'âme ne viennent plus, c'est que ça ne va pas dans votre Camp.</Text>
+                  <LastFinalText>Quand les Vendeurs d'âme ne viennent plus, c'est que ça ne va pas dans votre Camp.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Si los recogedores de almas dejan de llegar, es que algo va mal en el asentamiento.</Text>
+                  <LastFinalText>Si los recogedores de almas dejan de llegar, es que algo va mal en el asentamiento.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Se non arrivano Venditori di anime, allora c'è qualcosa che non va nel tuo Insediamento.</Text>
+                  <LastFinalText>Se non arrivano Venditori di anime, allora c'è qualcosa che non va nel tuo Insediamento.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Jeśli przestaną przypływać Łowcy Dusz, oznacza to, że coś jest nie tak z twoją osadą.</Text>
+                  <LastFinalText>Jeśli przestaną przypływać Łowcy Dusz, oznacza to, że coś jest nie tak z twoją osadą.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Když přestanou připlouvat Chytače duší, je to známka toho, že je ve vaší osadě něco špatně.</Text>
+                  <LastFinalText>Když přestanou připlouvat Chytače duší, je to známka toho, že je ve vaší osadě něco špatně.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41311158</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wenn keine Bettler mehr im Hafen Ihrer Stadt eintreffen, liegt das vermutlich daran, dass das Wachstum Ihrer Bevölkerung gerade stagniert. Sie sollten sich daher folgende Fragen stellen:[CR] [CR]Ist genügend Wohnraum für Zuwanderer vorhanden? Ist die Stimmung der Bevölkerung mindestens "glücklich"? Sind alle Bedürfnisse an Waren und Gebäuden gestillt?[CR] [CR]Sorgen Sie dafür, dass es Ihrer Bevölkerung gut geht, dann sind auch [QUEST_SENDER] und sein Lumpenpack nicht weit.</Text>
+                  <LastFinalText>Wenn keine Bettler mehr im Hafen Ihrer Stadt eintreffen, liegt das vermutlich daran, dass das Wachstum Ihrer Bevölkerung gerade stagniert. Sie sollten sich daher folgende Fragen stellen:[CR] [CR]Ist genügend Wohnraum für Zuwanderer vorhanden? Ist die Stimmung der Bevölkerung mindestens "glücklich"? Sind alle Bedürfnisse an Waren und Gebäuden gestillt?[CR] [CR]Sorgen Sie dafür, dass es Ihrer Bevölkerung gut geht, dann sind auch [QUEST_SENDER] und sein Lumpenpack nicht weit.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>If the Beggars stop coming to your City, it is probably because your Population has stopped growing. If this happens you should ask yourself:[CR][CR]Are there enough Houses available for new Inhabitants? Is your Population at least "happy"? Are the people's Needs for Buildings and Goods satisfied?[CR] [CR]If you make sure your Population is doing well, you can be sure that [QUEST_SENDER] and his rabble won't be long in coming.</Text>
+                  <LastFinalText>If the Beggars stop coming to your City, it is probably because your Population has stopped growing. If this happens you should ask yourself:[CR][CR]Are there enough Houses available for new Inhabitants? Is your Population at least "happy"? Are the people's Needs for Buildings and Goods satisfied?[CR] [CR]If you make sure your Population is doing well, you can be sure that [QUEST_SENDER] and his rabble won't be long in coming.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Если в ваш порт перестали прибывать нищие, это, возможно, означает, что рост населения замедлился или прекратился. В связи с этим задайте себе следующие вопросы:[CR] [CR]Достаточно ли жилья для прибывающих? Каково настроение населения - оно должно быть по меньшей мере "счастливо". Все ли потребности в товарах и зданиях удовлетворены?[CR] [CR]Позаботьтесь о том, чтобы вашим горожанам было хорошо, тогда [QUEST_SENDER] и его дружки не заставят себя ждать.</Text>
+                  <LastFinalText>Если в ваш порт перестали прибывать нищие, это, возможно, означает, что рост населения замедлился или прекратился. В связи с этим задайте себе следующие вопросы:[CR] [CR]Достаточно ли жилья для прибывающих? Каково настроение населения - оно должно быть по меньшей мере "счастливо". Все ли потребности в товарах и зданиях удовлетворены?[CR] [CR]Позаботьтесь о том, чтобы вашим горожанам было хорошо, тогда [QUEST_SENDER] и его дружки не заставят себя ждать.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Si les Mendiants ne viennent plus dans votre Ville, c'est probablement parce que votre Population a cessé de croître. Essayez de savoir pourquoi ![CR][CR]Y a-t-il assez de Maisons disponibles pour les nouveaux Habitants ? Votre Population est-elle au moins "heureuse" ? Les Besoins en Bâtiments et en Marchandises du peuple sont-ils satisfaits ?[CR] [CR]Si vous assurez le bien-être de votre Population, vous pouvez être sûr que [QUEST_SENDER] et ses canailles ne tarderont pas.</Text>
+                  <LastFinalText>Si les Mendiants ne viennent plus dans votre Ville, c'est probablement parce que votre Population a cessé de croître. Essayez de savoir pourquoi ![CR][CR]Y a-t-il assez de Maisons disponibles pour les nouveaux Habitants ? Votre Population est-elle au moins "heureuse" ? Les Besoins en Bâtiments et en Marchandises du peuple sont-ils satisfaits ?[CR] [CR]Si vous assurez le bien-être de votre Population, vous pouvez être sûr que [QUEST_SENDER] et ses canailles ne tarderont pas.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Si los mendigos no vienen a la ciudad, quizá sea porque la población ha dejado de crecer. Si este es el caso, pregúntate:[CR][CR]¿Hay suficientes casas disponibles para nuevos habitantes? ¿Está la población "feliz", al menos? ¿Se han cubierto las necesidades de edificios y bienes?[CR] [CR]Si aseguras el bienestar de la población, seguro que [QUEST_SENDER] y su chusma no tardarán en llegar.</Text>
+                  <LastFinalText>Si los mendigos no vienen a la ciudad, quizá sea porque la población ha dejado de crecer. Si este es el caso, pregúntate:[CR][CR]¿Hay suficientes casas disponibles para nuevos habitantes? ¿Está la población "feliz", al menos? ¿Se han cubierto las necesidades de edificios y bienes?[CR] [CR]Si aseguras el bienestar de la población, seguro que [QUEST_SENDER] y su chusma no tardarán en llegar.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Se non arrivano più Mendicanti nella tua città, probabilmente significa che la tua Popolazione ha smesso di crescere. In questo caso, dovresti chiederti se:[CR][CR]Ci sono abbastanza Case per i nuovi Abitanti? La Popolazione è almeno "felice"? I Bisogni di Edifici e Merci sono soddisfatti?[CR] [CR]Se la tua Popolazione sta bene, puoi contare sul fatto che [QUEST_SENDER] e la sua marmaglia non tarderanno ad arrivare.</Text>
+                  <LastFinalText>Se non arrivano più Mendicanti nella tua città, probabilmente significa che la tua Popolazione ha smesso di crescere. In questo caso, dovresti chiederti se:[CR][CR]Ci sono abbastanza Case per i nuovi Abitanti? La Popolazione è almeno "felice"? I Bisogni di Edifici e Merci sono soddisfatti?[CR] [CR]Se la tua Popolazione sta bene, puoi contare sul fatto che [QUEST_SENDER] e la sua marmaglia non tarderanno ad arrivare.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Jeżeli w mieście przestaną pojawiać się żebracy, będzie to skutkiem zatrzymania przyrostu populacji. Jeśli tak się stanie, zadaj sobie pytanie:[CR][CR]Czy nie brakuje domów dla nowych mieszkańców? Czy populacja jest co najmniej "szczęśliwa"? Czy zaspokojone jest zapotrzebowanie na budynki i towary?[CR] [CR]Jeżeli ludowi wiedzie się dobrze, [QUEST_SENDER] i jego hałastra z pewnością wkrótce się zjawią.</Text>
+                  <LastFinalText>Jeżeli w mieście przestaną pojawiać się żebracy, będzie to skutkiem zatrzymania przyrostu populacji. Jeśli tak się stanie, zadaj sobie pytanie:[CR][CR]Czy nie brakuje domów dla nowych mieszkańców? Czy populacja jest co najmniej "szczęśliwa"? Czy zaspokojone jest zapotrzebowanie na budynki i towary?[CR] [CR]Jeżeli ludowi wiedzie się dobrze, [QUEST_SENDER] i jego hałastra z pewnością wkrótce się zjawią.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Pokud do vašeho města přestanou chodit žebráci, nejspíš to bude proto, že se vaše populace přestala rozrůstat. V takovém případě byste si měli položit tyto otázky:[CR][CR]Máte dostatek domů pro nové obyvatele? Je vaše populace alespoň "spokojená"? Uspokojil jste potřeby lidí, co se týče budov a zboží?[CR] [CR]Pokud ovšem vaše populace prosperuje, nebojte se, že by [QUEST_SENDER] se svou cháskou nepřišel.</Text>
+                  <LastFinalText>Pokud do vašeho města přestanou chodit žebráci, nejspíš to bude proto, že se vaše populace přestala rozrůstat. V takovém případě byste si měli položit tyto otázky:[CR][CR]Máte dostatek domů pro nové obyvatele? Je vaše populace alespoň "spokojená"? Uspokojil jste potřeby lidí, co se týče budov a zboží?[CR] [CR]Pokud ovšem vaše populace prosperuje, nebojte se, že by [QUEST_SENDER] se svou cháskou nepřišel.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311159</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] meint, dass es nur an Ihnen liegt, dass in nächster Zeit keine Bettler mehr eintreffen...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] meint, dass es nur an Ihnen liegt, dass in nächster Zeit keine Bettler mehr eintreffen...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] says that it is no one's fault but your own if no more Beggars arrive for a while ...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] says that it is no one's fault but your own if no more Beggars arrive for a while ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] полагает, что только вы можете прекратить наплыв попрошаек в город...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] полагает, что только вы можете прекратить наплыв попрошаек в город...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] dit que c'est uniquement de votre faute si plus aucun Mendiant n'arrive depuis un moment...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] dit que c'est uniquement de votre faute si plus aucun Mendiant n'arrive depuis un moment...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] dice que es culpa tuya si no llegan más mendigos...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] dice que es culpa tuya si no llegan más mendigos...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] dice che la colpa sarebbe solo tua se per un po' non arrivassero altri Mendicanti...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] dice che la colpa sarebbe solo tua se per un po' non arrivassero altri Mendicanti...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wini cię za to, że od jakiegoś czasu nie pojawiają się nowi żebracy...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wini cię za to, że od jakiegoś czasu nie pojawiają się nowi żebracy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] tvrdí, že to je jen a jen vaše chyba, že už dlouho nepřišli žádní žebráci...</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] tvrdí, že to je jen a jen vaše chyba, že už dlouho nepřišli žádní žebráci...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Mood-Meldungen</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311160</GUID>
+              <Kommentar>Malachius Mood-Meldung</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wettet um all seine Läuse, dass Sie die Wette nicht gewinnen werden.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wettet um all seine Läuse, dass Sie die Wette nicht gewinnen werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bets all his lice that you won't win your bet.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bets all his lice that you won't win your bet.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] спорит на всех своих вшей, что вы никогда не выиграете пари.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] спорит на всех своих вшей, что вы никогда не выиграете пари.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] parie tous ses poux que vous ne gagnerez pas le pari.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] parie tous ses poux que vous ne gagnerez pas le pari.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se juega los piojos a que vas a perder la apuesta.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se juega los piojos a que vas a perder la apuesta.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] punta tutti i suoi pidocchi sulla tua sconfitta nella scommessa.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] punta tutti i suoi pidocchi sulla tua sconfitta nella scommessa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] stawia swoje wszystkie wszy na to, że nie wygrasz zakładu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] stawia swoje wszystkie wszy na to, że nie wygrasz zakładu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] sází svých pár švestek na to, že sázku nevyhrajete.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] sází svých pár švestek na to, že sázku nevyhrajete.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311161</GUID>
+              <Kommentar>Mood-Meldung Malachius</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist überrascht, wie ernst Sie es mit der Wette meinen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist überrascht, wie ernst Sie es mit der Wette meinen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is surprised to see how seriously you take your bet.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is surprised to see how seriously you take your bet.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] удивляется, что вы так серьезно относитесь к этому пари.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] удивляется, что вы так серьезно относитесь к этому пари.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est surpris de voir que vous prenez votre pari au sérieux.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est surpris de voir que vous prenez votre pari au sérieux.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se sorprende de ver cuán en serio te tomas la apuesta.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se sorprende de ver cuán en serio te tomas la apuesta.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è sorpreso di vedere come hai preso sul serio la scommessa.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è sorpreso di vedere come hai preso sul serio la scommessa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] dziwi się, jak poważnie podchodzisz do zakładu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] dziwi się, jak poważnie podchodzisz do zakładu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s překvapením sleduje, jak tu sázku berete vážně.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s překvapením sleduje, jak tu sázku berete vážně.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311162</GUID>
+              <Kommentar>Mood-Meldung Malachius</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bemerkt aufgeregt, dass Sie bereits [QUEST_VALUE 1] Bettler in Ihre Stadt gelassen haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bemerkt aufgeregt, dass Sie bereits [QUEST_VALUE 1] Bettler in Ihre Stadt gelassen haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is excited to not that you have already admitted [QUEST_VALUE 1] Beggars into your City.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is excited to not that you have already admitted [QUEST_VALUE 1] Beggars into your City.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] взволнованно отмечает, что число нищих в вашем городе уже достигло [QUEST_VALUE 1].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] взволнованно отмечает, что число нищих в вашем городе уже достигло [QUEST_VALUE 1].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est excité de voir que vous avez déjà admis [QUEST_VALUE 1] Mendiants dans votre Ville.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est excité de voir que vous avez déjà admis [QUEST_VALUE 1] Mendiants dans votre Ville.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] está emocionado de ver que ya has acogido [QUEST_VALUE 1] mendigos en la ciudad.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está emocionado de ver que ya has acogido [QUEST_VALUE 1] mendigos en la ciudad.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è entusiasta di farti notare che hai già fatto entrare [QUEST_VALUE 1] Mendicanti nella tua Città.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è entusiasta di farti notare che hai già fatto entrare [QUEST_VALUE 1] Mendicanti nella tua Città.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] cieszy się, że w twoim mieście jest już [QUEST_VALUE 1] żebraków.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] cieszy się, że w twoim mieście jest już [QUEST_VALUE 1] żebraków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] je bez sebe z toho, že jste do svého města pustil žebráky v celkovém počtu [QUEST_VALUE 1].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] je bez sebe z toho, že jste do svého města pustil žebráky v celkovém počtu [QUEST_VALUE 1].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41311163</GUID>
+              <Kommentar>Mood-Meldung Malachius</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als der [QUEST_VALUE 1]. Bettler Ihre Stadt betritt, ist [THIRDPARTY_SENDER_PLAYER] überzeugt, dass Sie die Wette gewinnen werden.</Text>
+                  <LastFinalText>Als der [QUEST_VALUE 1]. Bettler Ihre Stadt betritt, ist [THIRDPARTY_SENDER_PLAYER] überzeugt, dass Sie die Wette gewinnen werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As the [QUEST_VALUE 1]th Beggar enters your City, [THIRDPARTY_SENDER_PLAYER] is finally convinced that you will win your bet.</Text>
+                  <LastFinalText>As the [QUEST_VALUE 1]th Beggar enters your City, [THIRDPARTY_SENDER_PLAYER] is finally convinced that you will win your bet.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Поскольку в городе уже [QUEST_VALUE 1]  [THIRDPARTY_SENDER_PLAYER] начинает верить, что вы выиграете пари.</Text>
+                  <LastFinalText>Поскольку в городе уже [QUEST_VALUE 1]  [THIRDPARTY_SENDER_PLAYER] начинает верить, что вы выиграете пари.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Avec l'arrivée du [QUEST_VALUE 1]ème Mendiant dans votre Ville, [THIRDPARTY_SENDER_PLAYER] est enfin convaincu que vous gagnerez votre pari.</Text>
+                  <LastFinalText>Avec l'arrivée du [QUEST_VALUE 1]ème Mendiant dans votre Ville, [THIRDPARTY_SENDER_PLAYER] est enfin convaincu que vous gagnerez votre pari.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando el mendigo número [QUEST_VALUE 1] llega a la ciudad, [THIRDPARTY_SENDER_PLAYER] se convence al fin de que vas a ganar la apuesta.</Text>
+                  <LastFinalText>Cuando el mendigo número [QUEST_VALUE 1] llega a la ciudad, [THIRDPARTY_SENDER_PLAYER] se convence al fin de que vas a ganar la apuesta.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Dopo l'ingresso in Città del Mendicante numero [QUEST_VALUE 1], [THIRDPARTY_SENDER_PLAYER] è finalmente convinto che vincerai la scommessa.</Text>
+                  <LastFinalText>Dopo l'ingresso in Città del Mendicante numero [QUEST_VALUE 1], [THIRDPARTY_SENDER_PLAYER] è finalmente convinto che vincerai la scommessa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Gdy w mieście pojawia się żebrak numer [QUEST_VALUE 1], [THIRDPARTY_SENDER_PLAYER] uznaje twe zwycięstwo w zakładzie.</Text>
+                  <LastFinalText>Gdy w mieście pojawia się żebrak numer [QUEST_VALUE 1], [THIRDPARTY_SENDER_PLAYER] uznaje twe zwycięstwo w zakładzie.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Když do města vstoupil [QUEST_VALUE 1]. žebrák, [THIRDPARTY_SENDER_PLAYER] konečně nabývá přesvědčení, že sázku vyhrajete.</Text>
+                  <LastFinalText>Když do města vstoupil [QUEST_VALUE 1]. žebrák, [THIRDPARTY_SENDER_PLAYER] konečně nabývá přesvědčení, že sázku vyhrajete.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41311021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311164</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Invisible Mood-Message Quest 1</Text>
+                  <LastFinalText>Invisible Mood-Message Quest 1</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41311165</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Invisible Mood-Message Quest 2</Text>
+                  <LastFinalText>Invisible Mood-Message Quest 2</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

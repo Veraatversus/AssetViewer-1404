@@ -1,0 +1,326 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Profil Audio</Name>
+      <GUIDRangeMin>40600000</GUIDRangeMin>
+      <GUIDRangeMax>40624999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/ni_03_audio.xml</FileName>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>Character Audio</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>Profil Text</Name>
+      <GUIDRangeMin>40625000</GUIDRangeMin>
+      <GUIDRangeMax>40649999</GUIDRangeMax>
+      <DefaultTemplate>CharacterText</DefaultTemplate>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625000</GUID>
+              <Kommentar>First Contact</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] eyes you amusedly.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] eyes you amusedly.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] mustert Sie amüsiert.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] mustert Sie amüsiert.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] весело смотрит на вас.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] весело смотрит на вас.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous regarde d'un air amusé.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous regarde d'un air amusé.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te observa con expresión divertida.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te observa con expresión divertida.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti osserva divertito.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti osserva divertito.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] spogląda na ciebie z rozbawieniem.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] spogląda na ciebie z rozbawieniem.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] na vás pobaveně hledí.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] na vás pobaveně hledí.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625001</GUID>
+              <Kommentar>Monument finished</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] provides you with a Ship.</LastFinalText>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] verkündet die Fertigstellung des Arsenals.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] verkündet die Fertigstellung des Arsenals.</LastFinalText>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625002</GUID>
+              <Kommentar>Monument Part Finished</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] offers to sell you your first Ship.</LastFinalText>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] gratuliert Ihnen zur Fertigstellung dieses Bauabschnitts des Arsenals.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] gratuliert Ihnen zur Fertigstellung dieses Bauabschnitts des Arsenals.</LastFinalText>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625003</GUID>
+              <Kommentar>Monument Started</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] happily accepts your Tribute.</LastFinalText>
+                </English>
+                <German>
+                  <Text>Amüsiert von Ihrem Vorhaben, ein Arsenal zu errichten, erkundigt sich [THIRDPARTY_SENDER_PLAYER], ob Sie mit den Bauarbeiten beginnen wollen?</Text>
+                  <LastFinalText>Amüsiert von Ihrem Vorhaben, ein Arsenal zu errichten, erkundigt sich [THIRDPARTY_SENDER_PLAYER], ob Sie mit den Bauarbeiten beginnen wollen?</LastFinalText>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625004</GUID>
+              <Kommentar>Big Carneval Finished</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] refuses to grant you a Loan.</LastFinalText>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] hat sich auf Ihrem prächtigen Maskenball herrlich amüsiert.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] hat sich auf Ihrem prächtigen Maskenball herrlich amüsiert.</LastFinalText>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625005</GUID>
+              <Kommentar>Medium Carneval Finished</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] grants you a Loan of [AUTOSIZE_ICONGUID 1160 0][THIRDPARTY_CREDIT] Gold coins.</LastFinalText>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] hat durchaus schon prächtigere Maskenbälle besucht.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] hat durchaus schon prächtigere Maskenbälle besucht.</LastFinalText>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625006</GUID>
+              <Kommentar>Small  Carneval Finished</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] transfers a fleet to you for support.</LastFinalText>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fand Ihren Maskenball etwas zu provinziell.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fand Ihren Maskenball etwas zu provinziell.</LastFinalText>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625007</GUID>
+              <Kommentar>GetFirstShip</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <LastFinalText>Your Alliance with [THIRDPARTY_THIRD_PLAYER] impresses [THIRDPARTY_SENDER_PLAYER].</LastFinalText>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bietet Ihnen eines seiner Schiffe zum Kauf an.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bietet Ihnen eines seiner Schiffe zum Kauf an.</LastFinalText>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo Garibaldi</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40625008</GUID>
+              <Kommentar>CityStatus reached</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] notes that your city of [THIRDPARTY_CITY] has achieved "[THIRDPARTY_CITYSTATUS]" status.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] notes that your city of [THIRDPARTY_CITY] has achieved "[THIRDPARTY_CITYSTATUS]" status.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nimmt zur Kenntnis, dass Ihre Stadt [THIRDPARTY_CITY] den Status "[THIRDPARTY_CITYSTATUS]" erreicht hat.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nimmt zur Kenntnis, dass Ihre Stadt [THIRDPARTY_CITY] den Status "[THIRDPARTY_CITYSTATUS]" erreicht hat.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] принимает к сведению, что ваш город [THIRDPARTY_CITY] получил статус "[THIRDPARTY_CITYSTATUS]".</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] принимает к сведению, что ваш город [THIRDPARTY_CITY] получил статус "[THIRDPARTY_CITYSTATUS]".</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] remarque que votre ville, [THIRDPARTY_CITY], a atteint le statut "[THIRDPARTY_CITYSTATUS]".</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] remarque que votre ville, [THIRDPARTY_CITY], a atteint le statut "[THIRDPARTY_CITYSTATUS]".</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] observa que tu ciudad, [THIRDPARTY_CITY], ha alcanzado el estatus de "[THIRDPARTY_CITYSTATUS]".</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] observa que tu ciudad, [THIRDPARTY_CITY], ha alcanzado el estatus de "[THIRDPARTY_CITYSTATUS]".</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] osserva che la tua Città di [THIRDPARTY_CITY] ha raggiunto lo stato di "[THIRDPARTY_CITYSTATUS]".</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] osserva che la tua Città di [THIRDPARTY_CITY] ha raggiunto lo stato di "[THIRDPARTY_CITYSTATUS]".</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] zauważa, że twoje miasto, [THIRDPARTY_CITY], osiągnęło status: '[THIRDPARTY_CITYSTATUS]'.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] zauważa, że twoje miasto, [THIRDPARTY_CITY], osiągnęło status: '[THIRDPARTY_CITYSTATUS]'.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] zjišťuje, že vaše město [THIRDPARTY_CITY] dosáhlo statutu "[THIRDPARTY_CITYSTATUS]".</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] zjišťuje, že vaše město [THIRDPARTY_CITY] dosáhlo statutu "[THIRDPARTY_CITYSTATUS]".</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <GUIDRangeMin>40650000</GUIDRangeMin>
+      <GUIDRangeMax>40699999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/ni_03_quests.xml</FileName>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>QuestText</DefaultTemplate>
+    </Group>
+  </Groups>
+</Group>

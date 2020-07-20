@@ -11,7 +11,8 @@ namespace RDA {
     public static XElement LoadXml(string path) {
       if (File.Exists(path)) {
         var root = XDocument.Load(path).Root;
-        var files = new DirectoryInfo(Path.GetDirectoryName(path));
+        var dir = Path.GetDirectoryName(path);
+        var files = new DirectoryInfo(dir);
         if (files.EnumerateFiles().FirstOrDefault(f => f.Name == "templates.xml") is FileInfo info) {
           var templates = XDocument.Load(info.FullName).Root.Descendants("Template").ToLookup(t => t.Element("Name").Value);
           foreach (var asset in root.Descendants("Asset")) {
@@ -20,6 +21,19 @@ namespace RDA {
               foreach (var standard in standards) {
                 AddStandardValues(asset.Element("Values"), standard.Element("Properties"));
               }
+            }
+          }
+          var addonpath = Path.Combine(dir, "addon_01_" + Path.GetFileName(path));
+          if (File.Exists(addonpath)) {
+            var addon = XDocument.Load(addonpath).Root;
+            foreach (var asset in addon.Descendants("Asset")) {
+              if (templates.Contains(asset.Element("Template")?.Value ?? "")) {
+                var standards = templates[asset.Element("Template").Value];
+                foreach (var standard in standards) {
+                  AddStandardValues(asset.Element("Values"), standard.Element("Properties"));
+                }
+              }
+              root.Add(asset);
             }
           }
         }

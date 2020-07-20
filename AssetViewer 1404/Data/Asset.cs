@@ -42,6 +42,12 @@ namespace AssetViewer1404.Data {
     public List<Upgrade> Seed { get; set; }
     public List<Upgrade> Sources { get; set; } = new List<Upgrade>();
     public Description AffectTargetsInfo => AffectTargets.Join(", ").InsertBefore("Affects", "Beeinflusst");
+    public List<Upgrade> CustomResource { get; set; }
+    public List<Upgrade> DoctorUpgrade { get; set; }
+    public List<Upgrade> SpyBaseDetectionBalancing { get; set; }
+    public List<Upgrade> VenetianUpgrade { get; set; }
+    public List<Upgrade> EndlessResource { get; set; }
+
 
     public IEnumerable<Upgrade> AllUpgrades => typeof(Asset)
 .GetProperties()
@@ -129,6 +135,21 @@ namespace AssetViewer1404.Data {
       }
       if (asset.Element("Sources")?.HasElements ?? false) {
         this.Sources = asset.Element("Sources").Elements().Select(s => new Upgrade(s)).ToList();
+      }
+      if (asset.Element("CustomResource")?.HasElements ?? false) {
+        this.CustomResource = asset.Element("CustomResource").Elements().Select(s => new Upgrade(s)).ToList();
+      }
+      if (asset.Element("DoctorUpgrade")?.HasElements ?? false) {
+        this.DoctorUpgrade = asset.Element("DoctorUpgrade").Elements().Select(s => new Upgrade(s)).ToList();
+      }
+      if (asset.Element("SpyBaseDetectionBalancing")?.HasElements ?? false) {
+        this.SpyBaseDetectionBalancing = asset.Element("SpyBaseDetectionBalancing").Elements().Select(s => new Upgrade(s)).ToList();
+      }
+      if (asset.Element("VenetianUpgrade")?.HasElements ?? false) {
+        this.VenetianUpgrade = asset.Element("VenetianUpgrade").Elements().Select(s => new Upgrade(s)).ToList();
+      }
+      if (asset.Element("EndlessResource")?.HasElements ?? false) {
+        this.EndlessResource = asset.Element("EndlessResource").Elements().Select(s => new Upgrade(s)).ToList();
       }
     }
 

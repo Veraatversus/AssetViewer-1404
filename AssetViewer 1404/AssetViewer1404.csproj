@@ -180,6 +180,12 @@
   <ItemGroup>
     <Resource Include="Resources\data\graphics\undiscovered_01_0.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Assets\CustomResourceItem.xml" />
+    <EmbeddedResource Include="Resources\Assets\DoctorItem.xml" />
+    <EmbeddedResource Include="Resources\Assets\EndlessResourceItem.xml" />
+    <EmbeddedResource Include="Resources\Assets\SpyBaseDetectionItem.xml" />
+    <EmbeddedResource Include="Resources\Assets\SpyBaseItem.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

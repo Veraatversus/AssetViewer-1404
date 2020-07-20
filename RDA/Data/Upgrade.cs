@@ -79,6 +79,10 @@ namespace RDA.Data {
         case "DamageRangeCombatMin":
         case "AttackDelayCloseCombat":
         case "AttackDelayRangeCombat":
+        case "DoctorHealingTime":
+        case "EndlessResource":
+        case "SharePriceForeignUpgrade":
+        case "SharePriceOwnerUpgrade":
           break;
 
         case "GeneratedFertilityClime":
@@ -120,6 +124,11 @@ namespace RDA.Data {
         case "TollMoney":
           this.Text = new Description("TollMoney");
           value = Int32.Parse(element.Value);
+          break;    
+          
+        case "DiscoverAllChance":
+          this.Text = new Description("DiscoverAllChance");
+          value = Int32.Parse(element.Value);
           break;
 
         case "TollProducts":
@@ -127,6 +136,16 @@ namespace RDA.Data {
           foreach (var item in element.Elements()) {
             if (item.Name.LocalName != "NoProduct") {
               this.Additionals.Add(new Upgrade { Text = new Description(item.Element("Product").Value), Value = item.Element("Amount").Value });
+            }
+          }
+          break;
+
+        case "CustomResource":
+          this.Additionals = new List<Upgrade>();
+          foreach (var ele in element.Elements()) {
+            foreach (var item in ele.Value.Split(new[] { ";" }, StringSplitOptions.RemoveEmptyEntries)) {
+              this.Additionals.Add(new Upgrade { Text = new Description(item) });
+
             }
           }
           break;

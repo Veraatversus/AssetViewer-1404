@@ -1,0 +1,2660 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41302000</GUIDRangeMin>
+      <GUIDRangeMax>41302019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41302000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Vendetta!</Text>
+                  <LastFinalText>Vendetta!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Vendetta!</Text>
+                  <LastFinalText>Vendetta!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вендетта!</Text>
+                  <LastFinalText>Вендетта!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vengeance !</Text>
+                  <LastFinalText>Vengeance !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Vendetta!</Text>
+                  <LastFinalText>¡Vendetta!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Vendetta!</Text>
+                  <LastFinalText>Vendetta!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Vendetta!</Text>
+                  <LastFinalText>Vendetta!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Vendetta!</Text>
+                  <LastFinalText>Vendetta!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Giacomo Garibaldi schäumt vor Wut.</Text>
+                  <LastFinalText>Giacomo Garibaldi schäumt vor Wut.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Giacomo Garibaldi is beside himself with rage.</Text>
+                  <LastFinalText>Giacomo Garibaldi is beside himself with rage.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Джакомо Гарибальди вне себя от ярости.</Text>
+                  <LastFinalText>Джакомо Гарибальди вне себя от ярости.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Giacomo Garibaldi est totalement hors de lui.</Text>
+                  <LastFinalText>Giacomo Garibaldi est totalement hors de lui.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Giacomo Garibaldi está fuera de sí.</Text>
+                  <LastFinalText>Giacomo Garibaldi está fuera de sí.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Giacomo Garibaldi è fuori di sé dalla rabbia.</Text>
+                  <LastFinalText>Giacomo Garibaldi è fuori di sé dalla rabbia.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Giacomo Garibaldi je celý bez sebe hněvem.</Text>
+                  <LastFinalText>Giacomo Garibaldi je celý bez sebe hněvem.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Giacomo Garibaldi wpadł w szał.</Text>
+                  <LastFinalText>Giacomo Garibaldi wpadł w szał.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302002</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Verflucht sei der Liebreiz venezianischer Frauen!</Text>
+                  <LastFinalText>Verflucht sei der Liebreiz venezianischer Frauen!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Curse the whim of nature which imbued Venetian women with such beauty and grace!</Text>
+                  <LastFinalText>Curse the whim of nature which imbued Venetian women with such beauty and grace!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Будь проклята красота венецианских дам!</Text>
+                  <LastFinalText>Будь проклята красота венецианских дам!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Maudite soit la Nature qui a doté les Vénitiennes d'une beauté et d'une grâce sans pareil !</Text>
+                  <LastFinalText>Maudite soit la Nature qui a doté les Vénitiennes d'une beauté et d'une grâce sans pareil !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Maldito sea el capricho de la naturaleza que otorgó tamaña belleza y gracia a las mujeres venecianas!</Text>
+                  <LastFinalText>¡Maldito sea el capricho de la naturaleza que otorgó tamaña belleza y gracia a las mujeres venecianas!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sia maledetto lo scherzo della natura che ha donato tale grazia e bellezza alle donne veneziane!</Text>
+                  <LastFinalText>Sia maledetto lo scherzo della natura che ha donato tale grazia e bellezza alle donne veneziane!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>K čertu s tím rozmarem přírody, který dal ženám takový půvab a krásu! </Text>
+                  <LastFinalText>K čertu s tím rozmarem přírody, který dal ženám takový půvab a krásu! </LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Niech natura będzie przeklęta za to, że obdarzyła weneckie kobiety taką urodą!</Text>
+                  <LastFinalText>Niech natura będzie przeklęta za to, że obdarzyła weneckie kobiety taką urodą!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Verflucht sei Gavin Langton! </Text>
+                  <LastFinalText>Verflucht sei Gavin Langton! </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Curse Gavin Langton!</Text>
+                  <LastFinalText>Curse Gavin Langton!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Будь проклят Гэвин Лэнгтон! </Text>
+                  <LastFinalText>Будь проклят Гэвин Лэнгтон! </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Maudit soit Gavin Langton !</Text>
+                  <LastFinalText>Maudit soit Gavin Langton !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Maldito sea Gavin Langton!</Text>
+                  <LastFinalText>¡Maldito sea Gavin Langton!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Che Gavin Langton sia maledetto!</Text>
+                  <LastFinalText>Che Gavin Langton sia maledetto!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>K čertu s Gavinem Langtonem!</Text>
+                  <LastFinalText>K čertu s Gavinem Langtonem!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Przeklęty Gavin Langton!</Text>
+                  <LastFinalText>Przeklęty Gavin Langton!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Statt sich den Geschäftsverhandlungen mit dem venezianischen Würdenträger zu widmen, ...</Text>
+                  <LastFinalText>Statt sich den Geschäftsverhandlungen mit dem venezianischen Würdenträger zu widmen, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Instead of focussing on the Trade negotiations with the Venetian Dignitaries ...</Text>
+                  <LastFinalText>Instead of focussing on the Trade negotiations with the Venetian Dignitaries ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вместо того, чтобы посвятить себя деловым переговорам с венецианскими вельможами...</Text>
+                  <LastFinalText>Вместо того, чтобы посвятить себя деловым переговорам с венецианскими вельможами...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Au lieu de se concentrer sur les négociations commerciales avec les Dignitaires vénitiens...</Text>
+                  <LastFinalText>Au lieu de se concentrer sur les négociations commerciales avec les Dignitaires vénitiens...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>En lugar de centrarse en las negociaciones comerciales con los dignatarios venecianos...</Text>
+                  <LastFinalText>En lugar de centrarse en las negociaciones comerciales con los dignatarios venecianos...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Invece di concentrarsi sui Negoziati commerciali con i Dignitari veneziani...</Text>
+                  <LastFinalText>Invece di concentrarsi sui Negoziati commerciali con i Dignitari veneziani...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Místo toho, aby se soustředil na obchodní jednání s benátskými hodnostáři...</Text>
+                  <LastFinalText>Místo toho, aby se soustředil na obchodní jednání s benátskými hodnostáři...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zamiast zająć się negocjacjami handlowymi z weneckimi dygnitarzami...</Text>
+                  <LastFinalText>Zamiast zająć się negocjacjami handlowymi z weneckimi dygnitarzami...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  kümmert sich dieser lieber um neue amouröse Eroberungen.</Text>
+                  <LastFinalText>...  kümmert sich dieser lieber um neue amouröse Eroberungen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… he prefers to concentrate on furthering his amorous adventures.</Text>
+                  <LastFinalText>… he prefers to concentrate on furthering his amorous adventures.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  этот герой-любовник увлекся амурными похождениями.</Text>
+                  <LastFinalText>...  этот герой-любовник увлекся амурными похождениями.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... il préfère s'adonner à de nouvelles aventures amoureuses.</Text>
+                  <LastFinalText>... il préfère s'adonner à de nouvelles aventures amoureuses.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... prefiere dedicarse a ahondar en sus aventuras amorosas.</Text>
+                  <LastFinalText>... prefiere dedicarse a ahondar en sus aventuras amorosas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...preferisce dedicarsi alle sue avventure sentimentali.</Text>
+                  <LastFinalText>...preferisce dedicarsi alle sue avventure sentimentali.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... se radši soustředí na své milostné románky.</Text>
+                  <LastFinalText>... se radši soustředí na své milostné románky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...woli zajmować się przygodami miłosnymi.</Text>
+                  <LastFinalText>...woli zajmować się przygodami miłosnymi.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Doch die holde Maid, deren Ruf der Frauenheld beschmutzte, ...</Text>
+                  <LastFinalText>Doch die holde Maid, deren Ruf der Frauenheld beschmutzte, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Yet the fair maid whose reputation he has this time befouled ...</Text>
+                  <LastFinalText>Yet the fair maid whose reputation he has this time befouled ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Но прекрасная девушка, чью репутацию запятнал этот сердцеед, ...</Text>
+                  <LastFinalText>Но прекрасная девушка, чью репутацию запятнал этот сердцеед, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Mais cette fois, la belle demoiselle dont il a souillé la réputation...</Text>
+                  <LastFinalText>Mais cette fois, la belle demoiselle dont il a souillé la réputation...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Sin embargo, la bella dama cuya reputación ha deshonrado en esta ocasión...</Text>
+                  <LastFinalText>Sin embargo, la bella dama cuya reputación ha deshonrado en esta ocasión...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Stavolta la gentildonna della quale ha disonorato la reputazione...</Text>
+                  <LastFinalText>Stavolta la gentildonna della quale ha disonorato la reputazione...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Přesto tou krásnou pannou, jejíž pověst zneuctil tentokrát...</Text>
+                  <LastFinalText>Přesto tou krásnou pannou, jejíž pověst zneuctil tentokrát...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Tym razem splamił cześć damy...</Text>
+                  <LastFinalText>Tym razem splamił cześć damy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302007</GUID>
+              <Kommentar>Intro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... ist Giacomo Garibaldis wohlbehütetes Mündel!</Text>
+                  <LastFinalText>... ist Giacomo Garibaldis wohlbehütetes Mündel!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... is none other than Giacomo Garibaldi's precious ward!</Text>
+                  <LastFinalText>... is none other than Giacomo Garibaldi's precious ward!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... любимая воспитанница Джакомо Гарибальди!</Text>
+                  <LastFinalText>... любимая воспитанница Джакомо Гарибальди!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... n'est autre que la chère pupille de Giacomo Garibaldi !</Text>
+                  <LastFinalText>... n'est autre que la chère pupille de Giacomo Garibaldi !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡... no es otra que la preciada pupila de Giacomo Garibaldi!</Text>
+                  <LastFinalText>¡... no es otra que la preciada pupila de Giacomo Garibaldi!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...non è altri che la pupilla di Giacomo Garibaldi!</Text>
+                  <LastFinalText>...non è altri che la pupilla di Giacomo Garibaldi!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... není nikdo jiný než drahá svěřenkyně Giacoma Garibaldiho!</Text>
+                  <LastFinalText>... není nikdo jiný než drahá svěřenkyně Giacoma Garibaldiho!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…którą jest podopieczna Giacomo Garibaldiego!</Text>
+                  <LastFinalText>…którą jest podopieczna Giacomo Garibaldiego!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302008</GUID>
+              <Kommentar>Intro Text 8</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Das schreit nach Rache!</Text>
+                  <LastFinalText>Das schreit nach Rache!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Now he thirsts for revenge!</Text>
+                  <LastFinalText>Now he thirsts for revenge!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Нужно отомстить!</Text>
+                  <LastFinalText>Нужно отомстить!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Il a désormais soif de vengeance !</Text>
+                  <LastFinalText>Il a désormais soif de vengeance !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Y ahora tiene sed de venganza!</Text>
+                  <LastFinalText>¡Y ahora tiene sed de venganza!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ora chiede solo vendetta!</Text>
+                  <LastFinalText>Ora chiede solo vendetta!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Který teď touží po pomstě!</Text>
+                  <LastFinalText>Který teď touží po pomstě!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Giacomo pała żądzą zemsty!</Text>
+                  <LastFinalText>Giacomo pała żądzą zemsty!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302009</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Voll diabolischer Genugtuung weidet sich ...</Text>
+                  <LastFinalText>Voll diabolischer Genugtuung weidet sich ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>With diabolical satisfaction Giacomo feasts his eyes …</Text>
+                  <LastFinalText>With diabolical satisfaction Giacomo feasts his eyes …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Полный радости, Джакомо Гарибальди...</Text>
+                  <LastFinalText>Полный радости, Джакомо Гарибальди...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Avec une satisfaction diabolique, Giacomo se délecte...</Text>
+                  <LastFinalText>Avec une satisfaction diabolique, Giacomo se délecte...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Con satisfacción diabólica, Giacomo se deleita al ver...</Text>
+                  <LastFinalText>Con satisfacción diabólica, Giacomo se deleita al ver...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Gli occhi di Giacomo brillano di diabolica soddisfazione...</Text>
+                  <LastFinalText>Gli occhi di Giacomo brillano di diabolica soddisfazione...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>S ďábelským uspokojením se Giacomo kochá...</Text>
+                  <LastFinalText>S ďábelským uspokojením se Giacomo kochá...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Z perfidną satysfakcją Giacomo napawa się …</Text>
+                  <LastFinalText>Z perfidną satysfakcją Giacomo napawa się …</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302010</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  Giacomo Garibaldi an Sir Langtons Leid.</Text>
+                  <LastFinalText>...  Giacomo Garibaldi an Sir Langtons Leid.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... on Sir Gavin Langton's sorrow and distress.</Text>
+                  <LastFinalText>... on Sir Gavin Langton's sorrow and distress.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  наслаждается страданиями сэра Лэнгтона.</Text>
+                  <LastFinalText>...  наслаждается страданиями сэра Лэнгтона.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... de la peine et du désarroi de Sir Gavin Langton.</Text>
+                  <LastFinalText>... de la peine et du désarroi de Sir Gavin Langton.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... el pesar y la aflicción de sir Gavin Langton.</Text>
+                  <LastFinalText>... el pesar y la aflicción de sir Gavin Langton.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...mentre osserva il dolore e la sofferenza di Sir Gavin Langton.</Text>
+                  <LastFinalText>...mentre osserva il dolore e la sofferenza di Sir Gavin Langton.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... smutkem a bídou sira Gavina Langtona.</Text>
+                  <LastFinalText>... smutkem a bídou sira Gavina Langtona.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...cierpieniem i kłopotami Sir Gavina Langtona.</Text>
+                  <LastFinalText>...cierpieniem i kłopotami Sir Gavina Langtona.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302011</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie haben die Ehre seines Mündels wiederhergestellt.</Text>
+                  <LastFinalText>Sie haben die Ehre seines Mündels wiederhergestellt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You have restored his young ward's honour.</Text>
+                  <LastFinalText>You have restored his young ward's honour.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вам удалось защитить честь его воспитанницы!</Text>
+                  <LastFinalText>Вам удалось защитить честь его воспитанницы!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez restauré l'honneur de sa jeune pupille.</Text>
+                  <LastFinalText>Vous avez restauré l'honneur de sa jeune pupille.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Has restablecido el honor de su joven pupila.</Text>
+                  <LastFinalText>Has restablecido el honor de su joven pupila.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai restituito l'onore alla sua giovane pupilla.</Text>
+                  <LastFinalText>Hai restituito l'onore alla sua giovane pupilla.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Navrátil jste jeho mladé svěřenkyni čest.</Text>
+                  <LastFinalText>Navrátil jste jeho mladé svěřenkyni čest.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Udało ci się uratować cześć jego podopiecznej.</Text>
+                  <LastFinalText>Udało ci się uratować cześć jego podopiecznej.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302012</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Garibaldis Ehre!</Text>
+                  <LastFinalText>Garibaldis Ehre!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Giacomo Garibaldi's honour!</Text>
+                  <LastFinalText>Giacomo Garibaldi's honour!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Честь Гарибальди!</Text>
+                  <LastFinalText>Честь Гарибальди!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>L'honneur de Giacomo Garibaldi !</Text>
+                  <LastFinalText>L'honneur de Giacomo Garibaldi !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡El honor de Giacomo Garibaldi!</Text>
+                  <LastFinalText>¡El honor de Giacomo Garibaldi!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>L'onore di Giacomo Garibaldi!</Text>
+                  <LastFinalText>L'onore di Giacomo Garibaldi!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Čest Giacoma Garibaldiho!</Text>
+                  <LastFinalText>Čest Giacoma Garibaldiho!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Cześć Giacomo Garibaldiego!</Text>
+                  <LastFinalText>Cześć Giacomo Garibaldiego!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302013</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Seien Sie versichert, dass der venezianische Würdenträger ...</Text>
+                  <LastFinalText>Seien Sie versichert, dass der venezianische Würdenträger ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Rest assured that the Venetian Dignitary ...</Text>
+                  <LastFinalText>Rest assured that the Venetian Dignitary ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы можете быть уверены, что венецианский сановник...</Text>
+                  <LastFinalText>Вы можете быть уверены, что венецианский сановник...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Soyez assuré que le Dignitaire vénitien...</Text>
+                  <LastFinalText>Soyez assuré que le Dignitaire vénitien...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Ten la certeza de que el dignatario veneciano...</Text>
+                  <LastFinalText>Ten la certeza de que el dignatario veneciano...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Il Dignitario veneziano...</Text>
+                  <LastFinalText>Il Dignitario veneziano...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Buďte ujištěn, že ten benátský hodnostář...</Text>
+                  <LastFinalText>Buďte ujištěn, že ten benátský hodnostář...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wenecki dygnitarz z pewnością...</Text>
+                  <LastFinalText>Wenecki dygnitarz z pewnością...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302014</GUID>
+              <Kommentar>Outro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... Ihre Hilfe bei dieser delikaten Angelegenheit ...</Text>
+                  <LastFinalText>... Ihre Hilfe bei dieser delikaten Angelegenheit ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... will never forget your kind help ...</Text>
+                  <LastFinalText>... will never forget your kind help ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... никогда не забудет, какую помощь вы оказали ему...</Text>
+                  <LastFinalText>... никогда не забудет, какую помощь вы оказали ему...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... n'oubliera jamais votre aide...</Text>
+                  <LastFinalText>... n'oubliera jamais votre aide...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... nunca olvidará tu valiosa ayuda...</Text>
+                  <LastFinalText>... nunca olvidará tu valiosa ayuda...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...non dimenticherà mai il tuo gentile aiuto...</Text>
+                  <LastFinalText>...non dimenticherà mai il tuo gentile aiuto...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... na vaši pomoc v tomto velmi delikátním případě...</Text>
+                  <LastFinalText>... na vaši pomoc v tomto velmi delikátním případě...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...nie zapomni o twojej pomocy...</Text>
+                  <LastFinalText>...nie zapomni o twojej pomocy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41302015</GUID>
+              <Kommentar>Outro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... niemals vergessen wird.</Text>
+                  <LastFinalText>... niemals vergessen wird.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... in this most delicate case.</Text>
+                  <LastFinalText>... in this most delicate case.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... в этом деликатном деле.</Text>
+                  <LastFinalText>... в этом деликатном деле.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... dans cette situation aussi délicate.</Text>
+                  <LastFinalText>... dans cette situation aussi délicate.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... en este caso tan delicado.</Text>
+                  <LastFinalText>... en este caso tan delicado.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...in questa delicatissima faccenda.</Text>
+                  <LastFinalText>...in questa delicatissima faccenda.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... nikdy nezapomene.</Text>
+                  <LastFinalText>... nikdy nezapomene.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...w tej delikatnej sprawie.</Text>
+                  <LastFinalText>...w tej delikatnej sprawie.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <GUIDRangeMin>41302020</GUIDRangeMin>
+      <GUIDRangeMax>41302049</GUIDRangeMax>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <GUIDRangeMin>41302050</GUIDRangeMin>
+      <GUIDRangeMax>41302099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ende der Moral</Text>
+                  <LastFinalText>Ende der Moral</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>No morals, no morale</Text>
+                  <LastFinalText>No morals, no morale</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Конец морали</Text>
+                  <LastFinalText>Конец морали</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Sans morale, pas de moral</Text>
+                  <LastFinalText>Sans morale, pas de moral</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Inmoral, sin moral</Text>
+                  <LastFinalText>Inmoral, sin moral</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Tristezza e sconforto</Text>
+                  <LastFinalText>Tristezza e sconforto</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Žádné mravy, žádná morálka</Text>
+                  <LastFinalText>Žádné mravy, žádná morálka</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Co za czasy, co za ludzie</Text>
+                  <LastFinalText>Co za czasy, co za ludzie</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302051</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sabotieren Sie [GUIDNAME 1649903]s Stadt, um die Stimmung seiner Bevölkerung auf den Nullpunkt zu bringen.[CR]Aktuelle Moral: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</Text>
+                  <LastFinalText>Sabotieren Sie [GUIDNAME 1649903]s Stadt, um die Stimmung seiner Bevölkerung auf den Nullpunkt zu bringen.[CR]Aktuelle Moral: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Sabotage [GUIDNAME 1649903]'s City to lower his Inhabitant's morale to 0. [CR]Current morale: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</Text>
+                  <LastFinalText>Sabotage [GUIDNAME 1649903]'s City to lower his Inhabitant's morale to 0. [CR]Current morale: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Устройте саботаж в городе, где правит [GUIDNAME 1649903], чтобы настроение населения упало до нуля.[CR]Текущий уровень боевого духа: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</Text>
+                  <LastFinalText>Устройте саботаж в городе, где правит [GUIDNAME 1649903], чтобы настроение населения упало до нуля.[CR]Текущий уровень боевого духа: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Sabotez la ville de [GUIDNAME 1649903] pour réduire à 0 le moral de ses Habitants. [CR]Moral actuel : [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR] %</Text>
+                  <LastFinalText>Sabotez la ville de [GUIDNAME 1649903] pour réduire à 0 le moral de ses Habitants. [CR]Moral actuel : [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR] %</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Sabotea la ciudad de [GUIDNAME 1649903] para que la moral de sus habitantes baje a 0.[CR]Moral actual: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</Text>
+                  <LastFinalText>Sabotea la ciudad de [GUIDNAME 1649903] para que la moral de sus habitantes baje a 0.[CR]Moral actual: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sabota la Città di [GUIDNAME 1649903] per abbassare il morale degli Abitanti a 0. [CR]Morale attuale: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</Text>
+                  <LastFinalText>Sabota la Città di [GUIDNAME 1649903] per abbassare il morale degli Abitanti a 0. [CR]Morale attuale: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Proveďte sabotáž ve městě postavy jménem [GUIDNAME 1649903], abyste snížil morálku jeho obyvatel na 0. [CR]Současná morálka: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</Text>
+                  <LastFinalText>Proveďte sabotáž ve městě postavy jménem [GUIDNAME 1649903], abyste snížil morálku jeho obyvatel na 0. [CR]Současná morálka: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Dokonaj sabotażu miasta, którym włada [GUIDNAME 1649903], aby obniżyć morale mieszkańców do 0. [CR]Aktualne morale: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</Text>
+                  <LastFinalText>Dokonaj sabotażu miasta, którym włada [GUIDNAME 1649903], aby obniżyć morale mieszkańców do 0. [CR]Aktualne morale: [FLOWCONTROL_VARIABLE_VALUE_NUMBER MORAL_VAR]%</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER]s Zorn über [GUIDNAME 1649903]s Schandtat ist unermesslich. Schließlich hat er sein Wort gegeben, sein Mündel wie seinen Augapfel zu behüten![CR] [CR]Und nun befindet er sich auch noch in einer Zwickmühle, denn die Verhandlungen mit dem Lord sind von größter Bedeutung und dürfen nicht gefährdet werden.[CR] [CR]Werden Sie an seiner statt Rache für die erlittene Schmach üben? [QUEST_SENDER] zählt fest auf Sie!</Text>
+                  <LastFinalText>[QUEST_SENDER]s Zorn über [GUIDNAME 1649903]s Schandtat ist unermesslich. Schließlich hat er sein Wort gegeben, sein Mündel wie seinen Augapfel zu behüten![CR] [CR]Und nun befindet er sich auch noch in einer Zwickmühle, denn die Verhandlungen mit dem Lord sind von größter Bedeutung und dürfen nicht gefährdet werden.[CR] [CR]Werden Sie an seiner statt Rache für die erlittene Schmach üben? [QUEST_SENDER] zählt fest auf Sie!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER]'s anger over [GUIDNAME 1649903]'s act is immeasurable, for he gave his word to protect his ward as his own heart! [CR] [CR]And now he finds himself in a quandary, as the negotiations with Sir Gavin are of paramount importance and must not be jeopardised. [CR ] [CR]Can you extract appropriate vengeance for the humiliation suffered? [QUEST_SENDER] is counting on you!</Text>
+                  <LastFinalText>[QUEST_SENDER]'s anger over [GUIDNAME 1649903]'s act is immeasurable, for he gave his word to protect his ward as his own heart! [CR] [CR]And now he finds himself in a quandary, as the negotiations with Sir Gavin are of paramount importance and must not be jeopardised. [CR ] [CR]Can you extract appropriate vengeance for the humiliation suffered? [QUEST_SENDER] is counting on you!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] вне себя от ярости - [GUIDNAME 1649903] совершает отвратительный поступок. В конце концов, он обещал хранить свою воспитанницу как зеницу ока![CR] [CR]А теперь он попал в очень трудное положение, потому что переговоры с лордом невероятно важны, и должны состояться в любом случае.[CR] [CR]Вы можете вместо него отомстить и смыть позорное пятно? [QUEST_SENDER] рассчитывает на вас!</Text>
+                  <LastFinalText>[QUEST_SENDER] вне себя от ярости - [GUIDNAME 1649903] совершает отвратительный поступок. В конце концов, он обещал хранить свою воспитанницу как зеницу ока![CR] [CR]А теперь он попал в очень трудное положение, потому что переговоры с лордом невероятно важны, и должны состояться в любом случае.[CR] [CR]Вы можете вместо него отомстить и смыть позорное пятно? [QUEST_SENDER] рассчитывает на вас!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>La colère de [QUEST_SENDER] contre [GUIDNAME 1649903] est incommensurable, car il avait donné sa parole qu'il protègerait sa pupille comme sa propre fille ! [CR] [CR]Il se trouve maintenant devant un dilemme, les négociations avec Sir Gavin étant d'une importance capitale et devant à tout prix aboutir. [CR ] [CR]Saurez-vous le venger pour l'humiliation subie ? [QUEST_SENDER] compte sur vous !</Text>
+                  <LastFinalText>La colère de [QUEST_SENDER] contre [GUIDNAME 1649903] est incommensurable, car il avait donné sa parole qu'il protègerait sa pupille comme sa propre fille ! [CR] [CR]Il se trouve maintenant devant un dilemme, les négociations avec Sir Gavin étant d'une importance capitale et devant à tout prix aboutir. [CR ] [CR]Saurez-vous le venger pour l'humiliation subie ? [QUEST_SENDER] compte sur vous !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La furia de [QUEST_SENDER] por los actos de [GUIDNAME 1649903] no tiene medida, ¡ya que había dado su palabra de proteger a su pupila como su propia vida! [CR] [CR]Y ahora se ve envuelto en un dilema, ya que las negociaciones con sir Gavin son de enorme importancia y no puede ponerlas en peligro. [CR ] [CR]¿Podrías tomar una venganza apropiada para la humillación sufrida? ¡[QUEST_SENDER] cuenta contigo!</Text>
+                  <LastFinalText>La furia de [QUEST_SENDER] por los actos de [GUIDNAME 1649903] no tiene medida, ¡ya que había dado su palabra de proteger a su pupila como su propia vida! [CR] [CR]Y ahora se ve envuelto en un dilema, ya que las negociaciones con sir Gavin son de enorme importancia y no puede ponerlas en peligro. [CR ] [CR]¿Podrías tomar una venganza apropiada para la humillación sufrida? ¡[QUEST_SENDER] cuenta contigo!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La rabbia di [QUEST_SENDER] per l'atto di [GUIDNAME 1649903] è smisurata: aveva dato la sua parola che avrebbe protetto la sua pupilla a costo della sua vita! [CR] [CR]E ora si trova in difficoltà, poiché i negoziati con Sir Gavin sono di fondamentale importanza e non possono essere messi a repentaglio. [CR ] [CR]Riesci a escogitare una vendetta all'altezza dell'umiliazione subita? [QUEST_SENDER] conta su di te!</Text>
+                  <LastFinalText>La rabbia di [QUEST_SENDER] per l'atto di [GUIDNAME 1649903] è smisurata: aveva dato la sua parola che avrebbe protetto la sua pupilla a costo della sua vita! [CR] [CR]E ora si trova in difficoltà, poiché i negoziati con Sir Gavin sono di fondamentale importanza e non possono essere messi a repentaglio. [CR ] [CR]Riesci a escogitare una vendetta all'altezza dell'umiliazione subita? [QUEST_SENDER] conta su di te!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] se strašlivě hněvá na postavu jménem [GUIDNAME 1649903] za to, co provedl, neboť dal slovo, že bude svou svěřenkyni chránit, jako by byla jeho vlastní![CR] [CR]Ale sám je teď na vážkách, protože prvořadá jsou jednání se sirem Gavinem a nesmí být nikterak ohrožena. [CR ] [CR]Vykonáte řádnou pomstu? [QUEST_SENDER] na vás spoléhá!</Text>
+                  <LastFinalText>[QUEST_SENDER] se strašlivě hněvá na postavu jménem [GUIDNAME 1649903] za to, co provedl, neboť dal slovo, že bude svou svěřenkyni chránit, jako by byla jeho vlastní![CR] [CR]Ale sám je teď na vážkách, protože prvořadá jsou jednání se sirem Gavinem a nesmí být nikterak ohrožena. [CR ] [CR]Vykonáte řádnou pomstu? [QUEST_SENDER] na vás spoléhá!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] pała gniewem, a wszystko za sprawą osoby znanej jako [GUIDNAME 1649903], ponieważ przyrzekł chronić swą podopieczną! [CR] [CR]Teraz jest w nie lada tarapatach, gdyż negocjacje z Sir Gavinem są ważniejsze i nie mogą być narażone na szwank. [CR ] [CR]Czy zdołasz pomścić zniewagę? [QUEST_SENDER] liczy na ciebie!</Text>
+                  <LastFinalText>[QUEST_SENDER] pała gniewem, a wszystko za sprawą osoby znanej jako [GUIDNAME 1649903], ponieważ przyrzekł chronić swą podopieczną! [CR] [CR]Teraz jest w nie lada tarapatach, gdyż negocjacje z Sir Gavinem są ważniejsze i nie mogą być narażone na szwank. [CR ] [CR]Czy zdołasz pomścić zniewagę? [QUEST_SENDER] liczy na ciebie!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302054</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fordert Sie auf, an seiner statt Rache an [GUIDNAME 1649903] zu nehmen und diesen mit Sabtotageaktionen zu maltretieren, bis die Moral seiner Stadt am Nullpunkt angelangt ist.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fordert Sie auf, an seiner statt Rache an [GUIDNAME 1649903] zu nehmen und diesen mit Sabtotageaktionen zu maltretieren, bis die Moral seiner Stadt am Nullpunkt angelangt ist.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] asks you to take his vengeance on [GUIDNAME 1649903] for him by sabotaging his City until Inhabitant morale has reached the zero point.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] asks you to take his vengeance on [GUIDNAME 1649903] for him by sabotaging his City until Inhabitant morale has reached the zero point.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] просит, чтобы вы как можно скорее отомстили этому ничтожеству, имя которому [GUIDNAME 1649903]. Для этого нужно устроить саботаж, чтобы боевой дух в его городе упал до нуля.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] просит, чтобы вы как можно скорее отомстили этому ничтожеству, имя которому [GUIDNAME 1649903]. Для этого нужно устроить саботаж, чтобы боевой дух в его городе упал до нуля.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous demande de le venger de [GUIDNAME 1649903] en sabotant sa Ville jusqu'à que le moral des Habitants ait atteint 0.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous demande de le venger de [GUIDNAME 1649903] en sabotant sa Ville jusqu'à que le moral des Habitants ait atteint 0.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te pide que te vengues de [GUIDNAME 1649903] en su nombre: sabotea su ciudad hasta que la moral de sus habitantes llegue a cero.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te pide que te vengues de [GUIDNAME 1649903] en su nombre: sabotea su ciudad hasta que la moral de sus habitantes llegue a cero.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti chiede di vendicarti di [GUIDNAME 1649903] sabotando la sua Città fin quando il morale degli Abitanti arriverà a zero.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti chiede di vendicarti di [GUIDNAME 1649903] sabotando la sua Città fin quando il morale degli Abitanti arriverà a zero.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vás žádá, abyste se za něj pomstil. Chce, abyste sabotoval město postavy jménem [GUIDNAME 1649903] tak dlouho, dokud morálka obyvatel neklesne na nulu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vás žádá, abyste se za něj pomstil. Chce, abyste sabotoval město postavy jménem [GUIDNAME 1649903] tak dlouho, dokud morálka obyvatel neklesne na nulu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] prosi cię o dokonanie zemsty i sabotowanie miasta, którym zarządza [GUIDNAME 1649903], dopóki morale jego mieszkańców nie spadnie do zera.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] prosi cię o dokonanie zemsty i sabotowanie miasta, którym zarządza [GUIDNAME 1649903], dopóki morale jego mieszkańców nie spadnie do zera.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302056</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Voller Genugtuung bemerkt [THIRDPARTY_SENDER_PLAYER], dass [GUIDNAME 1649903] dank Ihnen seiner verdienten Strafe nicht entgehen konnte.</Text>
+                  <LastFinalText>Voller Genugtuung bemerkt [THIRDPARTY_SENDER_PLAYER], dass [GUIDNAME 1649903] dank Ihnen seiner verdienten Strafe nicht entgehen konnte.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A visibly satisified [THIRDPARTY_SENDER_PLAYER] remarks that thanks to you [GUIDNAME 1649903] was unable to escape his just punishment.</Text>
+                  <LastFinalText>A visibly satisified [THIRDPARTY_SENDER_PLAYER] remarks that thanks to you [GUIDNAME 1649903] was unable to escape his just punishment.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Полный удовлетворения, [THIRDPARTY_SENDER_PLAYER] отмечает, что благодаря вашему вмешательству [GUIDNAME 1649903] не сумел избежать наказания.</Text>
+                  <LastFinalText>Полный удовлетворения, [THIRDPARTY_SENDER_PLAYER] отмечает, что благодаря вашему вмешательству [GUIDNAME 1649903] не сумел избежать наказания.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Visiblement satisfait, [THIRDPARTY_SENDER_PLAYER] remarque que, grâce à vous, [GUIDNAME 1649903] n'est pas resté impuni.</Text>
+                  <LastFinalText>Visiblement satisfait, [THIRDPARTY_SENDER_PLAYER] remarque que, grâce à vous, [GUIDNAME 1649903] n'est pas resté impuni.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER], visiblemente satisfecho, te dice que gracias a ti [GUIDNAME 1649903] no ha podido eludir su justo castigo.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER], visiblemente satisfecho, te dice que gracias a ti [GUIDNAME 1649903] no ha podido eludir su justo castigo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è visibilmente soddisfatto: grazie a te [GUIDNAME 1649903] non è riuscito a sfuggire alla sua giusta punizione.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è visibilmente soddisfatto: grazie a te [GUIDNAME 1649903] non è riuscito a sfuggire alla sua giusta punizione.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s viditelným potěšením podotýká, že [GUIDNAME 1649903] dokázal spravedlivému trestu uniknout právě díky vám.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s viditelným potěšením podotýká, že [GUIDNAME 1649903] dokázal spravedlivému trestu uniknout právě díky vám.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z zadowoleniem stwierdza, że dzięki tobie [GUIDNAME 1649903] nie uniknął sprawiedliwej kary.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z zadowoleniem stwierdza, że dzięki tobie [GUIDNAME 1649903] nie uniknął sprawiedliwej kary.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Helperquest</Name>
+      <GUIDRangeMin>41302100</GUIDRangeMin>
+      <GUIDRangeMax>41302149</GUIDRangeMax>
+    </Group>
+    <Group>
+      <Name>SQ01_FIRERAISER</Name>
+      <GUIDRangeMin>41302150</GUIDRangeMin>
+      <GUIDRangeMax>41302199</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302150</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Zündelei</Text>
+                  <LastFinalText>Zündelei</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Arson</Text>
+                  <LastFinalText>Arson</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Поджигательство</Text>
+                  <LastFinalText>Поджигательство</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Incendie criminel</Text>
+                  <LastFinalText>Incendie criminel</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Incendio</Text>
+                  <LastFinalText>Incendio</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Incendio</Text>
+                  <LastFinalText>Incendio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Žhářství</Text>
+                  <LastFinalText>Žhářství</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Podpalenie</Text>
+                  <LastFinalText>Podpalenie</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302151</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Benutzen Sie die Sabotageaktion "Feuersbrunst" mindestens 1 Mal in [GUIDNAME 1649903]s Hauptstadt [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Benutzen Sie die Sabotageaktion "Feuersbrunst" mindestens 1 Mal in [GUIDNAME 1649903]s Hauptstadt [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Use the act of sabotage "Arson" at least once in [GUIDNAME 1649903]'s capital city of [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Use the act of sabotage "Arson" at least once in [GUIDNAME 1649903]'s capital city of [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Минимум 1 раз используйте саботаж типа "Поджог" в городе [GUIDNAME 41404056], которым правит [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Минимум 1 раз используйте саботаж типа "Поджог" в городе [GUIDNAME 41404056], которым правит [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Utilisez l'acte de sabotage "Incendie criminel" au moins une fois dans [GUIDNAME 41404056], la capitale de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utilisez l'acte de sabotage "Incendie criminel" au moins une fois dans [GUIDNAME 41404056], la capitale de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Utiliza el acto de sabotaje "Incendio" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utiliza el acto de sabotaje "Incendio" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Usa il sabotaggio "Incendio" almeno una volta nella capitale di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Usa il sabotaggio "Incendio" almeno una volta nella capitale di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Žhářství". Město se jmenuje [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Žhářství". Město se jmenuje [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Użyj sabotażu "Podpalenie" przynajmniej raz w stołecznym mieście [GUIDNAME 41404056], którym zarządza [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Użyj sabotażu "Podpalenie" przynajmniej raz w stołecznym mieście [GUIDNAME 41404056], którym zarządza [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302152</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER]s Plan ist simpel: Zunächst infiltrieren Sie ein Bürgerhaus in [GUIDNAME 41404056]. Von diesem Schlupfwinkel aus entsenden Sie Ihren Schergen, damit dieser eine Feuersbrunst in einem der Wohnhäuser entfacht.[CR] [CR]Um einen verlässlichen Schergen zu rekrutieren, müssen Sie jedoch in Ihrer eigenen Stadt erst den Bau eines Geheimkabinetts veranlassen.</Text>
+                  <LastFinalText>[QUEST_SENDER]s Plan ist simpel: Zunächst infiltrieren Sie ein Bürgerhaus in [GUIDNAME 41404056]. Von diesem Schlupfwinkel aus entsenden Sie Ihren Schergen, damit dieser eine Feuersbrunst in einem der Wohnhäuser entfacht.[CR] [CR]Um einen verlässlichen Schergen zu rekrutieren, müssen Sie jedoch in Ihrer eigenen Stadt erst den Bau eines Geheimkabinetts veranlassen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER]'s plan is simple: First you are to infiltrate a Citizen's House in [GUIDNAME 41404056]. Then send an Arsonist out from that Safe House to set fire to one of the other Houses.[CR] [CR] However, before you can recruit a reliable Henchman you will first have to build a Base of Operations in your own city.</Text>
+                  <LastFinalText>[QUEST_SENDER]'s plan is simple: First you are to infiltrate a Citizen's House in [GUIDNAME 41404056]. Then send an Arsonist out from that Safe House to set fire to one of the other Houses.[CR] [CR] However, before you can recruit a reliable Henchman you will first have to build a Base of Operations in your own city.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] предлагает простой план: Для начала внедритесь в дом горожанина в городе [GUIDNAME 41404056]. Из этого укромного уголка направьте своего шпиона, чтобы тот поджег один из жилых домов.[CR] [CR]Чтобы нанять шпиона, вам придется сперва построить в своем собственном городе тайный кабинет.</Text>
+                  <LastFinalText>[QUEST_SENDER] предлагает простой план: Для начала внедритесь в дом горожанина в городе [GUIDNAME 41404056]. Из этого укромного уголка направьте своего шпиона, чтобы тот поджег один из жилых домов.[CR] [CR]Чтобы нанять шпиона, вам придется сперва построить в своем собственном городе тайный кабинет.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Le plan de [QUEST_SENDER] est simple : vous devez d'abord infiltrer une Maison de Citoyen à [GUIDNAME 41404056]. Envoyez ensuite un Pyromane de ce Repaire pour mettre le feu à l'une des autres Maisons.[CR] [CR] Toutefois, avant de pouvoir recruter un Sbire de confiance, vous devez bâtir une Base d'Opérations dans votre propre ville.</Text>
+                  <LastFinalText>Le plan de [QUEST_SENDER] est simple : vous devez d'abord infiltrer une Maison de Citoyen à [GUIDNAME 41404056]. Envoyez ensuite un Pyromane de ce Repaire pour mettre le feu à l'une des autres Maisons.[CR] [CR] Toutefois, avant de pouvoir recruter un Sbire de confiance, vous devez bâtir une Base d'Opérations dans votre propre ville.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>El plan de [QUEST_SENDER] es simple: Primero, infíltrate en la casa de un ciudadano en [GUIDNAME 41404056]. Después, envía a un pirómano desde la casa segura para que prenda fuego a otra casa.[CR] [CR] No obstante, antes de poder reclutar a un secuaz de confianza, tendrás que construir una base de operaciones en tu propia ciudad.</Text>
+                  <LastFinalText>El plan de [QUEST_SENDER] es simple: Primero, infíltrate en la casa de un ciudadano en [GUIDNAME 41404056]. Después, envía a un pirómano desde la casa segura para que prenda fuego a otra casa.[CR] [CR] No obstante, antes de poder reclutar a un secuaz de confianza, tendrás que construir una base de operaciones en tu propia ciudad.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Il piano di [QUEST_SENDER] è semplice: devi prima infiltrarti nella Casa di un Cittadino a [GUIDNAME 41404056], quindi mandare un Piromane dal Nascondiglio a dare fuoco a una delle altre Case.[CR] [CR] Tuttavia, prima che tu possa reclutare uno Scagnozzo affidabile, dovrai costruire un Centro operativo nella tua città.</Text>
+                  <LastFinalText>Il piano di [QUEST_SENDER] è semplice: devi prima infiltrarti nella Casa di un Cittadino a [GUIDNAME 41404056], quindi mandare un Piromane dal Nascondiglio a dare fuoco a una delle altre Case.[CR] [CR] Tuttavia, prima che tu possa reclutare uno Scagnozzo affidabile, dovrai costruire un Centro operativo nella tua città.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Plán postavy jménem [QUEST_SENDER] je prostý: Nejdříve ve městě jménem [GUIDNAME 41404056] infiltrujete nějaký občanský dům a potom odtud vyšlete žháře, aby zapálil některý z dalších domů.[CR] [CR]Naverbovat spolehlivého pomocníka budete ale moci až tehdy, postavíte-li operační základnu.</Text>
+                  <LastFinalText>Plán postavy jménem [QUEST_SENDER] je prostý: Nejdříve ve městě jménem [GUIDNAME 41404056] infiltrujete nějaký občanský dům a potom odtud vyšlete žháře, aby zapálil některý z dalších domů.[CR] [CR]Naverbovat spolehlivého pomocníka budete ale moci až tehdy, postavíte-li operační základnu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] ma prosty plan: Najpierw musisz zinfiltrować dom mieszczanina w mieście [GUIDNAME 41404056]. Następnie wyślij z tej kryjówki podpalacza, który wywoła pożar w innych domach.[CR] [CR] Jednak zanim zdobędziesz poplecznika, musisz zbudować bazę wypadową we własnym mieście.</Text>
+                  <LastFinalText>[QUEST_SENDER] ma prosty plan: Najpierw musisz zinfiltrować dom mieszczanina w mieście [GUIDNAME 41404056]. Następnie wyślij z tej kryjówki podpalacza, który wywoła pożar w innych domach.[CR] [CR] Jednak zanim zdobędziesz poplecznika, musisz zbudować bazę wypadową we własnym mieście.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302154</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fordert Sie auf, in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404056] eine Feuersbrunst zu entfachen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fordert Sie auf, in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404056] eine Feuersbrunst zu entfachen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] asks you to start a fire in [GUIDNAME 1649903]'s City of [GUIDNAME 41404056].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] asks you to start a fire in [GUIDNAME 1649903]'s City of [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] требует, чтобы вы устроили поджог в городе  [GUIDNAME 41404056], где правит [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] требует, чтобы вы устроили поджог в городе  [GUIDNAME 41404056], где правит [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous demande de mettre le feu à [GUIDNAME 41404056], la Ville de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous demande de mettre le feu à [GUIDNAME 41404056], la Ville de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te pide que provoques un incendio en [GUIDNAME 41404056], la ciudad de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te pide que provoques un incendio en [GUIDNAME 41404056], la ciudad de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti chiede di appiccare il fuoco nella Città di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti chiede di appiccare il fuoco nella Città di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] po vás chce, abyste založil požár ve městě postavy jménem [GUIDNAME 1649903]. Město se jmenuje [GUIDNAME 41404056].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] po vás chce, abyste založil požár ve městě postavy jménem [GUIDNAME 1649903]. Město se jmenuje [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] prosi cię o wzniecenie pożaru w mieście [GUIDNAME 41404056], którym włada [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] prosi cię o wzniecenie pożaru w mieście [GUIDNAME 41404056], którym włada [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302155</GUID>
+              <Kommentar>Quest FINISHED Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bemerkt schadenfroh, dass Ihre Sabotageaktion in [GUIDNAME 1649903]s Stadt erfolgreich war.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bemerkt schadenfroh, dass Ihre Sabotageaktion in [GUIDNAME 1649903]s Stadt erfolgreich war.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] notes gleefully that your act of sabotage in [GUIDNAME 1649903] 's City was successful.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] notes gleefully that your act of sabotage in [GUIDNAME 1649903] 's City was successful.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] злорадно отмечает, что саботаж в городе, где правит [GUIDNAME 1649903] прошел успешно.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] злорадно отмечает, что саботаж в городе, где правит [GUIDNAME 1649903] прошел успешно.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] remarque avec joie que votre acte de sabotage dans la Ville de [GUIDNAME 1649903] a réussi.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] remarque avec joie que votre acte de sabotage dans la Ville de [GUIDNAME 1649903] a réussi.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se regocija del éxito de tu acto de sabotaje en la ciudad de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se regocija del éxito de tu acto de sabotaje en la ciudad de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nota con allegria che la tua azione di sabotaggio alla Città di [GUIDNAME 1649903] ha avuto buon esito.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nota con allegria che la tua azione di sabotaggio alla Città di [GUIDNAME 1649903] ha avuto buon esito.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] škodolibě podotýká, že se vaše sabotáž ve městě postavy jménem [GUIDNAME 1649903] povedla.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] škodolibě podotýká, že se vaše sabotáž ve městě postavy jménem [GUIDNAME 1649903] povedla.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] radośnie stwierdza, że udało ci się dokonać sabotażu w mieście, którym włada [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] radośnie stwierdza, że udało ci się dokonać sabotażu w mieście, którym włada [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ02_REVOLT</Name>
+      <GUIDRangeMin>41302200</GUIDRangeMin>
+      <GUIDRangeMax>41302209</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302200</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Auf die Barrikaden!</Text>
+                  <LastFinalText>Auf die Barrikaden!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Revolt!</Text>
+                  <LastFinalText>Revolt!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>На баррикады!</Text>
+                  <LastFinalText>На баррикады!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Révolte !</Text>
+                  <LastFinalText>Révolte !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Revuelta!</Text>
+                  <LastFinalText>¡Revuelta!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Rivolta!</Text>
+                  <LastFinalText>Rivolta!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vzpoura!</Text>
+                  <LastFinalText>Vzpoura!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Rewolucja!</Text>
+                  <LastFinalText>Rewolucja!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302201</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Benutzen Sie die Sabotageaktion "Aufstand anzetteln" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Benutzen Sie die Sabotageaktion "Aufstand anzetteln" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Use the act of sabotage "Rebellion" at least once in [GUIDNAME 1649903]'s capital city of [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Use the act of sabotage "Rebellion" at least once in [GUIDNAME 1649903]'s capital city of [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Минимум 1 раз используйте саботаж типа "Бунт" в городе [GUIDNAME 41404056], которым правит [GUIDNAME 1649903].</Text>
+                  <Status>Exported</Status>
+                </Russian>
+                <French>
+                  <Text>Utilisez l'acte de sabotage "Rébellion" au moins une fois dans [GUIDNAME 41404056], la capitale de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utilisez l'acte de sabotage "Rébellion" au moins une fois dans [GUIDNAME 41404056], la capitale de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Utiliza el acto de sabotaje "Rebelión" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utiliza el acto de sabotaje "Rebelión" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Usa l'azione di sabotaggio "Ribellione" almeno una volta nella capitale di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Usa l'azione di sabotaggio "Ribellione" almeno una volta nella capitale di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Vzpoura". Město se jmenuje [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Vzpoura". Město se jmenuje [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Użyj sabotażu "Bunt" przynajmniej raz w stołecznym mieście [GUIDNAME 41404056], którym zarządza [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Użyj sabotażu "Bunt" przynajmniej raz w stołecznym mieście [GUIDNAME 41404056], którym zarządza [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302202</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER] ist der Meinung, dass die Zeit reif ist für eine Revolution! Lassen Sie Ihren Schergen in einem Patrizierhaus in [GUIDNAME 41404056] Stellung beziehen. Anschließend entsenden Sie Ihn zum nächsten Marktplatz. Ob der rasende Pöbel [QUEST_SENDER]s Rachedurst stillen kann?</Text>
+                  <LastFinalText>[QUEST_SENDER] ist der Meinung, dass die Zeit reif ist für eine Revolution! Lassen Sie Ihren Schergen in einem Patrizierhaus in [GUIDNAME 41404056] Stellung beziehen. Anschließend entsenden Sie Ihn zum nächsten Marktplatz. Ob der rasende Pöbel [QUEST_SENDER]s Rachedurst stillen kann?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER] feels that the time is ripe for a revolution! Have you Henchman infiltrate a Patrician's House in [GUIDNAME 41404056]. Then send him out to the nearest marketplace. Will the raging mob be able to slake [QUEST_SENDER]'s thirst for revenge?</Text>
+                  <LastFinalText>[QUEST_SENDER] feels that the time is ripe for a revolution! Have you Henchman infiltrate a Patrician's House in [GUIDNAME 41404056]. Then send him out to the nearest marketplace. Will the raging mob be able to slake [QUEST_SENDER]'s thirst for revenge?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] считает, что пришел час революции! Прикажите вашим шпионам закрепиться в доме патриция в городе [GUIDNAME 41404056]. А потом отправьте его на ближайшую рыночную площадь. Интересно, сумеет ли разъяренная толпа утолить жажду мести, которую хранит в своем сердце  [QUEST_SENDER]?</Text>
+                  <LastFinalText>[QUEST_SENDER] считает, что пришел час революции! Прикажите вашим шпионам закрепиться в доме патриция в городе [GUIDNAME 41404056]. А потом отправьте его на ближайшую рыночную площадь. Интересно, сумеет ли разъяренная толпа утолить жажду мести, которую хранит в своем сердце  [QUEST_SENDER]?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>D'après [QUEST_SENDER], le temps de la révolution est venu ! Faites en sorte que votre Sbire infiltre une Maison de Patricien à [GUIDNAME 41404056]. Puis envoyez-le sur la place de marché. La foule révoltée suffira-t-elle à étancher la soif de vengeance de [QUEST_SENDER] ?</Text>
+                  <LastFinalText>D'après [QUEST_SENDER], le temps de la révolution est venu ! Faites en sorte que votre Sbire infiltre une Maison de Patricien à [GUIDNAME 41404056]. Puis envoyez-le sur la place de marché. La foule révoltée suffira-t-elle à étancher la soif de vengeance de [QUEST_SENDER] ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡[QUEST_SENDER] cree que ha llegado el momento de la revolución! Haz que tu secuaz se infiltre en la casa de un patricio en [GUIDNAME 41404056]. Después, envíalo al mercado más próximo. ¿Podrá la turba furiosa saciar la sed de venganza de [QUEST_SENDER]?</Text>
+                  <LastFinalText>¡[QUEST_SENDER] cree que ha llegado el momento de la revolución! Haz que tu secuaz se infiltre en la casa de un patricio en [GUIDNAME 41404056]. Después, envíalo al mercado más próximo. ¿Podrá la turba furiosa saciar la sed de venganza de [QUEST_SENDER]?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] crede che i tempi siano maturi per una rivoluzione! Fai infiltrare il tuo Scagnozzo nella Casa di un Patrizio a [GUIDNAME 41404056], quindi mandalo al nuovo mercato. Riuscirà la folla inferocita a placare la sete di vendetta di [QUEST_SENDER]?</Text>
+                  <LastFinalText>[QUEST_SENDER] crede che i tempi siano maturi per una rivoluzione! Fai infiltrare il tuo Scagnozzo nella Casa di un Patrizio a [GUIDNAME 41404056], quindi mandalo al nuovo mercato. Riuscirà la folla inferocita a placare la sete di vendetta di [QUEST_SENDER]?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] nabyl dojmu, že nadešel čas vzpoury! Infiltrujte se svým stoupencem patricijský dům ve městě jménem [GUIDNAME 41404056] a potom ho pošlete na vedlejší tržiště. Dokáže zuřící dav zahnat pomstychtivost postavy jménem [QUEST_SENDER]?</Text>
+                  <LastFinalText>[QUEST_SENDER] nabyl dojmu, že nadešel čas vzpoury! Infiltrujte se svým stoupencem patricijský dům ve městě jménem [GUIDNAME 41404056] a potom ho pošlete na vedlejší tržiště. Dokáže zuřící dav zahnat pomstychtivost postavy jménem [QUEST_SENDER]?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] uważa, że nadszedł czas na rewolucję! Niech twój poplecznik zinfiltruje dom patrycjuszy w mieście [GUIDNAME 41404056]. Następnie wyślij go na kolejne targowisko. Czy rozwścieczony tłum zaspokoi pragnienie zemsty, którym pała [QUEST_SENDER]?</Text>
+                  <LastFinalText>[QUEST_SENDER] uważa, że nadszedł czas na rewolucję! Niech twój poplecznik zinfiltruje dom patrycjuszy w mieście [GUIDNAME 41404056]. Następnie wyślij go na kolejne targowisko. Czy rozwścieczony tłum zaspokoi pragnienie zemsty, którym pała [QUEST_SENDER]?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41302204</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] verlangt nun, dass Sie [GUIDNAME 1649903]s Bevölkerung in [GUIDNAME 41404056] zur Revolte anstacheln.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] verlangt nun, dass Sie [GUIDNAME 1649903]s Bevölkerung in [GUIDNAME 41404056] zur Revolte anstacheln.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] now wants you to incite the Inhabitants of [GUIDNAME 1649903]'s City of [GUIDNAME 41404056] to revolt.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] now wants you to incite the Inhabitants of [GUIDNAME 1649903]'s City of [GUIDNAME 41404056] to revolt.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] хочет, чтобы вы подстрекали к бунту население города  [GUIDNAME 41404056], где правит [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] хочет, чтобы вы подстрекали к бунту население города  [GUIDNAME 41404056], где правит [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] veut maintenant que vous incitiez les Habitants de [GUIDNAME 41404056], la Ville de [GUIDNAME 1649903], à se révolter.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] veut maintenant que vous incitiez les Habitants de [GUIDNAME 41404056], la Ville de [GUIDNAME 1649903], à se révolter.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] quiere ahora que incites a los habitantes de [GUIDNAME 41404056], la ciudad de [GUIDNAME 1649903], a sublevarse.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] quiere ahora que incites a los habitantes de [GUIDNAME 41404056], la ciudad de [GUIDNAME 1649903], a sublevarse.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vuole che inciti a ribellarsi gli Abitanti della Città di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vuole che inciti a ribellarsi gli Abitanti della Città di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] po vás chce, abyste podnítil ke vzpouře obyvatele města postavy jménem [GUIDNAME 1649903]. Město se jmenuje [GUIDNAME 41404056].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] po vás chce, abyste podnítil ke vzpouře obyvatele města postavy jménem [GUIDNAME 1649903]. Město se jmenuje [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] prosi cię o podburzenie do buntu mieszkańców miasta [GUIDNAME 41404056], którym rządzi [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] prosi cię o podburzenie do buntu mieszkańców miasta [GUIDNAME 41404056], którym rządzi [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ03_POISON</Name>
+      <GUIDRangeMin>41302250</GUIDRangeMin>
+      <GUIDRangeMax>41302299</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302250</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Gift und Galle</Text>
+                  <LastFinalText>Gift und Galle</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Poisonous pursuits</Text>
+                  <LastFinalText>Poisonous pursuits</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Яд и желчь</Text>
+                  <LastFinalText>Яд и желчь</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Cadeau empoisonné</Text>
+                  <LastFinalText>Cadeau empoisonné</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Venganza venenosa</Text>
+                  <LastFinalText>Venganza venenosa</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Velenosi intenti</Text>
+                  <LastFinalText>Velenosi intenti</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Travičský koníček</Text>
+                  <LastFinalText>Travičský koníček</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Trucicielskie zakusy</Text>
+                  <LastFinalText>Trucicielskie zakusy</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302251</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Benutzen Sie die Sabotageaktion "Brunnenvergifter" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Benutzen Sie die Sabotageaktion "Brunnenvergifter" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Use the act of sabotage "Poison" at least once in [GUIDNAME 1649903]'s capital city of [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Use the act of sabotage "Poison" at least once in [GUIDNAME 1649903]'s capital city of [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Минимум 1 раз используйте саботаж типа "Отравление колодца" в городе [GUIDNAME 41404056], которым правит [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Минимум 1 раз используйте саботаж типа "Отравление колодца" в городе [GUIDNAME 41404056], которым правит [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Utilisez l'acte de sabotage "Poison" au moins une fois dans [GUIDNAME 41404056], la capitale de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utilisez l'acte de sabotage "Poison" au moins une fois dans [GUIDNAME 41404056], la capitale de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Utiliza el acto de sabotaje "Veneno" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utiliza el acto de sabotaje "Veneno" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Usa l'azione di sabotaggio "Veleno" almeno una volta nella capitale di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Usa l'azione di sabotaggio "Veleno" almeno una volta nella capitale di [GUIDNAME 41404056] appartenente a [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Travičství". Město se jmenuje [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Travičství". Město se jmenuje [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Użyj sabotażu "Trucizna" przynajmniej raz w stołecznym mieście [GUIDNAME 41404056], którym zarządza [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Użyj sabotażu "Trucizna" przynajmniej raz w stołecznym mieście [GUIDNAME 41404056], którym zarządza [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302252</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER] ist mit [GUIDNAME 1649903] noch lange nicht fertig! So wie jener die Reinheit seines unschuldigen Mündels besudelt hat, soll nun das Wasser sämtlicher Brunnen in [GUIDNAME 41404056] schal werden.[CR] [CR]Lassen Sie Ihren Schergen in einem Adligenhaus untertauchen. Von dort aus soll er sein Werk vollbringen...</Text>
+                  <LastFinalText>[QUEST_SENDER] ist mit [GUIDNAME 1649903] noch lange nicht fertig! So wie jener die Reinheit seines unschuldigen Mündels besudelt hat, soll nun das Wasser sämtlicher Brunnen in [GUIDNAME 41404056] schal werden.[CR] [CR]Lassen Sie Ihren Schergen in einem Adligenhaus untertauchen. Von dort aus soll er sein Werk vollbringen...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER] is far from finished with [GUIDNAME 1649903]! He desires to have the water in all the wells in [GUIDNAME 41404056] befouled, just as the purity of his innocent ward has been sullied. [CR] [CR] Have your Henchman infiltrate a Noble's House. That will serve him as a base from which he can work ...</Text>
+                  <LastFinalText>[QUEST_SENDER] is far from finished with [GUIDNAME 1649903]! He desires to have the water in all the wells in [GUIDNAME 41404056] befouled, just as the purity of his innocent ward has been sullied. [CR] [CR] Have your Henchman infiltrate a Noble's House. That will serve him as a base from which he can work ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] все никак не успокоится. [GUIDNAME 1649903] узнает силу его ярости! Тот, кто отравил чистоту его невинной воспитанницы, узнает, каково пить из отравленного колодца в городе [GUIDNAME 41404056].[CR] [CR]Прикажите вашему шпиону поселиться в доме дворянина. Оттуда ему предстоит свершить свое черное дело...</Text>
+                  <LastFinalText>[QUEST_SENDER] все никак не успокоится. [GUIDNAME 1649903] узнает силу его ярости! Тот, кто отравил чистоту его невинной воспитанницы, узнает, каково пить из отравленного колодца в городе [GUIDNAME 41404056].[CR] [CR]Прикажите вашему шпиону поселиться в доме дворянина. Оттуда ему предстоит свершить свое черное дело...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[QUEST_SENDER] est loin d'en avoir fini avec [GUIDNAME 1649903] ! Il veut que l'eau de tous les puits de [GUIDNAME 41404056] soit souillée, tout comme l'a été la pureté de son innocente pupille. [CR] [CR] Faites en sorte que votre Sbire infiltre une Maison de Noble qui lui servira de base pour sa mission...</Text>
+                  <LastFinalText>[QUEST_SENDER] est loin d'en avoir fini avec [GUIDNAME 1649903] ! Il veut que l'eau de tous les puits de [GUIDNAME 41404056] soit souillée, tout comme l'a été la pureté de son innocente pupille. [CR] [CR] Faites en sorte que votre Sbire infiltre une Maison de Noble qui lui servira de base pour sa mission...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡[QUEST_SENDER] aún no ha acabado con [GUIDNAME 1649903]! Desea que contamines el agua de todos los pozos de [GUIDNAME 41404056], del mismo modo que él manchó la pureza de su inocente pupila. [CR] [CR] Haz que tu secuaz se infiltre en la casa de un noble. Así tendrá una base desde la que trabajar...</Text>
+                  <LastFinalText>¡[QUEST_SENDER] aún no ha acabado con [GUIDNAME 1649903]! Desea que contamines el agua de todos los pozos de [GUIDNAME 41404056], del mismo modo que él manchó la pureza de su inocente pupila. [CR] [CR] Haz que tu secuaz se infiltre en la casa de un noble. Así tendrá una base desde la que trabajar...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] non ha ancora finito con [GUIDNAME 1649903]! Desidera che l'acqua di tutti i pozzi di [GUIDNAME 41404056] sia contaminata, proprio come la purezza della sua innocente pupilla è stata macchiata. [CR] [CR] Fai infiltrare il tuo Scagnozzo nella Casa di un Nobile. Avrà una base da dove mettersi all'opera...</Text>
+                  <LastFinalText>[QUEST_SENDER] non ha ancora finito con [GUIDNAME 1649903]! Desidera che l'acqua di tutti i pozzi di [GUIDNAME 41404056] sia contaminata, proprio come la purezza della sua innocente pupilla è stata macchiata. [CR] [CR] Fai infiltrare il tuo Scagnozzo nella Casa di un Nobile. Avrà una base da dove mettersi all'opera...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] a [GUIDNAME 1649903] spolu ještě zdaleka neskončili! Chce, aby voda ve studních města [GUIDNAME 41404056] byla pošpiněna přesně tak, jako byla poskvrněna čistota jeho nevinné svěřenkyně. [CR] [CR]Infiltrujte se svým stoupencem šlechtický dům, aby získal základnu, odkud bude pracovat...</Text>
+                  <LastFinalText>[QUEST_SENDER] a [GUIDNAME 1649903] spolu ještě zdaleka neskončili! Chce, aby voda ve studních města [GUIDNAME 41404056] byla pošpiněna přesně tak, jako byla poskvrněna čistota jeho nevinné svěřenkyně. [CR] [CR]Infiltrujte se svým stoupencem šlechtický dům, aby získal základnu, odkud bude pracovat...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] i [GUIDNAME 1649903] nie skończyli swego zatargu! Masz zatruć wodę w studniach miasta [GUIDNAME 41404056], tak jak zbrukano cnotę niewinnej podopiecznej. [CR] [CR] Twój poplecznik musi zinfiltrować dom arystokracji, który posłuży mu jako miejsce rozpoczęcia działań...</Text>
+                  <LastFinalText>[QUEST_SENDER] i [GUIDNAME 1649903] nie skończyli swego zatargu! Masz zatruć wodę w studniach miasta [GUIDNAME 41404056], tak jak zbrukano cnotę niewinnej podopiecznej. [CR] [CR] Twój poplecznik musi zinfiltrować dom arystokracji, który posłuży mu jako miejsce rozpoczęcia działań...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302254</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als nächstes wünscht [THIRDPARTY_SENDER_PLAYER], dass Sie die Brunnen von [GUIDNAME 41404056] vergiften.</Text>
+                  <LastFinalText>Als nächstes wünscht [THIRDPARTY_SENDER_PLAYER], dass Sie die Brunnen von [GUIDNAME 41404056] vergiften.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Next [QUEST_SENDER] wants you to poison the wells in [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Next [QUEST_SENDER] wants you to poison the wells in [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Теперь [THIRDPARTY_SENDER_PLAYER] хочет, чтобы вы отравили колодец в городе [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Теперь [THIRDPARTY_SENDER_PLAYER] хочет, чтобы вы отравили колодец в городе [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[QUEST_SENDER] veut ensuite que vous empoisonniez les puits de [GUIDNAME 41404056].</Text>
+                  <LastFinalText>[QUEST_SENDER] veut ensuite que vous empoisonniez les puits de [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Ahora, [QUEST_SENDER] quiere que envenenes los pozos de [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Ahora, [QUEST_SENDER] quiere que envenenes los pozos de [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] desidera che avveleni i pozzi di [GUIDNAME 41404056].</Text>
+                  <LastFinalText>[QUEST_SENDER] desidera che avveleni i pozzi di [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] ještě chce, abyste otrávil studně ve městě [GUIDNAME 41404056].</Text>
+                  <LastFinalText>[QUEST_SENDER] ještě chce, abyste otrávil studně ve městě [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Następnie [QUEST_SENDER] prosi cię o zatrucie studni w mieście [GUIDNAME 41404056].</Text>
+                  <LastFinalText>Następnie [QUEST_SENDER] prosi cię o zatrucie studni w mieście [GUIDNAME 41404056].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ04_BELLYDANCER</Name>
+      <GUIDRangeMin>41302300</GUIDRangeMin>
+      <GUIDRangeMax>41302349</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302300</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>7 Schleier</Text>
+                  <LastFinalText>7 Schleier</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Seven veils</Text>
+                  <LastFinalText>Seven veils</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>7 покрывало</Text>
+                  <LastFinalText>7 покрывало</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Sept voiles</Text>
+                  <LastFinalText>Sept voiles</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Siete velos</Text>
+                  <LastFinalText>Siete velos</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>I sette veli</Text>
+                  <LastFinalText>I sette veli</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Sedm závojů</Text>
+                  <LastFinalText>Sedm závojů</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Siedem woalek</Text>
+                  <LastFinalText>Siedem woalek</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302301</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Benutzen Sie die Sabotageaktion "Bauchtänzerin" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404055].</Text>
+                  <LastFinalText>Benutzen Sie die Sabotageaktion "Bauchtänzerin" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404055].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Use the act of sabotage "Belly Dancer" at least once in [GUIDNAME 1649903]'s City of [GUIDNAME 41404055].</Text>
+                  <LastFinalText>Use the act of sabotage "Belly Dancer" at least once in [GUIDNAME 1649903]'s City of [GUIDNAME 41404055].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Минимум 1 раз используйте саботаж типа "Танцовщица" в городе [GUIDNAME 41404055], которым правит [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Минимум 1 раз используйте саботаж типа "Танцовщица" в городе [GUIDNAME 41404055], которым правит [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Utilisez l'acte de sabotage "Danseuse du ventre" au moins une fois dans [GUIDNAME 41404055], la Ville de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utilisez l'acte de sabotage "Danseuse du ventre" au moins une fois dans [GUIDNAME 41404055], la Ville de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Utiliza el acto de sabotaje "Bailarina del vientre" al menos una vez en [GUIDNAME 41404055], ciudad de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utiliza el acto de sabotaje "Bailarina del vientre" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Usa l'azione di sabotaggio "Danzatrice del ventre" almeno una volta nella Città di [GUIDNAME 41404055] appartenente a [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Usa l'azione di sabotaggio "Danzatrice del ventre" almeno una volta nella Città di [GUIDNAME 41404055] appartenente a [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Břišní tanečnice". Město se jmenuje [GUIDNAME 41404055].</Text>
+                  <LastFinalText>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Břišní tanečnice". Město se jmenuje [GUIDNAME 41404055].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Użyj sabotażu "Tancerka brzucha" przynajmniej raz w mieście [GUIDNAME 41404055], którym zarządza [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Użyj sabotażu "Tancerka brzucha" przynajmniej raz w mieście [GUIDNAME 41404055], którym zarządza [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302302</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Auch [GUIDNAME 1649903]s südliche Ansiedlungen dürfen nicht vor [QUEST_SENDER]s Vergeltungsschlag verschont bleiben.[CR] [CR]Nisten Sie sich bei den Nomaden in [GUIDNAME 41404055] ein. Anschließend soll eine Bauchtänzerin die Bevölkerung bezirzen und das Geld aus der Tasche ziehen.</Text>
+                  <LastFinalText>Auch [GUIDNAME 1649903]s südliche Ansiedlungen dürfen nicht vor [QUEST_SENDER]s Vergeltungsschlag verschont bleiben.[CR] [CR]Nisten Sie sich bei den Nomaden in [GUIDNAME 41404055] ein. Anschließend soll eine Bauchtänzerin die Bevölkerung bezirzen und das Geld aus der Tasche ziehen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GUIDNAME 1649903]'s southern Settlements are not to be spared from [QUEST_SENDER]'s retaliation.[CR] [CR]Infiltrate the Nomads in [GUIDNAME 41404055]. Then send out a Belly Dancer to enchant the Population and get them to throw money at her otherwise used to pay Taxes.</Text>
+                  <LastFinalText>[GUIDNAME 1649903]'s southern Settlements are not to be spared from [QUEST_SENDER]'s retaliation.[CR] [CR]Infiltrate the Nomads in [GUIDNAME 41404055]. Then send out a Belly Dancer to enchant the Population and get them to throw money at her otherwise used to pay Taxes.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Южные поселения, которыми правит [GUIDNAME 1649903], тоже не должны остаться в стороне. [QUEST_SENDER] уже знает, что с ними делать.[CR] [CR]Поселитесь у кочевников в городе [GUIDNAME 41404055]. После этого направьте исполнительницу танца живота очаровывать местных жителей и выманивать деньги из карманов горожан.</Text>
+                  <LastFinalText>Южные поселения, которыми правит [GUIDNAME 1649903], тоже не должны остаться в стороне. [QUEST_SENDER] уже знает, что с ними делать.[CR] [CR]Поселитесь у кочевников в городе [GUIDNAME 41404055]. После этого направьте исполнительницу танца живота очаровывать местных жителей и выманивать деньги из карманов горожан.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Les Camps du sud de [GUIDNAME 1649903] ne sont pas épargnés par les représailles de [QUEST_SENDER].[CR] [CR]Infiltrez les Nomades dans [GUIDNAME 41404055]. Puis envoyez une Danseuse du ventre pour enchanter la Population afin qu'ils donnent l'argent qui devait servir à payer les Taxes.</Text>
+                  <LastFinalText>Les Camps du sud de [GUIDNAME 1649903] ne sont pas épargnés par les représailles de [QUEST_SENDER].[CR] [CR]Infiltrez les Nomades dans [GUIDNAME 41404055]. Puis envoyez une Danseuse du ventre pour enchanter la Population afin qu'ils donnent l'argent qui devait servir à payer les Taxes.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Los asentamientos meridionales de [GUIDNAME 1649903] no se librarán de la justicia de [QUEST_SENDER].[CR] [CR]Infíltrate entre los nómadas de [GUIDNAME 41404055]. Después, envía a una bailarina del vientre para que encandile a la población y se gaste en ella el dinero de los impuestos.</Text>
+                  <LastFinalText>Los asentamientos meridionales de [GUIDNAME 1649903] no se librarán de la justicia de [QUEST_SENDER].[CR] [CR]Infíltrate entre los nómadas de [GUIDNAME 41404055]. Después, envía a una bailarina del vientre para que encandile a la población y se gaste en ella el dinero de los impuestos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Gli Insediamenti a sud di [GUIDNAME 1649903] non saranno risparmiati dalla vendetta di [QUEST_SENDER].[CR] [CR]Fai infiltrare i Nomadi a [GUIDNAME 41404055], quindi manda una Danzatrice del ventre a incantare la Popolazione al fine di far sperperare tutti i soldi destinati alle Tasse.</Text>
+                  <LastFinalText>Gli Insediamenti a sud di [GUIDNAME 1649903] non saranno risparmiati dalla vendetta di [QUEST_SENDER].[CR] [CR]Fai infiltrare i Nomadi a [GUIDNAME 41404055], quindi manda una Danzatrice del ventre a incantare la Popolazione al fine di far sperperare tutti i soldi destinati alle Tasse.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Jižní osady postavy jménem [GUIDNAME 1649903] nebudou ušetřeny odvety postavy jménem [QUEST_SENDER].[CR] [CR]Infiltrujte nomády ve městě [GUIDNAME 41404055]. Potom populaci okouzlete břišní tanečnicí a vytáhněte z ní peníze, které by jinak použila k zaplacení daní.</Text>
+                  <LastFinalText>Jižní osady postavy jménem [GUIDNAME 1649903] nebudou ušetřeny odvety postavy jménem [QUEST_SENDER].[CR] [CR]Infiltrujte nomády ve městě [GUIDNAME 41404055]. Potom populaci okouzlete břišní tanečnicí a vytáhněte z ní peníze, které by jinak použila k zaplacení daní.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Południowe osady, którymi zarządza [GUIDNAME 1649903] nie ustrzegły się gniewu, którym pała [QUEST_SENDER].[CR] [CR]Zinfiltruj Nomadów w [GUIDNAME 41404055]. Następnie wyślij tancerkę brzucha, która oczaruje ludzi i odbierze im pieniądze przeznaczone na zapłatę podatków.</Text>
+                  <LastFinalText>Południowe osady, którymi zarządza [GUIDNAME 1649903] nie ustrzegły się gniewu, którym pała [QUEST_SENDER].[CR] [CR]Zinfiltruj Nomadów w [GUIDNAME 41404055]. Następnie wyślij tancerkę brzucha, która oczaruje ludzi i odbierze im pieniądze przeznaczone na zapłatę podatków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302304</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Um [GUIDNAME 1649903]s weiteren Schaden zuzufügen, verlangt [THIRDPARTY_SENDER_PLAYER], dass Sie [GUIDNAME 41404055] mithilfe einer Bauchtänzerin um einige Goldmünzen erleichtern.</Text>
+                  <LastFinalText>Um [GUIDNAME 1649903]s weiteren Schaden zuzufügen, verlangt [THIRDPARTY_SENDER_PLAYER], dass Sie [GUIDNAME 41404055] mithilfe einer Bauchtänzerin um einige Goldmünzen erleichtern.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>In order to cause [GUIDNAME 1649903] even more harm, [THIRDPARTY_SENDER_PLAYER] asks you to lighten the coffers in [GUIDNAME 41404055] by a good few Gold coins using a Belly Dancer.</Text>
+                  <LastFinalText>In order to cause [GUIDNAME 1649903] even more harm, [THIRDPARTY_SENDER_PLAYER] asks you to lighten the coffers in [GUIDNAME 41404055] by a good few Gold coins using a Belly Dancer.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[GUIDNAME 1649903] не должен чувствовать себя спокойно! [THIRDPARTY_SENDER_PLAYER] просит вас выманить деньги у горожан, которыми правит [GUIDNAME 41404055], с помощью исполнительницы танца живота.</Text>
+                  <LastFinalText>[GUIDNAME 1649903] не должен чувствовать себя спокойно! [THIRDPARTY_SENDER_PLAYER] просит вас выманить деньги у горожан, которыми правит [GUIDNAME 41404055], с помощью исполнительницы танца живота.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Pour causer encore plus de mal à [GUIDNAME 1649903], [THIRDPARTY_SENDER_PLAYER] vous demande de lester les coffres de [GUIDNAME 41404055] de Pièces d'or en ayant recours à une Danseuse du ventre.</Text>
+                  <LastFinalText>Pour causer encore plus de mal à [GUIDNAME 1649903], [THIRDPARTY_SENDER_PLAYER] vous demande de lester les coffres de [GUIDNAME 41404055] de Pièces d'or en ayant recours à une Danseuse du ventre.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Para hacer más daño aún a [GUIDNAME 1649903], [THIRDPARTY_SENDER_PLAYER] te pide que vacíes de oro las arcas de [GUIDNAME 41404055] con una bailarina del vientre.</Text>
+                  <LastFinalText>Para hacer más daño aún a [GUIDNAME 1649903], [THIRDPARTY_SENDER_PLAYER] te pide que vacíes de oro las arcas de [GUIDNAME 41404055] con una bailarina del vientre.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Per causare ancora più danni a [GUIDNAME 1649903], [THIRDPARTY_SENDER_PLAYER] ti chiede di alleggerire le casse di [GUIDNAME 41404055] di un bel po' di Monete d'oro grazie a una Danzatrice del ventre.</Text>
+                  <LastFinalText>Per causare ancora più danni a [GUIDNAME 1649903], [THIRDPARTY_SENDER_PLAYER] ti chiede di alleggerire le casse di [GUIDNAME 41404055] di un bel po' di Monete d'oro grazie a una Danzatrice del ventre.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vaším úkolem je co nejvíce poškodit postavu jménem [GUIDNAME 1649903]. [THIRDPARTY_SENDER_PLAYER] vás tedy žádá, abyste díky břišní tanečnici pořádně odlehčil truhlicím ve městě [GUIDNAME 41404055].</Text>
+                  <LastFinalText>Vaším úkolem je co nejvíce poškodit postavu jménem [GUIDNAME 1649903]. [THIRDPARTY_SENDER_PLAYER] vás tedy žádá, abyste díky břišní tanečnici pořádně odlehčil truhlicím ve městě [GUIDNAME 41404055].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[GUIDNAME 1649903] ma ponieść jeszcze większe straty. [THIRDPARTY_SENDER_PLAYER] prosi cię o opróżnienie kufrów w mieście [GUIDNAME 41404055] z pomocą tancerki brzucha.</Text>
+                  <LastFinalText>[GUIDNAME 1649903] ma ponieść jeszcze większe straty. [THIRDPARTY_SENDER_PLAYER] prosi cię o opróżnienie kufrów w mieście [GUIDNAME 41404055] z pomocą tancerki brzucha.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ05_PROPHET</Name>
+      <GUIDRangeMin>41302350</GUIDRangeMin>
+      <GUIDRangeMax>41302399</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302350</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Worte des Verderbens</Text>
+                  <LastFinalText>Worte des Verderbens</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Tainted words</Text>
+                  <LastFinalText>Tainted words</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Кощунственные слова</Text>
+                  <LastFinalText>Кощунственные слова</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Paroles impures</Text>
+                  <LastFinalText>Paroles impures</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Sucias palabras</Text>
+                  <LastFinalText>Sucias palabras</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Parole corrotte</Text>
+                  <LastFinalText>Parole corrotte</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Poskvrněná slova</Text>
+                  <LastFinalText>Poskvrněná slova</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Plugawe słowa</Text>
+                  <LastFinalText>Plugawe słowa</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302351</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Benutzen Sie die Sabotageaktion "Falscher Prophet" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404055].</Text>
+                  <LastFinalText>Benutzen Sie die Sabotageaktion "Falscher Prophet" mindestens 1 Mal in [GUIDNAME 1649903]s Stadt [GUIDNAME 41404055].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Use the act of sabotage "False Prophet" at least once in [GUIDNAME 1649903]'s City of [GUIDNAME 41404055].</Text>
+                  <LastFinalText>Use the act of sabotage "False Prophet" at least once in [GUIDNAME 1649903]'s City of [GUIDNAME 41404055].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Минимум 1 раз используйте саботаж типа "Фальшивый пророк" в городе [GUIDNAME 41404055], которым правит [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Минимум 1 раз используйте саботаж типа "Фальшивый пророк" в городе [GUIDNAME 41404055], которым правит [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Utilisez l'acte de sabotage "Faux prophète" au moins une fois dans [GUIDNAME 41404055], la Ville de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utilisez l'acte de sabotage "Faux prophète" au moins une fois dans [GUIDNAME 41404055], la Ville de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Utiliza el acto de sabotaje "Falso profeta" al menos una vez en [GUIDNAME 41404055], ciudad de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Utiliza el acto de sabotaje "Falso profeta" al menos una vez en [GUIDNAME 41404056], la capital de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Usa l'azione di sabotaggio "Falso profeta" almeno una volta nella Città di [GUIDNAME 41404055] appartenente a [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Usa l'azione di sabotaggio "Falso profeta" almeno una volta nella Città di [GUIDNAME 41404055] appartenente a [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Falešný prorok". Město se jmenuje [GUIDNAME 41404055].</Text>
+                  <LastFinalText>Proveďte v hlavním městě postavy jménem [GUIDNAME 1649903] alespoň jednou sabotáž s názvem "Falešný prorok". Město se jmenuje [GUIDNAME 41404055].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Użyj sabotażu "Fałszywy prorok" przynajmniej raz w mieście [GUIDNAME 41404055], którym zarządza [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Użyj sabotażu "Fałszywy prorok" przynajmniej raz w mieście [GUIDNAME 41404055], którym zarządza [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41302352</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER] wird nicht müde, sich neue Grausamkeiten für [GUIDNAME 1649903] einfallen zu lassen. Diesmal ist sein Plan, dass Sie sich bei den Gesandten in [GUIDNAME 41404055] einschleichen und die Leute durch die Reden eines falschen Propheten in Ihren Bann ziehen...</Text>
+                  <LastFinalText>[QUEST_SENDER] wird nicht müde, sich neue Grausamkeiten für [GUIDNAME 1649903] einfallen zu lassen. Diesmal ist sein Plan, dass Sie sich bei den Gesandten in [GUIDNAME 41404055] einschleichen und die Leute durch die Reden eines falschen Propheten in Ihren Bann ziehen...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER] never tires of thinking up new cruelties to visit upon [GUIDNAME 1649903]. This time his plan is that you infiltrate the Envoys in [GUIDNAME 41404055] and then send out a False Prophet to capture the Population's minds with his honeyed words ...</Text>
+                  <LastFinalText>[QUEST_SENDER] never tires of thinking up new cruelties to visit upon [GUIDNAME 1649903]. This time his plan is that you infiltrate the Envoys in [GUIDNAME 41404055] and then send out a False Prophet to capture the Population's minds with his honeyed words ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] не устает придумывать неприятные сюрпризы, несчастный [GUIDNAME 1649903] не будет знать покоя. На этот раз он советует вам внедриться в дом посланника в городе [GUIDNAME 41404055], и заманить жителей города в свои сети с помощью проповедей фальшивого пророка...</Text>
+                  <LastFinalText>[QUEST_SENDER] не устает придумывать неприятные сюрпризы, несчастный [GUIDNAME 1649903] не будет знать покоя. На этот раз он советует вам внедриться в дом посланника в городе [GUIDNAME 41404055], и заманить жителей города в свои сети с помощью проповедей фальшивого пророка...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[QUEST_SENDER] ne cesse de penser à de nouvelles cruautés à faire subir à [GUIDNAME 1649903]. Cette fois il vous demande d'infiltrer les Émissaires à [GUIDNAME 41404055], puis d'envoyer un Faux prophète pour faire succomber la Population à ses paroles mielleuses...</Text>
+                  <LastFinalText>[QUEST_SENDER] ne cesse de penser à de nouvelles cruautés à faire subir à [GUIDNAME 1649903]. Cette fois il vous demande d'infiltrer les Émissaires à [GUIDNAME 41404055], puis d'envoyer un Faux prophète pour faire succomber la Population à ses paroles mielleuses...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[QUEST_SENDER] no se cansa de pensar en nuevos castigos para [GUIDNAME 1649903]. Esta vez planea que te infiltres entre los enviados de [GUIDNAME 41404055] y, después, mandes un falso profeta para descarriar a sus ciudadanos con sus melosas palabras...</Text>
+                  <LastFinalText>[QUEST_SENDER] no se cansa de pensar en nuevos castigos para [GUIDNAME 1649903]. Esta vez planea que te infiltres entre los enviados de [GUIDNAME 41404055] y, después, mandes un falso profeta para descarriar a sus ciudadanos con sus melosas palabras...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] non si stanca mai di escogitare nuove crudeltà da infliggere a [GUIDNAME 1649903]. Questa volta devi far infiltrare i Messi a [GUIDNAME 41404055], quindi mandare un Falso profeta a plagiare le menti della Popolazione con le sue melliflue parole...</Text>
+                  <LastFinalText>[QUEST_SENDER] non si stanca mai di escogitare nuove crudeltà da infliggere a [GUIDNAME 1649903]. Questa volta devi far infiltrare i Messi a [GUIDNAME 41404055], quindi mandare un Falso profeta a plagiare le menti della Popolazione con le sue melliflue parole...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] neustále vymýšlí nějaké krutosti, které by si vyzkoušel na postavě jménem [GUIDNAME 1649903]. Tentokrát má v plánu infiltrovat posly ve městě [GUIDNAME 41404055] a potom poslat falešného proroka, který by tamní populaci namazal med kolem úst...</Text>
+                  <LastFinalText>[QUEST_SENDER] neustále vymýšlí nějaké krutosti, které by si vyzkoušel na postavě jménem [GUIDNAME 1649903]. Tentokrát má v plánu infiltrovat posly ve městě [GUIDNAME 41404055] a potom poslat falešného proroka, který by tamní populaci namazal med kolem úst...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] ciągle obmyśla nowe ciosy, których celem będzie [GUIDNAME 1649903]. Tym razem masz zinfiltrować osadników w mieście [GUIDNAME 41404055], a potem wysłać fałszywego proroka, którego słodkie słowa uwiodą miejscową ludność...</Text>
+                  <LastFinalText>[QUEST_SENDER] ciągle obmyśla nowe ciosy, których celem będzie [GUIDNAME 1649903]. Tym razem masz zinfiltrować osadników w mieście [GUIDNAME 41404055], a potem wysłać fałszywego proroka, którego słodkie słowa uwiodą miejscową ludność...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302354</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Diesmal fordert [THIRDPARTY_SENDER_PLAYER], dass Sie einen falschen Propheten nach [GUIDNAME 41404055] entsenden, um [GUIDNAME 1649903]s Bevölkerung zu verblenden.</Text>
+                  <LastFinalText>Diesmal fordert [THIRDPARTY_SENDER_PLAYER], dass Sie einen falschen Propheten nach [GUIDNAME 41404055] entsenden, um [GUIDNAME 1649903]s Bevölkerung zu verblenden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>This time [THIRDPARTY_SENDER_PLAYER] wants you to send a False Prophet to [GUIDNAME 41404055] to sway [GUIDNAME 1649903]'s Population.</Text>
+                  <LastFinalText>This time [THIRDPARTY_SENDER_PLAYER] wants you to send a False Prophet to [GUIDNAME 41404055] to sway [GUIDNAME 1649903]'s Population.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>На этот раз [THIRDPARTY_SENDER_PLAYER] требует, чтобы вы отправили фальшивого пророка в город [GUIDNAME 41404055] - пусть [GUIDNAME 1649903]узнает, почем фунт лиха.</Text>
+                  <LastFinalText>На этот раз [THIRDPARTY_SENDER_PLAYER] требует, чтобы вы отправили фальшивого пророка в город [GUIDNAME 41404055] - пусть [GUIDNAME 1649903]узнает, почем фунт лиха.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Cette fois [THIRDPARTY_SENDER_PLAYER] veut que vous envoyiez un Faux prophète à [GUIDNAME 41404055] pour influencer la Population de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Cette fois [THIRDPARTY_SENDER_PLAYER] veut que vous envoyiez un Faux prophète à [GUIDNAME 41404055] pour influencer la Population de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Esta vez [THIRDPARTY_SENDER_PLAYER] quiere que envíes un falso profeta a [GUIDNAME 41404055] para influir en la población de [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Esta vez [THIRDPARTY_SENDER_PLAYER] quiere que envíes un falso profeta a [GUIDNAME 41404055] para influir en la población de [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Questa volta [THIRDPARTY_SENDER_PLAYER] desidera che mandi un Falso profeta a [GUIDNAME 41404055] per influenzare la Popolazione di [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Questa volta [THIRDPARTY_SENDER_PLAYER] desidera che mandi un Falso profeta a [GUIDNAME 41404055] per influenzare la Popolazione di [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] po vás tentokrát chce, abyste poslal do města [GUIDNAME 41404055] falešného proroka, který by ovládl populaci postavy jménem [GUIDNAME 1649903].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] po vás tentokrát chce, abyste poslal do města [GUIDNAME 41404055] falešného proroka, který by ovládl populaci postavy jménem [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Tym razem [THIRDPARTY_SENDER_PLAYER] prosi cię o wysłanie fałszywego proroka do miasta [GUIDNAME 41404055], niech zbałamuci ludzi, którymi włada [GUIDNAME 1649903].</Text>
+                  <LastFinalText>Tym razem [THIRDPARTY_SENDER_PLAYER] prosi cię o wysłanie fałszywego proroka do miasta [GUIDNAME 41404055], niech zbałamuci ludzi, którymi włada [GUIDNAME 1649903].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Other messages</Name>
+      <GUIDRangeMin>41302400</GUIDRangeMin>
+      <GUIDRangeMax>41302499</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Sir Gavin</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302400</GUID>
+              <Kommentar>Gavin Warnung 01</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Enttäuscht und beleidigt von Ihren Übergriffen, legt [THIRDPARTY_SENDER_PLAYER] die diplomatischen Beziehungen zu Ihnen auf Eis.</Text>
+                  <LastFinalText>Enttäuscht und beleidigt von Ihren Übergriffen, legt [THIRDPARTY_SENDER_PLAYER] die diplomatischen Beziehungen zu Ihnen auf Eis.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Disappointed and insulted by your attacks, [THIRDPARTY_SENDER_PLAYER] freezes his diplomatic relations with you.</Text>
+                  <LastFinalText>Disappointed and insulted by your attacks, [THIRDPARTY_SENDER_PLAYER] freezes his diplomatic relations with you.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Разочарованный и обиженный вашим вторжением, [THIRDPARTY_SENDER_PLAYER] замораживает дипломатические отношения с вами.</Text>
+                  <LastFinalText>Разочарованный и обиженный вашим вторжением, [THIRDPARTY_SENDER_PLAYER] замораживает дипломатические отношения с вами.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Déçu et insulté par vos attaques, [THIRDPARTY_SENDER_PLAYER] bloque les négociations diplomatiques entreprise avec vous.</Text>
+                  <LastFinalText>Déçu et insulté par vos attaques, [THIRDPARTY_SENDER_PLAYER] bloque les négociations diplomatiques entreprise avec vous.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Decepcionado e insultado por tus ataques, [THIRDPARTY_SENDER_PLAYER] suspende sus relaciones diplomáticas contigo.</Text>
+                  <LastFinalText>Decepcionado e insultado por tus ataques, [THIRDPARTY_SENDER_PLAYER] suspende sus relaciones diplomáticas contigo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Deluso e offeso dai tuoi attacchi, [THIRDPARTY_SENDER_PLAYER] congela i rapporti diplomatici con te.</Text>
+                  <LastFinalText>Deluso e offeso dai tuoi attacchi, [THIRDPARTY_SENDER_PLAYER] congela i rapporti diplomatici con te.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se po vašich útocích cítí zklamán a dotčen a pozastavil s vámi veškeré diplomatické styky.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se po vašich útocích cítí zklamán a dotčen a pozastavil s vámi veškeré diplomatické styky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] rozczarowany i obrażony twymi atakami, zamraża wasze stosunki dyplomatyczne.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] rozczarowany i obrażony twymi atakami, zamraża wasze stosunki dyplomatyczne.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645022</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Sir Gavin</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302401</GUID>
+              <Kommentar>Gavin Warnung 02</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Empört droht Ihnen [THIRDPARTY_SENDER_PLAYER] mit einer Kriegserklärung, wenn Sie nicht augenblicklich alle Sabotageaktionen gegen Ihn einstellen.</Text>
+                  <LastFinalText>Empört droht Ihnen [THIRDPARTY_SENDER_PLAYER] mit einer Kriegserklärung, wenn Sie nicht augenblicklich alle Sabotageaktionen gegen Ihn einstellen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] threatens to declare war on you if you do not stop your acts of sabotage immediately.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] threatens to declare war on you if you do not stop your acts of sabotage immediately.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] угрожает объявить вам войну, если вы немедленно не прекратите саботаж.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] угрожает объявить вам войну, если вы немедленно не прекратите саботаж.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] menace de vous déclarer la guerre si vous n'arrêtez pas immédiatement vos actes de sabotage.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] menace de vous déclarer la guerre si vous n'arrêtez pas immédiatement vos actes de sabotage.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] amenaza con declararte la guerra si no detienes tus actos de sabotaje de inmediato.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] amenaza con declararte la guerra si no detienes tus actos de sabotaje de inmediato.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] minaccia di dichiararti guerra se non interrompi immediatamente le azioni di sabotaggio.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] minaccia di dichiararti guerra se non interrompi immediatamente le azioni di sabotaggio.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vyhrožuje, že vám vyhlásí válku, jestli s těmi sabotážemi okamžitě nepřestanete.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vyhrožuje, že vám vyhlásí válku, jestli s těmi sabotážemi okamžitě nepřestanete.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] grozi wypowiedzeniem ci wojny, jeśli natychmiast nie zaprzestaniesz dokonywania aktów sabotażu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] grozi wypowiedzeniem ci wojny, jeśli natychmiast nie zaprzestaniesz dokonywania aktów sabotażu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645022</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Giacomo</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>41302402</GUID>
+              <Kommentar>Erklärung zum effektiven Einsatz von verschiedenen Sabotageaktionen</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Diabolisch grinsend rät Ihnen [THIRDPARTY_SENDER_PLAYER], den Einsatz von Sabotageaktionen regelmäßig zu variieren, da dies weniger auffällig, dafür aber umso effektiver ist.</Text>
+                  <LastFinalText>Diabolisch grinsend rät Ihnen [THIRDPARTY_SENDER_PLAYER], den Einsatz von Sabotageaktionen regelmäßig zu variieren, da dies weniger auffällig, dafür aber umso effektiver ist.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Smiling diabolically, [THIRDPARTY_SENDER_PLAYER] advises you to vary your acts of sabotage actions on a regular basis, making them both harder to spot and more effective.</Text>
+                  <LastFinalText>Smiling diabolically, [THIRDPARTY_SENDER_PLAYER] advises you to vary your acts of sabotage actions on a regular basis, making them both harder to spot and more effective.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Злобно ухмыляясь, [THIRDPARTY_SENDER_PLAYER] советует вам почаще менять репертуар шпионов, чтобы саботаж меньше бросался в глаза и действовал эффективнее.</Text>
+                  <LastFinalText>Злобно ухмыляясь, [THIRDPARTY_SENDER_PLAYER] советует вам почаще менять репертуар шпионов, чтобы саботаж меньше бросался в глаза и действовал эффективнее.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Avec un sourire diabolique, [THIRDPARTY_SENDER_PLAYER] vous conseille de diversifier régulièrement vos actes de sabotage afin qu'ils soient moins prévisibles et plus efficaces.</Text>
+                  <LastFinalText>Avec un sourire diabolique, [THIRDPARTY_SENDER_PLAYER] vous conseille de diversifier régulièrement vos actes de sabotage afin qu'ils soient moins prévisibles et plus efficaces.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Sonriendo diabólicamente, [THIRDPARTY_SENDER_PLAYER] te recomienda que cambies con regularidad tus actos de sabotaje, para que sean más efectivos y difíciles de detectar.</Text>
+                  <LastFinalText>Sonriendo diabólicamente, [THIRDPARTY_SENDER_PLAYER] te recomienda que cambies con regularidad tus actos de sabotaje, para que sean más efectivos y difíciles de detectar.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Con un sorriso diabolico, [THIRDPARTY_SENDER_PLAYER] ti consiglia di variare le tue azioni di sabotaggio regolarmente per renderle più difficili da localizzare e più efficaci.</Text>
+                  <LastFinalText>Con un sorriso diabolico, [THIRDPARTY_SENDER_PLAYER] ti consiglia di variare le tue azioni di sabotaggio regolarmente per renderle più difficili da localizzare e più efficaci.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám s ďábelským výrazem ve tváři doporučuje, abyste pravidelně sabotáže obměňoval. Budou tak hůře odhalitelné a daleko účinnější.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám s ďábelským výrazem ve tváři doporučuje, abyste pravidelně sabotáže obměňoval. Budou tak hůře odhalitelné a daleko účinnější.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER], z diabelskim uśmiechem, radzi ci zróżnicować akty sabotażu, przez co będą trudniejsze do wykrycia i skuteczniejsze.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER], z diabelskim uśmiechem, radzi ci zróżnicować akty sabotażu, przez co będą trudniejsze do wykrycia i skuteczniejsze.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41302403</GUID>
+              <Kommentar>Mood "Keinen Krieg anzetteln"</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erwartet, dass Sie bei Ihren Sabotageaktionen gegen [GUIDNAME 1649903] elegant vorgehen - und keinesfalls einen Krieg provozieren!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] erwartet, dass Sie bei Ihren Sabotageaktionen gegen [GUIDNAME 1649903] elegant vorgehen - und keinesfalls einen Krieg provozieren!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] expects you to conduct your acts of sabotage against [GUIDNAME 1649903] in a sophisticated manner - and to avoid provoking a war!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] expects you to conduct your acts of sabotage against [GUIDNAME 1649903] in a sophisticated manner - and to avoid provoking a war!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ожидает, что вы будете изящно осуществлять саботаж в городах, где правит [GUIDNAME 1649903] - ни в коем случае не провоцируя войну!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ожидает, что вы будете изящно осуществлять саботаж в городах, где правит [GUIDNAME 1649903] - ни в коем случае не провоцируя войну!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] attend de vous que vous réalisiez vos actes de sabotage contre [GUIDNAME 1649903] avec finesse, en évitant ainsi de déclencher une guerre !</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] attend de vous que vous réalisiez vos actes de sabotage contre [GUIDNAME 1649903] avec finesse, en évitant ainsi de déclencher une guerre !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] espera que realices los actos de sabotaje contra [GUIDNAME 1649903] de un modo sofisticado: ¡no provoques una guerra!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] espera que realices los actos de sabotaje contra [GUIDNAME 1649903] de un modo sofisticado: ¡no provoques una guerra!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si aspetta che tu conduca le tue azioni di sabotaggio contro [GUIDNAME 1649903] in modo sofisticato ed evitando di causare una guerra!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si aspetta che tu conduca le tue azioni di sabotaggio contro [GUIDNAME 1649903] in modo sofisticato ed evitando di causare una guerra!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] očekává, že sabotáže proti postavě jménem [GUIDNAME 1649903] provedete nějakým sofistikovaným způsobem a nerozpoutáte tím válku!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] očekává, že sabotáže proti postavě jménem [GUIDNAME 1649903] provedete nějakým sofistikovaným způsobem a nerozpoutáte tím válku!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] spodziewa się, że dokonasz subtelnych aktów sabotażu, których celem będzie [GUIDNAME 1649903]. Musisz uniknąć wywołania wojny!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] spodziewa się, że dokonasz subtelnych aktów sabotażu, których celem będzie [GUIDNAME 1649903]. Musisz uniknąć wywołania wojny!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ_LoseCondition</Name>
+      <GUIDRangeMin>41302500</GUIDRangeMin>
+      <GUIDRangeMax>41302549</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41302500</GUID>
+              <Kommentar>Lose Condition Text</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>LoseConQuest</Text>
+                  <LastFinalText>LoseConQuest</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>LoseConQuest</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

@@ -1,0 +1,1637 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>AddonTexte</Name>
+      <GUIDRangeMin>40000000</GUIDRangeMin>
+      <GUIDRangeMax>49999999</GUIDRangeMax>
+      <Groups>
+        <Group>
+          <Name>guids</Name>
+          <GUIDRangeMin>40000000</GUIDRangeMin>
+          <GUIDRangeMax>40099999</GUIDRangeMax>
+          <FileName>addondata/config/TextEditor/guids.xml</FileName>
+          <Lazy>1</Lazy>
+          <DefaultTemplate>Asset Text</DefaultTemplate>
+        </Group>
+        <Group>
+          <Name>Interface</Name>
+          <GUIDRangeMin>40100000</GUIDRangeMin>
+          <GUIDRangeMax>40199999</GUIDRangeMax>
+          <FileName>addondata/config/TextEditor/interface.xml</FileName>
+          <Lazy>1</Lazy>
+        </Group>
+        <Group>
+          <Name>News</Name>
+          <GUIDRangeMin>40200000</GUIDRangeMin>
+          <GUIDRangeMax>40299999</GUIDRangeMax>
+          <FileName>addondata/config/TextEditor/news.xml</FileName>
+          <Lazy>1</Lazy>
+        </Group>
+        <Group>
+          <Name>CPP</Name>
+          <GUIDRangeMin>40300000</GUIDRangeMin>
+          <GUIDRangeMax>41299999</GUIDRangeMax>
+          <FileName>addondata/config/TextEditor/cpp.xml</FileName>
+          <Lazy>1</Lazy>
+        </Group>
+        <Group>
+          <Name>Scenarios</Name>
+          <GUIDRangeMin>41300000</GUIDRangeMin>
+          <GUIDRangeMax>41399999</GUIDRangeMax>
+          <FileName>addondata/config/TextEditor/scenarios.xml</FileName>
+        </Group>
+        <Group>
+          <Name>Names</Name>
+          <GUIDRangeMin>41400000</GUIDRangeMin>
+          <GUIDRangeMax>41499999</GUIDRangeMax>
+          <FileName>addondata/config/TextEditor/names.xml</FileName>
+          <Lazy>1</Lazy>
+          <DefaultTemplate>GUI Text</DefaultTemplate>
+        </Group>
+        <Group>
+          <Name>questdata</Name>
+          <GUIDRangeMin>41500000</GUIDRangeMin>
+          <GUIDRangeMax>41599999</GUIDRangeMax>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Groups>
+            <Group>
+              <Name>Endlosspiel</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Groups>
+                <Group>
+                  <Name>Standardquests</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <Groups>
+                    <Group>
+                      <Name>Infotext Abschlussort Auftraggeber Kontor</Name>
+                      <UseParentGUIDRange>1</UseParentGUIDRange>
+                      <Assets>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500000</GUID>
+                              <Kommentar>Infotext Schiffsrennen Start</Kommentar>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Holen Sie die Lieferung am Kontor von [QUEST_SENDER] ab und bringen Sie diese als Erstes zu den markierten Häfen.[CR] </Text>
+                                  <LastFinalText>Holen Sie die Lieferung am Kontor von [QUEST_SENDER] ab und bringen Sie diese als Erstes zu den markierten Häfen.[CR] </LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Pick up the Goods at [QUEST_SENDER]'s warehouse and deliver them to the designated harbours.</Text>
+                                  <LastFinalText>Pick up the Goods at [QUEST_SENDER]'s warehouse and deliver them to the designated harbors.   </LastFinalText>
+                                  <Status>Edit</Status>
+                                </English>
+                                <Russian>
+                                  <Text>[QUEST_SENDER] просит забрать грузы из конторы и срочно доставить их в нужный порт.[CR] </Text>
+                                  <LastFinalText>[QUEST_SENDER] просит забрать грузы из конторы и срочно доставить их в нужный порт.[CR] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Récupérez les Marchandises à l'Entrepôt de [QUEST_SENDER] et livrez-les aux ports spécifiés.</Text>
+                                  <LastFinalText>Récupérez les Marchandises à l'Entrepôt de [QUEST_SENDER] et livrez-les aux ports spécifiés.</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Recoge los bienes en el almacén de [QUEST_SENDER] y entrégalos en los puertos indicados.</Text>
+                                  <LastFinalText>Recoge los bienes en el almacén de [QUEST_SENDER] y entrégalos en los puertos indicados.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Recupera le Merci al magazzino di [QUEST_SENDER] e consegnale nei porti indicati.</Text>
+                                  <LastFinalText>Recupera le Merci al magazzino di [QUEST_SENDER] e consegnale nei porti indicati.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Polish>
+                                  <Text>Odbierz towar z magazynu, którego właścicielem jest [QUEST_SENDER] i dostarcz go do wskazanych portów.  </Text>
+                                  <LastFinalText>Odbierz towar z magazynu, którego właścicielem jest [QUEST_SENDER] i dostarcz go do wskazanych portów.  </LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                                <Czech>
+                                  <Text>Vyzvedněte zboží ve skladišti postavy jménem [QUEST_SENDER] a doručte ho do vyznačených přístavů.</Text>
+                                  <LastFinalText>Vyzvedněte zboží ve skladišti postavy jménem [QUEST_SENDER] a doručte ho do vyznačených přístavů.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>GUI Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500001</GUID>
+                              <Kommentar>Infotext Schiffsrennen Race</Kommentar>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <SubAssets />
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Das nächste Ziel ist [QUEST_RACE_STATION]s Hafen. Übergeben Sie dort:[CR][QUEST_RACE_ITEM]</Text>
+                                  <LastFinalText>Das nächste Ziel ist [QUEST_RACE_STATION]s Hafen. Übergeben Sie dort:[CR][QUEST_RACE_ITEM]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>The next destination is [QUEST_RACE_STATION]'s harbour. Deliver:[CR][QUEST_RACE_ITEM] </Text>
+                                  <LastFinalText>The next destination is [QUEST_RACE_STATION]'s harbor. Deliver:[CR][QUEST_RACE_ITEM] </LastFinalText>
+                                  <Status>Edit</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Ближайшая цель: [QUEST_RACE_STATION]. Доставьте туда:[CR][QUEST_RACE_ITEM]</Text>
+                                  <LastFinalText>Ближайшая цель: [QUEST_RACE_STATION]. Доставьте туда:[CR][QUEST_RACE_ITEM]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>La prochaine destination est le port de [QUEST_RACE_STATION]. Livrez :[CR][QUEST_RACE_ITEM] </Text>
+                                  <LastFinalText>La prochaine destination est le port de [QUEST_RACE_STATION]. Livrez :[CR][QUEST_RACE_ITEM] </LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>El próximo destino es el puerto de [QUEST_RACE_STATION]. Entrega:[CR][QUEST_RACE_ITEM] </Text>
+                                  <LastFinalText>El próximo destino es el puerto de [QUEST_RACE_STATION]. Entrega:[CR][QUEST_RACE_ITEM] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>La prossima destinazione è il porto di [QUEST_RACE_STATION]. Consegna:[CR][QUEST_RACE_ITEM] </Text>
+                                  <LastFinalText>La prossima destinazione è il porto di [QUEST_RACE_STATION]. Consegna:[CR][QUEST_RACE_ITEM] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Dalším cílem je přístav postavy jménem [QUEST_RACE_STATION]. Doručte:[CR][QUEST_RACE_ITEM] </Text>
+                                  <LastFinalText>Dalším cílem je přístav postavy jménem [QUEST_RACE_STATION]. Doručte:[CR][QUEST_RACE_ITEM] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Kolejnym celem jest port [QUEST_RACE_STATION]. Dostarcz:[CR][QUEST_RACE_ITEM] </Text>
+                                  <LastFinalText>Kolejnym celem jest port [QUEST_RACE_STATION]. Dostarcz:[CR][QUEST_RACE_ITEM] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>Standard Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500002</GUID>
+                              <Kommentar>Text wird automatisch eingefügt wenn das Rennen noch nicht gestartet wurde um die verbleibende Zeit anzuzeigen</Kommentar>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <SubAssets />
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>[CR] [CR]Verbleibende Zeit bis zur Übergabe:[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]Verbleibende Zeit bis zur Übergabe:[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>[CR] [CR]Time remaining until the race starts:[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]Time remaining until the race starts:[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>[CR] [CR]До момента передачи осталось:[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]До момента передачи осталось:[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>[CR] [CR]Temps restant avant le début de la course :[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]Temps restant avant le début de la course :[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>[CR] [CR]Tiempo restante hasta el inicio de la carrera:[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]Tiempo restante hasta el inicio de la carrera:[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>[CR] [CR]Tempo rimanente prima della partenza della gara:[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]Tempo rimanente prima della partenza della gara:[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>[CR] [CR]Zbývající čas do začátku závodu:[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]Zbývající čas do začátku závodu:[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>[CR] [CR]Czas do rozpoczęcia wyścigu:[CR][QUEST_RACESTARTTIME]</Text>
+                                  <LastFinalText>[CR] [CR]Czas do rozpoczęcia wyścigu:[CR][QUEST_RACESTARTTIME]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>GUI Text</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500003</GUID>
+                              <Kommentar>Infotext für Board a Ship </Kommentar>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <SubAssets />
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Begeben Sie sich zum Kontor von [QUEST_SENDER], um dort eine Entermannschaft an Bord zu nehmen und karpern Sie mit deren Hilfe das markierte Schiff. </Text>
+                                  <LastFinalText>Begeben Sie sich zum Kontor von [QUEST_SENDER], um dort eine Entermannschaft an Bord zu nehmen und karpern Sie mit deren Hilfe das markierte Schiff. </LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Take on a boarding crew at [QUEST_SENDER]'s warehouse and capture the flagged ship.</Text>
+                                  <LastFinalText>Take on a boarding crew at [QUEST_SENDER]'s warehouse and capture the flagged ship.</LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Отправляйтесь в контору, владельцем которой является [QUEST_SENDER], возьмите на борт абордажную команду и захватите с ее помощью определенный корабль. </Text>
+                                  <LastFinalText>Отправляйтесь в контору, владельцем которой является [QUEST_SENDER], возьмите на борт абордажную команду и захватите с ее помощью определенный корабль. </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Recrutez une équipe à l'entrepôt de [QUEST_SENDER] et capturez le navire marqué.</Text>
+                                  <LastFinalText>Recrutez une équipe à l'entrepôt de [QUEST_SENDER] et capturez le navire marqué.</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Contrata una tripulación de abordaje en el almacén de [QUEST_SENDER] y captura el barco marcado.</Text>
+                                  <LastFinalText>Contrata una tripulación de abordaje en el almacén de [QUEST_SENDER] y captura el barco marcado.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Imbarca una ciurma d'abbordaggio al magazzino di [QUEST_SENDER] e cattura la nave segnalata.</Text>
+                                  <LastFinalText>Imbarca una ciurma d'abbordaggio al magazzino di [QUEST_SENDER] e cattura la nave segnalata.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Naberte ve skladišti postavy jménem [QUEST_SENDER] útočné družstvo a zajměte loď s vlajkou.</Text>
+                                  <LastFinalText>Naberte ve skladišti postavy jménem [QUEST_SENDER] útočné družstvo a zajměte loď s vlajkou.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Odbierz grupę abordażową z magazynu, którego właścicielem jest [QUEST_SENDER] i zdobądź wskazany okręt.</Text>
+                                  <LastFinalText>Odbierz grupę abordażową z magazynu, którego właścicielem jest [QUEST_SENDER] i zdobądź wskazany okręt.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                      </Assets>
+                    </Group>
+                    <Group>
+                      <Name>Remindertexte</Name>
+                      <UseParentGUIDRange>1</UseParentGUIDRange>
+                      <Assets>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500016</GUID>
+                              <Kommentar>Text der an den Info-Text gehängt wird wenn die Quest noch für andere Spieler ausgerufen wurde. Die Spieler werden darunter aufgelistet mit Icon</Kommentar>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Folgende Spieler wurden ebenfalls mit diesem Auftrag betraut:</Text>
+                                  <LastFinalText>Folgende Spieler wurden ebenfalls mit diesem Auftrag betraut:</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>The following players have also been given this assignment: </Text>
+                                  <LastFinalText>The following players have also been given this assignment: </LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Следующие игроки также получат это поручение:</Text>
+                                  <LastFinalText>Следующие игроки также получат это поручение:</LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Les joueurs suivants ont également reçu cette mission :</Text>
+                                  <LastFinalText>Les joueurs suivants ont également reçu cette mission :</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Los siguientes jugadores también tienen asignado este encargo: </Text>
+                                  <LastFinalText>Los siguientes jugadores también tienen asignado este encargo: </LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Anche i seguenti giocatori hanno ricevuto questo incarico:</Text>
+                                  <LastFinalText>Anche i seguenti giocatori hanno ricevuto questo incarico:</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Tento úkol obdrželi i tito hráči: </Text>
+                                  <LastFinalText>Tento úkol obdrželi i tito hráči: </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>To zadanie otrzymali także następujący gracze: </Text>
+                                  <LastFinalText>To zadanie otrzymali także następujący gracze: </LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                      </Assets>
+                    </Group>
+                    <Group>
+                      <Name>Infotext Siegbedingungen</Name>
+                      <UseParentGUIDRange>1</UseParentGUIDRange>
+                      <Assets>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500017</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Meistern Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Aufträge des Kaisers.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Meistern Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Aufträge des Kaisers.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Complete at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] of the Emperor's assignments.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Complete at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] of the Emperor's assignments.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Выполните как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] поручений императора.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Выполните как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] поручений императора.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Exécutez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] des missions de l'Empereur.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Exécutez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] des missions de l'Empereur.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Cumple al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] encargos del Emperador.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Cumple al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] encargos del Emperador.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Completa almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] degli incarichi dell'Imperatore.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Completa almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] degli incarichi dell'Imperatore.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Minimální počet císařových úkolů, které musíte splnit, je:  [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimální počet císařových úkolů, které musíte splnit, je:  [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Minimalna liczba zadań Cesarza do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimalna liczba zadań Cesarza do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500018</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Meistern Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Aufträge des Sultans.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Meistern Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Aufträge des Sultans.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Complete at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] of the Sultan's assignments.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Complete at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] of the Sultan's assignments.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Выполните как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] поручений султана.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Выполните как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] поручений султана.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Exécutez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] des missions du Sultan.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Exécutez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] des missions du Sultan.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Cumple al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] encargos del Sultán.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Cumple al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] encargos del Sultán.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Completa almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] degli incarichi del Sultano.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Completa almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] degli incarichi del Sultano.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Minimální počet sultánových úkolů, které musíte splnit, je:  [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimální počet sultánových úkolů, které musíte splnit, je:  [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Minimalna liczba zadań Sułtana do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Minimalna liczba zadań Sułtana do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500019</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Führen Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] erfolgreiche Expeditionen durch.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Führen Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] erfolgreiche Expeditionen durch.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Complete at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] successful expeditions.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Complete at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] successful expeditions.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Осуществите как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] успешных экспедиций.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Осуществите как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] успешных экспедиций.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Réussissez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] expéditions.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Réussissez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] expéditions.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Realiza al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] expediciones con éxito.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Realiza al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] expediciones con éxito.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Completa con successo almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] spedizioni.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Completa con successo almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] spedizioni.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Minimální počet expedic, které musíte úspěšně dokončit, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimální počet expedic, které musíte úspěšně dokončit, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Minimalna liczba udanych wypraw do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Minimalna liczba udanych wypraw do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500020</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Jagen Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Bettler aus Ihrer Stadt.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Jagen Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Bettler aus Ihrer Stadt.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Banish at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] beggars from your town.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Banish at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] beggars from your town.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Изгоните как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] нищих из вашего города.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Изгоните как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] нищих из вашего города.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Bannissez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Mendiants de votre ville.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Bannissez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Mendiants de votre ville.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Echa al menos a [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] mendigos de tu ciudad.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Echa al menos a [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] mendigos de tu ciudad.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Bandisci almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] mendicanti dal tuo villaggio.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Bandisci almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] mendicanti dal tuo villaggio.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Minimální počet žebráků, který musíte vyhnat z vašeho města: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimální počet žebráků, který musíte vyhnat z vašeho města: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Minimalna liczba żebraków, których należy wygnać z miasta: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Minimalna liczba żebraków, których należy wygnać z miasta: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500021</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Fordern Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Aufträge an. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Fordern Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Aufträge an. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Request at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] assignments. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Request at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] assignments. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <French>
+                                  <Text>Demandez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] missions. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Demandez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] missions. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Solicita al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] encargos. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Solicita al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] encargos. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Richiedi almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] incarichi. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Richiedi almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] incarichi. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Russian>
+                                  <Text>Затребуйте как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] поручение. </Text>
+                                  <LastFinalText>Затребуйте как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] поручение. </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <Polish>
+                                  <Text>Zażądaj zadań w liczbie nie mniejszej niż [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Zażądaj zadań w liczbie nie mniejszej niż [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                                <Czech>
+                                  <Text>Požadujte úkoly v celkové počtu [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Požadujte úkoly v celkové počtu [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]. [CR] [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500022</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Führen Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Sabotageaktionen aus.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Führen Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Sabotageaktionen aus.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Perform at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] acts of sabotage.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Perform at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] acts of sabotage.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Проведите как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] саботажей.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Проведите как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] саботажей.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Effectuez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] actes de sabotage.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Effectuez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] actes de sabotage.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Realiza al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] actos de sabotaje.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Realiza al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] actos de sabotaje.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Esegui almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] azioni di sabotaggio.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Esegui almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] azioni di sabotaggio.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Minimální počet sabotáží, které musíte provést, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]. [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimální počet sabotáží, které musíte provést, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]. [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Minimalna liczba aktów sabotażu do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimalna liczba aktów sabotażu do wykonania: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500023</GUID>
+                              <Version>LokaInconsistency</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Erwerben Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Ratssitze.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Erwerben Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Ratssitze.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Acquire at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] council seats.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Acquire at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] council seats.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Получите как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] мест в совете.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Получите как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] мест в совете.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Obtenez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] actions.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Obtenez au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] actions.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Adquiere al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] títulos.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Adquiere al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] títulos.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Acquisisci almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] quote.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Acquisisci almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] quote.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Minimální počet akcií, které musíte získat, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimální počet akcií, které musíte získat, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Minimalna ilość udziałów do zdobycia: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Minimalna ilość udziałów do zdobycia: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500024</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Sorgen Sie dafür, dass Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Militärpunkte zur Verfügung haben.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Sorgen Sie dafür, dass Sie mindestens [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Militärpunkte zur Verfügung haben.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Ensure that you have at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] military points at your disposal.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Ensure that you have at least [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] military points at your disposal.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Позаботьтесь о том, чтобы в вашем распоряжении было как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] очков армии.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Позаботьтесь о том, чтобы в вашем распоряжении было как минимум [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] очков армии.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Assurez-vous d'avoir au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Points militaires à votre disposition.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Assurez-vous d'avoir au moins [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] Points militaires à votre disposition.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Asegúrate de tener al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] puntos militares a tu disposición. [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Asegúrate de tener al menos [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] puntos militares a tu disposición. [CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Fai in modo di avere almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] punti militari a tua disposizione.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</Text>
+                                  <LastFinalText>Fai in modo di avere almeno [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] punti militari a tua disposizione.[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Minimální počet vojenských bodů, které musíte mít k dispozici, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimální počet vojenských bodů, které musíte mít k dispozici, je: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].[CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Minimalna liczba punktów wojskowości do zdobycia: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </Text>
+                                  <LastFinalText>Minimalna liczba punktów wojskowości do zdobycia: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0][CR] [QUEST_VICTORYCONDITION_PLAYERCOUNTER 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500026</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Erreichen Sie folgenden diplomatischen Rang bei Al Zahir: "[GUIDNAME 60002]" </Text>
+                                  <LastFinalText>Erreichen Sie folgenden diplomatischen Rang bei Al Zahir: "[GUIDNAME 60002]" </LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Reach the following prestige level with Al Zahir: "[GUIDNAME 60002]" </Text>
+                                  <LastFinalText>Reach the following prestige level with Al Zahir: "[GUIDNAME 60002]" </LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Получите следующие дипломатические ранги у Аль-Захира: "[GUIDNAME 60002]"  </Text>
+                                  <LastFinalText>Получите следующие дипломатические ранги у Аль-Захира: "[GUIDNAME 60002]"  </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Atteignez le niveau de prestige suivant avec Al Zahir : "[GUIDNAME 60002]"  </Text>
+                                  <LastFinalText>Atteignez le niveau de prestige suivant avec Al Zahir : "[GUIDNAME 60002]"  </LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Alcanza el siguiente nivel de prestigio con Al Zahir: "[GUIDNAME 60002]"  </Text>
+                                  <LastFinalText>Alcanza el siguiente nivel de prestigio con Al Zahir: "[GUIDNAME 60002]"  </LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Raggiungi il seguente livello di prestigio con Al Zahir: "[GUIDNAME 60002]"  </Text>
+                                  <LastFinalText>Raggiungi il seguente livello di prestigio con Al Zahir: "[GUIDNAME 60002]"  </LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Dosáhněte s Al Zahirem této úrovně prestiže: "[GUIDNAME 60002]"</Text>
+                                  <LastFinalText>Dosáhněte s Al Zahirem této úrovně prestiže: "[GUIDNAME 60002]"</LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Osiągnij następujący poziom prestiżu u Al Zahira: "[GUIDNAME 60002]"</Text>
+                                  <LastFinalText>Osiągnij następujący poziom prestiżu u Al Zahira: "[GUIDNAME 60002]"</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500027</GUID>
+                              <Version>Addon01</Version>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>Entdecken Sie vor allen Mitspielern folgende Anzahl an Inseln:[QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] </Text>
+                                  <LastFinalText>Entdecken Sie vor allen Mitspielern folgende Anzahl an Inseln:[QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </German>
+                                <English>
+                                  <Text>Be the first to discover [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] islands. </Text>
+                                  <LastFinalText>Be the first to discover [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] islands. </LastFinalText>
+                                  <Status>Final</Status>
+                                </English>
+                                <Russian>
+                                  <Text>Откройте раньше остальных игроков следующее количество островов:[QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] </Text>
+                                  <LastFinalText>Откройте раньше остальных игроков следующее количество островов:[QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] </LastFinalText>
+                                  <Status>Final</Status>
+                                </Russian>
+                                <French>
+                                  <Text>Soyez le premier à découvrir [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] îles. </Text>
+                                  <LastFinalText>Soyez le premier à découvrir [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] îles. </LastFinalText>
+                                  <Status>Final</Status>
+                                </French>
+                                <Spanish>
+                                  <Text>Descubre antes que nadie [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] islas. </Text>
+                                  <LastFinalText>Descubre antes que nadie [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] islas. </LastFinalText>
+                                  <Status>Final</Status>
+                                </Spanish>
+                                <Italian>
+                                  <Text>Scopri prima di tutti [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] isole.</Text>
+                                  <LastFinalText>Scopri prima di tutti [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0] isole.</LastFinalText>
+                                  <Status>Final</Status>
+                                </Italian>
+                                <Czech>
+                                  <Text>Staňte se prvním, kdo objeví tento počet ostrovů: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].</Text>
+                                  <LastFinalText>Staňte se prvním, kdo objeví tento počet ostrovů: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0].</LastFinalText>
+                                  <Status>Final</Status>
+                                </Czech>
+                                <Polish>
+                                  <Text>Jako pierwszy odkryj wyspy w liczbie: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]</Text>
+                                  <LastFinalText>Jako pierwszy odkryj wyspy w liczbie: [QUEST_VICTORYCONDITION_PLAYERCOUNTER_MIN 0]</LastFinalText>
+                                  <Status>Final</Status>
+                                </Polish>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                        <Asset>
+                          <Template>QuestText</Template>
+                          <Values>
+                            <Standard>
+                              <GUID>41500028</GUID>
+                              <Kommentar>Text für Quests. Hier werden alle Objekte aufgelistet die errichtet werden müssen. Muss nicht lokalisiert werden da es nur ein Tag ist</Kommentar>
+                              <Version>Addon01</Version>
+                              <LokaFlag>0</LokaFlag>
+                            </Standard>
+                            <Text>
+                              <LocaText>
+                                <German>
+                                  <Text>[QUEST_WINCONDITION_OBJECTS]</Text>
+                                </German>
+                              </LocaText>
+                            </Text>
+                          </Values>
+                        </Asset>
+                      </Assets>
+                    </Group>
+                  </Groups>
+                </Group>
+                <Group>
+                  <Name>Rewards</Name>
+                  <UseParentGUIDRange>1</UseParentGUIDRange>
+                  <Assets>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500004</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo_Waren_Pool</Text>
+                              <LastFinalText>Giacomo_Waren_Pool</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500005</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo_Item_Pool_normal</Text>
+                              <LastFinalText>Giacomo_Item_Pool_normal</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500006</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo_Schiffs_Pool_normal</Text>
+                              <LastFinalText>Giacomo_Schiffs_Pool_normal</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500007</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo Garibaldi_NORMAL</Text>
+                              <LastFinalText>Giacomo Garibaldi_NORMAL</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500008</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo Garibaldi_SPEZIAL</Text>
+                              <LastFinalText>Giacomo Garibaldi_SPEZIAL</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500009</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo Garibaldi_DELUXE</Text>
+                              <LastFinalText>Giacomo Garibaldi_DELUXE</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500010</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo_Item_Pool_spezial</Text>
+                              <LastFinalText>Giacomo_Item_Pool_spezial</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500011</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>Giacomo_Schiffs_Pool_spezial</Text>
+                              <LastFinalText>Giacomo_Schiffs_Pool_spezial</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500012</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>GiftPool</Text>
+                              <LastFinalText>GiftPool</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500013</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>GiacomoItemsDiverse</Text>
+                              <LastFinalText>GiacomoItemsDiverse</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500014</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>GiacomoItemsSpecial</Text>
+                              <LastFinalText>GiacomoItemsSpecial</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>QuestText</Template>
+                      <Values>
+                        <Standard>
+                          <GUID>41500015</GUID>
+                          <Version>Addon01</Version>
+                          <LokaFlag>0</LokaFlag>
+                        </Standard>
+                        <Text>
+                          <LocaText>
+                            <German>
+                              <Text>GiacomoRessourcePool</Text>
+                              <LastFinalText>GiacomoRessourcePool</LastFinalText>
+                              <Status>Final</Status>
+                            </German>
+                          </LocaText>
+                        </Text>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+              </Groups>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Keyboardlayout</Name>
+          <GUIDRangeMin>41600000</GUIDRangeMin>
+          <GUIDRangeMax>41600999</GUIDRangeMax>
+          <Assets>
+            <Asset>
+              <Template>Standard Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>41600000</GUID>
+                  <Kommentar>Tastaturbelegung</Kommentar>
+                  <Version>Addon01</Version>
+                </Standard>
+                <SubAssets />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Schlupfwinkel durchwechseln</Text>
+                      <LastFinalText>Schlupfwinkel durchwechseln</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Toggle through Safe Houses</Text>
+                      <LastFinalText>Toggle through Safe Houses</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <Russian>
+                      <Text>Сменить убежище</Text>
+                      <LastFinalText>Сменить убежище</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <French>
+                      <Text>Parcourir les Repaires</Text>
+                      <LastFinalText>Parcourir les Repaires</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Ver casas seguras</Text>
+                      <LastFinalText>Ver casas seguras</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Scorri i Nascondigli</Text>
+                      <LastFinalText>Scorri i Nascondigli</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Przeglądanie kryjówek</Text>
+                      <LastFinalText>Przeglądanie kryjówek</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Text>Přepínat mezi úkryty</Text>
+                      <LastFinalText>Přepínat mezi úkryty</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Standard Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>41600001</GUID>
+                  <Kommentar>Tastaturbelegung</Kommentar>
+                  <Version>Addon01</Version>
+                </Standard>
+                <SubAssets />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Automatische Schiffsverteidigung</Text>
+                      <LastFinalText>Automatische Schiffsverteidigung</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>Automatic Ship defences</Text>
+                      <LastFinalText>Automatic Ship defences</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <Russian>
+                      <Text>Автоматическая оборона кораблей</Text>
+                      <LastFinalText>Автоматическая оборона кораблей</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <French>
+                      <Text>Défenses de Navire automatiques</Text>
+                      <LastFinalText>Défenses de Navire automatiques</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>Defensas de barco automáticas</Text>
+                      <LastFinalText>Defensas de barco automáticas</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>Difese automatiche della Nave</Text>
+                      <LastFinalText>Difese automatiche della Nave</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>Automatyczna obrona okrętu</Text>
+                      <LastFinalText>Automatyczna obrona okrętu</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Text>Automatická obrana lodí</Text>
+                      <LastFinalText>Automatická obrana lodí</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Misc</Name>
+          <GUIDRangeMin>41601000</GUIDRangeMin>
+          <GUIDRangeMax>41601099</GUIDRangeMax>
+          <Assets>
+            <Asset>
+              <Template>Asset Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>41601000</GUID>
+                  <Kommentar>Name des Spiels (wird als Verzeichnisname verwendet)</Kommentar>
+                  <Version>Addon01</Version>
+                </Standard>
+                <SubAssets />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>ANNO 1404 Venedig</Text>
+                      <LastFinalText>ANNO 1404 Venedig</LastFinalText>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Text>ANNO 1404 Venice</Text>
+                      <LastFinalText>ANNO 1404 Venice</LastFinalText>
+                      <Status>Final</Status>
+                    </English>
+                    <French>
+                      <Text>ANNO 1404 Venise</Text>
+                      <LastFinalText>ANNO 1404 Venise</LastFinalText>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Text>ANNO 1404 Venecia</Text>
+                      <LastFinalText>ANNO 1404 Venecia</LastFinalText>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Text>ANNO 1404 Venezia</Text>
+                      <LastFinalText>ANNO 1404 Venezia</LastFinalText>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Polish>
+                      <Text>ANNO 1404 Wenecja</Text>
+                      <LastFinalText>ANNO 1404 Wenecja</LastFinalText>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Text>ANNO 1404 Benátky</Text>
+                      <LastFinalText>ANNO 1404 Benátky</LastFinalText>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Text>ANNO 1404 Венеция</Text>
+                      <LastFinalText>ANNO 1404 Венеция</LastFinalText>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Text>Dawn of Discovery Venice</Text>
+                      <LastFinalText>Dawn of Discovery Venice</LastFinalText>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Text>Dawn of Discovery Venice</Text>
+                      <LastFinalText>ANNO 1404 Venice</LastFinalText>
+                      <Status>Edit</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Text>Dawn of Discovery Venice</Text>
+                      <LastFinalText>ANNO 1404 Venice</LastFinalText>
+                      <Status>Edit</Status>
+                    </FrenchUS>
+                  </LocaText>
+                </Text>
+              </Values>
+              <SubAssets>
+                <SubAsset>
+                  <GUIDOffset>10000000</GUIDOffset>
+                  <Values>
+                    <Standard />
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <FrenchUS>
+                          <Status>Final</Status>
+                        </FrenchUS>
+                        <English>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Czech>
+                          <Status>Final</Status>
+                        </Czech>
+                        <Russian>
+                          <Status>Final</Status>
+                        </Russian>
+                        <EnglishUS>
+                          <Status>Final</Status>
+                        </EnglishUS>
+                        <SpanishUS>
+                          <Status>Final</Status>
+                        </SpanishUS>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+                <SubAsset>
+                  <GUIDOffset>20000000</GUIDOffset>
+                  <Values>
+                    <Standard />
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <FrenchUS>
+                          <Status>Final</Status>
+                        </FrenchUS>
+                        <English>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Czech>
+                          <Status>Final</Status>
+                        </Czech>
+                        <Russian>
+                          <Status>Final</Status>
+                        </Russian>
+                        <EnglishUS>
+                          <Status>Final</Status>
+                        </EnglishUS>
+                        <SpanishUS>
+                          <Status>Final</Status>
+                        </SpanishUS>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+                <SubAsset>
+                  <GUIDOffset>30000000</GUIDOffset>
+                  <Values>
+                    <Standard />
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <FrenchUS>
+                          <Status>Final</Status>
+                        </FrenchUS>
+                        <English>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Czech>
+                          <Status>Final</Status>
+                        </Czech>
+                        <Russian>
+                          <Status>Final</Status>
+                        </Russian>
+                        <EnglishUS>
+                          <Status>Final</Status>
+                        </EnglishUS>
+                        <SpanishUS>
+                          <Status>Final</Status>
+                        </SpanishUS>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+                <SubAsset>
+                  <GUIDOffset>40000000</GUIDOffset>
+                  <Values>
+                    <Standard />
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <FrenchUS>
+                          <Status>Final</Status>
+                        </FrenchUS>
+                        <English>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Czech>
+                          <Status>Final</Status>
+                        </Czech>
+                        <Russian>
+                          <Status>Final</Status>
+                        </Russian>
+                        <EnglishUS>
+                          <Status>Final</Status>
+                        </EnglishUS>
+                        <SpanishUS>
+                          <Status>Final</Status>
+                        </SpanishUS>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+                <SubAsset>
+                  <GUIDOffset>50000000</GUIDOffset>
+                  <Values>
+                    <Standard />
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <FrenchUS>
+                          <Status>Final</Status>
+                        </FrenchUS>
+                        <English>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Czech>
+                          <Status>Final</Status>
+                        </Czech>
+                        <Russian>
+                          <Status>Final</Status>
+                        </Russian>
+                        <EnglishUS>
+                          <Status>Final</Status>
+                        </EnglishUS>
+                        <SpanishUS>
+                          <Status>Final</Status>
+                        </SpanishUS>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+                <SubAsset>
+                  <GUIDOffset>60000000</GUIDOffset>
+                  <Values>
+                    <Standard />
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <FrenchUS>
+                          <Status>Final</Status>
+                        </FrenchUS>
+                        <English>
+                          <Status>Final</Status>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                        </Italian>
+                        <Polish>
+                          <Status>Final</Status>
+                        </Polish>
+                        <Czech>
+                          <Status>Final</Status>
+                        </Czech>
+                        <Russian>
+                          <Status>Final</Status>
+                        </Russian>
+                        <EnglishUS>
+                          <Status>Final</Status>
+                        </EnglishUS>
+                        <SpanishUS>
+                          <Status>Final</Status>
+                        </SpanishUS>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </SubAsset>
+              </SubAssets>
+            </Asset>
+            <Asset>
+              <Template>Standard Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>41601001</GUID>
+                  <Version>Addon01</Version>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <SubAssets />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>http://anno.de.ubi.com/survey/survey1.html</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Standard Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>41601002</GUID>
+                  <Version>Addon01</Version>
+                  <LokaFlag>0</LokaFlag>
+                </Standard>
+                <SubAssets />
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>http://anno.de.ubi.com/survey/survey2.html</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

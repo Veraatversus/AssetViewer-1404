@@ -1,0 +1,4275 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Profil</Name>
+      <GUIDRangeMin>5301000</GUIDRangeMin>
+      <GUIDRangeMax>5301099</GUIDRangeMax>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5301000</GUID>
+              <Kommentar>FUNCTION_QUEST_REMINDER Doppelung ???</Kommentar>
+              <LokaFlag>0</LokaFlag>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] benötigt [THIRDPARTY_QUEST_WARES] für sein Experiment.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] benötigt [THIRDPARTY_QUEST_WARES] für sein Experiment.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] needs [THIRDPARTY_QUEST_WARES] for his experiment.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] needs [THIRDPARTY_QUEST_WARES] for his experiment.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a besoin de [THIRDPARTY_QUEST_WARES] pour son expérience.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a besoin de [THIRDPARTY_QUEST_WARES] pour son expérience.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] necesita [THIRDPARTY_QUEST_WARES] para su experimento.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] necesita [THIRDPARTY_QUEST_WARES] para su experimento.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha bisogno di [THIRDPARTY_QUEST_WARES] per il suo esperimento.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha bisogno di [THIRDPARTY_QUEST_WARES] per il suo esperimento.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5301001</GUID>
+              <Kommentar>FUNCTION_QUEST_REMINDER ???</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bittet Sie, die Ingredienzien für das Experiment in der erforderlichen Menge zu besorgen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bittet Sie, die Ingredienzien für das Experiment in der erforderlichen Menge zu besorgen.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] points out that you need to deliver the required amount of ingredients for the experiment.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] points out that you need to deliver the required amount of ingredients for the experiment.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] souligne que vous devez livrer la quantité d'ingrédients requise pour l'expérience.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] souligne que vous devez livrer la quantité d'ingrédients requise pour l'expérience.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te indica que tienes que entregar la cantidad de ingredientes requerida para el experimento.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te indica que tienes que entregar la cantidad de ingredientes requerida para el experimento.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fa notare che devi consegnare la quantità richiesta di ingredienti per l'esperimento.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fa notare che devi consegnare la quantità richiesta di ingredienti per l'esperimento.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5301002</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_COOLDOWN</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] benötigt noch etwas Zeit, um sein Labor vorzubereiten.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] benötigt noch etwas Zeit, um sein Labor vorzubereiten.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] needs more time to prepare his lab.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] needs more time to prepare his lab.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a besoin de plus de temps pour préparer son laboratoire.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a besoin de plus de temps pour préparer son laboratoire.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] necesita más tiempo para preparar su laboratorio.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] necesita más tiempo para preparar su laboratorio.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha bisogno di altro tempo per preparare il laboratorio.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha bisogno di altro tempo per preparare il laboratorio.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5301003</GUID>
+              <Kommentar>Warenübergabe angeboten (raus ??)</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] drängt auf die Übergabe der Inkredienzien.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] drängt auf die Übergabe der Inkredienzien.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] urgently needs the ingredients.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] urgently needs the ingredients.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a besoin de ces ingrédients de toute urgence.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a besoin de ces ingrédients de toute urgence.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] necesita urgentemente los ingredientes.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] necesita urgentemente los ingredientes.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha urgentemente bisogno degli ingredienti.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha urgentemente bisogno degli ingredienti.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5301004</GUID>
+              <Kommentar>FUNCTION_QUEST_FINISHED</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>In [THIRDPARTY_CITY] hat [THIRDPARTY_SENDER_PLAYER] sein Experiment erfolgreich abgeschlossen und Folgendes hergestellt:[THIRDPARTY_QUEST_REWARD]</Text>
+                  <LastFinalText>In [THIRDPARTY_CITY] hat [THIRDPARTY_SENDER_PLAYER] sein Experiment erfolgreich abgeschlossen und Folgendes hergestellt:[THIRDPARTY_QUEST_REWARD]</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] has successfully completed the experiment.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] has successfully completed the experiment.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a achevé son expérience avec succès.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a achevé son expérience avec succès.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha completado con éxito el experimento.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha completado con éxito el experimento.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha completato l'esperimento con successo.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha completato l'esperimento con successo.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5301005</GUID>
+              <Kommentar>FUNCTION_QUEST_FAILED</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>In [THIRDPARTY_CITY] ist das Experiment von [THIRDPARTY_SENDER_PLAYER] fehlgeschlagen. Das Ergebnis ist lediglich:[THIRDPARTY_QUEST_REWARD]</Text>
+                  <LastFinalText>In [THIRDPARTY_CITY] ist das Experiment von [THIRDPARTY_SENDER_PLAYER] fehlgeschlagen. Das Ergebnis ist lediglich:[THIRDPARTY_QUEST_REWARD]</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]'s experiment has failed.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]'s experiment has failed.</LastFinalText>
+                </English>
+                <French>
+                  <Text>L'expérience de [THIRDPARTY_SENDER_PLAYER] a échoué.</Text>
+                  <LastFinalText>L'expérience de [THIRDPARTY_SENDER_PLAYER] a échoué.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>El experimento de [THIRDPARTY_SENDER_PLAYER] ha fracasado.</Text>
+                  <LastFinalText>El experimento de [THIRDPARTY_SENDER_PLAYER] ha fracasado.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>L'esperimento di [THIRDPARTY_SENDER_PLAYER] non è riuscito.</Text>
+                  <LastFinalText>L'esperimento di [THIRDPARTY_SENDER_PLAYER] non è riuscito.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5301010</GUID>
+              <Kommentar>FUNCTION_RUNNING</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist mit seinem Experiment beschäftigt. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist mit seinem Experiment beschäftigt. </LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is busy with his experiment. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is busy with his experiment. </LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est occupé par son expérience. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est occupé par son expérience. </LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] está ocupado con su experimento. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está ocupado con su experimento. </LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è impegnato nell'esperimento. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è impegnato nell'esperimento. </LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <GUIDRangeMin>5301100</GUIDRangeMin>
+      <GUIDRangeMax>5301999</GUIDRangeMax>
+      <Groups>
+        <Group>
+          <Name>StandardQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301100</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Kostbare Fracht</Text>
+                      <LastFinalText>Kostbare Fracht</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Precious Cargo</Text>
+                      <LastFinalText>Precious Cargo</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Une cargaison précieuse</Text>
+                      <LastFinalText>Une cargaison précieuse</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Cargamento de gran valor</Text>
+                      <LastFinalText>Cargamento de gran valor</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Carico prezioso</Text>
+                      <LastFinalText>Carico prezioso</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301101</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hatte den Händler gewarnt, seine Lieferung behutsam zu transportieren. Nun ist es passiert. Mit einem riesigen Knall hat es dem Schiff den Bug zerrissen. Helfen Sie den armen Teufeln!</Text>
+                      <LastFinalText>[QUEST_SENDER] hatte den Händler gewarnt, seine Lieferung behutsam zu transportieren. Nun ist es passiert. Mit einem riesigen Knall hat es dem Schiff den Bug zerrissen. Helfen Sie den armen Teufeln!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301102</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Kraft des Faktischen</Text>
+                      <LastFinalText>Die Kraft des Faktischen</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The strength of fact</Text>
+                      <LastFinalText>The strength of fact</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La force des faits</Text>
+                      <LastFinalText>La force des faits</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La fuerza de los hechos</Text>
+                      <LastFinalText>La fuerza de los hechos</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La forza dei fatti</Text>
+                      <LastFinalText>La forza dei fatti</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301103</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Er hatte keine Ahnung, dass Steine so weit fliegen können, sonst hätte [QUEST_SENDER] sein Experiment nicht am Meer durchgeführt, und der Mast des Handelsschiffes wäre nicht gebrochen. Eilt zur Hilfe!</Text>
+                      <LastFinalText>Er hatte keine Ahnung, dass Steine so weit fliegen können, sonst hätte [QUEST_SENDER] sein Experiment nicht am Meer durchgeführt, und der Mast des Handelsschiffes wäre nicht gebrochen. Eilt zur Hilfe!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301104</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Für die Wissenschaft</Text>
+                      <LastFinalText>Für die Wissenschaft</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>All for Science</Text>
+                      <LastFinalText>All for Science</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Pour la science</Text>
+                      <LastFinalText>Pour la science</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Todo por la ciencia</Text>
+                      <LastFinalText>Todo por la ciencia</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Tutto per la scienza</Text>
+                      <LastFinalText>Tutto per la scienza</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301105</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Für die Wissenschaft müssen Opfer gebracht werden. Ein Händler, der [QUEST_SENDER] ein seltenes Kraut liefern sollte, nahm das allerdings recht wörtlich und warf die Lieferung wegen ihres Gestanks über Bord. Oh Schreck!</Text>
+                      <LastFinalText>Für die Wissenschaft müssen Opfer gebracht werden. Ein Händler, der [QUEST_SENDER] ein seltenes Kraut liefern sollte, nahm das allerdings recht wörtlich und warf die Lieferung wegen ihres Gestanks über Bord. Oh Schreck!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301106</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Große Liebe</Text>
+                      <LastFinalText>Große Liebe</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Great love</Text>
+                      <LastFinalText>Great love</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Un grand amour</Text>
+                      <LastFinalText>Un grand amour</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Gran amor</Text>
+                      <LastFinalText>Gran amor</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Grande amore</Text>
+                      <LastFinalText>Grande amore</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301107</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] wollte nur helfen, als er einem Seemann einen Liebestrank braute. Doch statt in die schöne Auftraggeberin hat dieser sich in die See verliebt und treibt nun selig im Meer. Rettet ihn und die hinterhergestürzte Dame</Text>
+                      <LastFinalText>[QUEST_SENDER] wollte nur helfen, als er einem Seemann einen Liebestrank braute. Doch statt in die schöne Auftraggeberin hat dieser sich in die See verliebt und treibt nun selig im Meer. Rettet ihn und die hinterhergestürzte Dame</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301108</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Schlaftrunken</Text>
+                      <LastFinalText>Schlaftrunken</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Drowsy</Text>
+                      <LastFinalText>Drowsy</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Somnolence</Text>
+                      <LastFinalText>Somnolence</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Somnolencia</Text>
+                      <LastFinalText>Somnolencia</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Sonnolenza</Text>
+                      <LastFinalText>Sonnolenza</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301109</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Einige Seemänner baten [QUEST_SENDER], einen Trank zu brauen, die ihnen dabei helfen sollte, des Nachts hellwach zu sein. Doch dieser wirkte sich nur auf den Körper aus, die geistesabwesend über Bord gingen.</Text>
+                      <LastFinalText>Einige Seemänner baten [QUEST_SENDER], einen Trank zu brauen, die ihnen dabei helfen sollte, des Nachts hellwach zu sein. Doch dieser wirkte sich nur auf den Körper aus, die geistesabwesend über Bord gingen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301110</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Gefahrentransport</Text>
+                      <LastFinalText>Gefahrentransport</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Hazardous Goods transport</Text>
+                      <LastFinalText>Hazardous Goods transport</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Transport de marchandises dangereuses</Text>
+                      <LastFinalText>Transport de marchandises dangereuses</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Transporte de bienes peligrosos</Text>
+                      <LastFinalText>Transporte de bienes peligrosos</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Trasporto Merci pericolose</Text>
+                      <LastFinalText>Trasporto Merci pericolose</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301111</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat eine mächtige Substanz entdeckt, die Mauern zum Einsturz bringen kann. Zur weiteren Untersuchung schickt er sie einem Freund. Nicht auszudenken, wenn sie in falsche Hände geriete!</Text>
+                      <LastFinalText>[QUEST_SENDER] hat eine mächtige Substanz entdeckt, die Mauern zum Einsturz bringen kann. Zur weiteren Untersuchung schickt er sie einem Freund. Nicht auszudenken, wenn sie in falsche Hände geriete!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301112</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Jahrhunderttrank</Text>
+                      <LastFinalText>Jahrhunderttrank</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Centenary drink</Text>
+                      <LastFinalText>Centenary drink</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La boisson du siècle</Text>
+                      <LastFinalText>La boisson du siècle</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Bebida centenaria</Text>
+                      <LastFinalText>Bebida centenaria</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Bevanda del centenario</Text>
+                      <LastFinalText>Bevanda del centenario</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301113</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Endlich, die Gestirne stehen günstig. Nur einmal alle hundert Jahre lässt sich dieser spezielle Trank brauen, doch die Ingredienzen sind dem Händler über Bord gegangen. [QUEST_SENDER] fleht Sie an, ihm zu helfen.</Text>
+                      <LastFinalText>Endlich, die Gestirne stehen günstig. Nur einmal alle hundert Jahre lässt sich dieser spezielle Trank brauen, doch die Ingredienzen sind dem Händler über Bord gegangen. [QUEST_SENDER] fleht Sie an, ihm zu helfen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301114</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Stein der Weisen I</Text>
+                      <LastFinalText>Stein der Weisen I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Philosopher's stone I</Text>
+                      <LastFinalText>The Philosopher's stone I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Pierre Philosophale I</Text>
+                      <LastFinalText>La Pierre Philosophale I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La piedra filosofal I</Text>
+                      <LastFinalText>La piedra filosofal I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Pietra filosofale I</Text>
+                      <LastFinalText>La Pietra filosofale I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301116</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Stein der Weisen II</Text>
+                      <LastFinalText>Stein der Weisen II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Philosopher's stone II</Text>
+                      <LastFinalText>The Philosopher's stone II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Pierre Philosophale II</Text>
+                      <LastFinalText>La Pierre Philosophale II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La piedra filosofal II</Text>
+                      <LastFinalText>La piedra filosofal II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Pietra filosofale II</Text>
+                      <LastFinalText>La Pietra filosofale II</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301117</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Alles scheint zu stimmen! Der Stein der Weisen - endlich kann er geschaffen werden. Doch dazu benötigt [QUEST_SENDER] Unmengen an Materialien. Er bittet Sie um Ihre Mithilfe.</Text>
+                      <LastFinalText>Alles scheint zu stimmen! Der Stein der Weisen - endlich kann er geschaffen werden. Doch dazu benötigt [QUEST_SENDER] Unmengen an Materialien. Er bittet Sie um Ihre Mithilfe.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Everything seems to be working out! The Philosopher's stone can finally be created but [QUEST_SENDER] needs a vast quantity of Material to do this and asks you to assist him.</Text>
+                      <LastFinalText>Everything seems to be working out! The Philosopher's stone can finally be created but [QUEST_SENDER] needs a vast quantity of Material to do this and asks you to assist him.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Tout se passe à merveille ! La Pierre philosophale peut enfin être créée ; pour cela, toutefois, [QUEST_SENDER] a besoin d'une grande quantité de Matériaux et vous demande de l'aider.</Text>
+                      <LastFinalText>Tout se passe à merveille ! La Pierre philosophale peut enfin être créée ; pour cela, toutefois, [QUEST_SENDER] a besoin d'une grande quantité de Matériaux et vous demande de l'aider.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>¡Parece que todo marcha sobre ruedas! Por fin se puede crear la piedra filosofal, pero para ello [QUEST_SENDER] necesita una cantidad ingente de material y te pide que lo ayudes.</Text>
+                      <LastFinalText>¡Parece que todo marcha sobre ruedas! Por fin se puede crear la piedra filosofal, pero para ello [QUEST_SENDER] necesita una cantidad ingente de material y te pide que lo ayudes.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Tutto sembra procedere per il meglio. La Pietra filosofale può finalmente essere creata, ma [QUEST_SENDER] ha bisogno di molto Materiale e chiede il tuo aiuto.</Text>
+                      <LastFinalText>Tutto sembra procedere per il meglio. La Pietra filosofale può finalmente essere creata, ma [QUEST_SENDER] ha bisogno di molto Materiale e chiede il tuo aiuto.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301118</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Stein der Weisen III</Text>
+                      <LastFinalText>Stein der Weisen III</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Philosopher's stone III</Text>
+                      <LastFinalText>The Philosopher's stone III</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Pierre Philosophale III</Text>
+                      <LastFinalText>La Pierre Philosophale III</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La piedra filosofal III</Text>
+                      <LastFinalText>La piedra filosofal III</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Pietra filosofale III</Text>
+                      <LastFinalText>La Pietra filosofale III</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301119</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Es scheint wie verhext. [QUEST_SENDER] ist mit seinem Arabisch am Ende, und die Zeit drängt - die Sterne warten nicht. Das Wissen dutzender Denker ist vonnöten. Er benötigt Bücher.</Text>
+                      <LastFinalText>Es scheint wie verhext. [QUEST_SENDER] ist mit seinem Arabisch am Ende, und die Zeit drängt - die Sterne warten nicht. Das Wissen dutzender Denker ist vonnöten. Er benötigt Bücher.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>It seems jinxed! [QUEST_SENDER] doesn't know where to turn, and time is pressing; the Stars will not wait! The knowledge of dozens of thinkers is required and he needs Books.</Text>
+                      <LastFinalText>It seems jinxed! [QUEST_SENDER] doesn't know where to turn, and time is pressing; the Stars will not wait! The knowledge of dozens of thinkers is required and he needs Books.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Quelle poisse ! [QUEST_SENDER] ne sait plus à quel saint se vouer, et le temps presse ; les Étoiles n'attendront pas ! La sagesse de dizaines d'Érudits est urgemment requise, et il a grand besoin de Livres.</Text>
+                      <LastFinalText>Quelle poisse ! [QUEST_SENDER] ne sait plus à quel saint se vouer, et le temps presse ; les Étoiles n'attendront pas ! La sagesse de dizaines d'Érudits est urgemment requise, et il a grand besoin de Livres.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>¡Tiene la negra! [QUEST_SENDER] no sabe qué hacer y el tiempo apremia; ¡las estrellas no esperan! Se requiere el saber de decenas de pensadores y necesita libros.</Text>
+                      <LastFinalText>¡Tiene la negra! [QUEST_SENDER] no sabe qué hacer y el tiempo apremia; ¡las estrellas no esperan! Se requiere el saber de decenas de pensadores y necesita libros.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Sembra una maledizione! [QUEST_SENDER] non sa a chi rivolgersi e il tempo stringe; le Stelle non attendono! È necessario il sapere di dozzine di pensatori e ha bisogno di Libri.</Text>
+                      <LastFinalText>Sembra una maledizione! [QUEST_SENDER] non sa a chi rivolgersi e il tempo stringe; le Stelle non attendono! È necessario il sapere di dozzine di pensatori e ha bisogno di Libri.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301120</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Stein der Weisen IV </Text>
+                      <LastFinalText>Stein der Weisen IV </LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Philosopher's stone IV</Text>
+                      <LastFinalText>The Philosopher's stone IV</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Pierre Philosophale IV</Text>
+                      <LastFinalText>La Pierre Philosophale IV</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La piedra filosofal IV</Text>
+                      <LastFinalText>La piedra filosofal IV</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Pietra filosofale IV</Text>
+                      <LastFinalText>La Pietra filosofale IV</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301122</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Stein der Weisen V </Text>
+                      <LastFinalText>Stein der Weisen V </LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Philosopher's stone V</Text>
+                      <LastFinalText>The Philosopher's stone V</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Pierre Philosophale V</Text>
+                      <LastFinalText>La Pierre Philosophale V</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La piedra filosofal V</Text>
+                      <LastFinalText>La piedra filosofal V</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Pietra filosofale V</Text>
+                      <LastFinalText>La Pietra filosofale V</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301123</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Quintessenz I</Text>
+                      <LastFinalText>Quintessenz I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Quintessence I</Text>
+                      <LastFinalText>Quintessence I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Quintessence I</Text>
+                      <LastFinalText>Quintessence I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Quinta esencia I</Text>
+                      <LastFinalText>Quinta esencia I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Quintessenza I</Text>
+                      <LastFinalText>Quintessenza I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301124</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Quintessenz II</Text>
+                      <LastFinalText>Quintessenz II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Quintessence II</Text>
+                      <LastFinalText>Quintessence II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Quintessence II</Text>
+                      <LastFinalText>Quintessence II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Quinta esencia II</Text>
+                      <LastFinalText>Quinta esencia II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Quintessenza II</Text>
+                      <LastFinalText>Quintessenza II</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301125</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Quintessenz III</Text>
+                      <LastFinalText>Quintessenz III</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Quintessence III</Text>
+                      <LastFinalText>Quintessence III</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Quintessence III</Text>
+                      <LastFinalText>Quintessence III</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Quinta esencia III</Text>
+                      <LastFinalText>Quinta esencia III</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Quintessenza III</Text>
+                      <LastFinalText>Quintessenza III</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301126</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein alter, weiser Freund [QUEST_SENDER]s liegt im Sterben. Doch der Alchemist will das nicht zulassen und einen Trank brauen, der dem Tode trotz. Bringen Sie ihm alles Nötige.</Text>
+                      <LastFinalText>Ein alter, weiser Freund [QUEST_SENDER]s liegt im Sterben. Doch der Alchemist will das nicht zulassen und einen Trank brauen, der dem Tode trotz. Bringen Sie ihm alles Nötige.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>An old, wise friend of [QUEST_SENDER]'s is on his deathbed. The Alchemist cannot accept that and concocts a Potion to try and save him. Fetch him everything he needs.</Text>
+                      <LastFinalText>An old, wise friend of [QUEST_SENDER]'s is on his deathbed. The Alchemist cannot accept that and concocts a Potion to try and save him. Fetch him everything he needs.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Un Érudit, ami de longue date d'[QUEST_SENDER], gît sur son lit de mort. L'Alchimiste ne peut accepter cela et concocte une Potion afin d'essayer de le sauver. Procurez-lui tous les ingrédients dont il a besoin.</Text>
+                      <LastFinalText>Un Érudit, ami de longue date d'[QUEST_SENDER], gît sur son lit de mort. L'Alchimiste ne peut accepter cela et concocte une Potion afin d'essayer de le sauver. Procurez-lui tous les ingrédients dont il a besoin.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Un viejo y sabio amigo de [QUEST_SENDER] yace en su lecho de muerte. El alquimista se niega a aceptarlo e idea una poción para intentar salvarlo. Consíguele todo lo que necesite.</Text>
+                      <LastFinalText>Un viejo y sabio amigo de [QUEST_SENDER] yace en su lecho de muerte. El alquimista se niega a aceptarlo e idea una poción para intentar salvarlo. Consíguele todo lo que necesite.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Un vecchio e saggio amico di [QUEST_SENDER] è sul letto di morte. L'Alchimista non può accettarlo e prepara una Pozione per cercare di salvarlo. Portagli tutto ciò che gli occorre.</Text>
+                      <LastFinalText>Un vecchio e saggio amico di [QUEST_SENDER] è sul letto di morte. L'Alchimista non può accettarlo e prepara una Pozione per cercare di salvarlo. Portagli tutto ciò che gli occorre.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301127</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] musste trotz aller Bemühungen einsehen, dass er außer einem versengten Bart alleine nichts erreicht. Ein befreundeter Alchemist soll helfen. Er hält sich in Ihrer Stadt auf.</Text>
+                      <LastFinalText>[QUEST_SENDER] musste trotz aller Bemühungen einsehen, dass er außer einem versengten Bart alleine nichts erreicht. Ein befreundeter Alchemist soll helfen. Er hält sich in Ihrer Stadt auf.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Despite all his efforts, [QUEST_SENDER] must realise that, apart from a singed beard, he cannot achieve anything alone. A friendly Alchemist living in your City must help him.</Text>
+                      <LastFinalText>Despite all his efforts, [QUEST_SENDER] must realise that, apart from a singed beard, he cannot achieve anything alone. A friendly Alchemist living in your City must help him.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>En dépit de tous ses efforts, [QUEST_SENDER] doit admettre qu'hormis une barbe roussie, il n'est parvenu à aucun résultat concret. Un Alchimiste amical demeurant dans votre Ville doit venir à son aide.</Text>
+                      <LastFinalText>En dépit de tous ses efforts, [QUEST_SENDER] doit admettre qu'hormis une barbe roussie, il n'est parvenu à aucun résultat concret. Un Alchimiste amical demeurant dans votre Ville doit venir à son aide.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>A pesar de sus esfuerzos, [QUEST_SENDER] debe entender que, aparte de quemarse la barba, no conseguirá nada sin ayuda. Un alquimista aliado de tu ciudad tiene que ayudarlo.</Text>
+                      <LastFinalText>A pesar de sus esfuerzos, [QUEST_SENDER] debe entender que, aparte de quemarse la barba, no conseguirá nada sin ayuda. Un alquimista aliado de tu ciudad tiene que ayudarlo.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Nonostante i suoi sforzi, [QUEST_SENDER] si rende conto che, a parte bruciarsi la barba, non può fare nulla da solo. Un Alchimista che vive nella tua Città deve aiutarlo.</Text>
+                      <LastFinalText>Nonostante i suoi sforzi, [QUEST_SENDER] si rende conto che, a parte bruciarsi la barba, non può fare nulla da solo. Un Alchimista che vive nella tua Città deve aiutarlo.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301128</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Es war vermessen zu glauben, ein Mensch, ganz gleich ob mit oder ohne Alchemie, könne dem Unaufhaltsamen trotzen. Gewähren Sie [QUEST_SENDER]s altem Freund das letzte Geleit.</Text>
+                      <LastFinalText>Es war vermessen zu glauben, ein Mensch, ganz gleich ob mit oder ohne Alchemie, könne dem Unaufhaltsamen trotzen. Gewähren Sie [QUEST_SENDER]s altem Freund das letzte Geleit.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>It was presumptuous to believe that a mere man could prevent the inevitable, with or without Alchemy. Pay your final respects to [QUEST_SENDER]'s old friend.</Text>
+                      <LastFinalText>It was presumptuous to believe that a mere man could prevent the inevitable, with or without Alchemy. Pay your final respects to [QUEST_SENDER]'s old friend.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Il était présomptueux de croire qu'un simple mortel pouvait empêcher l'inéluctable, avec ou sans Alchimie. Présentez vos derniers respects au vieil ami d'[QUEST_SENDER].</Text>
+                      <LastFinalText>Il était présomptueux de croire qu'un simple mortel pouvait empêcher l'inéluctable, avec ou sans Alchimie. Présentez vos derniers respects au vieil ami d'[QUEST_SENDER].</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Fue demasiado atrevido pensar que un solo hombre evitaría lo inevitable, con o sin alquimia. Ve a darle el último adiós al viejo amigo de [QUEST_SENDER].</Text>
+                      <LastFinalText>Fue demasiado atrevido pensar que un solo hombre evitaría lo inevitable, con o sin alquimia. Ve a darle el último adiós al viejo amigo de [QUEST_SENDER].</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>È stato presuntuoso credere che un singolo uomo potesse impedire l'inevitabile, con o senza Alchimia. Fai gli ultimi doverosi omaggi al vecchio amico di [QUEST_SENDER].</Text>
+                      <LastFinalText>È stato presuntuoso credere che un singolo uomo potesse impedire l'inevitabile, con o senza Alchimia. Fai gli ultimi doverosi omaggi al vecchio amico di [QUEST_SENDER].</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301158</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Um die Sterne dreht sich dieser Tage das Denken des Alchemisten. Eine einzigartige Sternenkonstellation bahnt sich an. Doch [QUEST_SENDER] muss sich sicher sein. Kartenmaterial muss mit dem Himmelszelt abgeglichen werden.</Text>
+                      <LastFinalText>Um die Sterne dreht sich dieser Tage das Denken des Alchemisten. Eine einzigartige Sternenkonstellation bahnt sich an. Doch [QUEST_SENDER] muss sich sicher sein. Kartenmaterial muss mit dem Himmelszelt abgeglichen werden.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Alchemist's thoughts are all focused on the Stars today. A unique stellar alignment is imminent, but [QUEST_SENDER] must be sure. He needs to compare the firmament to his charts of the heavens.</Text>
+                      <LastFinalText>The Alchemist's thoughts are all focused on the Stars today. A unique stellar alignment is imminent, but [QUEST_SENDER] must be sure. He needs to compare the firmament to his charts of the heavens.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Aujourd'hui, toutes les pensées de l'Alchimiste sont concentrées sur les Étoiles. Un alignement d'étoiles unique est imminent, mais [QUEST_SENDER] doit s'assurer de ne commettre aucune erreur. Il doit comparer le firmament à ses cartes des cieux.</Text>
+                      <LastFinalText>Aujourd'hui, toutes les pensées de l'Alchimiste sont concentrées sur les Étoiles. Un alignement d'étoiles unique est imminent, mais [QUEST_SENDER] doit s'assurer de ne commettre aucune erreur. Il doit comparer le firmament à ses cartes des cieux.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Hoy el alquimista solo puede pensar en las estrellas. Se avecina una nueva alineación astronómica, pero [QUEST_SENDER] debe asegurarse. Necesita comparar el firmamento con sus cartas astrales.</Text>
+                      <LastFinalText>Hoy el alquimista solo puede pensar en las estrellas. Se avecina una nueva alineación astronómica, pero [QUEST_SENDER] debe asegurarse. Necesita comparar el firmamento con sus cartas astrales.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Oggi tutti i pensieri dell'Alchimista sono rivolti alle Stelle. Un allineamento stellare unico è imminente, ma [QUEST_SENDER] deve esserne sicuro. Ha bisogno di studiare il firmamento con le sue carte stellari.</Text>
+                      <LastFinalText>Oggi tutti i pensieri dell'Alchimista sono rivolti alle Stelle. Un allineamento stellare unico è imminente, ma [QUEST_SENDER] deve esserne sicuro. Ha bisogno di studiare il firmamento con le sue carte stellari.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301121</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das geschriebene Wort birgt Macht. Doch um sie nutzen zu können, benötigt [QUEST_SENDER] eine entscheidende Substanz, die es in diesen Gefilden nicht gibt. Eine alte Karte soll Ihnen den Weg weisen.</Text>
+                      <LastFinalText>Das geschriebene Wort birgt Macht. Doch um sie nutzen zu können, benötigt [QUEST_SENDER] eine entscheidende Substanz, die es in diesen Gefilden nicht gibt. Eine alte Karte soll Ihnen den Weg weisen.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The written word has power, but to use it [QUEST_SENDER] requires a vital substance that cannot be found in these climes. An old Map should show you the way.</Text>
+                      <LastFinalText>The written word has power, but to use it [QUEST_SENDER] requires a vital substance that cannot be found in these climes. An old Map should show you the way.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Les écrits possèdent une grande puissance, mais pour exploiter celle-ci, [QUEST_SENDER] a besoin d'une substance essentielle qu'il ne peut trouver en ces contrées. Une vieille Carte devrait vous permettre de trouver votre route.</Text>
+                      <LastFinalText>Les écrits possèdent une grande puissance, mais pour exploiter celle-ci, [QUEST_SENDER] a besoin d'une substance essentielle qu'il ne peut trouver en ces contrées. Une vieille Carte devrait vous permettre de trouver votre route.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La palabra escrita tiene poder, pero para utilizarlo, [QUEST_SENDER] necesita una sustancia vital que no se encuentra en esta región. Un viejo mapa debería indicarte el camino.</Text>
+                      <LastFinalText>La palabra escrita tiene poder, pero para utilizarlo, [QUEST_SENDER] necesita una sustancia vital que no se encuentra en esta región. Un viejo mapa debería indicarte el camino.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La parola scritta ha un potere, ma per utilizzarla [QUEST_SENDER] ha bisogno di una sostanza vitale che non si trova in queste regioni. Una vecchia Mappa dovrebbe mostrarti la strada.</Text>
+                      <LastFinalText>La parola scritta ha un potere, ma per utilizzarla [QUEST_SENDER] ha bisogno di una sostanza vitale che non si trova in queste regioni. Una vecchia Mappa dovrebbe mostrarti la strada.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301159</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Es ist vollbracht. [QUEST_SENDER] hat den Stein der Weisen erschaffen und kann nun Gold herstellen. Doch hier ist der Stein jetzt nicht mehr sicher. Geleiten Sie ihn an einen geheimen Ort.</Text>
+                      <LastFinalText>Es ist vollbracht. [QUEST_SENDER] hat den Stein der Weisen erschaffen und kann nun Gold herstellen. Doch hier ist der Stein jetzt nicht mehr sicher. Geleiten Sie ihn an einen geheimen Ort.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>It is done! [QUEST_SENDER] has created the Philosopher's stone and can now produce Gold. But the Stone is no longer safe here; escort it to a secret location.</Text>
+                      <LastFinalText>It is done! [QUEST_SENDER] has created the Philosopher's stone and can now produce Gold. But the Stone is no longer safe here; escort it to a secret location.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>C'est fait ! [QUEST_SENDER] est parvenu à créer la Pierre philosophale et peut maintenant fabriquer de l'Or. Toutefois, la Pierre n'est plus en sécurité, ici ; escortez-la dans un endroit secret.</Text>
+                      <LastFinalText>C'est fait ! [QUEST_SENDER] est parvenu à créer la Pierre philosophale et peut maintenant fabriquer de l'Or. Toutefois, la Pierre n'est plus en sécurité, ici ; escortez-la dans un endroit secret.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>¡Lo ha logrado! [QUEST_SENDER] ha creado la piedra filosofal y ya puede producir oro. Pero la piedra ya no está segura aquí; llévala hasta un lugar secreto.</Text>
+                      <LastFinalText>¡Lo ha logrado! [QUEST_SENDER] ha creado la piedra filosofal y ya puede producir oro. Pero la piedra ya no está segura aquí; llévala hasta un lugar secreto.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>È fatta! [QUEST_SENDER] ha creato la Pietra filosofale e ora può ottenere l'Oro. Ma la Pietra non è al sicuro qui, scortala in un luogo segreto.</Text>
+                      <LastFinalText>È fatta! [QUEST_SENDER] ha creato la Pietra filosofale e ora può ottenere l'Oro. Ma la Pietra non è al sicuro qui, scortala in un luogo segreto.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301165</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Brennende Steine</Text>
+                      <LastFinalText>Brennende Steine</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Burning Stones</Text>
+                      <LastFinalText>Burning Stones</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Les pierres brûlantes</Text>
+                      <LastFinalText>Les pierres brûlantes</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Piedras ardientes</Text>
+                      <LastFinalText>Piedras ardientes</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Pietre di fuoco</Text>
+                      <LastFinalText>Pietre di fuoco</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301166</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] ist verzweifelt. Korsaren haben ihn gezwungen, ihnen eine Waffe zu bauen, die Steine brennen lässt. Sie müssen aufgehalten werden, ehe sie sie einsetzen.</Text>
+                      <LastFinalText>[QUEST_SENDER] ist verzweifelt. Korsaren haben ihn gezwungen, ihnen eine Waffe zu bauen, die Steine brennen lässt. Sie müssen aufgehalten werden, ehe sie sie einsetzen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301167</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Grüner Gral</Text>
+                      <LastFinalText>Grüner Gral</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Grail in green</Text>
+                      <LastFinalText>Grail in green</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Graal vert</Text>
+                      <LastFinalText>Le Graal vert</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El grial verde</Text>
+                      <LastFinalText>El grial verde</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Graal in verde</Text>
+                      <LastFinalText>Graal in verde</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301168</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] ist in heller Aufregung. Nach jahrelanger Suche hat er endlich einen Hinweis auf den Ort, an dem ein seltenes Kraut wächst, bekommen. Wegen seiner Nesselhaare sind Handwickeln unerlässlich.</Text>
+                      <LastFinalText>[QUEST_SENDER] ist in heller Aufregung. Nach jahrelanger Suche hat er endlich einen Hinweis auf den Ort, an dem ein seltenes Kraut wächst, bekommen. Wegen seiner Nesselhaare sind Handwickeln unerlässlich.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301169</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Vom Himmel hoch</Text>
+                      <LastFinalText>Vom Himmel hoch</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>From Heaven above</Text>
+                      <LastFinalText>From Heaven above</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Du haut des cieux</Text>
+                      <LastFinalText>Du haut des cieux</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Del mismo Cielo</Text>
+                      <LastFinalText>Del mismo Cielo</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Dai cieli lassù</Text>
+                      <LastFinalText>Dai cieli lassù</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301170</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Assistent [QUEST_SENDER]s war auf der Suche nach einem Stein, der vom Himmel gefallen ist. Doch seit er aufgebrochen ist, ward er nicht mehr gesehen. Suchen Sie ihn!</Text>
+                      <LastFinalText>Ein Assistent [QUEST_SENDER]s war auf der Suche nach einem Stein, der vom Himmel gefallen ist. Doch seit er aufgebrochen ist, ward er nicht mehr gesehen. Suchen Sie ihn!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301171</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Großer Sprung</Text>
+                      <LastFinalText>Großer Sprung</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Big jump</Text>
+                      <LastFinalText>Big jump</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le grand saut</Text>
+                      <LastFinalText>Le grand saut</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Un gran salto</Text>
+                      <LastFinalText>Un gran salto</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Grande salto</Text>
+                      <LastFinalText>Grande salto</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301172</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat ein neuartiges System entwickelt, Schiffe ohne Menschenhand zu Wasser zu lassen. Eine kleine Explosion sollte sie sanft ins Wasser hüpfen lassen. Leider fiel der Sprung etwas größer aus!</Text>
+                      <LastFinalText>[QUEST_SENDER] hat ein neuartiges System entwickelt, Schiffe ohne Menschenhand zu Wasser zu lassen. Eine kleine Explosion sollte sie sanft ins Wasser hüpfen lassen. Leider fiel der Sprung etwas größer aus!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301173</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Wer Wind sät</Text>
+                      <LastFinalText>Wer Wind sät</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Who sows wind</Text>
+                      <LastFinalText>Who sows wind</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le semeur de vent</Text>
+                      <LastFinalText>Le semeur de vent</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Quien siembra vientos...</Text>
+                      <LastFinalText>Quien siembra vientos...</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Chi semina vento</Text>
+                      <LastFinalText>Chi semina vento</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301174</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] ist verzweifelt. Seine Aufzeichnungen für einen Versuch, maschinell Wind zu erzeugen, wurden aufs Meer geweht. Es eilt, denn er braucht sie, um den Versuch abzubrechen.</Text>
+                      <LastFinalText>[QUEST_SENDER] ist verzweifelt. Seine Aufzeichnungen für einen Versuch, maschinell Wind zu erzeugen, wurden aufs Meer geweht. Es eilt, denn er braucht sie, um den Versuch abzubrechen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301175</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ikarus</Text>
+                      <LastFinalText>Ikarus</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Icarus</Text>
+                      <LastFinalText>Icarus</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Icare</Text>
+                      <LastFinalText>Icare</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Ícaro</Text>
+                      <LastFinalText>Ícaro</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Icaro</Text>
+                      <LastFinalText>Icaro</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301176</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hörte von einem Mann und seinem Sohn, die mit von Wachs zusammengehalten Flügeln den Ozean überqueren wollten. Leider stürzten sie bei Sonnenaufgang ins Meer. [QUEST_SENDER] will unbedingt mit ihnen sprechen.</Text>
+                      <LastFinalText>[QUEST_SENDER] hörte von einem Mann und seinem Sohn, die mit von Wachs zusammengehalten Flügeln den Ozean überqueren wollten. Leider stürzten sie bei Sonnenaufgang ins Meer. [QUEST_SENDER] will unbedingt mit ihnen sprechen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>FunctionQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301129</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bauer I</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301130</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bauer 2</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301131</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bauer 3</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301132</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bauer4</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301115</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bürger 1</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301133</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bürger 2</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301134</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bürger 3</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301135</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bürger 4</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301136</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bürger 5</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301137</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Bürger 6</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301138</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 1</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301139</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 1</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301140</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 2</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301141</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 3</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301142</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 4</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301143</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 5</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301144</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 2</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301145</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 3</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301146</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 4</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301147</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 5</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301148</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 6</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301149</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 7</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301150</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Patrizier 8</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301151</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 6</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301152</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 7</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301153</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 8</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301154</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 9</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301155</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 10</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301156</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 11</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5301157</GUID>
+                  <LokaFlag>0</LokaFlag>
+                  <Status>
+                    <German>
+                      <Status>Revised</Status>
+                    </German>
+                    <English>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Liefer_Adel 12</Text>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Helperquests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>FirstSelection</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5301160</GUID>
+                      <Kommentar>Questname</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Alchemistische Experimente</Text>
+                          <LastFinalText>Alchemistische Experimente</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>Alchemical Experiments</Text>
+                          <LastFinalText>Alchemical Experiments</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Expériences alchimiques</Text>
+                          <LastFinalText>Expériences alchimiques</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>Experimentos alquímicos</Text>
+                          <LastFinalText>Experimentos alquímicos</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Esperimenti di alchimia</Text>
+                          <LastFinalText>Esperimenti di alchimia</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5301161</GUID>
+                      <Kommentar>Infotext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Die Bereitstellung bestimmter Waren ermöglicht die Durchführung alchemistischer Experimente.</Text>
+                          <LastFinalText>Die Bereitstellung bestimmter Waren ermöglicht die Durchführung alchemistischer Experimente.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>The availability of certain Goods will enable alchemical Experiments to be carried out.</Text>
+                          <LastFinalText>The availability of certain Goods will enable alchemical Experiments to be carried out.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>La disponibilité de certaines Marchandises permettra de réaliser des Expériences alchimiques.</Text>
+                          <LastFinalText>La disponibilité de certaines Marchandises permettra de réaliser des Expériences alchimiques.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>La disponibilidad de ciertos bienes permitirá que se lleven a cabo ciertos experimentos alquímicos.</Text>
+                          <LastFinalText>La disponibilidad de ciertos bienes permitirá que se lleven a cabo ciertos experimentos alquímicos.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>La disponibilità di alcune Merci permetterà di eseguire Esperimenti di alchimia.</Text>
+                          <LastFinalText>La disponibilità di alcune Merci permetterà di eseguire Esperimenti di alchimia.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5301162</GUID>
+                      <Kommentar>Storytext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[QUEST_SENDER] und seine Gehilfen brüten tagein tagaus über alchemistischen Rezepturen. Binden Sie den Alchemistenturm mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Sorgen Sie dafür, dass die benötigten Zutaten vor Ort sind, und starten Sie im Gebäudemenü ein Experiment. Je mehr Waren Sie dafür einsetzen, desto größer die Erfolgsaussichten.[CR] [CR]Achtung! Bei den zerstreuten Alchemisten kommt es oft vor, dass ihre Versuche daneben gehen...</Text>
+                          <LastFinalText>[QUEST_SENDER] und seine Gehilfen brüten tagein tagaus über alchemistischen Rezepturen. Binden Sie den Alchemistenturm mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Sorgen Sie dafür, dass die benötigten Zutaten vor Ort sind, und starten Sie im Gebäudemenü ein Experiment. Je mehr Waren Sie dafür einsetzen, desto größer die Erfolgsaussichten.[CR] [CR]Achtung! Bei den zerstreuten Alchemisten kommt es oft vor, dass ihre Versuche daneben gehen...</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[QUEST_SENDER] and his helpers ponder over their alchemical Recipes day in, day out. Create a Road connection between the Alchemist's tower and one of your Trade buildings to take advantage of this![CR]Make sure that the required Goods are on site and start an Experiment in the Buildings menu. The more Goods you use for this, the greater your prospects of success.[CR]Warning! The Experiments these absent-minded Alchemists carry out may not always turn out as expected...</Text>
+                          <LastFinalText>[QUEST_SENDER] and his helpers ponder over their alchemical Recipes day in, day out. Create a Road connection between the Alchemist's tower and one of your Trade buildings to take advantage of this![CR]Make sure that the required Goods are on site and start an Experiment in the Buildings menu. The more Goods you use for this, the greater your prospects of success.[CR]Warning! The Experiments these absent-minded Alchemists carry out may not always turn out as expected...</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[QUEST_SENDER] et ses collaborateurs consacrent chaque jour de leur vie à l'élaboration de leurs Recettes alchimiques. Créez une Route entre la Tour de l'Alchimiste et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Assurez-vous que les Marchandises requises sont disponibles, puis démarrez une Expérience dans le menu Bâtiments. Plus vous consacrerez de Marchandises à cette Expérience, plus vos chances de réussite seront élevées.[CR]Attention ! Les Expériences que réalisent ces Alchimistes distraits ne produisent pas toujours les résultats attendus...</Text>
+                          <LastFinalText>[QUEST_SENDER] et ses collaborateurs consacrent chaque jour de leur vie à l'élaboration de leurs Recettes alchimiques. Créez une Route entre la Tour de l'Alchimiste et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Assurez-vous que les Marchandises requises sont disponibles, puis démarrez une Expérience dans le menu Bâtiments. Plus vous consacrerez de Marchandises à cette Expérience, plus vos chances de réussite seront élevées.[CR]Attention ! Les Expériences que réalisent ces Alchimistes distraits ne produisent pas toujours les résultats attendus...</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[QUEST_SENDER] y sus ayudantes se pasan un día sí y otro también trabajando en recetas alquímicas. ¡Crea un camino de acceso entre la torre del alquimista y uno de tus edificios comerciales para sacarle partido![CR]Asegúrate de tener los bienes necesarios y comienza un experimento desde el menú Edificios. Cuántos más bienes uses, más posibilidades de éxito tendrás.[CR]¡Cuidado! Los experimentos que llevan a cabo estos alquimistas despistados no siempre salen bien...</Text>
+                          <LastFinalText>[QUEST_SENDER] y sus ayudantes se pasan un día sí y otro también trabajando en recetas alquímicas. ¡Crea un camino de acceso entre la torre del alquimista y uno de tus edificios comerciales para sacarle partido![CR]Asegúrate de tener los bienes necesarios y comienza un experimento desde el menú Edificios. Cuántos más bienes uses, más posibilidades de éxito tendrás.[CR]¡Cuidado! Los experimentos que llevan a cabo estos alquimistas despistados no siempre salen bien...</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER] e i suoi aiutanti studiano ogni giorno Formule alchemiche. Crea una Strada che colleghi la Torre dell'alchimista a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Assicurati che le Merci necessarie siano sul luogo e inizia un Esperimento dal Menu Edifici. Più Merci userai, maggiori saranno le possibilità di successo.[CR]Attenzione! Gli Esperimenti di questi Alchimisti distratti non daranno sempre i risultati sperati...</Text>
+                          <LastFinalText>[QUEST_SENDER] e i suoi aiutanti studiano ogni giorno Formule alchemiche. Crea una Strada che colleghi la Torre dell'alchimista a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Assicurati che le Merci necessarie siano sul luogo e inizia un Esperimento dal Menu Edifici. Più Merci userai, maggiori saranno le possibilità di successo.[CR]Attenzione! Gli Esperimenti di questi Alchimisti distratti non daranno sempre i risultati sperati...</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Character Audio</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Alchemist</Sprecher>
+                      <Intonation>zerstreut</Intonation>
+                    </Sound>
+                    <Standard>
+                      <GUID>5301163</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Seid Ihr der Bote, der mir die Waren für mein Experiment...? Nein? Oh!</Text>
+                          <LastFinalText>Seid Ihr der Bote, der mir die Waren für mein Experiment...? Nein? Oh!</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>Are you the Messenger with the Goods I need for my Experiment...? No? Oh!</Text>
+                          <LastFinalText>Are you the Messenger with the Goods I need for my Experiment...? No? Oh!</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Êtes-vous le Messager qui m'apporte les Marchandises dont j'ai besoin pour mon Expérience... ? Non ? Oh !</Text>
+                          <LastFinalText>Êtes-vous le Messager qui m'apporte les Marchandises dont j'ai besoin pour mon Expérience... ? Non ? Oh !</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>¿Eres el mensajero que trae los bienes que necesito para mi experimento? ¿No? ¡Oh!</Text>
+                          <LastFinalText>¿Eres el mensajero que trae los bienes que necesito para mi experimento? ¿No? ¡Oh!</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Sei tu il Messaggero con le Merci necessarie al mio Esperimento...? No? Oh!</Text>
+                          <LastFinalText>Sei tu il Messaggero con le Merci necessarie al mio Esperimento...? No? Oh!</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>CharacterText</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Alchemist</Sprecher>
+                    </Sound>
+                    <Standard>
+                      <GUID>5301164</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] ist begierig darauf, neue Experimente zu starten, und benötigt dazu Ihre Hilfe.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist begierig darauf, neue Experimente zu starten, und benötigt dazu Ihre Hilfe.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] is eager to start new Experiments and needs your help to do it.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is eager to start new Experiments and needs your help to do it.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] a hâte de démarrer de nouvelles Expériences et a besoin de votre aide pour y parvenir.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a hâte de démarrer de nouvelles Expériences et a besoin de votre aide pour y parvenir.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] tiene muchas ganas de hacer experimentos nuevos y necesita tu ayuda para llevarlos a cabo.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] tiene muchas ganas de hacer experimentos nuevos y necesita tu ayuda para llevarlos a cabo.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] è ansioso di iniziare nuovi Esperimenti e per fare ciò ha bisogno del tuo aiuto.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è ansioso di iniziare nuovi Esperimenti e per fare ciò ha bisogno del tuo aiuto.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

@@ -1,0 +1,1940 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>CSP_11 Venezia (100 000 GUIDs) CANCEL</Name>
+      <GUIDRangeMin>40300000</GUIDRangeMin>
+      <GUIDRangeMax>40399999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/cpp_11.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>CSP_12 Vittorio (100 000 GUIDs) CANCEL</Name>
+      <GUIDRangeMin>40400000</GUIDRangeMin>
+      <GUIDRangeMax>40499999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/cpp_12.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>CSP_13 Bernard (100 000 GUIDs) CANCEL</Name>
+      <GUIDRangeMin>40500000</GUIDRangeMin>
+      <GUIDRangeMax>40599999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/cpp_13.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>NI_03 Giacomo (Venice) (100 000 GUIDs)</Name>
+      <GUIDRangeMin>40600000</GUIDRangeMin>
+      <GUIDRangeMax>40699999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/ni_03.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>FB_01 Spy (100 000 GUIDs)</Name>
+      <GUIDRangeMin>40700000</GUIDRangeMin>
+      <GUIDRangeMax>40709999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/fb_01.xml</FileName>
+      <Lazy>1</Lazy>
+    </Group>
+    <Group>
+      <Name>default Texte</Name>
+      <GUIDRangeMin>40710000</GUIDRangeMin>
+      <GUIDRangeMax>40719999</GUIDRangeMax>
+      <DefaultTemplate>CharacterText</DefaultTemplate>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710000</GUID>
+              <Kommentar>neg. Reaction of CSP on Espionage Actions</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] reagiert äußerst ungehalten auf Ihre Sabotageaktion.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] reagiert äußerst ungehalten auf Ihre Sabotageaktion.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is furious about about your act of sabotage.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is furious about about your act of sabotage.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] крайне возмущается вашим саботажем.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] крайне возмущается вашим саботажем.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est furieux de votre acte de sabotage.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est furieux de votre acte de sabotage.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tu acto de sabotaje ha enfurecido a [THIRDPARTY_SENDER_PLAYER].</Text>
+                  <LastFinalText>Tu acto de sabotaje ha enfurecido a [THIRDPARTY_SENDER_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è furente per la tua azione di sabotaggio.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è furente per la tua azione di sabotaggio.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] odczuwa wściekłość z powodu twoich aktów sabotażu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] odczuwa wściekłość z powodu twoich aktów sabotażu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Ta vaše sabotáž pořádně nadzvedla postavu jménem [THIRDPARTY_SENDER_PLAYER] ze židle.</Text>
+                  <LastFinalText>Ta vaše sabotáž pořádně nadzvedla postavu jménem [THIRDPARTY_SENDER_PLAYER] ze židle.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710001</GUID>
+              <Kommentar>CSP discovers infiltrated building of player</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Empört lässt [THIRDPARTY_SENDER_PLAYER] Ihren Schlupfwinkel ausräuchern.</Text>
+                  <LastFinalText>Empört lässt [THIRDPARTY_SENDER_PLAYER] Ihren Schlupfwinkel ausräuchern.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Thoroughly disgusted, [THIRDPARTY_SENDER_PLAYER] smokes out your Spy's hideout.</Text>
+                  <LastFinalText>Thoroughly disgusted, [THIRDPARTY_SENDER_PLAYER] smokes out your Spy's hideout.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>В гневе [THIRDPARTY_SENDER_PLAYER] приказывает выкурить вас из укрытия.</Text>
+                  <LastFinalText>В гневе [THIRDPARTY_SENDER_PLAYER] приказывает выкурить вас из укрытия.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Très en colère, [THIRDPARTY_SENDER_PLAYER] enfume votre repaire d'espion.</Text>
+                  <LastFinalText>Très en colère, [THIRDPARTY_SENDER_PLAYER] enfume votre repaire d'espion.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La indignación lleva a [THIRDPARTY_SENDER_PLAYER] a poner al descubierto el escondite de tu espía.</Text>
+                  <LastFinalText>La indignación lleva a [THIRDPARTY_SENDER_PLAYER] a poner al descubierto el escondite de tu espía.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>In preda a profondo disgusto, [THIRDPARTY_SENDER_PLAYER] rivela il nascondiglio della tua Spia.</Text>
+                  <LastFinalText>In preda a profondo disgusto, [THIRDPARTY_SENDER_PLAYER] rivela il nascondiglio della tua Spia.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z obrzydzeniem odkrywa kryjówkę twojego szpiega.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z obrzydzeniem odkrywa kryjówkę twojego szpiega.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s velkým odporem vyhání vašeho špeha z úkrytu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s velkým odporem vyhání vašeho špeha z úkrytu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710002</GUID>
+              <Kommentar>Town Acquisition Share of CSP city bought</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bemerkt ungehalten, dass Sie soeben einen Ratssitz in [THIRDPARTY_CITY] übernommen haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bemerkt ungehalten, dass Sie soeben einen Ratssitz in [THIRDPARTY_CITY] übernommen haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is furious to see that you just bought a seat on the City Council in [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is furious to see that you just bought a seat on the City Council in [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] негодует из-за того, что вы заняли место в совете города [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] негодует из-за того, что вы заняли место в совете города [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est furieux de voir que vous venez d'acheter un siège au Conseil municipal de [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est furieux de voir que vous venez d'acheter un siège au Conseil municipal de [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] no le gusta nada que hayas adquirido un puesto en el ayuntamiento de [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] no le gusta nada que hayas adquirido un puesto en el ayuntamiento de [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è furente dopo aver scoperto che hai appena ottenuto un seggio nel consiglio cittadino di [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è furente dopo aver scoperto che hai appena ottenuto un seggio nel consiglio cittadino di [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wpada we wściekłość, dowiedziawszy się, że kupiłeś sobie fotel w radzie miasta znanego jako [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wpada we wściekłość, dowiedziawszy się, że kupiłeś sobie fotel w radzie miasta znanego jako [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se dozvídá, že jste si koupil místo v radě města [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se dozvídá, že jste si koupil místo v radě města [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710003</GUID>
+              <Kommentar>Town Acquisition CSPs Share in any city bought MALE CSP</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] empört sich darüber, dass Sie einen seiner Ratssitze in [THIRDPARTY_CITY] übernommen haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] empört sich darüber, dass Sie einen seiner Ratssitze in [THIRDPARTY_CITY] übernommen haben.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] revolts because you bought one of his shares of [THIRDPARTY_CITY].</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710004</GUID>
+              <Kommentar>Town Acquisition Player: Takeover of CSP city success</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Aufgebracht erkennt [THIRDPARTY_SENDER_PLAYER], dass Sie den Stadtschlüssel von [THIRDPARTY_CITY] erworben und die Insel übernommen haben.</Text>
+                  <LastFinalText>Aufgebracht erkennt [THIRDPARTY_SENDER_PLAYER], dass Sie den Stadtschlüssel von [THIRDPARTY_CITY] erworben und die Insel übernommen haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is incensed at hearing that you have bought the key to the city, giving you lordship over [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is incensed at hearing that you have bought the key to the city, giving you lordship over [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] с возмущением узнает, что вы получили ключи от города [THIRDPARTY_CITY] и заняли остров.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] с возмущением узнает, что вы получили ключи от города [THIRDPARTY_CITY] и заняли остров.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est furieux que vous ayez acheté la clé de la ville et ainsi pris le contrôle de [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est furieux que vous ayez acheté la clé de la ville et ainsi pris le contrôle de [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] está que trina porque has adquirido la llave de la ciudad, lo que te da potestad sobre [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está que trina porque has adquirido la llave de la ciudad, lo que te da potestad sobre [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è fuori di sé dalla rabbia, ha saputo che hai ottenuto le chiavi della Città e hai quindi il dominio di [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è fuori di sé dalla rabbia, ha saputo che hai ottenuto le chiavi della Città e hai quindi il dominio di [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wpada w rozdrażnienie słysząc, że kupiłeś klucze do miasta, dzięki czemu [THIRDPARTY_CITY] znajduje się pod twymi rozkazami.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wpada w rozdrażnienie słysząc, że kupiłeś klucze do miasta, dzięki czemu [THIRDPARTY_CITY] znajduje się pod twymi rozkazami.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se dozvídá, že jste si koupil klíč, díky kterému jste získal lordství ve městě [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se dozvídá, že jste si koupil klíč, díky kterému jste získal lordství ve městě [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710005</GUID>
+              <Kommentar>Town Acquisition Player gets majority of shares</Kommentar>
+              <Version>LokaInconsistency</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Beunruhigt bemerkt [THIRDPARTY_SENDER_PLAYER], dass Sie die Mehrheit in der Ratsversammlung von [THIRDPARTY_CITY] übernommen haben.</Text>
+                  <LastFinalText>Beunruhigt bemerkt [THIRDPARTY_SENDER_PLAYER], dass Sie die Mehrheit in der Ratsversammlung von [THIRDPARTY_CITY] übernommen haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is alarmed at the realization that you now own the majority of Council Seats in [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is alarmed at the realization that you now own the majority of Council Seats in [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] тревожится из-за того, что вы получили большинство в совете города [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] тревожится из-за того, что вы получили большинство в совете города [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s'inquiète de voir que vous possédez maintenant la majorité des actions de [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s'inquiète de voir que vous possédez maintenant la majorité des actions de [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La alarma se ha apoderado de [THIRDPARTY_SENDER_PLAYER] al darse cuenta de que ahora tienes la mayor parte de los títulos de [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>La alarma se ha apoderado de [THIRDPARTY_SENDER_PLAYER] al darse cuenta de que ahora tienes la mayor parte de los títulos de [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è in allarme, ha realizzato che ora possiedi la maggioranza delle quote a [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è in allarme, ha realizzato che ora possiedi la maggioranza delle quote a [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] niepokoi się faktem, że posiadasz większościowe udziały w mieście: [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] niepokoi się faktem, że posiadasz większościowe udziały w mieście: [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si zděšeně uvědomuje, že teď ve městě [THIRDPARTY_CITY] vlastníte většinový podíl akcií.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si zděšeně uvědomuje, že teď ve městě [THIRDPARTY_CITY] vlastníte většinový podíl akcií.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710006</GUID>
+              <Kommentar>Town Acquisition CSPs Share in any city bought FEMALE CSP</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] empört sich darüber, dass Sie einen ihrer Ratssitze in [THIRDPARTY_CITY] übernommen haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] empört sich darüber, dass Sie einen ihrer Ratssitze in [THIRDPARTY_CITY] übernommen haben.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] revolts because you bought one of her shares of [THIRDPARTY_CITY].</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710007</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] überlässt Ihnen eine Entermannschaft, um das flüchtige Schiff zu kapern. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] überlässt Ihnen eine Entermannschaft, um das flüchtige Schiff zu kapern. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] has assigned you a boarding crew to help you capture the fleeing Ship.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] has assigned you a boarding crew to help you capture the fleeing Ship.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] передает вам абордажную команду, чтобы захватить корабль беглецов. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] передает вам абордажную команду, чтобы захватить корабль беглецов. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous a assigné un équipage pour vous aider à capturer le navire en fuite.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous a assigné un équipage pour vous aider à capturer le navire en fuite.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te ha asignado una tripulación para ayudarte a capturar el navío huido.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te ha asignado una tripulación para ayudarte a capturar el navío huido.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti ha assegnato una ciurma d'abbordaggio per aiutarti a catturare la Nave in fuga.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti ha assegnato una ciurma d'abbordaggio per aiutarti a catturare la Nave in fuga.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] przydziela ci załogę abordażową, która pomoże pojmać uciekający statek.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] przydziela ci załogę abordażową, która pomoże pojmać uciekający statek.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám přiděluje útočné družstvo, abyste společně zajali odplouvající loď.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám přiděluje útočné družstvo, abyste společně zajali odplouvající loď.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710008</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]s Güter wurden soeben verladen.[CR]Beeilen Sie sich, um die markierten Häfen vor Ihren Kontrahenten zu erreichen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]s Güter wurden soeben verladen.[CR]Beeilen Sie sich, um die markierten Häfen vor Ihren Kontrahenten zu erreichen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER]'s wares have been loaded. [CR]Hurry to deliver them to the indicated Harbours before your competitors.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER]'s wares have been loaded. [CR]Hurry to deliver them to the indicated Harbours before your competitors.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] грузит свои товары на ваш корабль. Доставьте их в обозначенную гавань вашего контрагента.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] грузит свои товары на ваш корабль. Доставьте их в обозначенную гавань вашего контрагента.</LastFinalText>
+                  <Status>Exported</Status>
+                </Russian>
+                <French>
+                  <Text>Les marchandises de [THIRDPARTY_SENDER_PLAYER] ont été chargées. [CR]Livrez-les dans les Ports indiqués avant vos concurrents.</Text>
+                  <LastFinalText>Les marchandises de [THIRDPARTY_SENDER_PLAYER] ont été chargées. [CR]Livrez-les dans les Ports indiqués avant vos concurrents.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Ya están cargados los bienes de [THIRDPARTY_SENDER_PLAYER]. [CR]Apresúrate a entregarlos en los puertos indicados antes que tus competidores.</Text>
+                  <LastFinalText>Ya están cargados los bienes de [THIRDPARTY_SENDER_PLAYER]. [CR]Apresúrate a entregarlos en los puertos indicados antes que tus competidores.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>I prodotti di [THIRDPARTY_SENDER_PLAYER] sono stati caricati. [CR]Affrettati a consegnarli nei Porti indicati prima dei tuoi concorrenti.</Text>
+                  <LastFinalText>I prodotti di [THIRDPARTY_SENDER_PLAYER] sono stati caricati. [CR]Affrettati a consegnarli nei Porti indicati prima dei tuoi concorrenti.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Załadowano towary, których odbiorcą jest [THIRDPARTY_SENDER_PLAYER]. [CR]Dostarcz je do wskazanych portów przed konkurentami.</Text>
+                  <LastFinalText>Załadowano towary, których odbiorcą jest [THIRDPARTY_SENDER_PLAYER]. [CR]Dostarcz je do wskazanych portów przed konkurentami.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Na vaši loď bylo naloženo zboží postavy jménem [THIRDPARTY_SENDER_PLAYER]. Doručte ho do vyznačených přístavů dříve než vaši konkurenti.</Text>
+                  <LastFinalText>Na vaši loď bylo naloženo zboží postavy jménem [THIRDPARTY_SENDER_PLAYER]. Doručte ho do vyznačených přístavů dříve než vaši konkurenti.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710009</GUID>
+              <Kommentar>DrittePartei-Meldung für die TradingRace-Quest, wenn man eine Station erreicht hat(auch die erste)</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] übergibt Ihnen Folgendes für [QUEST_RACE_STATION] : [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] übergibt Ihnen Folgendes für [QUEST_RACE_STATION] : [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] gives you the following for [QUEST_RACE_STATION] : [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] gives you the following for [QUEST_RACE_STATION] : [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] передает вам для пункта [QUEST_RACE_STATION] следующее: [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] передает вам для пункта [QUEST_RACE_STATION] следующее: [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous donne ceci pour [QUEST_RACE_STATION] : [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous donne ceci pour [QUEST_RACE_STATION] : [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te da lo siguiente para [QUEST_RACE_STATION]: [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te da lo siguiente para [QUEST_RACE_STATION]: [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti consegna quanto segue per [QUEST_RACE_STATION]: [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti consegna quanto segue per [QUEST_RACE_STATION]: [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[QUEST_RACE_STATION] - do tego portu powinny trafić towary, które przekazuje ci [THIRDPARTY_SENDER_PLAYER]: [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[QUEST_RACE_STATION] - do tego portu powinny trafić towary, które przekazuje ci [THIRDPARTY_SENDER_PLAYER]: [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám kvůli závodu [QUEST_RACE_STATION] daruje: [CR][QUEST_RACE_ITEM]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám kvůli závodu [QUEST_RACE_STATION] daruje: [CR][QUEST_RACE_ITEM]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710010</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER] ist erbost darüber, Sie in Führung zu sehen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER] ist erbost darüber, Sie in Führung zu sehen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is angry at seeing you in the lead.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is angry at seeing you in the lead.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER] гневается, увидев, что вы лидируете.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER] гневается, увидев, что вы лидируете.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fulmine de vous voir en tête.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fulmine de vous voir en tête.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] no le gusta verte llevar la delantera.</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] no le gusta verte llevar la delantera.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è furente perché sei al comando.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è furente perché sei al comando.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] denerwuje się widząc cię na prowadzeniu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] denerwuje się widząc cię na prowadzeniu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] naštvaně sleduje, že jste v čele.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] naštvaně sleduje, že jste v čele.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710011</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER] freut sich, Ihre Segl weit hinter sich zu sehen. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER] freut sich, Ihre Segl weit hinter sich zu sehen. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is happy about leaving you far behind them.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is happy about leaving you far behind them.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER] радуется, видя ваши паруса далеко позади. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER] радуется, видя ваши паруса далеко позади. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se réjouit de vous voir loin derrière.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se réjouit de vous voir loin derrière.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] le alegra dejarte atrás.</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] le alegra dejarte atrás.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è felice perché sei indietro.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è felice perché sei indietro.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] cieszy się z pozostawienia cię daleko w tyle.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] cieszy się z pozostawienia cię daleko w tyle.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] má radost, že tak zaostáváte.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] má radost, že tak zaostáváte.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710012</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] umgarnt Sie mit Schmeicheleien.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] umgarnt Sie mit Schmeicheleien.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] snares you in a web of flattery.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] snares you in a web of flattery.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] опутывает вас лестью.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] опутывает вас лестью.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous endort avec ses flatteries.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous endort avec ses flatteries.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te cubre de halagos.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te cubre de halagos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] tesse una tela di lusinghe attorno a te.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] tesse una tela di lusinghe attorno a te.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chwyta cię w sieć pochlebstw.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chwyta cię w sieć pochlebstw.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám maže med kolem úst.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám maže med kolem úst.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710013</GUID>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wirft Ihnen wüste Beleidigungen an den Kopf.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wirft Ihnen wüste Beleidigungen an den Kopf.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] insults you vilely.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] insults you vilely.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] призывает на вашу голову всевозможные бедствия.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] призывает на вашу голову всевозможные бедствия.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous insulte grossièrement.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous insulte grossièrement.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te insulta con vileza.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te insulta con vileza.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti insulta pesantemente.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti insulta pesantemente.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] obrzuca cię niegodziwymi obelgami.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] obrzuca cię niegodziwymi obelgami.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vás ošklivě uráží.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vás ošklivě uráží.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710014</GUID>
+              <Kommentar>Bettler abweisen pos CSP Reaktion</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] findet es völlig in Ordnung, dass Sie die Bettler abgewiesen haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] findet es völlig in Ordnung, dass Sie die Bettler abgewiesen haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] finds it quite in order that you sent the Beggars packing.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] finds it quite in order that you sent the Beggars packing.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] считает, что вы правильно сделали, выслав из города нищих.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] считает, что вы правильно сделали, выслав из города нищих.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] trouve normal que vous ayez envoyé balader les mendiants.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] trouve normal que vous ayez envoyé balader les mendiants.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] le parece muy bien que eches a los mendigos.</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] le parece muy bien que eches a los mendigos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è d'accordo con la tua decisione di cacciare i Mendicanti.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è d'accordo con la tua decisione di cacciare i Mendicanti.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z uznaniem przyjmuje fakt, że wypędzasz żebraków.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z uznaniem przyjmuje fakt, że wypędzasz żebraków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chce, abyste ty žebráky vyhostil.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chce, abyste ty žebráky vyhostil.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710015</GUID>
+              <Kommentar>Bettler abweisen neg CSP Reaktion</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist enttäuscht, dass Sie so herzlos sind und die Bettler abweisen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist enttäuscht, dass Sie so herzlos sind und die Bettler abweisen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is disappointed to see you are callous enough to send the Beggars away.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is disappointed to see you are callous enough to send the Beggars away.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] разочарован тем, что вы так бессердечно выгнали из города нищих.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] разочарован тем, что вы так бессердечно выгнали из города нищих.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est déçu de voir que vous êtes assez insensible pour envoyer balader les mendiants.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est déçu de voir que vous êtes assez insensible pour envoyer balader les mendiants.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] le disgusta la crueldad que cometes echando a los mendigos.</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] le disgusta la crueldad que cometes echando a los mendigos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] non apprezza l'insensibilità che hai dimostrato cacciando i Mendicanti.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] non apprezza l'insensibilità che hai dimostrato cacciando i Mendicanti.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z rozczarowaniem patrzy, jak wypędzasz żebraków.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z rozczarowaniem patrzy, jak wypędzasz żebraków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nespokojeně sleduje, že jste měl to srdce poslat ty žebráky pryč.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nespokojeně sleduje, že jste měl to srdce poslat ty žebráky pryč.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710016</GUID>
+              <Kommentar>Bettler aufnehmen pos CSP Reaktion</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bemerkt, dass Sie Bettler in [THIRDPARTY_CITY] aufnehmen und bewundert Ihre Nächstenliebe.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bemerkt, dass Sie Bettler in [THIRDPARTY_CITY] aufnehmen und bewundert Ihre Nächstenliebe.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] sees that you admit Beggars to [THIRDPARTY_CITY] and is quite impressed by your charity. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] sees that you admit Beggars to [THIRDPARTY_CITY] and is quite impressed by your charity. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] отмечает, что вы приняли нищих в городе [THIRDPARTY_CITY], и восхищается вашей любовью к ближнему.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] отмечает, что вы приняли нищих в городе [THIRDPARTY_CITY], и восхищается вашей любовью к ближнему.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] voit que vous accueillez les mendiants à [THIRDPARTY_CITY] et admire votre charité. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] voit que vous accueillez les mendiants à [THIRDPARTY_CITY] et admire votre charité. </LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] admira tu caridad por admitir mendigos en [THIRDPARTY_CITY]. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] admira tu caridad por admitir mendigos en [THIRDPARTY_CITY]. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha notato che hai ammesso i Mendicanti a [THIRDPARTY_CITY] e trova sorprendente il tuo altruismo. </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha notato che hai ammesso i Mendicanti a [THIRDPARTY_CITY] e trova sorprendente il tuo altruismo. </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_CITY] - bramy tego miasta stoją dla żebraków otworem. Widząc to, [THIRDPARTY_SENDER_PLAYER] jest pod wrażeniem twojej dobroduszności.</Text>
+                  <LastFinalText>[THIRDPARTY_CITY] - bramy tego miasta stoją dla żebraków otworem. Widząc to, [THIRDPARTY_SENDER_PLAYER] jest pod wrażeniem twojej dobroduszności.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] zjišťuje, že jste do města jménem [THIRDPARTY_CITY] vpustil žebráky. Vaše dobrosrdečnost udělala velký dojem.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] zjišťuje, že jste do města jménem [THIRDPARTY_CITY] vpustil žebráky. Vaše dobrosrdečnost udělala velký dojem.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710017</GUID>
+              <Kommentar>Bettler aufnehmen neg CSP Reaktion</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] kann nicht glauben, dass Sie Bettler in [THIRDPARTY_CITY] herumlungern lassen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] kann nicht glauben, dass Sie Bettler in [THIRDPARTY_CITY] herumlungern lassen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] cannot believe that you admit Beggars to [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] cannot believe that you admit Beggars to [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] не может поверить, что вы впустили нищих в город [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] не может поверить, что вы впустили нищих в город [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] n'arrive pas à croire que vous accueilliez des mendiants à [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] n'arrive pas à croire que vous accueilliez des mendiants à [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] no se puede creer que admitas mendigos en [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] no se puede creer que admitas mendigos en [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] non riesce a credere che tu permetta ai Mendicanti di entrare a [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] non riesce a credere che tu permetta ai Mendicanti di entrare a [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_CITY] - bramy tego miasta stoją dla żebraków otworem. [THIRDPARTY_SENDER_PLAYER] nie wierzy własnym oczom.</Text>
+                  <LastFinalText>[THIRDPARTY_CITY] - bramy tego miasta stoją dla żebraków otworem. [THIRDPARTY_SENDER_PLAYER] nie wierzy własnym oczom.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nemůže uvěřit tomu, že jste do města jménem [THIRDPARTY_CITY] vpustil žebráky.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nemůže uvěřit tomu, že jste do města jménem [THIRDPARTY_CITY] vpustil žebráky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710018</GUID>
+              <Kommentar>Handel mit CSP pos Reaktion</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] begrüßt Ihre guten Handelsbeziehungen zu [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] begrüßt Ihre guten Handelsbeziehungen zu [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] welcomes your good trade relations with [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] welcomes your good trade relations with [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] радуется тому, как бойко торгуете вы и [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] радуется тому, как бойко торгуете вы и [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] approuve vos bonnes relations commerciales avec [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] approuve vos bonnes relations commerciales avec [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] aprueba tus buenas relaciones comerciales con [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] aprueba tus buenas relaciones comerciales con [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] apprezza i tuoi buoni rapporti commerciali con [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] apprezza i tuoi buoni rapporti commerciali con [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] cieszy się, że masz dobre relacje handlowe z osobą znaną jako [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] cieszy się, że masz dobre relacje handlowe z osobą znaną jako [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vítá vaše dobré obchodní vztahy s postavou jménem [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vítá vaše dobré obchodní vztahy s postavou jménem [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710019</GUID>
+              <Kommentar>Handel mit CSP neg Reaktion</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] missfallen Ihre guten Handelsbeziehungen zu [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] missfallen Ihre guten Handelsbeziehungen zu [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] disapproves of your good trade relations with [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] disapproves of your good trade relations with [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] гневается из-за того, как бойко торгуете вы и [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] гневается из-за того, как бойко торгуете вы и [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] désapprouve vos bonnes relations commerciales avec [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] désapprouve vos bonnes relations commerciales avec [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] desaprueba tus buenas relaciones comerciales con [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] desaprueba tus buenas relaciones comerciales con [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] disapprova i tuoi buoni rapporti commerciali con [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] disapprova i tuoi buoni rapporti commerciali con [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nie pochwala twoich dobrych relacji handlowych z osobą znaną jako [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nie pochwala twoich dobrych relacji handlowych z osobą znaną jako [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Postavě jménem [THIRDPARTY_SENDER_PLAYER] se nelíbí vaše dobré obchodní vztahy s postavou jménem [THIRDPARTY_THIRD_PLAYER].</Text>
+                  <LastFinalText>Postavě jménem [THIRDPARTY_SENDER_PLAYER] se nelíbí vaše dobré obchodní vztahy s postavou jménem [THIRDPARTY_THIRD_PLAYER].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710020</GUID>
+              <Kommentar>Bettler in Stadt pos Bevölkerungsfeedback Patrizier/Adlige</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein [THIRDPARTY_SENDER_PLAYER] spendet Ihnen [THIRDPARTY_TRIBUTE], aus Dankbarkeit, dass Sie keine Bettler in [THIRDPARTY_CITY] herumlungern lassen.</Text>
+                  <LastFinalText>Ein [THIRDPARTY_SENDER_PLAYER] spendet Ihnen [THIRDPARTY_TRIBUTE], aus Dankbarkeit, dass Sie keine Bettler in [THIRDPARTY_CITY] herumlungern lassen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] gives you [THIRDPARTY_TRIBUTE] in gratitude for your keeping Beggars from loitering in the streets of [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] gives you [THIRDPARTY_TRIBUTE] in gratitude for your keeping Beggars from loitering in the streets of [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] преподносит вам [THIRDPARTY_TRIBUTE] в знак благодарности за то, что вы не впустили нищих в город [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] преподносит вам [THIRDPARTY_TRIBUTE] в знак благодарности за то, что вы не впустили нищих в город [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un [THIRDPARTY_SENDER_PLAYER] vous donne [THIRDPARTY_TRIBUTE] pour vous remercier d'avoir empêché les Mendiants de rôder dans les rues de [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Un [THIRDPARTY_SENDER_PLAYER] vous donne [THIRDPARTY_TRIBUTE] pour vous remercier d'avoir empêché les Mendiants de rôder dans les rues de [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Un [THIRDPARTY_SENDER_PLAYER] te da lo siguiente como muestra de gratitud por evitar que los mendigos merodeen por las calles de [THIRDPARTY_CITY]: [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>Un [THIRDPARTY_SENDER_PLAYER] te da lo siguiente como muestra de gratitud por evitar que los mendigos merodeen por las calles de [THIRDPARTY_CITY]: [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un [THIRDPARTY_SENDER_PLAYER] ti dà [THIRDPARTY_TRIBUTE] in segno di gratitudine per aver tenuto lontani i Mendicanti dalle strade di [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Un [THIRDPARTY_SENDER_PLAYER] ti dà [THIRDPARTY_TRIBUTE] in segno di gratitudine per aver tenuto lontani i Mendicanti dalle strade di [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] oferuje ci [THIRDPARTY_TRIBUTE] w ramach wdzięczności za ulice wolne od żebraków w mieście [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] oferuje ci [THIRDPARTY_TRIBUTE] w ramach wdzięczności za ulice wolne od żebraków w mieście [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám na důkaz vděčnosti dává tribut [THIRDPARTY_TRIBUTE]. Je to za to, že jste nedovolil žebrákům, aby brázdili ulicemi města [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám na důkaz vděčnosti dává tribut [THIRDPARTY_TRIBUTE]. Je to za to, že jste nedovolil žebrákům, aby brázdili ulicemi města [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710021</GUID>
+              <Kommentar>Bettler in Stadt neg Bevölkerungsfeedback Patrizier/Adlige</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein [THIRDPARTY_SENDER_PLAYER] empört sich darüber, dass Sie Bettler in [THIRDPARTY_CITY] herumlungern lassen.</Text>
+                  <LastFinalText>Ein [THIRDPARTY_SENDER_PLAYER] empört sich darüber, dass Sie Bettler in [THIRDPARTY_CITY] herumlungern lassen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] is angry at hearing that you let Beggars stay in [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] is angry at hearing that you let Beggars stay in [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] возмущается тем, что вы впустили нищих в город [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] возмущается тем, что вы впустили нищих в город [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Les [THIRDPARTY_SENDER_PLAYER] fulminent d'entendre que vous avez laissé entrer des mendiants à [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fulmine d'entendre que vous avez laissé entrer des mendiants à [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Edit</Status>
+                </French>
+                <Spanish>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] no le ha gustado enterarse de que permites que haya mendigos en [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] no le ha gustado enterarse de que permites que haya mendigos en [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un furioso [THIRDPARTY_SENDER_PLAYER] è non gradisce la notizia che permetti ai Mendicanti di restare a [THIRDPARTY_CITY].</Text>
+                  <LastFinalText>Un furioso [THIRDPARTY_SENDER_PLAYER] è non gradisce la notizia che permetti ai Mendicanti di restare a [THIRDPARTY_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_CITY] - w tym mieście żebracy czują się, jak w domu. Widząc to, [THIRDPARTY_SENDER_PLAYER] bardzo się denerwuje.</Text>
+                  <LastFinalText>[THIRDPARTY_CITY] - w tym mieście żebracy czują się, jak w domu. Widząc to, [THIRDPARTY_SENDER_PLAYER] bardzo się denerwuje.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nespokojeně sleduje, jak jste ve městě jménem [THIRDPARTY_CITY] nechal žebráky.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nespokojeně sleduje, jak jste ve městě jménem [THIRDPARTY_CITY] nechal žebráky.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound>
+              <Sprecher>Bettler</Sprecher>
+            </Sound>
+            <Standard>
+              <GUID>40710022</GUID>
+              <Kommentar>Beggars invitation + Info (ADDON)</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein [THIRDPARTY_SENDER_PLAYER] bittet für sich und seine [THIRDPARTY_DATA] Kumpane um Aufnahme in [THIRDPARTY_CITY].[CR] [CR]Falls Sie sich allerdings dagegen entscheiden, will sich Ihre Bevölkerung mit etwa [THIRDPARTY_TRIBUTE] erkenntlich zeigen.</Text>
+                  <LastFinalText>Ein [THIRDPARTY_SENDER_PLAYER] bittet für sich und seine [THIRDPARTY_DATA] Kumpane um Aufnahme in [THIRDPARTY_CITY].[CR] [CR]Falls Sie sich allerdings dagegen entscheiden, will sich Ihre Bevölkerung mit etwa [THIRDPARTY_TRIBUTE] erkenntlich zeigen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A [THIRDPARTY_SENDER_PLAYER] asks you to allow him and his companions to stay in [THIRDPARTY_CITY].[CR]If you decline, your residents will pay you [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>A [THIRDPARTY_SENDER_PLAYER] asks you to allow him and his companions to stay in [THIRDPARTY_CITY].[CR]If you decline, your residents will pay you [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>Un [THIRDPARTY_SENDER_PLAYER] vous demande de l'accueillir avec ses compagnons à [THIRDPARTY_CITY]. Si vous refusez, vos citoyens vous paieront [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous demande de l'accueillir avec ses compagnons à [THIRDPARTY_CITY]. Si vous refusez, vos citoyens vous paieront [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Edit</Status>
+                </French>
+                <Spanish>
+                  <Text>Un [THIRDPARTY_SENDER_PLAYER] solicita que permitas que él y sus acompañantes se queden en [THIRDPARTY_CITY].[CR]Si no aceptas, tus habitantes te pagarán [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] solicita que permitas que él y sus acompañantes se queden en [THIRDPARTY_CITY].[CR]Si no aceptas, tus habitantes te pagarán [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un [THIRDPARTY_SENDER_PLAYER] ti chiede di consentire a lui e ai suoi compagni di rimanere a [THIRDPARTY_CITY]. Se rifiuti, i residenti ti pagheranno [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>Un [THIRDPARTY_SENDER_PLAYER] ti chiede di consentire a lui e ai suoi compagni di rimanere a [THIRDPARTY_CITY]. Se rifiuti, i residenti ti pagheranno [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_CITY] - w tym mieście pragnie zatrzymać się [THIRDPARTY_SENDER_PLAYER] i jego kompani.[CR]Jeśli odmówisz, mieszkańcy zapłacą ci [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>[THIRDPARTY_CITY] - w tym mieście pragnie zatrzymać się [THIRDPARTY_SENDER_PLAYER] i jego kompani.[CR]Jeśli odmówisz, mieszkańcy zapłacą ci [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] просит разрешить ему и его товарищам [THIRDPARTY_DATA] доступ в город [THIRDPARTY_CITY].[CR][CR]Если вы откажете, ваше население преподнесет вам небольшой дар, [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] просит разрешить ему и его товарищам [THIRDPARTY_DATA] доступ в город [THIRDPARTY_CITY].[CR][CR]Если вы откажете, ваше население преподнесет вам небольшой дар, [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vás žádá, abyste ho i s jeho společníky nechal ve městě jménem [THIRDPARTY_CITY].[CR]Pokud odmítnete, vaši obyvatelé vám zaplatí tribut [THIRDPARTY_TRIBUTE].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vás žádá, abyste ho i s jeho společníky nechal ve městě jménem [THIRDPARTY_CITY].[CR]Pokud odmítnete, vaši obyvatelé vám zaplatí tribut [THIRDPARTY_TRIBUTE].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1649905</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40710023</GUID>
+              <Kommentar>ESPIONAGE_REACTION_SPY_DETECTED</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] hat einen Ihrer Schergen ins Verlies werfen lassen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] hat einen Ihrer Schergen ins Verlies werfen lassen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] has had one of your spies thrown in the dungeon.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] has had one of your spies thrown in the dungeon.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] приказывает бросить одного из ваших шпионов в темницу.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] приказывает бросить одного из ваших шпионов в темницу.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a fait enfermer un de vos espions dans le donjon.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a fait enfermer un de vos espions dans le donjon.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha mandado a uno de tus espías a las mazmorras.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha mandado a uno de tus espías a las mazmorras.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha fatto rinchiudere nelle segrete una delle tue spie.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha fatto rinchiudere nelle segrete una delle tue spie.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wtrąca do lochu jednego z twoich szpiegów.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wtrąca do lochu jednego z twoich szpiegów.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] posílá jednoho z vašich špehů do žaláře.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] posílá jednoho z vašich špehů do žaláře.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Old CPPs New Quests</Name>
+      <GUIDRangeMin>40800000</GUIDRangeMin>
+      <GUIDRangeMax>40899999</GUIDRangeMax>
+      <FileName>addondata/config/TextEditor/CPP_Quests.xml</FileName>
+      <Lazy>1</Lazy>
+      <DefaultTemplate>QuestText</DefaultTemplate>
+    </Group>
+    <Group>
+      <Name>Feedback</Name>
+      <GUIDRangeMin>40720000</GUIDRangeMin>
+      <GUIDRangeMax>40720099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720000</GUID>
+              <Kommentar>FB Prophet</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... und Allah selbst sprach zu mir ...</Text>
+                  <LastFinalText>... und Allah selbst sprach zu mir ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… and Allah himself spoke to me …</Text>
+                  <LastFinalText>… and Allah himself spoke to me …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>и сам Аллах говорил со мной ...</Text>
+                  <LastFinalText>и сам Аллах говорил со мной ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et Allah lui-même m'a parlé...</Text>
+                  <LastFinalText>... et Allah lui-même m'a parlé...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... y el mismo Alá se dirigió a mí...</Text>
+                  <LastFinalText>... y el mismo Alá se dirigió a mí...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...e Allah in persona mi ha parlato... </Text>
+                  <LastFinalText>...e Allah in persona mi ha parlato... </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...i sam Allach przemówił do mnie...</Text>
+                  <LastFinalText>...i sam Allach przemówił do mnie...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... a promluvil ke mně sám Alláh...</Text>
+                  <LastFinalText>... a promluvil ke mně sám Alláh...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720001</GUID>
+              <Kommentar>FB Prophet</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Höret die Worte Allahs, des einzigen Gottes ...</Text>
+                  <LastFinalText>Höret die Worte Allahs, des einzigen Gottes ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Hear the words of Allah, the one true God …</Text>
+                  <LastFinalText>Hear the words of Allah, the one true God …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Слушайте слово Аллаха, бога единого ...</Text>
+                  <LastFinalText>Слушайте слово Аллаха, бога единого ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Entendez les paroles d'Allah, le seul vrai Dieu...</Text>
+                  <LastFinalText>Entendez les paroles d'Allah, le seul vrai Dieu...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Escucha las palabras de Alá, el único Dios verdadero...</Text>
+                  <LastFinalText>Escucha las palabras de Alá, el único Dios verdadero...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ascoltate le parole di Allah, l'unico vero Dio... </Text>
+                  <LastFinalText>Ascoltate le parole di Allah, l'unico vero Dio... </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Słuchajcie słów Allacha, jedynego prawdziwego Boga...</Text>
+                  <LastFinalText>Słuchajcie słów Allacha, jedynego prawdziwego Boga...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Slyšte slova Alláha, jediného opravdového Boha...</Text>
+                  <LastFinalText>Slyšte slova Alláha, jediného opravdového Boha...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720002</GUID>
+              <Kommentar>FB Prophet</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wer an meinen Worten zweifelt, zweifelt an Allah!</Text>
+                  <LastFinalText>Wer an meinen Worten zweifelt, zweifelt an Allah!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Who doubts my word, doubts Allah!</Text>
+                  <LastFinalText>Who doubts my word, doubts Allah!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Кто сомневается в моих словах, сомневается в Аллахе!</Text>
+                  <LastFinalText>Кто сомневается в моих словах, сомневается в Аллахе!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Qui doute de ma parole doute d'Allah !</Text>
+                  <LastFinalText>Qui doute de ma parole doute d'Allah !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Quien duda de mi palabra, duda de Alá!</Text>
+                  <LastFinalText>¡Quien duda de mi palabra, duda de Alá!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Chi dubita delle mie parole, dubita di Allah!</Text>
+                  <LastFinalText>Chi dubita delle mie parole, dubita di Allah!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Ten, kto wątpi w me słowa, wątpi w Allacha!</Text>
+                  <LastFinalText>Ten, kto wątpi w me słowa, wątpi w Allacha!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Kdo pochybuje o mých slovech, pochybuje i o Alláhovi!</Text>
+                  <LastFinalText>Kdo pochybuje o mých slovech, pochybuje i o Alláhovi!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720003</GUID>
+              <Kommentar>FB Prophet</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ich will Euch zurückbringen auf den rechten Pfad ...</Text>
+                  <LastFinalText>Ich will Euch zurückbringen auf den rechten Pfad ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>I am here to return you to the true path …</Text>
+                  <LastFinalText>I am here to return you to the true path …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Я верну вас на путь истинный!</Text>
+                  <LastFinalText>Я верну вас на путь истинный!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Je suis venu vous montrer le droit chemin...</Text>
+                  <LastFinalText>Je suis venu vous montrer le droit chemin...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Estoy aquí para devolverte al camino recto...</Text>
+                  <LastFinalText>Estoy aquí para devolverte al camino recto...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sono qui per riportarvi sulla giusta via... </Text>
+                  <LastFinalText>Sono qui per riportarvi sulla giusta via... </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Jestem tu po to, by poprowadzić was ścieżką prawdy...</Text>
+                  <LastFinalText>Jestem tu po to, by poprowadzić was ścieżką prawdy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Přišel jsem, abych vám ukázal správnou cestu...</Text>
+                  <LastFinalText>Přišel jsem, abych vám ukázal správnou cestu...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720004</GUID>
+              <Kommentar>FB Prophet</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... denn wer mir folgt, den wird Allah belohnen!</Text>
+                  <LastFinalText>... denn wer mir folgt, den wird Allah belohnen!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… for Allah will reward those who follow me!</Text>
+                  <LastFinalText>… for Allah will reward those who follow me!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>ибо кто последует за мной, того Аллах наградит!</Text>
+                  <LastFinalText>ибо кто последует за мной, того Аллах наградит!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... Car Allah récompensera ceux qui me suivent !</Text>
+                  <LastFinalText>... Car Allah récompensera ceux qui me suivent !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡... porque Alá recompensará a aquellos que me sigan!</Text>
+                  <LastFinalText>¡... porque Alá recompensará a aquellos que me sigan!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...poiché Allah ricompenserà coloro che mi seguiranno!</Text>
+                  <LastFinalText>...poiché Allah ricompenserà coloro che mi seguiranno!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...bo Allach wynagrodzi tych, którzy pójdą za mną!</Text>
+                  <LastFinalText>...bo Allach wynagrodzi tych, którzy pójdą za mną!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... neboť Alláh odmění ty, kteří mě budou následovat!</Text>
+                  <LastFinalText>... neboť Alláh odmění ty, kteří mě budou následovat!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720005</GUID>
+              <Kommentar>FB Revoluzzer</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Zeit ist gekommen, da ihr euch zur Wehr setzen müsst!</Text>
+                  <LastFinalText>Die Zeit ist gekommen, da ihr euch zur Wehr setzen müsst!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The time has come for you to stand up for your rights!</Text>
+                  <LastFinalText>The time has come for you to stand up for your rights!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Пришло время взяться за оружие!</Text>
+                  <LastFinalText>Пришло время взяться за оружие!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>L'heure est venue de défendre vos droits !</Text>
+                  <LastFinalText>L'heure est venue de défendre vos droits !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Ha llegado el tiempo de alzarse y reclamar lo propio por derecho!</Text>
+                  <LastFinalText>¡Ha llegado el tiempo de alzarse y reclamar lo propio por derecho!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>È giunta l'ora di affermare i vostri diritti!</Text>
+                  <LastFinalText>È giunta l'ora di affermare i vostri diritti!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Nadszedł czas walki o wasze prawa!</Text>
+                  <LastFinalText>Nadszedł czas walki o wasze prawa!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Nadešel čas, abyste se hlásili o svá práva!</Text>
+                  <LastFinalText>Nadešel čas, abyste se hlásili o svá práva!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720006</GUID>
+              <Kommentar>FB Revoluzzer</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ich sage nur eins: Revolution!</Text>
+                  <LastFinalText>Ich sage nur eins: Revolution!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>One word: Revolution!</Text>
+                  <LastFinalText>One word: Revolution!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Я скажу только одно: революция!</Text>
+                  <LastFinalText>Я скажу только одно: революция!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un seul mot : révolution !</Text>
+                  <LastFinalText>Un seul mot : révolution !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Una palabra: ¡revolución!</Text>
+                  <LastFinalText>Una palabra: ¡revolución!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Una parola: rivoluzione!</Text>
+                  <LastFinalText>Una parola: rivoluzione!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Jedno słowo: rewolucja!</Text>
+                  <LastFinalText>Jedno słowo: rewolucja!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Jedno slovo: Revoluce!</Text>
+                  <LastFinalText>Jedno slovo: Revoluce!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720007</GUID>
+              <Kommentar>FB Revoluzzer</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ihr habt die Macht, etwas zu verändern!</Text>
+                  <LastFinalText>Ihr habt die Macht, etwas zu verändern!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You have the power to change things!</Text>
+                  <LastFinalText>You have the power to change things!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>В ваших силах что-то изменить!</Text>
+                  <LastFinalText>В ваших силах что-то изменить!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez le pouvoir de changer les choses !</Text>
+                  <LastFinalText>Vous avez le pouvoir de changer les choses !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Tienes el poder de cambiar las cosas!</Text>
+                  <LastFinalText>¡Tienes el poder de cambiar las cosas!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Voi avete il potere di cambiare le cose!</Text>
+                  <LastFinalText>Voi avete il potere di cambiare le cose!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Możecie wszystko zmienić!</Text>
+                  <LastFinalText>Możecie wszystko zmienić!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Je ve vaší moci věci měnit!</Text>
+                  <LastFinalText>Je ve vaší moci věci měnit!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720008</GUID>
+              <Kommentar>FB Revoluzzer</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Steht auf gegen die, die euch unterdrücken!</Text>
+                  <LastFinalText>Steht auf gegen die, die euch unterdrücken!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Rise up against your oppressors!</Text>
+                  <LastFinalText>Rise up against your oppressors!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Восстаньте против тех, кто угнетает вас!</Text>
+                  <LastFinalText>Восстаньте против тех, кто угнетает вас!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Rebellez-vous contre vos oppresseurs !</Text>
+                  <LastFinalText>Rebellez-vous contre vos oppresseurs !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Álzate contra tus opresores!</Text>
+                  <LastFinalText>¡Álzate contra tus opresores!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Insorgete contro i vostri oppressori!</Text>
+                  <LastFinalText>Insorgete contro i vostri oppressori!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Powstańcie przeciw swoim ciemiężycielom!</Text>
+                  <LastFinalText>Powstańcie przeciw swoim ciemiężycielom!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Vzepřete se svým utlačovatelům!</Text>
+                  <LastFinalText>Vzepřete se svým utlačovatelům!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Feedback Audio</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>40720009</GUID>
+              <Kommentar>FB Revoluzzer</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Geht auf die Straße und fordert euer Recht!</Text>
+                  <LastFinalText>Geht auf die Straße und fordert euer Recht!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Take to the streets and demand your rights!</Text>
+                  <LastFinalText>Take to the streets and demand your rights!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Ступайте на улицы и требуйте то, что принадлежит вам по праву!</Text>
+                  <LastFinalText>Ступайте на улицы и требуйте то, что принадлежит вам по праву!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Descendez dans la rue et revendiquez vos droits !</Text>
+                  <LastFinalText>Descendez dans la rue et revendiquez vos droits !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Sal a las calles y reclama tus derechos!</Text>
+                  <LastFinalText>¡Sal a las calles y reclama tus derechos!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Scendete in piazza e rivendicate i vostri diritti!</Text>
+                  <LastFinalText>Scendete in piazza e rivendicate i vostri diritti!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Wyjdźcie na ulice i żądajcie swoich praw!</Text>
+                  <LastFinalText>Wyjdźcie na ulice i żądajcie swoich praw!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Vyražte do ulic a žádejte svá práva!</Text>
+                  <LastFinalText>Vyražte do ulic a žádejte svá práva!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>News Text</Template>
+          <Values>
+            <IngameMessage>
+              <Audios>
+                <Item>
+                  <AudioGUID>40720000</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720001</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720002</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720003</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720004</AudioGUID>
+                </Item>
+              </Audios>
+              <MsgSound>0</MsgSound>
+            </IngameMessage>
+            <Standard>
+              <GUID>40720010</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Audio_Prophet</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>News Text</Template>
+          <Values>
+            <IngameMessage>
+              <Audios>
+                <Item>
+                  <AudioGUID>40720005</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720006</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720007</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720008</AudioGUID>
+                </Item>
+                <Item>
+                  <AudioGUID>40720009</AudioGUID>
+                </Item>
+              </Audios>
+            </IngameMessage>
+            <Standard>
+              <GUID>40720011</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Audio_Revoluzzer</Text>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

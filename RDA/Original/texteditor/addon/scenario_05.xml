@@ -1,0 +1,2362 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41305000</GUIDRangeMin>
+      <GUIDRangeMax>41305019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41305000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Elysium</Text>
+                  <LastFinalText>Elysium</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Elysium</Text>
+                  <LastFinalText>Elysium</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Элизиум</Text>
+                  <LastFinalText>Элизиум</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Élysée</Text>
+                  <LastFinalText>Élysée</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Elíseo</Text>
+                  <LastFinalText>Elíseo</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Elisio</Text>
+                  <LastFinalText>Elisio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Elizjum</Text>
+                  <LastFinalText>Elizjum</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Elysium</Text>
+                  <LastFinalText>Elysium</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Diesmal erwartet Sie ein besonderer Auftrag: </Text>
+                  <LastFinalText>Diesmal erwartet Sie ein besonderer Auftrag: </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>This time a rather special mission awaits you: </Text>
+                  <LastFinalText>This time a rather special mission awaits you: </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>На этот раз вас ожидает особенное поручение: </Text>
+                  <LastFinalText>На этот раз вас ожидает особенное поручение: </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Cette fois une mission un peu spéciale vous attend :</Text>
+                  <LastFinalText>Cette fois une mission un peu spéciale vous attend :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Esta vez, te aguarda una misión muy especial: </Text>
+                  <LastFinalText>Esta vez, te aguarda una misión muy especial: </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Questa volta ti attende una missione piuttosto particolare:</Text>
+                  <LastFinalText>Questa volta ti attende una missione piuttosto particolare:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Tentokrát vás čeká speciální mise:</Text>
+                  <LastFinalText>Tentokrát vás čeká speciální mise:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Tym razem czeka cię wyjątkowe zadanie: </Text>
+                  <LastFinalText>Tym razem czeka cię wyjątkowe zadanie: </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305002</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie sollen eine Stadt für diejenigen errichten, ...</Text>
+                  <LastFinalText>Sie sollen eine Stadt für diejenigen errichten, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You are to build a city for those …</Text>
+                  <LastFinalText>You are to build a city for those …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы должны будете построить город, ...</Text>
+                  <LastFinalText>Вы должны будете построить город, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous devez bâtir une ville pour ceux...</Text>
+                  <LastFinalText>Vous devez bâtir une ville pour ceux...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>tienes que construir una ciudad para...</Text>
+                  <LastFinalText>tienes que construir una ciudad para...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Devi costruire una città per coloro...</Text>
+                  <LastFinalText>Devi costruire una città per coloro...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Budete stavět město pro ty,...</Text>
+                  <LastFinalText>Budete stavět město pro ty,...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Masz zbudować miasto dla ludzi...</Text>
+                  <LastFinalText>Masz zbudować miasto dla ludzi...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... die sich um das Kaiserreich verdient gemacht haben. </Text>
+                  <LastFinalText>... die sich um das Kaiserreich verdient gemacht haben. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… who have been of outstanding service to the empire. </Text>
+                  <LastFinalText>… who have been of outstanding service to the empire. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... достойный власти императора. </Text>
+                  <LastFinalText>... достойный власти императора. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... qui ont rendu des services exceptionnels à l'Empire.</Text>
+                  <LastFinalText>... qui ont rendu des services exceptionnels à l'Empire.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... quienes han rendido un servicio destacado al imperio. </Text>
+                  <LastFinalText>... quienes han rendido un servicio destacado al imperio. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...che si sono distinti al servizio dell'impero.</Text>
+                  <LastFinalText>...che si sono distinti al servizio dell'impero.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... kteří říši prokázali velké zásluhy. </Text>
+                  <LastFinalText>... kteří říši prokázali velké zásluhy. </LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…którzy wielce zasłużyli się Cesarstwu.</Text>
+                  <LastFinalText>…którzy wielce zasłużyli się Cesarstwu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Allerdings ist die Sache nicht ganz einfach.</Text>
+                  <LastFinalText>Allerdings ist die Sache nicht ganz einfach.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>However, things are not as simple as they may seem…</Text>
+                  <LastFinalText>However, things are not as simple as they may seem…</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Однако, все не так просто.</Text>
+                  <LastFinalText>Однако, все не так просто.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Toutefois, les choses ne sont pas aussi simples qu'elles en ont l'air.</Text>
+                  <LastFinalText>Toutefois, les choses ne sont pas aussi simples qu'elles en ont l'air.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Sin embargo, las cosas no son tan simples como parecen...</Text>
+                  <LastFinalText>Sin embargo, las cosas no son tan simples como parecen...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Tuttavia, le cose non sono facili come sembrano...</Text>
+                  <LastFinalText>Tuttavia, le cose non sono facili come sembrano...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Nicméně, není to tak jednoduché, jak to vypadá,...</Text>
+                  <LastFinalText>Nicméně, není to tak jednoduché, jak to vypadá,...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Jednak nie jest to takie proste, jak mogłoby się wydawać...</Text>
+                  <LastFinalText>Jednak nie jest to takie proste, jak mogłoby się wydawać...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Denn Seine Majestät hat der zukünftigen Bevölkerung für deren Treue ...</Text>
+                  <LastFinalText>Denn Seine Majestät hat der zukünftigen Bevölkerung für deren Treue ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...due to the fact that His Majesty promised the future inhabitants freedom</Text>
+                  <LastFinalText>...due to the fact that His Majesty promised the future inhabitants freedom</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Поскольку его величество обещал будущим жителям города за верность...</Text>
+                  <LastFinalText>Поскольку его величество обещал будущим жителям города за верность...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>En effet Sa Majesté a promis aux futurs habitants de cette ville d'être exonérés...</Text>
+                  <LastFinalText>En effet Sa Majesté a promis aux futurs habitants de cette ville d'être exonérés...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... porque Su Majestad prometió a los futuros habitantes de la localidad...</Text>
+                  <LastFinalText>... porque Su Majestad prometió a los futuros habitantes de la localidad...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...perché Sua Maestà ha promesso ai futuri abitanti l'esonero...</Text>
+                  <LastFinalText>...perché Sua Maestà ha promesso ai futuri abitanti l'esonero...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...neboť jeho veličenstvo slíbilo budoucím občanům...</Text>
+                  <LastFinalText>...neboť jeho veličenstvo slíbilo budoucím občanům...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…ponieważ Jego Wysokość obiecał przyszłym mieszkańcom zwolnienie</Text>
+                  <LastFinalText>…ponieważ Jego Wysokość obiecał przyszłym mieszkańcom zwolnienie</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... vollmundig den Erlass sämtlicher Steuern versprochen. </Text>
+                  <LastFinalText>... vollmundig den Erlass sämtlicher Steuern versprochen. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… from the taxes they normally would have to pay. </Text>
+                  <LastFinalText>… from the taxes they normally would have to pay. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... полностью освободить их от уплаты налогов. </Text>
+                  <LastFinalText>... полностью освободить их от уплаты налогов. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... des taxes qu'ils devraient normalement payer.</Text>
+                  <LastFinalText>... des taxes qu'ils devraient normalement payer.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... que no tendrían que pagar los impuestos habituales. </Text>
+                  <LastFinalText>... que no tendrían que pagar los impuestos habituales. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...dalle tasse che dovrebbero normalmente pagare.</Text>
+                  <LastFinalText>...dalle tasse che dovrebbero normalmente pagare.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... daňovou svobodu.</Text>
+                  <LastFinalText>... daňovou svobodu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...od podatków, które zwyczajowo musieliby płacić.</Text>
+                  <LastFinalText>...od podatków, które zwyczajowo musieliby płacić.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305007</GUID>
+              <Kommentar>Intro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie werden neue Wege finden müssen, ...</Text>
+                  <LastFinalText>Sie werden neue Wege finden müssen, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You will have to find new ways and means …</Text>
+                  <LastFinalText>You will have to find new ways and means …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Придется вам как-то иначе изыскивать средства, ...</Text>
+                  <LastFinalText>Придется вам как-то иначе изыскивать средства, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous devez trouver de nouveaux moyens...</Text>
+                  <LastFinalText>Vous devez trouver de nouveaux moyens...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tendrás que dar con formas y medios nuevos...</Text>
+                  <LastFinalText>Tendrás que dar con formas y medios nuevos...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Dovrai trovare nuovi modi e mezzi...</Text>
+                  <LastFinalText>Dovrai trovare nuovi modi e mezzi...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Budete muset najít nové způsoby a prostředky...</Text>
+                  <LastFinalText>Budete muset najít nové způsoby a prostředky...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Musisz znaleźć nowe sposoby...</Text>
+                  <LastFinalText>Musisz znaleźć nowe sposoby...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305008</GUID>
+              <Kommentar>Intro Text 8</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... um den Aufbau und die Versorgung Ihrer Stadt zu gewährleisten...</Text>
+                  <LastFinalText>... um den Aufbau und die Versorgung Ihrer Stadt zu gewährleisten...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… of developing and supplying your city...</Text>
+                  <LastFinalText>… of developing and supplying your city...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... для строительства города и обеспечения его всем необходимым...</Text>
+                  <LastFinalText>... для строительства города и обеспечения его всем необходимым...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... pour développer et ravitailler votre ville.</Text>
+                  <LastFinalText>... pour développer et ravitailler votre ville.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... para desarrollar y abastecer tu ciudad...</Text>
+                  <LastFinalText>... para desarrollar y abastecer tu ciudad...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>... per sviluppare la tua città e rifornirla...</Text>
+                  <LastFinalText>... per sviluppare la tua città e rifornirla...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... jak své město budovat a zásobovat...</Text>
+                  <LastFinalText>... jak své město budovat a zásobovat...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...rozwijania i zaopatrywania miasta...</Text>
+                  <LastFinalText>...rozwijania i zaopatrywania miasta...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305009</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Stadt, die Sie errichtet haben, ...</Text>
+                  <LastFinalText>Die Stadt, die Sie errichtet haben, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The city you built truly resembles …</Text>
+                  <LastFinalText>The city you built truly resembles …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Город, который вы построили, ...</Text>
+                  <LastFinalText>Город, который вы построили, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>La ville que vous avez bâtie ressemble...</Text>
+                  <LastFinalText>La ville que vous avez bâtie ressemble...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La ciudad que has construido se parece...</Text>
+                  <LastFinalText>La ciudad que has construido se parece...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La città che hai costruito sembra davvero...</Text>
+                  <LastFinalText>La città che hai costruito sembra davvero...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Město, které jste vybudoval, skutečně připomíná...</Text>
+                  <LastFinalText>Město, které jste vybudoval, skutečně připomíná...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zbudowane przez ciebie miasto jako żywo przypomina…</Text>
+                  <LastFinalText>Zbudowane przez ciebie miasto jako żywo przypomina…</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305010</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... gleicht einem Garten Eden, wo Milch und Honig fließen! </Text>
+                  <LastFinalText>... gleicht einem Garten Eden, wo Milch und Honig fließen! </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… a Garden of Eden, a land of milk and honey! </Text>
+                  <LastFinalText>… a Garden of Eden, a land of milk and honey! </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... напоминает райский сад, где текут молочные и медовые реки! </Text>
+                  <LastFinalText>... напоминает райский сад, где текут молочные и медовые реки! </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... à un paradis terrestre, une terre de lait et de miel !</Text>
+                  <LastFinalText>... à un paradis terrestre, une terre de lait et de miel !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... al jardín del Edén. ¡Una tierra rica y próspera! </Text>
+                  <LastFinalText>... al jardín del Edén. ¡Una tierra rica y próspera! </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...il Giardino dell'Eden, una terra di latte e miele!</Text>
+                  <LastFinalText>...il Giardino dell'Eden, una terra di latte e miele!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>... Rajskou zahradu, místo hojnosti!</Text>
+                  <LastFinalText>... Rajskou zahradu, místo hojnosti!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...Rajski Ogród, krainę mlekiem i miodem płynącą! </Text>
+                  <LastFinalText>...Rajski Ogród, krainę mlekiem i miodem płynącą! </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305011</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ihre Bevölkerung genießt das sorgenfreie Leben in vollen Zügen ...</Text>
+                  <LastFinalText>Ihre Bevölkerung genießt das sorgenfreie Leben in vollen Zügen ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Your population enjoys its carefree life to the fullest …</Text>
+                  <LastFinalText>Your population enjoys its carefree life to the fullest …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Жители города в полной мере наслаждаются своей беззаботной жизнью ...</Text>
+                  <LastFinalText>Жители города в полной мере наслаждаются своей беззаботной жизнью ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Votre population profite pleinement d'une vie insouciante... </Text>
+                  <LastFinalText>Votre population profite pleinement d'une vie insouciante... </LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tu población disfruta de una vida totalmente despreocupada...</Text>
+                  <LastFinalText>Tu población disfruta de una vida totalmente despreocupada...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La popolazione si goda appieno una vita priva di preoccupazioni...</Text>
+                  <LastFinalText>La popolazione si goda appieno una vita priva di preoccupazioni...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vaše populace si užívá svůj bezstarostný život naplno...</Text>
+                  <LastFinalText>Vaše populace si užívá svůj bezstarostný život naplno...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Twoi poddani cieszą się beztroskim życiem...</Text>
+                  <LastFinalText>Twoi poddani cieszą się beztroskim życiem...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305012</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... und lässt Sie und den Kaiser in rauschenden Festen ...</Text>
+                  <LastFinalText>... und lässt Sie und den Kaiser in rauschenden Festen ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>and praise you and the Emperor </Text>
+                  <LastFinalText>and praise you and the Emperor </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... и устраивают великолепные праздники, чтобы ...</Text>
+                  <LastFinalText>... и устраивают великолепные праздники, чтобы ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et vous couvre d'éloges, vous et l'Empereur,</Text>
+                  <LastFinalText>... et vous couvre d'éloges, vous et l'Empereur,</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... y os agasaja a ti y al Emperador... </Text>
+                  <LastFinalText>... y os agasaja a ti y al Emperador... </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>e glorifica te e l'Imperatore</Text>
+                  <LastFinalText>e glorifica te e l'Imperatore</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>a velebí vás i císaře</Text>
+                  <LastFinalText>a velebí vás i císaře</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>i chwalą ciebie i Cesarza </Text>
+                  <LastFinalText>i chwalą ciebie i Cesarza </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305013</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  für Ihre Großzügigkeit hochleben. </Text>
+                  <LastFinalText>...  für Ihre Großzügigkeit hochleben. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>in lavish celebrations. </Text>
+                  <LastFinalText>in lavish celebrations. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  восславить вас и императора за ваше великодушие. </Text>
+                  <LastFinalText>...  восславить вас и императора за ваше великодушие. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... dans des fêtes somptueuses.</Text>
+                  <LastFinalText>... dans des fêtes somptueuses.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... con espléndidas celebraciones. </Text>
+                  <LastFinalText>... con espléndidas celebraciones. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>con sontuose celebrazioni.</Text>
+                  <LastFinalText>con sontuose celebrazioni.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>při štědrých oslavách.</Text>
+                  <LastFinalText>při štědrých oslavách.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>podczas wielkich uczt. </Text>
+                  <LastFinalText>podczas wielkich uczt. </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305014</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie haben wahrhaftig ein Paradies auf Erden geschaffen!</Text>
+                  <LastFinalText>Sie haben wahrhaftig ein Paradies auf Erden geschaffen!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You have created a paradise indeed!</Text>
+                  <LastFinalText>You have created a paradise indeed!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Поистине, вы создали рай на Земле!</Text>
+                  <LastFinalText>Поистине, вы создали рай на Земле!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez vraiment créé un paradis !</Text>
+                  <LastFinalText>Vous avez vraiment créé un paradis !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Has creado un auténtico paraíso!</Text>
+                  <LastFinalText>¡Has creado un auténtico paraíso!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai creato un vero paradiso!</Text>
+                  <LastFinalText>Hai creato un vero paradiso!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Doopravdy se vám podařilo vytvořit ráj!</Text>
+                  <LastFinalText>Doopravdy se vám podařilo vytvořit ráj!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Rzeczywiście udało ci się stworzyć raj!</Text>
+                  <LastFinalText>Rzeczywiście udało ci się stworzyć raj!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <GUIDRangeMin>41305020</GUIDRangeMin>
+      <GUIDRangeMax>41305049</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41305020</GUID>
+              <Kommentar>Asset XY</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>(WIP) What the Tax? [GUID 41305000 VERWENDEN]</Text>
+                  <LastFinalText>(WIP) What the Tax? [GUID 41305000 VERWENDEN]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41305021</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>(WIP) Scenario 5</Text>
+                  <LastFinalText>(WIP) Scenario 5</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <GUIDRangeMin>41305050</GUIDRangeMin>
+      <GUIDRangeMax>41305099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>G(l)anz ohne Steuern</Text>
+                  <LastFinalText>G(l)anz ohne Steuern</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Tax-free paradise</Text>
+                  <LastFinalText>Tax-free paradise</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Без налогов</Text>
+                  <LastFinalText>Без налогов</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Paradis sans taxe</Text>
+                  <LastFinalText>Paradis sans taxe</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Paraíso fiscal</Text>
+                  <LastFinalText>Paraíso fiscal</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Paradiso senza tasse</Text>
+                  <LastFinalText>Paradiso senza tasse</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Daňový ráj</Text>
+                  <LastFinalText>Daňový ráj</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Raj podatkowy</Text>
+                  <LastFinalText>Raj podatkowy</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305051</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erreichen Sie 1404 Adlige, ohne das Ihr Volk Steuern bezahlt. [CR] STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Erreichen Sie 1404 Adlige, ohne das Ihr Volk Steuern bezahlt. [CR] STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Reach a population of 1404 Noblemen without levying any taxes.[CR] STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Reach a population of 1404 Noblemen without levying any taxes.[CR] STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Доведите количество дворян в городе до 1404, не облагая народ налогами. [CR] STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Доведите количество дворян в городе до 1404, не облагая народ налогами. [CR] STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Atteignez une population de 1404 Nobles sans imposer aucune taxe.[CR] STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Atteignez une population de 1404 Nobles sans imposer aucune taxe.[CR] STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alcanza una población de 1.404 nobles sin recaudar ningún impuesto.[CR] STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Alcanza una población de 1.404 nobles sin recaudar ningún impuesto.[CR] STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Raggiungi una popolazione di 1404 Nobili senza imporre tasse.[CR] STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Raggiungi una popolazione di 1404 Nobili senza imporre tasse.[CR] STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dosáhněte populace 1404 šlechticů, aniž byste vybral jedinou daň.[CR] [STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Dosáhněte populace 1404 šlechticů, aniž byste vybral jedinou daň.[CR] [STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Osiągnij populację 1404 Arystokratów nie podnosząc żadnych podatków.[CR] STANDARDTEXT VERWENDEN GUID 500585]</Text>
+                  <LastFinalText>Osiągnij populację 1404 Arystokratów nie podnosząc żadnych podatków.[CR] STANDARDTEXT VERWENDEN GUID 500585]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Aus Anerkennung will Seine Majestät für eine auserlesene Schar an Untertanen eine prunkvolle Stadt errichtet lassen, in der niemand Steuern zahlen muss. Des Kaisers Wunsch ist Ihr Befehl! Denn [QUEST_SENDER] hat Sie auserkoren, diesen hehren Plan in die Tat umzusetzen.[CR] [CR]Ohne Steuereinnahmen wird Ihr Vermögen nicht lange reichen. Suchen Sie andere Einnahmequellen. Ruhm, Handel und Errungenschaften werden Ihnen dabei helfen.</Text>
+                  <LastFinalText>Aus Anerkennung will Seine Majestät für eine auserlesene Schar an Untertanen eine prunkvolle Stadt errichtet lassen, in der niemand Steuern zahlen muss. Des Kaisers Wunsch ist Ihr Befehl! Denn [QUEST_SENDER] hat Sie auserkoren, diesen hehren Plan in die Tat umzusetzen.[CR] [CR]Ohne Steuereinnahmen wird Ihr Vermögen nicht lange reichen. Suchen Sie andere Einnahmequellen. Ruhm, Handel und Errungenschaften werden Ihnen dabei helfen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>In recognition of their outstanding services, His Majesty wants a city built for selected vassals of the Empire, a city where no one shall have to pay any taxes at all. The Emperor's wish is your command! For it is you [QUEST_SENDER] has chosen to realize this sublime plan.[CR] [CR]Without tax income your capital will not last for too long, so you will need to find some alternative sources of revenue. Fame, trading and attainments can be of great help here.</Text>
+                  <LastFinalText>In recognition of their outstanding services, His Majesty wants a city built for selected vassals of the Empire, a city where no one shall have to pay any taxes at all. The Emperor's wish is your command! For it is you [QUEST_SENDER] has chosen to realize this sublime plan.[CR] [CR]Without tax income your capital will not last for too long, so you will need to find some alternative sources of revenue. Fame, trading and attainments can be of great help here.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>В знак признательности его величество хочет построить для группы избранных подданных чудесный город, в котором никто не будет платить налоги. Желание императора для вас -- закон! [QUEST_SENDER] избрал вас, чтобы воплотить этот прекрасный план в жизнь.[CR] [CR]Но без налогов ваше процветание продлится недолго. Поищите другие источники доходов! Вам наверняка помогут слава, торговля и достижения.</Text>
+                  <LastFinalText>В знак признательности его величество хочет построить для группы избранных подданных чудесный город, в котором никто не будет платить налоги. Желание императора для вас -- закон! [QUEST_SENDER] избрал вас, чтобы воплотить этот прекрасный план в жизнь.[CR] [CR]Но без налогов ваше процветание продлится недолго. Поищите другие источники доходов! Вам наверняка помогут слава, торговля и достижения.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>En reconnaissance de leurs services exceptionnels, Sa Majesté veut bâtir, pour certains vassaux de l'Empire, une ville où tous seront exonérés de taxes. Les désirs de l'Empereur sont des ordres ! Et c'est vous que [QUEST_SENDER] a choisi pour réaliser ce projet fantastique.[CR] [CR]Sans recette de taxe, votre capital s'épuisera très vite. Il vous faut donc trouver d'autres sources de revenue. Gloire, commerce et accomplissements vous seront d'une grande aide.</Text>
+                  <LastFinalText>En reconnaissance de leurs services exceptionnels, Sa Majesté veut bâtir, pour certains vassaux de l'Empire, une ville où tous seront exonérés de taxes. Les désirs de l'Empereur sont des ordres ! Et c'est vous que [QUEST_SENDER] a choisi pour réaliser ce projet fantastique.[CR] [CR]Sans recette de taxe, votre capital s'épuisera très vite. Il vous faut donc trouver d'autres sources de revenue. Gloire, commerce et accomplissements vous seront d'une grande aide.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Para vasallos selectos del imperio y en reconocimiento de sus extraordinarios servicios, Su Majestad quiere construir una ciudad en la que no haya que pagar ningún tipo de impuesto. ¡Y sus deseos son órdenes para ti! Tú eres el elegido de [QUEST_SENDER] para llevar a cabo su sublime plan.[CR] [CR]Sin recaudar impuestos, tu capital no durará mucho, así que debes buscar fuentes de ingresos alternativas. La fama, el comercio y los logros te pueden ser de gran ayuda.</Text>
+                  <LastFinalText>Para vasallos selectos del imperio y en reconocimiento de sus extraordinarios servicios, Su Majestad quiere construir una ciudad en la que no haya que pagar ningún tipo de impuesto. ¡Y sus deseos son órdenes para ti! Tú eres el elegido de [QUEST_SENDER] para llevar a cabo su sublime plan.[CR] [CR]Sin recaudar impuestos, tu capital no durará mucho, así que debes buscar fuentes de ingresos alternativas. La fama, el comercio y los logros te pueden ser de gran ayuda.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Come riconoscimento per i loro eccezionali servigi, Sua Maestà vuole che sia costruita una città per i vassalli scelti dell'Impero, una città in cui nessuno dovrà mai pagare alcuna tassa. E ogni desiderio dell'Imperatore è un ordine per te! Perché [QUEST_SENDER] ha scelto te per realizzare questo piano sublime.[CR] [CR]Senza le entrate delle tasse, il tuo capitale non durerà a lungo, quindi dovrai trovare delle fonti di profitto alternative. Fama, commercio e conseguimenti potranno esserti di grande aiuto.</Text>
+                  <LastFinalText>Come riconoscimento per i loro eccezionali servigi, Sua Maestà vuole che sia costruita una città per i vassalli scelti dell'Impero, una città in cui nessuno dovrà mai pagare alcuna tassa. E ogni desiderio dell'Imperatore è un ordine per te! Perché [QUEST_SENDER] ha scelto te per realizzare questo piano sublime.[CR] [CR]Senza le entrate delle tasse, il tuo capitale non durerà a lungo, quindi dovrai trovare delle fonti di profitto alternative. Fama, commercio e conseguimenti potranno esserti di grande aiuto.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Jeho veličenstvo chce vybraným vazalům za zásluhy říši vybudovat město. Takové, kde nikdo nebude muset platit daně. A císařovo přání budete mít na povel vy! Neboť [QUEST_SENDER] si pro uskutečnění svého impozantního plánu vybírá právě vás.[CR] [CR]Bez daňového příjmu vaše hlavní město moc dlouho nepřežije, to znamená, že si budete muset najít nějaké další zdroje příjmu. Mohly by se hodit sláva, obchod a vymoženosti.</Text>
+                  <LastFinalText>Jeho veličenstvo chce vybraným vazalům za zásluhy říši vybudovat město. Takové, kde nikdo nebude muset platit daně. A císařovo přání budete mít na povel vy! Neboť [QUEST_SENDER] si pro uskutečnění svého impozantního plánu vybírá právě vás.[CR] [CR]Bez daňového příjmu vaše hlavní město moc dlouho nepřežije, to znamená, že si budete muset najít nějaké další zdroje příjmu. Mohly by se hodit sláva, obchod a vymoženosti.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>W uznaniu ich zasług, Jego Wysokość chce zbudować miasto dla wybranych wasalów Cesarstwa, miasto, w którym nikt nie będzie płacił żadnych podatków. Życzenie Cesarza jest dla ciebie rozkazem! [QUEST_SENDER] wyznacza bowiem twą osobę do realizacji tego szczytnego planu.[CR] [CR]Bez dochodów podatkowych twój kapitał szybko się rozejdzie, więc musisz znaleźć inne źródła brzęczącej monety. Sława, handel i zdobycze, mogą w tym bardzo pomóc.</Text>
+                  <LastFinalText>W uznaniu ich zasług, Jego Wysokość chce zbudować miasto dla wybranych wasalów Cesarstwa, miasto, w którym nikt nie będzie płacił żadnych podatków. Życzenie Cesarza jest dla ciebie rozkazem! [QUEST_SENDER] wyznacza bowiem twą osobę do realizacji tego szczytnego planu.[CR] [CR]Bez dochodów podatkowych twój kapitał szybko się rozejdzie, więc musisz znaleźć inne źródła brzęczącej monety. Sława, handel i zdobycze, mogą w tym bardzo pomóc.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305053</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] verkündet den Wunsch des Kaisers, dass Sie eine Stadt gründen sollen, in der die Bevölkerung keine Steuern zahlen muss.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] verkündet den Wunsch des Kaisers, dass Sie eine Stadt gründen sollen, in der die Bevölkerung keine Steuern zahlen muss.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] announces the Emperor's wish: you shall build a city in which the population will not have to pay any taxes.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] announces the Emperor's wish: you shall build a city in which the population will not have to pay any taxes.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] сообщает вам, что император возжелал, чтобы вы построили город, в котором население не будет облагаться налогами.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] сообщает вам, что император возжелал, чтобы вы построили город, в котором население не будет облагаться налогами.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] annonce le souhait de l'Empereur : vous devez bâtir une ville dans laquelle la population ne devra payer aucune taxe.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] annonce le souhait de l'Empereur : vous devez bâtir une ville dans laquelle la population ne devra payer aucune taxe.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te comunica el deseo del Emperador: construirás una ciudad cuya población no tendrá que pagar impuestos.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te comunica el deseo del Emperador: construirás una ciudad cuya población no tendrá que pagar impuestos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti comunica il volere dell'Imperatore: dovrai costruire una città in cui la popolazione non dovrà pagare alcuna tassa.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti comunica il volere dell'Imperatore: dovrai costruire una città in cui la popolazione non dovrà pagare alcuna tassa.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] oznamuje přání císaře: postavte město, kde nebudou muset lidé platit vůbec žádné daně.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] oznamuje přání císaře: postavte město, kde nebudou muset lidé platit vůbec žádné daně.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ogłasza wolę Cesarza: zbuduj miasto, którego mieszkańcy nie będą płacić żadnych podatków.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ogłasza wolę Cesarza: zbuduj miasto, którego mieszkańcy nie będą płacić żadnych podatków.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305054</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als [THIRDPARTY_SENDER_PLAYER] sieht, welches Paradies Sie mit Ihrer Stadt geschaffen haben, ist er sehr bewegt.</Text>
+                  <LastFinalText>Als [THIRDPARTY_SENDER_PLAYER] sieht, welches Paradies Sie mit Ihrer Stadt geschaffen haben, ist er sehr bewegt.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is deeply touched when he sees the paradise your city has become.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is deeply touched when he sees the paradise your city has become.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] видит, какой райский уголок создали вы у себя в городе, он очень тронут.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] видит, какой райский уголок создали вы у себя в городе, он очень тронут.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est profondément touché lorsqu'il voit le paradis qu'est devenue votre ville.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est profondément touché lorsqu'il voit le paradis qu'est devenue votre ville.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] queda profundamente conmovido cuando ve que tu ciudad es un auténtico paraíso.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] queda profundamente conmovido cuando ve que tu ciudad es un auténtico paraíso.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si commuove profondamente nel vedere che paradiso sia diventata la tua città.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si commuove profondamente nel vedere che paradiso sia diventata la tua città.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] je hluboce dotčen, když vidí, jaký se stal z vašeho města ráj.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] je hluboce dotčen, když vidí, jaký se stal z vašeho města ráj.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wzrusza się, widząc jakim rajem stało się to miasto.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wzrusza się, widząc jakim rajem stało się to miasto.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ01_Reach_Nomad_Level</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305100</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein ehrenwertes Angebot</Text>
+                  <LastFinalText>Ein ehrenwertes Angebot</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>An honourable offer</Text>
+                  <LastFinalText>An honourable offer</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Почетное предложение:</Text>
+                  <LastFinalText>Почетное предложение:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Une proposition honnête</Text>
+                  <LastFinalText>Une proposition honnête</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Una oferta honorable</Text>
+                  <LastFinalText>Una oferta honorable</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un'offerta onorevole</Text>
+                  <LastFinalText>Un'offerta onorevole</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Čestná nabídka</Text>
+                  <LastFinalText>Čestná nabídka</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Honorowa propozycja</Text>
+                  <LastFinalText>Honorowa propozycja</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305101</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erreichen Sie [QUEST_VALUE 1] Nomaden, um Folgendes zu erhalten:</Text>
+                  <LastFinalText>Erreichen Sie [QUEST_VALUE 1] Nomaden, um Folgendes zu erhalten:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Reach a population of [QUEST_VALUE 1] nomads to receive:</Text>
+                  <LastFinalText>Reach a population of [QUEST_VALUE 1] nomads to receive:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Доведите количество кочевников до [QUEST_VALUE 1], чтобы достичь следующего:</Text>
+                  <LastFinalText>Доведите количество кочевников до [QUEST_VALUE 1], чтобы достичь следующего:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Atteignez une population de [QUEST_VALUE 1] Nomades pour recevoir :</Text>
+                  <LastFinalText>Atteignez une population de [QUEST_VALUE 1] Nomades pour recevoir :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alcanza una población de [QUEST_VALUE 1] nómadas para recibir:</Text>
+                  <LastFinalText>Alcanza una población de [QUEST_VALUE 1] nómadas para recibir:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Raggiungi una popolazione di [QUEST_VALUE 1] Nomadi per ricevere:</Text>
+                  <LastFinalText>Raggiungi una popolazione di [QUEST_VALUE 1] Nomadi per ricevere:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dosáhněte populace [QUEST_VALUE 1] nomádů, pokud chcete získat:</Text>
+                  <LastFinalText>Dosáhněte populace [QUEST_VALUE 1] nomádů, pokud chcete získat:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Osiągnij populację [QUEST_VALUE 1] Nomadów, aby otrzymać:</Text>
+                  <LastFinalText>Osiągnij populację [QUEST_VALUE 1] Nomadów, aby otrzymać:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305102</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als [QUEST_SENDER] von Ihrem kaiserlichen Auftrag erfährt, ist auch er gewillt, Sie tatkräftig zu unterstützen. Schließlich sind auch einige seiner Landsleute unter den Glücklichen, die von der Großzügigkeit des Kaisers profitieren werden.</Text>
+                  <LastFinalText>Als [QUEST_SENDER] von Ihrem kaiserlichen Auftrag erfährt, ist auch er gewillt, Sie tatkräftig zu unterstützen. Schließlich sind auch einige seiner Landsleute unter den Glücklichen, die von der Großzügigkeit des Kaisers profitieren werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>When [QUEST_SENDER] hears of your task he willingly offers his help. After all, some of his fellow countrymen are amongst the chosen few who are to profit from the Emperor's generosity.</Text>
+                  <LastFinalText>When [QUEST_SENDER] hears of your task he willingly offers his help. After all, some of his fellow countrymen are amongst the chosen few who are to profit from the Emperor's generosity.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Как только [QUEST_SENDER] услышал о том, какое поручение получили вы от императора, он сразу же решил поддержать вас. В конце концов, среди счастливчиков, избранных императором, есть и его земляки.</Text>
+                  <LastFinalText>Как только [QUEST_SENDER] услышал о том, какое поручение получили вы от императора, он сразу же решил поддержать вас. В конце концов, среди счастливчиков, избранных императором, есть и его земляки.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Quand [QUEST_SENDER] entend parler de votre mission, il vous propose son aide. Après tout, certains de ses compatriotes font partie des quelques élus qui jouiront de la générosité de l'Empereur.</Text>
+                  <LastFinalText>Quand [QUEST_SENDER] entend parler de votre mission, il vous propose son aide. Après tout, certains de ses compatriotes font partie des quelques élus qui jouiront de la générosité de l'Empereur.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando [QUEST_SENDER] se entera de tu cometido, se ofrece encantado a ayudar. Después de todo, algunos de sus compatriotas están entre los pocos elegidos que se beneficiarán de la generosidad del Emperador.</Text>
+                  <LastFinalText>Cuando [QUEST_SENDER] se entera de tu cometido, se ofrece encantado a ayudar. Después de todo, algunos de sus compatriotas están entre los pocos elegidos que se beneficiarán de la generosidad del Emperador.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Quando [QUEST_SENDER] viene a conoscenza del tuo compito, si offre di aiutarti. Dopotutto, tra coloro che beneficeranno della generosità dell'Imperatore ci sono anche alcuni suoi compatrioti.</Text>
+                  <LastFinalText>Quando [QUEST_SENDER] viene a conoscenza del tuo compito, si offre di aiutarti. Dopotutto, tra coloro che beneficeranno della generosità dell'Imperatore ci sono anche alcuni suoi compatrioti.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Když se [QUEST_SENDER] dozvídá o vašem úkolu, s ochotou vám nabízí pomocnou ruku. Konec konců, někteří jeho krajané patří mezi tu hrstku vyvolených, kteří budou z císařovy štědrosti profitovat.</Text>
+                  <LastFinalText>Když se [QUEST_SENDER] dozvídá o vašem úkolu, s ochotou vám nabízí pomocnou ruku. Konec konců, někteří jeho krajané patří mezi tu hrstku vyvolených, kteří budou z císařovy štědrosti profitovat.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Gdy [QUEST_SENDER] dowiaduje się o twoim zadaniu, ochoczo proponuje swą pomoc. Przecież niektórzy z jego rodaków są wśród wybrańców, którzy zyskają na hojności Cesarza.</Text>
+                  <LastFinalText>Gdy [QUEST_SENDER] dowiaduje się o twoim zadaniu, ochoczo proponuje swą pomoc. Przecież niektórzy z jego rodaków są wśród wybrańców, którzy zyskają na hojności Cesarza.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ02_Reach_Embassador_Level</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305350</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Tiefe Dankbarkeit</Text>
+                  <LastFinalText>Tiefe Dankbarkeit</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Deep gratitude</Text>
+                  <LastFinalText>Deep gratitude</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Глубокая благодарность</Text>
+                  <LastFinalText>Глубокая благодарность</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Profonde reconnaissance</Text>
+                  <LastFinalText>Profonde reconnaissance</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Profunda gratitud</Text>
+                  <LastFinalText>Profunda gratitud</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Profonda gratitudine</Text>
+                  <LastFinalText>Profonda gratitudine</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Hluboký vděk</Text>
+                  <LastFinalText>Hluboký vděk</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Dozgonna wdzięczność</Text>
+                  <LastFinalText>Dozgonna wdzięczność</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305351</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erreichen Sie [QUEST_VALUE 1] Gesandte, um Folgendes zu erhalten:</Text>
+                  <LastFinalText>Erreichen Sie [QUEST_VALUE 1] Gesandte, um Folgendes zu erhalten:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Reach a population of [QUEST_VALUE 1] Envoys to receive:</Text>
+                  <LastFinalText>Reach a population of [QUEST_VALUE 1] Envoys to receive:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Доведите количество посланников до [QUEST_VALUE 1], чтобы достичь следующего:</Text>
+                  <LastFinalText>Доведите количество посланников до [QUEST_VALUE 1], чтобы достичь следующего:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Atteignez une population de [QUEST_VALUE 1] Émissaires pour recevoir :</Text>
+                  <LastFinalText>Atteignez une population de [QUEST_VALUE 1] Émissaires pour recevoir :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alcanza una población de [QUEST_VALUE 1] enviados para recibir:</Text>
+                  <LastFinalText>Alcanza una población de [QUEST_VALUE 1] enviados para recibir:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Raggiungi una popolazione di [QUEST_VALUE 1] Messi per ricevere:</Text>
+                  <LastFinalText>Raggiungi una popolazione di [QUEST_VALUE 1] Messi per ricevere:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dosáhněte populace [QUEST_VALUE 1] poslů, pokud chcete získat:</Text>
+                  <LastFinalText>Dosáhněte populace [QUEST_VALUE 1] poslů, pokud chcete získat:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Osiągnij populację [QUEST_VALUE 1] Arabskich osadników, aby otrzymać:</Text>
+                  <LastFinalText>Osiągnij populację [QUEST_VALUE 1] Arabskich osadników, aby otrzymać:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305352</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als [QUEST_SENDER] bemerkt, wie viele seiner Landsleute der Kaiser in seinem Plan bedacht hat, ist er ob dessen Großzügigkeit beschämt. Er bietet Ihnen erneut seine Hilfe an, um dem Befehl Seiner Majestät nachkommen zu können.</Text>
+                  <LastFinalText>Als [QUEST_SENDER] bemerkt, wie viele seiner Landsleute der Kaiser in seinem Plan bedacht hat, ist er ob dessen Großzügigkeit beschämt. Er bietet Ihnen erneut seine Hilfe an, um dem Befehl Seiner Majestät nachkommen zu können.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>When [QUEST_SENDER] realizes just how many of his fellow countrymen are acknowledged in the Emperor's plans, he feels almost ashamed at the Emperor's generosity. He offers his help in fulfilling your obligations.</Text>
+                  <LastFinalText>When [QUEST_SENDER] realizes just how many of his fellow countrymen are acknowledged in the Emperor's plans, he feels almost ashamed at the Emperor's generosity. He offers his help in fulfilling your obligations.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Когда [QUEST_SENDER] узнал, скольких его земляков император решил облагодетельствовать своим планом, он был пристыжен. Он снова предлагает помочь вам выполнить приказ Его Величества.</Text>
+                  <LastFinalText>Когда [QUEST_SENDER] узнал, скольких его земляков император решил облагодетельствовать своим планом, он был пристыжен. Он снова предлагает помочь вам выполнить приказ Его Величества.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Quand [QUEST_SENDER] réalise combien de ses compatriotes seront remerciés par l'Empereur, il se sent presque honteux de la générosité de l'Empereur. Il offre son aide afin de vous aider à remplir vos obligations.</Text>
+                  <LastFinalText>Quand [QUEST_SENDER] réalise combien de ses compatriotes seront remerciés par l'Empereur, il se sent presque honteux de la générosité de l'Empereur. Il offre son aide afin de vous aider à remplir vos obligations.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando [QUEST_SENDER] se da cuenta de cuántos de sus compatriotas están incluidos en los planes del Emperador, se siente abrumado por tanta generosidad. Por ello, se ofrece a ayudarte a cumplir tu cometido.</Text>
+                  <LastFinalText>Cuando [QUEST_SENDER] se da cuenta de cuántos de sus compatriotas están incluidos en los planes del Emperador, se siente abrumado por tanta generosidad. Por ello, se ofrece a ayudarte a cumplir tu cometido.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Quando [QUEST_SENDER] si rende conto di quanti suoi compatrioti sono coinvolti nei piani dell'Imperatore, si imbarazza di fronte alla generosità dell'Imperatore. Ti offre il suo aiuto per compiere il tuo dovere.</Text>
+                  <LastFinalText>Quando [QUEST_SENDER] si rende conto di quanti suoi compatrioti sono coinvolti nei piani dell'Imperatore, si imbarazza di fronte alla generosità dell'Imperatore. Ti offre il suo aiuto per compiere il tuo dovere.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Když si [QUEST_SENDER] uvědomuje, jen kolik jeho krajanů se hlásí k plánům císaře, skoro se za jeho štědrost stydí a nabízí vám při plnění vašich závazků pomocnou ruku.</Text>
+                  <LastFinalText>Když si [QUEST_SENDER] uvědomuje, jen kolik jeho krajanů se hlásí k plánům císaře, skoro se za jeho štědrost stydí a nabízí vám při plnění vašich závazků pomocnou ruku.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Gdy [QUEST_SENDER] dowiaduje się ilu jego rodaków jest objętych planem Cesarza, prawie zawstydza go hojność Cesarza. Proponuje pomoc w realizacji twoich zobowiązań.</Text>
+                  <LastFinalText>Gdy [QUEST_SENDER] dowiaduje się ilu jego rodaków jest objętych planem Cesarza, prawie zawstydza go hojność Cesarza. Proponuje pomoc w realizacji twoich zobowiązań.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ03_Reach Citizen Level</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305150</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Gutbürgerliche Vergütung</Text>
+                  <LastFinalText>Gutbürgerliche Vergütung</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Middle-class rewards</Text>
+                  <LastFinalText>Middle-class rewards</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Возмещение убытков</Text>
+                  <LastFinalText>Возмещение убытков</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Récompenses de classe moyenne</Text>
+                  <LastFinalText>Récompenses de classe moyenne</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Recompensas de clase media</Text>
+                  <LastFinalText>Recompensas de clase media</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ricompense per la medio-borghesia</Text>
+                  <LastFinalText>Ricompense per la medio-borghesia</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Odměny pro střední vrstvu</Text>
+                  <LastFinalText>Odměny pro střední vrstvu</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Nagrody klasy średniej</Text>
+                  <LastFinalText>Nagrody klasy średniej</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305151</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erreichen Sie [QUEST_VALUE 1] Bürger, um Folgendes zu erhalten:</Text>
+                  <LastFinalText>Erreichen Sie [QUEST_VALUE 1] Bürger, um Folgendes zu erhalten:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Reach a population of [QUEST_VALUE 1] Citizens to receive:</Text>
+                  <LastFinalText>Reach a population of [QUEST_VALUE 1] Citizens to receive:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Доведите количество горожан до [QUEST_VALUE 1], чтобы достичь следующего:</Text>
+                  <LastFinalText>Доведите количество горожан до [QUEST_VALUE 1], чтобы достичь следующего:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Atteignez une population de [QUEST_VALUE 1] Citoyens pour recevoir :</Text>
+                  <LastFinalText>Atteignez une population de [QUEST_VALUE 1] Citoyens pour recevoir :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alcanza una población de [QUEST_VALUE 1] ciudadanos para recibir:</Text>
+                  <LastFinalText>Alcanza una población de [QUEST_VALUE 1] ciudadanos para recibir:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Raggiungi una popolazione di [QUEST_VALUE 1] Cittadini per ricevere:</Text>
+                  <LastFinalText>Raggiungi una popolazione di [QUEST_VALUE 1] Cittadini per ricevere:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dosáhněte populace [QUEST_VALUE 1] občanů, pokud chcete získat:</Text>
+                  <LastFinalText>Dosáhněte populace [QUEST_VALUE 1] občanů, pokud chcete získat:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Osiągnij populację [QUEST_VALUE 1] Mieszczan, aby otrzymać:</Text>
+                  <LastFinalText>Osiągnij populację [QUEST_VALUE 1] Mieszczan, aby otrzymać:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305152</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER] weiß, dass des Kaisers Befehl etwas träumerisch ist. Daher will er Sie tatkräftig bei Ihrer schweren Aufgabe unterstützen und hat Ihnen das Zollrecht für Werkzeug zugesichert.[CR] [CR]Während [QUEST_SENDER] die Formalitäten erledigt, sollten Sie sich voll auf den Aufbau der Stadt konzentrieren.</Text>
+                  <LastFinalText>[QUEST_SENDER] weiß, dass des Kaisers Befehl etwas träumerisch ist. Daher will er Sie tatkräftig bei Ihrer schweren Aufgabe unterstützen und hat Ihnen das Zollrecht für Werkzeug zugesichert.[CR] [CR]Während [QUEST_SENDER] die Formalitäten erledigt, sollten Sie sich voll auf den Aufbau der Stadt konzentrieren.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER] knows the Emperor's orders are somewhat utopian. He wants to help you fulfill your obligations and has therefore granted you the right to levy customs duties on tools.[CR] [CR]While [QUEST_SENDER] takes care of the formalities, you should concentrate on developing your settlement.</Text>
+                  <LastFinalText>[QUEST_SENDER] knows the Emperor's orders are somewhat utopian. He wants to help you fulfill your obligations and has therefore grants you the right to levy customs duties on tools.[CR] [CR]While [QUEST_SENDER] takes care of the formalities, you should concentrate on developing your settlement.</LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] знает, что выполнить приказ императора очень и очень непросто. Чтобы помочь вам справиться с этим нелегким делом, он дарует вам таможенные льготы на инструменты.[CR] [CR]Покуда [QUEST_SENDER] будет заниматься формальностями, вы сможете полностью сосредоточиться на строительстве города.</Text>
+                  <LastFinalText>[QUEST_SENDER] знает, что выполнить приказ императора очень и очень непросто. Чтобы помочь вам справиться с этим нелегким делом, он дарует вам таможенные льготы на инструменты.[CR] [CR]Покуда [QUEST_SENDER] будет заниматься формальностями, вы сможете полностью сосредоточиться на строительстве города.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[QUEST_SENDER] a conscience que les ordres de l'Empereur relèvent quelque peu de l'utopie. Il veut vous aider à remplir vos obligations en vous autorisant à prélever des droits de douane sur les outils.[CR] [CR]Pendant que [QUEST_SENDER] s'occupe des formalités, concentrez-vous sur le développement de votre Colonie.</Text>
+                  <LastFinalText>[QUEST_SENDER] a conscience que les ordres de l'Empereur relèvent quelque peu de l'utopie. Il veut vous aider à remplir vos obligations en vous autorisant à prélever des droits de douane sur les outils.[CR] [CR]Pendant que [QUEST_SENDER] s'occupe des formalités, concentrez-vous sur le développement de votre Colonie.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[QUEST_SENDER] sabe que las órdenes del Emperador son un poco utópicas. Quiere ayudarte a cumplir con tu obligación y, por ello, te concede el derecho a gravar las herramientas con aranceles.[CR] [CR]Mientras [QUEST_SENDER] se ocupa de las formalidades, tú deberías centrarte en desarrollar tu asentamiento.</Text>
+                  <LastFinalText>[QUEST_SENDER] sabe que las órdenes del Emperador son un poco utópicas. Quiere ayudarte a cumplir con tu obligación y, por ello, te concede el derecho a gravar las herramientas con aranceles.[CR] [CR]Mientras [QUEST_SENDER] se ocupa de las formalidades, tú deberías centrarte en desarrollar tu asentamiento.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] è consapevole che gli ordini dell'Imperatore sono abbastanza utopistici. Vuole aiutarti a compiere il tuo dovere e ti concede quindi il diritto di riscuotere dazi doganali sugli attrezzi.[CR] [CR]Mentre [QUEST_SENDER] si occupa delle formalità, tu dovresti concentrarti sullo sviluppo dell'insediamento.</Text>
+                  <LastFinalText>[QUEST_SENDER] è consapevole che gli ordini dell'Imperatore sono abbastanza utopistici. Vuole aiutarti a compiere il tuo dovere e ti concede quindi il diritto di riscuotere dazi doganali sugli attrezzi.[CR] [CR]Mentre [QUEST_SENDER] si occupa delle formalità, tu dovresti concentrarti sullo sviluppo dell'insediamento.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] ví, že rozkazy císaře jsou vlastně utopické. Chce vám tedy pomoct vaše závazky splnit a uděluje vám právo uvalit clo na nářadí.[CR] [CR]Zatímco se [QUEST_SENDER] bude starat o formality, vy byste se měl soustředit na rozvoj osady.</Text>
+                  <LastFinalText>[QUEST_SENDER] ví, že rozkazy císaře jsou vlastně utopické. Chce vám tedy pomoct vaše závazky splnit a uděluje vám právo uvalit clo na nářadí.[CR] [CR]Zatímco se [QUEST_SENDER] bude starat o formality, vy byste se měl soustředit na rozvoj osady.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] zdaje sobie sprawę, że rozkazy Cesarza to swego rodzaju utopia. Chce pomóc ci w realizacji zobowiązań i daje ci prawo do nałożenia opłat celnych na narzędzia.[CR] [CR]Gdy [QUEST_SENDER] zajmie się formalnościami, ty skoncentruj się na rozwijaniu osady.</Text>
+                  <LastFinalText>[QUEST_SENDER] zdaje sobie sprawę, że rozkazy Cesarza to swego rodzaju utopia. Chce pomóc ci w realizacji zobowiązań i daje ci prawo do nałożenia opłat celnych na narzędzia.[CR] [CR]Gdy [QUEST_SENDER] zajmie się formalnościami, ty skoncentruj się na rozwijaniu osady.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305355</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Um Ihnen Ihre Aufgabe zu erleichtern, verspricht Ihnen [THIRDPARTY_SENDER_PLAYER] Folgendes, sobald Ihre Stadt gewachsen ist:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Um Ihnen Ihre Aufgabe zu erleichtern, verspricht Ihnen [THIRDPARTY_SENDER_PLAYER] Folgendes, sobald Ihre Stadt gewachsen ist:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>To makes things easier for you, [THIRDPARTY_SENDER_PLAYER] promises to give you the following as soon as your city expands:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>To makes things easier for you, [THIRDPARTY_SENDER_PLAYER] promises to give you the following as soon as your city expands:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Чтобы облегчить вам задачу, [THIRDPARTY_SENDER_PLAYER] обещает, что, как только ваш город разрастется, вы получите следующее:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Чтобы облегчить вам задачу, [THIRDPARTY_SENDER_PLAYER] обещает, что, как только ваш город разрастется, вы получите следующее:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Pour vous faciliter les choses, [THIRDPARTY_SENDER_PLAYER] vous promet de vous donner ce qui suit dès que votre ville se développera :[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Pour vous faciliter les choses, [THIRDPARTY_SENDER_PLAYER] vous promet de vous donner ce qui suit dès que votre ville se développera :[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Para facilitarte las cosas, [THIRDPARTY_SENDER_PLAYER] promete darte lo siguiente en cuanto tu ciudad se expanda:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Para facilitarte las cosas, [THIRDPARTY_SENDER_PLAYER] promete darte lo siguiente en cuanto tu ciudad se expanda:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Per facilitarti le cose, [THIRDPARTY_SENDER_PLAYER] promette di darti quanto segue non appena la città si espanderà:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Per facilitarti le cose, [THIRDPARTY_SENDER_PLAYER] promette di darti quanto segue non appena la città si espanderà:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám to chce ulehčit a slibuje, že jakmile se vaše město rozroste, dá vám:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám to chce ulehčit a slibuje, že jakmile se vaše město rozroste, dá vám:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Żeby ułatwić ci zadanie, [THIRDPARTY_SENDER_PLAYER] obiecuje, że gdy miasto się rozwinie, otrzymasz:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Żeby ułatwić ci zadanie, [THIRDPARTY_SENDER_PLAYER] obiecuje, że gdy miasto się rozwinie, otrzymasz:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305356</GUID>
+              <Kommentar>Quest FinishedText</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Über Ihre Fortschritte erfreut, lässt [THIRDPARTY_SENDER_PLAYER] Folgendes in Ihre Schatzkammer bringen:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Über Ihre Fortschritte erfreut, lässt [THIRDPARTY_SENDER_PLAYER] Folgendes in Ihre Schatzkammer bringen:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Pleased at your progress, [THIRDPARTY_SENDER_PLAYER] sends the following to your treasury:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Pleased at your progress, [THIRDPARTY_SENDER_PLAYER] sends the following to your treasury:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Радуясь вашему прогрессу, [THIRDPARTY_SENDER_PLAYER] предлагает вам поместить к себе сокровищницу следующее:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Радуясь вашему прогрессу, [THIRDPARTY_SENDER_PLAYER] предлагает вам поместить к себе сокровищницу следующее:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Ravi de votre progression, [THIRDPARTY_SENDER_PLAYER] ajoute ce qui suit à votre trésorerie :[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Ravi de votre progression, [THIRDPARTY_SENDER_PLAYER] ajoute ce qui suit à votre trésorerie :[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Como premio a tus progresos, [THIRDPARTY_SENDER_PLAYER] envía lo siguiente a tu tesoro:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Como premio a tus progresos, [THIRDPARTY_SENDER_PLAYER] envía lo siguiente a tu tesoro:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è compiaciuto dai tuoi progressi e invia quanto segue alla tua tesoreria:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è compiaciuto dai tuoi progressi e invia quanto segue alla tua tesoreria:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] potěšeně sleduje vaše výsledky a do pokladnice vám posílá:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] potěšeně sleduje vaše výsledky a do pokladnice vám posílá:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Ciesząc się z twoich postępów, [THIRDPARTY_SENDER_PLAYER] wysyła do twojego skarbca:[CR][QUEST_REWARD]</Text>
+                  <LastFinalText>Ciesząc się z twoich postępów, [THIRDPARTY_SENDER_PLAYER] wysyła do twojego skarbca:[CR][QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ04_Reach Partrizian Level</Name>
+      <GUIDRangeMin>8</GUIDRangeMin>
+      <GUIDRangeMax>8</GUIDRangeMax>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305159</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Noble Geste</Text>
+                  <LastFinalText>Noble Geste</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Noble gesture</Text>
+                  <LastFinalText>Noble gesture</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Благородный жест</Text>
+                  <LastFinalText>Благородный жест</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Geste noble</Text>
+                  <LastFinalText>Geste noble</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Gesto noble</Text>
+                  <LastFinalText>Gesto noble</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Nobile gesto</Text>
+                  <LastFinalText>Nobile gesto</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Šlechetné gesto</Text>
+                  <LastFinalText>Šlechetné gesto</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Szlachetny gest</Text>
+                  <LastFinalText>Szlachetny gest</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305160</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erreichen Sie [QUEST_VALUE 1] Patrizier, um Folgendes zu erhalten:</Text>
+                  <LastFinalText>Erreichen Sie [QUEST_VALUE 1] Patrizier, um Folgendes zu erhalten:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Reach a population of [QUEST_VALUE 1] Patricians to receive:</Text>
+                  <LastFinalText>Reach a population of [QUEST_VALUE 1] Patricians to receive:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Доведите количество патрициев до [QUEST_VALUE 1], чтобы достичь следующего:</Text>
+                  <LastFinalText>Доведите количество патрициев до [QUEST_VALUE 1], чтобы достичь следующего:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Atteignez une population de [QUEST_VALUE 1] Patriciens pour recevoir :</Text>
+                  <LastFinalText>Atteignez une population de [QUEST_VALUE 1] Patriciens pour recevoir :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alcanza una población de [QUEST_VALUE 1] patricios para recibir:</Text>
+                  <LastFinalText>Alcanza una población de [QUEST_VALUE 1] patricios para recibir:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Raggiungi una popolazione di [QUEST_VALUE 1] Patrizi per ricevere:</Text>
+                  <LastFinalText>Raggiungi una popolazione di [QUEST_VALUE 1] Patrizi per ricevere:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dosáhněte populace [QUEST_VALUE 1] patricijů, pokud chcete získat:</Text>
+                  <LastFinalText>Dosáhněte populace [QUEST_VALUE 1] patricijů, pokud chcete získat:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Osiągnij populację [QUEST_VALUE 1] Patrycjuszy, aby otrzymać:</Text>
+                  <LastFinalText>Osiągnij populację [QUEST_VALUE 1] Patrycjuszy, aby otrzymać:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305161</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER] bewundert aufrichtig, wie weit Sie es in Ihrer Stadt schon gebracht haben. Aber der Befehl des Kaisers ist noch längst nicht erfüllt. Erneut will er Ihnen unter die Arme greifen und Ihre Kleiderproduktion ankurbeln.[CR] [CR]Sorgen Sie nur weiterhin dafür, dass die Stadt wächst.</Text>
+                  <LastFinalText>[QUEST_SENDER] bewundert aufrichtig, wie weit Sie es in Ihrer Stadt schon gebracht haben. Aber der Befehl des Kaisers ist noch längst nicht erfüllt. Erneut will er Ihnen unter die Arme greifen und Ihre Kleiderproduktion ankurbeln.[CR] [CR]Sorgen Sie nur weiterhin dafür, dass die Stadt wächst.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER] is greatly impressed by your progress. Yet the Emperor's orders are not yet fulfilled. Again, [QUEST_SENDER] wishes to help you by boosting your cloth production.[CR] [CR]For now, you should just continue to keep a close eye on your city.</Text>
+                  <LastFinalText>[QUEST_SENDER] is greatly impressed by your progress. Yet the Emperor's orders are not yet fulfilled. Again, [QUEST_SENDER] wishes to help you by boosting your cloth production.[CR] [CR]For now, you should just continue to keep a close eye on your city.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] восхищается тем, насколько далеко вам удалось продвинуться в вашем городе. Но приказ императора все еще не выполнен. Он снова хочет подставить вам плечо и стимулировать производство одежды в вашем городе.[CR] [CR]Вам остается только заботиться о том, чтобы город рос.</Text>
+                  <LastFinalText>[QUEST_SENDER] восхищается тем, насколько далеко вам удалось продвинуться в вашем городе. Но приказ императора все еще не выполнен. Он снова хочет подставить вам плечо и стимулировать производство одежды в вашем городе.[CR] [CR]Вам остается только заботиться о том, чтобы город рос.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[QUEST_SENDER] est très impressionné par votre progression. Toutefois les ordres de l'Empereur ne sont pas encore satisfaits. [QUEST_SENDER] souhaite à nouveau vous aider en augmentant votre Production de Vêtements.[CR] [CR]Vous n'avez plus qu'à continuer à veiller sur votre ville.</Text>
+                  <LastFinalText>[QUEST_SENDER] est très impressionné par votre progression. Toutefois les ordres de l'Empereur ne sont pas encore satisfaits. [QUEST_SENDER] souhaite à nouveau vous aider en augmentant votre Production de Vêtements.[CR] [CR]Vous n'avez plus qu'à continuer à veiller sur votre ville.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A [QUEST_SENDER] le han impresionado tus progresos. Sin embargo, aún no has cumplido las órdenes del Emperador. De nuevo, [QUEST_SENDER] quiere ayudarte potenciando tu producción textil.[CR] [CR]De momento, deberías continuar vigilando tu ciudad de cerca.</Text>
+                  <LastFinalText>A [QUEST_SENDER] le han impresionado tus progresos. Sin embargo, aún no has cumplido las órdenes del Emperador. De nuevo, [QUEST_SENDER] quiere ayudarte potenciando tu producción textil.[CR] [CR]De momento, deberías continuar vigilando tu ciudad de cerca.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] è molto impressionato dai tuoi progressi. Tuttavia, gli ordini dell'Imperatore non sono ancora stati eseguiti completamente. Ancora una volta, [QUEST_SENDER] desidera aiutarti, aumentando la tua produzione di tessuto.[CR] [CR]Per ora, dovresti solo pensare a tenere d'occhio la tua città.</Text>
+                  <LastFinalText>[QUEST_SENDER] è molto impressionato dai tuoi progressi. Tuttavia, gli ordini dell'Imperatore non sono ancora stati eseguiti completamente. Ancora una volta, [QUEST_SENDER] desidera aiutarti, aumentando la tua produzione di tessuto.[CR] [CR]Per ora, dovresti solo pensare a tenere d'occhio la tua città.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] ohromeně sleduje vaše výsledky. Císařovy rozkazy ale zatím nebyly vyplněny. [QUEST_SENDER] vám tedy chce ještě jednou pomoci tím, že vám zvýší výrobu látky.[CR] [CR]Vy byste měl mezitím starat o své město.</Text>
+                  <LastFinalText>[QUEST_SENDER] ohromeně sleduje vaše výsledky. Císařovy rozkazy ale zatím nebyly vyplněny. [QUEST_SENDER] vám tedy chce ještě jednou pomoci tím, že vám zvýší výrobu látky.[CR] [CR]Vy byste měl mezitím starat o své město.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] jest pod wielkim wrażeniem twoich osiągnięć. Ale rozkaz Cesarza jeszcze nie został wykonany. [QUEST_SENDER] znowu pragnie ci pomóc zwiększając twoją produkcję ubrań.[CR] [CR]Na razie zajmij się dbaniem o miasto.</Text>
+                  <LastFinalText>[QUEST_SENDER] jest pod wielkim wrażeniem twoich osiągnięć. Ale rozkaz Cesarza jeszcze nie został wykonany. [QUEST_SENDER] znowu pragnie ci pomóc zwiększając twoją produkcję ubrań.[CR] [CR]Na razie zajmij się dbaniem o miasto.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ05_Reach Noblemen Level</Name>
+      <GUIDRangeMin>15</GUIDRangeMin>
+      <GUIDRangeMax>15</GUIDRangeMax>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305166</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Feudaler Beistand</Text>
+                  <LastFinalText>Feudaler Beistand</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Feudal assistance</Text>
+                  <LastFinalText>Feudal assistance</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Феодальная поддержка</Text>
+                  <LastFinalText>Феодальная поддержка</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Assistance féodale</Text>
+                  <LastFinalText>Assistance féodale</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Asistencia feudal</Text>
+                  <LastFinalText>Asistencia feudal</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Assistenza feudale</Text>
+                  <LastFinalText>Assistenza feudale</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Feudální pomoc</Text>
+                  <LastFinalText>Feudální pomoc</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wsparcie wielmoży</Text>
+                  <LastFinalText>Wsparcie wielmoży</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305167</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erreichen Sie [QUEST_VALUE 1] Adlige, um Folgendes zu erhalten:</Text>
+                  <LastFinalText>Erreichen Sie [QUEST_VALUE 1] Adlige, um Folgendes zu erhalten:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Reach a population of [QUEST_VALUE 1] Noblemen to receive:</Text>
+                  <LastFinalText>Reach a population of [QUEST_VALUE 1] Noblemen to receive:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Доведите количество дворян до [QUEST_VALUE 1], чтобы достичь следующего:</Text>
+                  <LastFinalText>Доведите количество дворян до [QUEST_VALUE 1], чтобы достичь следующего:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Atteignez une population de [QUEST_VALUE 1] Nobles pour recevoir :</Text>
+                  <LastFinalText>Atteignez une population de [QUEST_VALUE 1] Nobles pour recevoir :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alcanza una población de [QUEST_VALUE 1] nobles para recibir:</Text>
+                  <LastFinalText>Alcanza una población de [QUEST_VALUE 1] nobles para recibir:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Raggiungi una popolazione di [QUEST_VALUE 1] Nobili per ricevere:</Text>
+                  <LastFinalText>Raggiungi una popolazione di [QUEST_VALUE 1] Nobili per ricevere:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Dosáhněte populace [QUEST_VALUE 1] šlechticů, pokud chcete získat:</Text>
+                  <LastFinalText>Dosáhněte populace [QUEST_VALUE 1] šlechticů, pokud chcete získat:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Osiągnij populację [QUEST_VALUE 1] Arystokratów, aby otrzymać:</Text>
+                  <LastFinalText>Osiągnij populację [QUEST_VALUE 1] Arystokratów, aby otrzymać:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41305168</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Erfüllung des kaiserlichen Auftrags rückt in greifbare Nähe! Ein letztes Mal spornt Sie [QUEST_SENDER] an, Ihr Bestes zu geben, indem er Ihnen das Zollrecht für sämtliche abendländischen Besitztümer in Aussicht stellt.[CR] [CR]Sorgen Sie für weiteres Wachstum in Ihrer Stadt, um an die begehrten Zollwaren zu kommen!</Text>
+                  <LastFinalText>Die Erfüllung des kaiserlichen Auftrags rückt in greifbare Nähe! Ein letztes Mal spornt Sie [QUEST_SENDER] an, Ihr Bestes zu geben, indem er Ihnen das Zollrecht für sämtliche abendländischen Besitztümer in Aussicht stellt.[CR] [CR]Sorgen Sie für weiteres Wachstum in Ihrer Stadt, um an die begehrten Zollwaren zu kommen!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The fulfilment of the Emperor's orders is almost within reach! One last time [QUEST_SENDER] encourages you to do your best by promising you the right to levy customs duties on all Occidental Goods.[CR] [CR]Ensure that your city continues to develop to receive the promised customs duties!</Text>
+                  <LastFinalText>The fulfilment of the Emperor's orders is almost within reach! One last time [QUEST_SENDER] encourages you to do your best by promising you the right to levy customs duties on all Occidental Goods.[CR] [CR]Ensure that your city continues to develop to receive the promised customs duties!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Поручение императора вот-вот будет выполнено! В последний раз [QUEST_SENDER] предлагает вам поднапрячься, и, чтобы облегчить вам задачу, дарует таможенные льготы на некоторые виды западных товаров.[CR] [CR]Вам остается лишь позаботиться о росте вашего города!</Text>
+                  <LastFinalText>Поручение императора вот-вот будет выполнено! В последний раз [QUEST_SENDER] предлагает вам поднапрячься, и, чтобы облегчить вам задачу, дарует таможенные льготы на некоторые виды западных товаров.[CR] [CR]Вам остается лишь позаботиться о росте вашего города!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Les ordres de l'Empereur sont presque satisfaits ! Une dernière fois, [QUEST_SENDER] vous encourage en vous promettant de prélever des droits de douane sur toutes les Marchandises occidentales.[CR] [CR]Veillez à ce que votre ville continue à se développer pour bénéficier des droits de douane promis !</Text>
+                  <LastFinalText>Les ordres de l'Empereur sont presque satisfaits ! Une dernière fois, [QUEST_SENDER] vous encourage en vous promettant de prélever des droits de douane sur toutes les Marchandises occidentales.[CR] [CR]Veillez à ce que votre ville continue à se développer pour bénéficier des droits de douane promis !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Te queda muy poco para cumplir las órdenes del Emperador! Por última vez, [QUEST_SENDER] te anima a dar lo mejor de ti prometiéndote el derecho a gravar con aranceles todos los bienes occidentales.[CR] [CR]¡Asegúrate de que tu ciudad siga en desarrollo para recibir los aranceles prometidos!</Text>
+                  <LastFinalText>¡Te queda muy poco para cumplir las órdenes del Emperador! Por última vez, [QUEST_SENDER] te anima a dar lo mejor de ti prometiéndote el derecho a gravar con aranceles todos los bienes occidentales.[CR] [CR]¡Asegúrate de que tu ciudad siga en desarrollo para recibir los aranceles prometidos!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sei ormai a un passo dall'eseguire gli ordini dell'Imperatore! [QUEST_SENDER] ti incoraggia un'ultima volta a fare del tuo meglio, promettendoti il diritto di riscuotere dazi doganali su tutte le Merci occidentali.[CR] [CR]Fai in modo che la tua città continui a svilupparsi per ricevere i dazi doganali promessi!</Text>
+                  <LastFinalText>Sei ormai a un passo dall'eseguire gli ordini dell'Imperatore! [QUEST_SENDER] ti incoraggia un'ultima volta a fare del tuo meglio, promettendoti il diritto di riscuotere dazi doganali su tutte le Merci occidentali.[CR] [CR]Fai in modo che la tua città continui a svilupparsi per ricevere i dazi doganali promessi!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vyplnění rozkazů císaře je téměř na dosah! [QUEST_SENDER] vás znovu vybízí k tomu, abyste ze sebe vydal to nejlepší, a slibuje vám právo uvalit clo na veškeré západní zboží.[CR] [CR]Abyste mohl získat slíbené clo, musíte se postarat o neustálý růst vašeho města!</Text>
+                  <LastFinalText>Vyplnění rozkazů císaře je téměř na dosah! [QUEST_SENDER] vás znovu vybízí k tomu, abyste ze sebe vydal to nejlepší, a slibuje vám právo uvalit clo na veškeré západní zboží.[CR] [CR]Abyste mohl získat slíbené clo, musíte se postarat o neustálý růst vašeho města!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wykonanie rozkazu Cesarza jest w zasięgu ręki! [QUEST_SENDER] zachęca cię do wytężonej pracy obiecując, że da ci prawo nałożenia cła na wszystkie towary łacińskie.[CR] [CR]Rozwijaj miasto, żeby otrzymać obiecane cła!</Text>
+                  <LastFinalText>Wykonanie rozkazu Cesarza jest w zasięgu ręki! [QUEST_SENDER] zachęca cię do wytężonej pracy obiecując, że da ci prawo nałożenia cła na wszystkie towary łacińskie.[CR] [CR]Rozwijaj miasto, żeby otrzymać obiecane cła!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Other messages</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305357</GUID>
+              <Kommentar>Handelsmeldung Northburgh</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] erklärt, dass er für Waren aus dem Orient gerne mehr zu zahlen bereit ist.</Text>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] tells you that he is willing to pay higher prices for Goods from the Orient.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] tells you that he is willing to pay higher prices for Goods from the Orient.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] объясняет, что готов платить больше за товары с востока.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] объясняет, что готов платить больше за товары с востока.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] vous informe qu'il est prêt à payer des prix plus élevés pour les Marchandises venant de l'Orient.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] vous informe qu'il est prêt à payer des prix plus élevés pour les Marchandises venant de l'Orient.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] te dice que está dispuesto a pagar más por los bienes orientales.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] te dice que está dispuesto a pagar más por los bienes orientales.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] ti informa che è disposto a pagare prezzi più alti per le Merci provenienti dall'Oriente.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] ti informa che è disposto a pagare prezzi più alti per le Merci provenienti dall'Oriente.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] vám řekl, že je ochoten zaplatit vyšší cenu za zboží z Orientu.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] vám řekl, že je ochoten zaplatit vyšší cenu za zboží z Orientu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] mówi, że może więcej płacić za towary z Orientu.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] mówi, że może więcej płacić za towary z Orientu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305358</GUID>
+              <Kommentar>Handelsmeldung Al Zahir</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] erwähnt, dass er besonders an den Waren des Abendlandes interessiert ist.</Text>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] tells you that he is extremely interested in purchasing Occidental Goods.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] tells you that he is extremely interested in purchasing Occidental Goods.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] упоминает, что его особенно интересуют восточные товары.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] упоминает, что его особенно интересуют восточные товары.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] vous informe qu'il est extrêmement intéressé par l'achat de Marchandises occidentales.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] vous informe qu'il est extrêmement intéressé par l'achat de Marchandises occidentales.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] te dice que tiene muchísimo interés en comprar bienes occidentales.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] te dice que tiene muchísimo interés en comprar bienes occidentales.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] ti informa che è molto interessato all'acquisto di Merci occidentali.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] ti informa che è molto interessato all'acquisto di Merci occidentali.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] vám řekl, že se nesmírně zajímá o koupi zboží ze Západu.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] vám řekl, že se nesmírně zajímá o koupi zboží ze Západu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] mówi, że bardzo interesuje go zakup towarów łacińskich.</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] mówi, że bardzo interesuje go zakup towarów łacińskich.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305359</GUID>
+              <Kommentar>Handelsmeldung Lieblingswaren Leif</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] bekundet beiläufig großes Interesse an:[CR][AUTOSIZE_ICONGUID 50008] Fisch[CR][AUTOSIZE_ICONGUID 50015] Milch[CR][AUTOSIZE_ICONGUID 50053] Papier</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] bekundet beiläufig großes Interesse an:[CR][AUTOSIZE_ICONGUID 50008] Fisch[CR][AUTOSIZE_ICONGUID 50015] Milch[CR][AUTOSIZE_ICONGUID 50053] Papier</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] casually mentions being particularly interested in buying:[CR][AUTOSIZE_ICONGUID 50008] Fish[CR][AUTOSIZE_ICONGUID 50015] Milk[CR][AUTOSIZE_ICONGUID 50053] Paper</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] casually mentions being particularly interested in buying:[CR][AUTOSIZE_ICONGUID 50008] Fish[CR][AUTOSIZE_ICONGUID 50015] Milk[CR][AUTOSIZE_ICONGUID 50053] Paper</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] выражает интерес к:[CR][AUTOSIZE_ICONGUID 50008] рыбе[CR][AUTOSIZE_ICONGUID 50015] молоку[CR][AUTOSIZE_ICONGUID 50053] бумаге</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] выражает интерес к:[CR][AUTOSIZE_ICONGUID 50008] рыбе[CR][AUTOSIZE_ICONGUID 50015] молоку[CR][AUTOSIZE_ICONGUID 50053] бумаге</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] mentionne d'un air détaché qu'il serait particulièrement intéressé par l'achat de :[CR][AUTOSIZE_ICONGUID 50008] Poisson[CR][AUTOSIZE_ICONGUID 50015] Lait[CR][AUTOSIZE_ICONGUID 50053] Papier</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] mentionne d'un air détaché qu'il serait particulièrement intéressé par l'achat de :[CR][AUTOSIZE_ICONGUID 50008] Poisson[CR][AUTOSIZE_ICONGUID 50015] Lait[CR][AUTOSIZE_ICONGUID 50053] Papier</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] menciona como quien no quiere la cosa que tiene especial interés en comprar:[CR][AUTOSIZE_ICONGUID 50008] Pescado[CR][AUTOSIZE_ICONGUID 50015] Leche[CR][AUTOSIZE_ICONGUID 50053] Papel</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] menciona como quien no quiere la cosa que tiene especial interés en comprar:[CR][AUTOSIZE_ICONGUID 50008] Pescado[CR][AUTOSIZE_ICONGUID 50015] Leche[CR][AUTOSIZE_ICONGUID 50053] Papel</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] menziona casualmente di essere molto interessato a comprare:[CR][AUTOSIZE_ICONGUID 50008] Pesce[CR][AUTOSIZE_ICONGUID 50015] Latte[CR][AUTOSIZE_ICONGUID 50053] Carta</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] menziona casualmente di essere molto interessato a comprare:[CR][AUTOSIZE_ICONGUID 50008] Pesce[CR][AUTOSIZE_ICONGUID 50015] Latte[CR][AUTOSIZE_ICONGUID 50053] Carta</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] se mezi řečí zmíňuje, že má zájem o koupi:[CR][AUTOSIZE_ICONGUID 50008] ryb[CR][AUTOSIZE_ICONGUID 50015] mléka[CR][AUTOSIZE_ICONGUID 50053] papíru</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] se mezi řečí zmíňuje, že má zájem o koupi:[CR][AUTOSIZE_ICONGUID 50008] ryb[CR][AUTOSIZE_ICONGUID 50015] mléka[CR][AUTOSIZE_ICONGUID 50053] papíru</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] wspomina, że interesuje się zakupem:[CR][AUTOSIZE_ICONGUID 50008] Ryb[CR][AUTOSIZE_ICONGUID 50015] Mleka[CR][AUTOSIZE_ICONGUID 50053] Papieru</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] wspomina, że interesuje się zakupem:[CR][AUTOSIZE_ICONGUID 50008] Ryb[CR][AUTOSIZE_ICONGUID 50015] Mleka[CR][AUTOSIZE_ICONGUID 50053] Papieru</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645021</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41305360</GUID>
+              <Kommentar>Handelsmeldung Lieblingswaren Hildegard</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] bekundet beiläufig großes Interesse an: [CR][AUTOSIZE_ICONGUID 50001] Holz[CR][AUTOSIZE_ICONGUID 50017] Leinenkutten[CR][AUTOSIZE_ICONGUID 50043] Kräuter</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] bekundet beiläufig großes Interesse an: [CR][AUTOSIZE_ICONGUID 50001] Holz[CR][AUTOSIZE_ICONGUID 50017] Leinenkutten[CR][AUTOSIZE_ICONGUID 50043] Kräuter</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] [THIDRPARTY_SENDER_PLAYER] casually mentions being particularly interested in buying:[CR][AUTOSIZE_ICONGUID 50001] Wood[CR][AUTOSIZE_ICONGUID 50017] Linen garments[CR][AUTOSIZE_ICONGUID 50043] Herbs</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] [THIDRPARTY_SENDER_PLAYER] casually mentions being particularly interested in buying:[CR][AUTOSIZE_ICONGUID 50001] Wood[CR][AUTOSIZE_ICONGUID 50017] Linen garments[CR][AUTOSIZE_ICONGUID 50043] Herbs</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] выражает интерес к: [CR][AUTOSIZE_ICONGUID 50001] древесине[CR][AUTOSIZE_ICONGUID 50017] полотняным рясам[CR][AUTOSIZE_ICONGUID 50043] травам</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] выражает интерес к: [CR][AUTOSIZE_ICONGUID 50001] древесине[CR][AUTOSIZE_ICONGUID 50017] полотняным рясам[CR][AUTOSIZE_ICONGUID 50043] травам</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] [THIDRPARTY_SENDER_PLAYER] mentionne d'un air détaché qu'elle serait particulièrement intéressée par l'achat de :[CR][AUTOSIZE_ICONGUID 50001] Bois[CR][AUTOSIZE_ICONGUID 50017] Vêtements de lin[CR][AUTOSIZE_ICONGUID 50043] Herbes</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] [THIDRPARTY_SENDER_PLAYER] mentionne d'un air détaché qu'elle serait particulièrement intéressée par l'achat de :[CR][AUTOSIZE_ICONGUID 50001] Bois[CR][AUTOSIZE_ICONGUID 50017] Vêtements de lin[CR][AUTOSIZE_ICONGUID 50043] Herbes</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] [THIDRPARTY_SENDER_PLAYER] menciona como quien no quiere la cosa que tiene especial interés en comprar:[CR][AUTOSIZE_ICONGUID 50001] Madera[CR][AUTOSIZE_ICONGUID 50017] Ropa de lino[CR][AUTOSIZE_ICONGUID 50043] Hierbas</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] [THIDRPARTY_SENDER_PLAYER] menciona como quien no quiere la cosa que tiene especial interés en comprar:[CR][AUTOSIZE_ICONGUID 50001] Madera[CR][AUTOSIZE_ICONGUID 50017] Ropa de lino[CR][AUTOSIZE_ICONGUID 50043] Hierbas</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] menziona casualmente di essere molto interessata a comprare:[CR][AUTOSIZE_ICONGUID 50008] Legna[CR][AUTOSIZE_ICONGUID 50015] Lino[CR][AUTOSIZE_ICONGUID 50053] Erbe</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] menziona casualmente di essere molto interessata a comprare:[CR][AUTOSIZE_ICONGUID 50008] Legna[CR][AUTOSIZE_ICONGUID 50015] Lino[CR][AUTOSIZE_ICONGUID 50053] Erbe</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] se mezi řečí zmiňuje, že má zájem o koupi:[CR][AUTOSIZE_ICONGUID 50001] dřeva[CR][AUTOSIZE_ICONGUID 50017] lněného prádla[CR][AUTOSIZE_ICONGUID 50043] bylin</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] se mezi řečí zmiňuje, že má zájem o koupi:[CR][AUTOSIZE_ICONGUID 50001] dřeva[CR][AUTOSIZE_ICONGUID 50017] lněného prádla[CR][AUTOSIZE_ICONGUID 50043] bylin</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIDRPARTY_SENDER_PLAYER] wspomina, że interesuje się zakupem:[CR][AUTOSIZE_ICONGUID 50001] Drewna[CR][AUTOSIZE_ICONGUID 50017] Lnianych ubrań[CR][AUTOSIZE_ICONGUID 50043] Ziół</Text>
+                  <LastFinalText>[THIDRPARTY_SENDER_PLAYER] wspomina, że interesuje się zakupem:[CR][AUTOSIZE_ICONGUID 50001] Drewna[CR][AUTOSIZE_ICONGUID 50017] Lnianych ubrań[CR][AUTOSIZE_ICONGUID 50043] Ziół</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645023</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

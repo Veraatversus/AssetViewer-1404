@@ -1,0 +1,1995 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Items</Name>
+      <CreateTextGroupFolder>Addon_01/Texte/guids/Items</CreateTextGroupFolder>
+      <Groups>
+        <Group>
+          <Name>DeveloperStuff</Name>
+          <Assets>
+            <Asset>
+              <Template>EndlessResourceItem</Template>
+              <Values>
+                <Item />
+                <EndlessResource />
+                <CostUpgrade>
+                  <ActiveCost>
+                    <Value>500</Value>
+                    <Percental>1</Percental>
+                  </ActiveCost>
+                  <InactiveCost>
+                    <Value>500</Value>
+                    <Percental>1</Percental>
+                  </InactiveCost>
+                </CostUpgrade>
+                <Upgrade>
+                  <TargetGUIDs>
+                    <Item>
+                      <UpgradeGUID>34031</UpgradeGUID>
+                    </Item>
+                    <Item>
+                      <UpgradeGUID>34021</UpgradeGUID>
+                    </Item>
+                    <Item>
+                      <UpgradeGUID>31502</UpgradeGUID>
+                    </Item>
+                    <Item>
+                      <UpgradeGUID>31506</UpgradeGUID>
+                    </Item>
+                  </TargetGUIDs>
+                </Upgrade>
+                <Standard>
+                  <Name>ResourceTestItem</Name>
+                  <GUID>40000000</GUID>
+                </Standard>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>IslandProductionBoostItem</Template>
+              <Values>
+                <BuildCostUpgrade />
+                <CostUpgrade>
+                  <ActiveCost>
+                    <Value>100</Value>
+                    <Percental>1</Percental>
+                  </ActiveCost>
+                </CostUpgrade>
+                <FactoryUpgrade />
+                <Item />
+                <ProductionUpgrade>
+                  <ProductionCapacity>
+                    <Value>100</Value>
+                    <Percental>1</Percental>
+                  </ProductionCapacity>
+                </ProductionUpgrade>
+                <PublicBuildingUpgrade />
+                <Standard>
+                  <Name>NoriaTestItem</Name>
+                  <GUID>40000001</GUID>
+                </Standard>
+                <Upgrade>
+                  <TargetGUIDs>
+                    <Item>
+                      <UpgradeGUID>34031</UpgradeGUID>
+                    </Item>
+                    <Item>
+                      <UpgradeGUID>34021</UpgradeGUID>
+                    </Item>
+                  </TargetGUIDs>
+                </Upgrade>
+                <WarehouseUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>SpyBaseItem</Template>
+              <Values>
+                <Standard>
+                  <Name>SpyBaseTestItem</Name>
+                  <GUID>40000004</GUID>
+                </Standard>
+                <Upgrade />
+                <Item />
+                <PublicBuildingUpgrade>
+                  <InfluenceRadius>
+                    <Value>20</Value>
+                    <Percental>1</Percental>
+                  </InfluenceRadius>
+                </PublicBuildingUpgrade>
+                <CostUpgrade>
+                  <ActiveCost>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>
+                  </ActiveCost>
+                  <InactiveCost>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>
+                  </InactiveCost>
+                </CostUpgrade>
+                <ProductionUpgrade>
+                  <WorkerCount>
+                    <Value>1</Value>
+                  </WorkerCount>
+                </ProductionUpgrade>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>SpyBaseDetectionItem</Template>
+              <Values>
+                <Standard>
+                  <Name>SpyBaseDetectionTestItem</Name>
+                  <GUID>40000023</GUID>
+                </Standard>
+                <Item />
+                <GameAction />
+                <SpyBaseDetectionBalancing />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>VenetianItem</Template>
+              <Values>
+                <Item />
+                <Standard>
+                  <Name>FiefdomTestItem</Name>
+                  <GUID>40000005</GUID>
+                </Standard>
+                <VenetianUpgrade>
+                  <SharePriceOwnerUpgrade>
+                    <Value>10</Value>
+                    <Percental>1</Percental>
+                  </SharePriceOwnerUpgrade>
+                  <SharePriceForeignUpgrade>
+                    <Value>-10000</Value>
+                  </SharePriceForeignUpgrade>
+                </VenetianUpgrade>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>CustomResourceItem</Template>
+              <Values>
+                <Item />
+                <Upgrade />
+                <Standard>
+                  <Name>CustomResourceTestItem</Name>
+                  <GUID>40000086</GUID>
+                </Standard>
+                <CustomResource />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>KontorItems</Name>
+          <CreateTextGroupFolder>Addon_01/AddonTexte/guids/Items</CreateTextGroupFolder>
+          <Groups>
+            <Group>
+              <Name>Aktionen </Name>
+              <Groups>
+                <Group>
+                  <Name>Ressourcen </Name>
+                  <Assets>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>50</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressourcen Eisen</Name>
+                          <GUID>40000103</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Iron</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>100</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Kohle</Name>
+                          <GUID>40000088</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Coal</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>100</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Salz</Name>
+                          <GUID>40000091</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Brine</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Kupfer</Name>
+                          <GUID>40000104</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Copper</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Gold</Name>
+                          <GUID>40000093</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Gold</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Eisen Kohle</Name>
+                          <GUID>40000097</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Coal;Iron</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Kupfer Salz</Name>
+                          <GUID>40000098</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Brine;Copper</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>250</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Salz Kohle</Name>
+                          <GUID>40000099</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Brine;Coal</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>250</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Kupfer Gold</Name>
+                          <GUID>40000100</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Copper;Gold</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>300</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Eisen Kohle Salz</Name>
+                          <GUID>40000101</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Brine;Coal;Iron;Gold</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>CustomResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>300</ItemHonourPrice>
+                          <RequiresUserConfirmationOnUse>1</RequiresUserConfirmationOnUse>
+                        </Item>
+                        <Upgrade />
+                        <Standard>
+                          <Name>Ressource Salz Kupfer Gold</Name>
+                          <GUID>40000102</GUID>
+                        </Standard>
+                        <CustomResource>
+                          <CustomResources>Brine;Copper;Gold</CustomResources>
+                        </CustomResource>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Ratssitz Upgrade</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>VenetianItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemType>TownAcquisitionUpgrade</ItemType>
+                          <ItemQuality>B</ItemQuality>
+                          <ItemRemoveConditions>NoTownAcquisition</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Erhöhung Share Preis wenig</Name>
+                          <GUID>40000056</GUID>
+                        </Standard>
+                        <VenetianUpgrade>
+                          <SharePriceOwnerUpgrade>
+                            <Value>5000</Value>
+                          </SharePriceOwnerUpgrade>
+                        </VenetianUpgrade>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>VenetianItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>250</ItemHonourPrice>
+                          <ItemType>TownAcquisitionUpgrade</ItemType>
+                          <ItemQuality>B</ItemQuality>
+                          <ItemRemoveConditions>NoTownAcquisition</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Erhöhung Share Preis mittel</Name>
+                          <GUID>40000057</GUID>
+                        </Standard>
+                        <VenetianUpgrade>
+                          <SharePriceOwnerUpgrade>
+                            <Value>10000</Value>
+                          </SharePriceOwnerUpgrade>
+                        </VenetianUpgrade>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>VenetianItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>400</ItemHonourPrice>
+                          <ItemType>TownAcquisitionUpgrade</ItemType>
+                          <ItemRemoveConditions>NoTownAcquisition</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Erhöhung Share Preis viel</Name>
+                          <GUID>40000070</GUID>
+                        </Standard>
+                        <VenetianUpgrade>
+                          <SharePriceOwnerUpgrade>
+                            <Value>15000</Value>
+                          </SharePriceOwnerUpgrade>
+                        </VenetianUpgrade>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>VenetianItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>100</ItemHonourPrice>
+                          <ItemType>TownAquisitionSharePrice</ItemType>
+                          <ItemQuality>B</ItemQuality>
+                          <ItemRemoveConditions>NoTownAcquisition</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Senken Share Preis wenig </Name>
+                          <GUID>40000061</GUID>
+                        </Standard>
+                        <VenetianUpgrade>
+                          <SharePriceForeignUpgrade>
+                            <Value>-10</Value>
+                            <Percental>1</Percental>
+                          </SharePriceForeignUpgrade>
+                        </VenetianUpgrade>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>VenetianItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                          <ItemType>TownAquisitionSharePrice</ItemType>
+                          <ItemQuality>B</ItemQuality>
+                          <ItemRemoveConditions>NoTownAcquisition</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Senken Share Preis mittel</Name>
+                          <GUID>40000062</GUID>
+                        </Standard>
+                        <VenetianUpgrade>
+                          <SharePriceForeignUpgrade>
+                            <Value>-20</Value>
+                            <Percental>1</Percental>
+                          </SharePriceForeignUpgrade>
+                        </VenetianUpgrade>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>VenetianItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>300</ItemHonourPrice>
+                          <ItemType>TownAquisitionSharePrice</ItemType>
+                          <ItemRemoveConditions>NoTownAcquisition</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Senken Share Preis viel</Name>
+                          <GUID>40000063</GUID>
+                        </Standard>
+                        <VenetianUpgrade>
+                          <SharePriceForeignUpgrade>
+                            <Value>-30</Value>
+                            <Percental>1</Percental>
+                          </SharePriceForeignUpgrade>
+                        </VenetianUpgrade>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+              </Groups>
+            </Group>
+            <Group>
+              <Name>Gebäude</Name>
+              <Groups>
+                <Group>
+                  <Name>Geheimkabinett</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>SpyBaseItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Einflussberich wenig </Name>
+                          <GUID>40000043</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Item>
+                          <ItemHonourPrice>100</ItemHonourPrice>
+                          <ItemType>SpyBaseUpgrade</ItemType>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>10</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <CostUpgrade />
+                        <ProductionUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Einflussberich mittel</Name>
+                          <GUID>40000044</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemType>SpyBaseUpgrade</ItemType>
+                        </Item>
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <CostUpgrade />
+                        <ProductionUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Einflussberich viel</Name>
+                          <GUID>40000017</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Item>
+                          <ItemHonourPrice>250</ItemHonourPrice>
+                          <ItemType>SpyBaseUpgrade</ItemType>
+                          <ItemQuality>A</ItemQuality>
+                        </Item>
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>30</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <CostUpgrade />
+                        <ProductionUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Unterhaltskosten wenig </Name>
+                          <GUID>40000011</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Item>
+                          <ItemHonourPrice>100</ItemHonourPrice>
+                          <ItemType>SpyBaseUpgrade</ItemType>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <PublicBuildingUpgrade />
+                        <CostUpgrade>
+                          <ActiveCost>
+                            <Value>-15</Value>
+                            <Percental>1</Percental>
+                          </ActiveCost>
+                        </CostUpgrade>
+                        <ProductionUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Unterhaltskosten mittel</Name>
+                          <GUID>40000018</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemType>SpyBaseUpgrade</ItemType>
+                        </Item>
+                        <PublicBuildingUpgrade />
+                        <CostUpgrade>
+                          <ActiveCost>
+                            <Value>-25</Value>
+                            <Percental>1</Percental>
+                          </ActiveCost>
+                        </CostUpgrade>
+                        <ProductionUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Unterhaltskosten viel</Name>
+                          <GUID>40000019</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Item>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                          <ItemType>SpyBaseUpgrade</ItemType>
+                          <ItemQuality>A</ItemQuality>
+                        </Item>
+                        <PublicBuildingUpgrade />
+                        <CostUpgrade>
+                          <ActiveCost>
+                            <Value>-35</Value>
+                            <Percental>1</Percental>
+                          </ActiveCost>
+                        </CostUpgrade>
+                        <ProductionUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Zusätzlicher Häscher</Name>
+                          <GUID>40000009</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemQuality>A</ItemQuality>
+                        </Item>
+                        <PublicBuildingUpgrade />
+                        <CostUpgrade />
+                        <ProductionUpgrade>
+                          <WorkerCount>
+                            <Value>1</Value>
+                          </WorkerCount>
+                        </ProductionUpgrade>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Noria assistent</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>100</ItemHonourPrice>
+                          <ItemType>NoriaCapacityUpgrade</ItemType>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade>
+                          <ProductionCapacity>
+                            <Value>10</Value>
+                            <Percental>1</Percental>
+                          </ProductionCapacity>
+                        </ProductionUpgrade>
+                        <PublicBuildingUpgrade />
+                        <Standard>
+                          <Name>Capacity Upgrade niedrig</Name>
+                          <GUID>40000012</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34031</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34021</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemType>NoriaCapacityUpgrade</ItemType>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade>
+                          <ProductionCapacity>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                          </ProductionCapacity>
+                        </ProductionUpgrade>
+                        <PublicBuildingUpgrade />
+                        <Standard>
+                          <Name>Capacity Upgrade mittel</Name>
+                          <GUID>40000013</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34031</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34021</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemType>NoriaCapacityUpgrade</ItemType>
+                        </Item>
+                        <ProductionUpgrade>
+                          <ProductionCapacity>
+                            <Value>30</Value>
+                            <Percental>1</Percental>
+                          </ProductionCapacity>
+                        </ProductionUpgrade>
+                        <PublicBuildingUpgrade />
+                        <Standard>
+                          <Name>Capacity Upgrade hoch</Name>
+                          <GUID>40000014</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34031</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34021</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>EndlessResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>300</ItemHonourPrice>
+                          <StartQuestOnItemReceive>0</StartQuestOnItemReceive>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <EndlessResource />
+                        <CostUpgrade>
+                          <ActiveCost>
+                            <Value>200</Value>
+                            <Percental>1</Percental>
+                          </ActiveCost>
+                          <InactiveCost>
+                            <Value>200</Value>
+                            <Percental>1</Percental>
+                          </InactiveCost>
+                        </CostUpgrade>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34031</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34021</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Standard>
+                          <Name>Resource wenig </Name>
+                          <GUID>40000015</GUID>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>EndlessResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>500</ItemHonourPrice>
+                          <StartQuestOnItemReceive>0</StartQuestOnItemReceive>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <EndlessResource />
+                        <CostUpgrade>
+                          <ActiveCost>
+                            <Value>150</Value>
+                            <Percental>1</Percental>
+                          </ActiveCost>
+                          <InactiveCost>
+                            <Value>150</Value>
+                            <Percental>1</Percental>
+                          </InactiveCost>
+                        </CostUpgrade>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34031</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34021</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Standard>
+                          <Name>Resource mittel</Name>
+                          <GUID>40000020</GUID>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>EndlessResourceItem</Template>
+                      <Values>
+                        <Item>
+                          <ItemHonourPrice>1000</ItemHonourPrice>
+                          <StartQuestOnItemReceive>0</StartQuestOnItemReceive>
+                        </Item>
+                        <EndlessResource />
+                        <CostUpgrade>
+                          <ActiveCost>
+                            <Value>125</Value>
+                            <Percental>1</Percental>
+                          </ActiveCost>
+                          <InactiveCost>
+                            <Value>125</Value>
+                            <Percental>1</Percental>
+                          </InactiveCost>
+                        </CostUpgrade>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34031</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34021</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <Standard>
+                          <Name>Resource hoch</Name>
+                          <GUID>40000021</GUID>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Medicus</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>DoctorItem</Template>
+                      <Values>
+                        <DoctorUpgrade>
+                          <DoctorHealingTime>
+                            <Value>-15</Value>
+                            <Percental>1</Percental>
+                          </DoctorHealingTime>
+                        </DoctorUpgrade>
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemType>DoctorHealingTimeUpgrade</ItemType>
+                          <ItemQuality>B</ItemQuality>
+                          <ItemRemoveConditions>NoDisasterPlague</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Heilungsdauer wenig</Name>
+                          <GUID>40000027</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>DoctorItem</Template>
+                      <Values>
+                        <DoctorUpgrade>
+                          <DoctorHealingTime>
+                            <Value>-30</Value>
+                            <Percental>1</Percental>
+                          </DoctorHealingTime>
+                        </DoctorUpgrade>
+                        <Item>
+                          <ItemHonourPrice>250</ItemHonourPrice>
+                          <ItemType>DoctorHealingTimeUpgrade</ItemType>
+                          <ItemRemoveConditions>NoDisasterPlague</ItemRemoveConditions>
+                        </Item>
+                        <Standard>
+                          <Name>Heilungsdauer viel</Name>
+                          <GUID>40000028</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                          <ItemRemoveConditions>NoDisasterPlague</ItemRemoveConditions>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>10</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Medikus wenig</Name>
+                          <GUID>40000031</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>400</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                          <ItemRemoveConditions>NoDisasterPlague</ItemRemoveConditions>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Medikus mittel</Name>
+                          <GUID>40000032</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>1500</ItemHonourPrice>
+                          <ItemQuality>B</ItemQuality>
+                          <ItemRemoveConditions>NoDisasterPlague</ItemRemoveConditions>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>30</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Medikus viel</Name>
+                          <GUID>40000033</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Einflussradius</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>10</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Zimmermann wenig</Name>
+                          <GUID>40000035</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34032</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>400</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Zimmermann mittel</Name>
+                          <GUID>40000036</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34032</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>1500</ItemHonourPrice>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>30</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Zimmermann viel</Name>
+                          <GUID>40000037</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34032</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>10</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Feuerwache wenig</Name>
+                          <GUID>40000038</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34033</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>400</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Feuerwache mittel</Name>
+                          <GUID>40000041</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34033</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>1500</ItemHonourPrice>
+                          <ItemQuality>B</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>30</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Feuerwache viel</Name>
+                          <GUID>40000042</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34033</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>300</ItemHonourPrice>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>10</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflußbereich Sicherheit wenig</Name>
+                          <GUID>40000112</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34033</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34032</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>600</ItemHonourPrice>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>20</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflussberich Sicherheit mittel</Name>
+                          <GUID>40000113</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34032</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34033</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>2000</ItemHonourPrice>
+                        </Item>
+                        <ProductionUpgrade />
+                        <PublicBuildingUpgrade>
+                          <InfluenceRadius>
+                            <Value>30</Value>
+                            <Percental>1</Percental>
+                          </InfluenceRadius>
+                        </PublicBuildingUpgrade>
+                        <Standard>
+                          <Name>Einflussberich Sicherheit viel</Name>
+                          <GUID>40000114</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>34032</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34033</UpgradeGUID>
+                            </Item>
+                            <Item>
+                              <UpgradeGUID>34034</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>ProductionCount</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>130</ItemHonourPrice>
+                          <ItemType>EconomyUpgrade</ItemType>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade>
+                          <ProductionCount>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                          </ProductionCount>
+                        </ProductionUpgrade>
+                        <PublicBuildingUpgrade />
+                        <Standard>
+                          <Name>ProdCount Papiermühle</Name>
+                          <GUID>40000039</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>30077</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>IslandProductionBoostItem</Template>
+                      <Values>
+                        <BuildCostUpgrade />
+                        <CostUpgrade />
+                        <FactoryUpgrade />
+                        <Item>
+                          <ItemHonourPrice>130</ItemHonourPrice>
+                          <ItemType>EconomyUpgrade</ItemType>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <ProductionUpgrade>
+                          <ProductionCount>
+                            <Value>25</Value>
+                            <Percental>1</Percental>
+                          </ProductionCount>
+                        </ProductionUpgrade>
+                        <PublicBuildingUpgrade />
+                        <Standard>
+                          <Name>ProdCount Zuckermühle</Name>
+                          <GUID>40000040</GUID>
+                        </Standard>
+                        <Upgrade>
+                          <TargetGUIDs>
+                            <Item>
+                              <UpgradeGUID>32030</UpgradeGUID>
+                            </Item>
+                          </TargetGUIDs>
+                          <ShowTargetInTooltip>0</ShowTargetInTooltip>
+                        </Upgrade>
+                        <WarehouseUpgrade />
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+              </Groups>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>SchiffItems</Name>
+          <CreateTextGroupFolder>Addon_01/AddonTexte/guids/Items</CreateTextGroupFolder>
+          <Groups>
+            <Group>
+              <Name>Aktionen </Name>
+              <Groups>
+                <Group>
+                  <Name>Agent</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>SpyBaseDetectionItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Agent Stufe I</Name>
+                          <GUID>40000045</GUID>
+                        </Standard>
+                        <Item>
+                          <EffectDuration>30000</EffectDuration>
+                          <ItemHonourPrice>50</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <GameAction>
+                          <AbortItemUseOnFailedAction>0</AbortItemUseOnFailedAction>
+                        </GameAction>
+                        <SpyBaseDetectionBalancing>
+                          <DiscoverAllChance>25</DiscoverAllChance>
+                        </SpyBaseDetectionBalancing>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseDetectionItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Agent Stufe II</Name>
+                          <GUID>40000066</GUID>
+                        </Standard>
+                        <Item>
+                          <EffectDuration>30000</EffectDuration>
+                          <ItemHonourPrice>75</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <GameAction>
+                          <AbortItemUseOnFailedAction>0</AbortItemUseOnFailedAction>
+                        </GameAction>
+                        <SpyBaseDetectionBalancing>
+                          <DiscoverAllChance>50</DiscoverAllChance>
+                        </SpyBaseDetectionBalancing>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseDetectionItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Agent Stufe III</Name>
+                          <GUID>40000068</GUID>
+                        </Standard>
+                        <Item>
+                          <EffectDuration>30000</EffectDuration>
+                          <ItemHonourPrice>100</ItemHonourPrice>
+                        </Item>
+                        <GameAction>
+                          <AbortItemUseOnFailedAction>0</AbortItemUseOnFailedAction>
+                        </GameAction>
+                        <SpyBaseDetectionBalancing>
+                          <DiscoverAllChance>80</DiscoverAllChance>
+                        </SpyBaseDetectionBalancing>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseDetectionItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Agent Stufe IV</Name>
+                          <GUID>40000108</GUID>
+                        </Standard>
+                        <Item>
+                          <EffectDuration>30000</EffectDuration>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                        </Item>
+                        <GameAction>
+                          <AbortItemUseOnFailedAction>0</AbortItemUseOnFailedAction>
+                        </GameAction>
+                        <SpyBaseDetectionBalancing>
+                          <DiscoverAllChance>90</DiscoverAllChance>
+                        </SpyBaseDetectionBalancing>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseDetectionItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Agent Stufe V</Name>
+                          <GUID>40000105</GUID>
+                        </Standard>
+                        <Item>
+                          <EffectDuration>30000</EffectDuration>
+                          <ItemHonourPrice>200</ItemHonourPrice>
+                        </Item>
+                        <GameAction>
+                          <AbortItemUseOnFailedAction>0</AbortItemUseOnFailedAction>
+                        </GameAction>
+                        <SpyBaseDetectionBalancing>
+                          <DiscoverAllChance>100</DiscoverAllChance>
+                        </SpyBaseDetectionBalancing>
+                      </Values>
+                    </Asset>
+                    <Asset>
+                      <Template>SpyBaseDetectionItem</Template>
+                      <Values>
+                        <Standard>
+                          <Name>Agent Stufe VI</Name>
+                          <GUID>40000069</GUID>
+                        </Standard>
+                        <Item>
+                          <UtilizationCount>0</UtilizationCount>
+                          <EffectDuration>45000</EffectDuration>
+                          <ItemHonourPrice>1000</ItemHonourPrice>
+                          <ItemQuality>A</ItemQuality>
+                        </Item>
+                        <GameAction />
+                        <SpyBaseDetectionBalancing>
+                          <DiscoverAllChance>100</DiscoverAllChance>
+                        </SpyBaseDetectionBalancing>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+                <Group>
+                  <Name>Sea Chart</Name>
+                  <Assets>
+                    <Asset>
+                      <Template>SeaChartItem</Template>
+                      <Values>
+                        <GameAction />
+                        <Item>
+                          <ItemHonourPrice>150</ItemHonourPrice>
+                          <ItemQuality>C</ItemQuality>
+                        </Item>
+                        <Standard>
+                          <Name>Seekarte</Name>
+                          <GUID>40000034</GUID>
+                        </Standard>
+                      </Values>
+                    </Asset>
+                  </Assets>
+                </Group>
+              </Groups>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>QuestItems</Name>
+          <CreateTextGroupFolder>Addon_01/AddonTexte/guids/Items</CreateTextGroupFolder>
+          <DefaultTemplate>QuestItem</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestItem</Template>
+              <Values>
+                <Item>
+                  <ItemMaxPrice>0</ItemMaxPrice>
+                  <IsQuestItem>1</IsQuestItem>
+                </Item>
+                <Standard>
+                  <Name>Warenkiste</Name>
+                  <GUID>40000116</GUID>
+                </Standard>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestItem</Template>
+              <Values>
+                <Item>
+                  <IsQuestItem>1</IsQuestItem>
+                </Item>
+                <Standard>
+                  <Name>Goldmünzen</Name>
+                  <GUID>40000115</GUID>
+                </Standard>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Espionage</Name>
+      <Assets>
+        <Asset>
+          <Template>EnforceProtestAction</Template>
+          <Values>
+            <Item>
+              <EffectDuration>480000</EffectDuration>
+            </Item>
+            <Upgrade />
+            <Standard>
+              <Name>EnforceProtest</Name>
+              <GUID>40000002</GUID>
+            </Standard>
+            <EnforceProtest>
+              <InfluenceAreaSize>81920</InfluenceAreaSize>
+            </EnforceProtest>
+            <GameAction>
+              <ActorType>Player</ActorType>
+            </GameAction>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProphetAction</Template>
+          <Values>
+            <Standard>
+              <Name>SabotageProphet</Name>
+              <GUID>40000003</GUID>
+            </Standard>
+            <Upgrade />
+            <Item>
+              <EffectDuration>600000</EffectDuration>
+            </Item>
+            <GameAction />
+            <SabotageProphet>
+              <AreaSize>49152</AreaSize>
+            </SabotageProphet>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>GlobalUpgrades</Name>
+      <Groups>
+        <Group>
+          <Name>Venice</Name>
+          <CreateTextGroupFolder>Addon_01/AddonTexte/guids/GlobalUpgrades/Venice</CreateTextGroupFolder>
+          <Assets>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <TownAcquisitionCooldown>
+                    <Value>-15</Value>
+                    <Percental>1</Percental>
+                  </TownAcquisitionCooldown>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian TownAcquisition Upgrade 01</Name>
+                  <GUID>40008000</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <TownAcquisitionCooldown>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>
+                  </TownAcquisitionCooldown>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian TownAcquisition Upgrade 02</Name>
+                  <GUID>40008001</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalHarborTower</Template>
+              <Values>
+                <HitpointUpgrade>
+                  <MaxHitpoints>
+                    <Value>200</Value>
+                  </MaxHitpoints>
+                </HitpointUpgrade>
+                <Standard>
+                  <Name>Venetian HarborTower Upgrade 01</Name>
+                  <GUID>40008002</GUID>
+                </Standard>
+                <Upgrade>
+                  <TargetGUIDs>
+                    <Item>
+                      <UpgradeGUID>39015</UpgradeGUID>
+                    </Item>
+                  </TargetGUIDs>
+                </Upgrade>
+                <MilitaryUnitUpgrade>
+                  <DamageRangeCombatMax>
+                    <Value>1</Value>
+                  </DamageRangeCombatMax>
+                </MilitaryUnitUpgrade>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalHarborTower</Template>
+              <Values>
+                <HitpointUpgrade>
+                  <MaxHitpoints>
+                    <Value>300</Value>
+                  </MaxHitpoints>
+                </HitpointUpgrade>
+                <Standard>
+                  <Name>Venetian HarborTower Upgrade 02</Name>
+                  <GUID>40008003</GUID>
+                </Standard>
+                <Upgrade>
+                  <TargetGUIDs>
+                    <Item>
+                      <UpgradeGUID>39015</UpgradeGUID>
+                    </Item>
+                  </TargetGUIDs>
+                </Upgrade>
+                <MilitaryUnitUpgrade>
+                  <DamageRangeCombatMax>
+                    <Value>2</Value>
+                  </DamageRangeCombatMax>
+                </MilitaryUnitUpgrade>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalHarborTower</Template>
+              <Values>
+                <HitpointUpgrade>
+                  <MaxHitpoints>
+                    <Value>400</Value>
+                  </MaxHitpoints>
+                </HitpointUpgrade>
+                <Standard>
+                  <Name>Venetian HarborTower Upgrade 03</Name>
+                  <GUID>40008004</GUID>
+                </Standard>
+                <Upgrade>
+                  <TargetGUIDs>
+                    <Item>
+                      <UpgradeGUID>39015</UpgradeGUID>
+                    </Item>
+                  </TargetGUIDs>
+                </Upgrade>
+                <MilitaryUnitUpgrade>
+                  <DamageRangeCombatMax>
+                    <Value>3</Value>
+                  </DamageRangeCombatMax>
+                </MilitaryUnitUpgrade>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <InfiltratedBuildingSearchTime>
+                    <Value>-20</Value>
+                    <Percental>1</Percental>
+                  </InfiltratedBuildingSearchTime>
+                  <ManualSpyCheckCooldown>
+                    <Value>-20</Value>
+                    <Percental>1</Percental>
+                  </ManualSpyCheckCooldown>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian EspionageDefense Upgrade 01</Name>
+                  <GUID>40008005</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <InfiltratedBuildingSearchTime>
+                    <Value>-40</Value>
+                    <Percental>1</Percental>
+                  </InfiltratedBuildingSearchTime>
+                  <ManualSpyCheckCooldown>
+                    <Value>-40</Value>
+                    <Percental>1</Percental>
+                  </ManualSpyCheckCooldown>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian EspionageDefense Upgrade 02</Name>
+                  <GUID>40008006</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <InfiltratedBuildingSearchTime>
+                    <Value>-60</Value>
+                    <Percental>1</Percental>
+                  </InfiltratedBuildingSearchTime>
+                  <ManualSpyCheckCooldown>
+                    <Value>-60</Value>
+                    <Percental>1</Percental>
+                  </ManualSpyCheckCooldown>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian EspionageDefense Upgrade 03</Name>
+                  <GUID>40008007</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <EspionageInfiltrationCooldown>
+                    <Value>-10</Value>
+                    <Percental>1</Percental>
+                  </EspionageInfiltrationCooldown>
+                  <EspionageSabotageCooldown>
+                    <Value>-10</Value>
+                    <Percental>1</Percental>
+                  </EspionageSabotageCooldown>
+                  <InfiltratedBuildingUpkeepCost>
+                    <Value>-15</Value>
+                    <Percental>1</Percental>
+                  </InfiltratedBuildingUpkeepCost>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian EspionageOffensive Upgrade 01</Name>
+                  <GUID>40008008</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <EspionageInfiltrationCooldown>
+                    <Value>-15</Value>
+                    <Percental>1</Percental>
+                  </EspionageInfiltrationCooldown>
+                  <EspionageSabotageCooldown>
+                    <Value>-20</Value>
+                    <Percental>1</Percental>
+                  </EspionageSabotageCooldown>
+                  <InfiltratedBuildingUpkeepCost>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>
+                  </InfiltratedBuildingUpkeepCost>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian EspionageOffensive Upgrade 02</Name>
+                  <GUID>40008009</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade>
+                  <EspionageInfiltrationCooldown>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>
+                  </EspionageInfiltrationCooldown>
+                  <EspionageSabotageCooldown>
+                    <Value>-30</Value>
+                    <Percental>1</Percental>
+                  </EspionageSabotageCooldown>
+                  <InfiltratedBuildingUpkeepCost>
+                    <Value>-35</Value>
+                    <Percental>1</Percental>
+                  </InfiltratedBuildingUpkeepCost>
+                </VenetianUpgrade>
+                <Standard>
+                  <Name>Venetian EspionageOffensive Upgrade 03</Name>
+                  <GUID>40008010</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade />
+                <CostUpgrade />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>GlobalVenetianUpgrade</Template>
+              <Values>
+                <VenetianUpgrade />
+                <Standard>
+                  <Name>Venetian Ship Upgrade 03</Name>
+                  <GUID>40008011</GUID>
+                </Standard>
+                <BuildCostUpgrade />
+                <Upgrade>
+                  <TargetGUIDs>
+                    <Item>
+                      <UpgradeGUID>40002003</UpgradeGUID>
+                    </Item>
+                    <Item>
+                      <UpgradeGUID>40002002</UpgradeGUID>
+                    </Item>
+                  </TargetGUIDs>
+                </Upgrade>
+                <CostUpgrade>
+                  <MoneyCost>
+                    <Value>-25</Value>
+                    <Percental>1</Percental>
+                  </MoneyCost>
+                </CostUpgrade>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>IslandUpgrades</Name>
+      <Assets>
+        <Asset>
+          <Template>IslandProductionBoostItem</Template>
+          <Values>
+            <BuildCostUpgrade />
+            <CostUpgrade>
+              <ActiveCost>
+                <Value>-10</Value>
+                <Percental>1</Percental>
+              </ActiveCost>
+              <InactiveCost>
+                <Value>-10</Value>
+                <Percental>1</Percental>
+              </InactiveCost>
+            </CostUpgrade>
+            <FactoryUpgrade />
+            <Item />
+            <ProductionUpgrade />
+            <PublicBuildingUpgrade />
+            <Standard>
+              <Name>Unterhaltskosten Produktion Bailiwick</Name>
+              <GUID>40008012</GUID>
+            </Standard>
+            <Upgrade>
+              <TargetCategories>ProductionBuildings;ProductionBuildingsOrient</TargetCategories>
+              <ShowTargetInTooltip>0</ShowTargetInTooltip>
+            </Upgrade>
+            <WarehouseUpgrade />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

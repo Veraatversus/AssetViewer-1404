@@ -1,0 +1,3150 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41308000</GUIDRangeMin>
+      <GUIDRangeMax>41308019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41308000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Karges Land</Text>
+                  <LastFinalText>Karges Land</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Barren lands</Text>
+                  <LastFinalText>Barren lands</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Бесплодный край</Text>
+                  <LastFinalText>Бесплодный край</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Terres infertiles</Text>
+                  <LastFinalText>Terres infertiles</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tierras áridas</Text>
+                  <LastFinalText>Tierras áridas</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Terre aride</Text>
+                  <LastFinalText>Terre aride</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Pustkowia</Text>
+                  <LastFinalText>Pustkowia</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Nehostinná země</Text>
+                  <LastFinalText>Nehostinná země</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie wurden in eine entlegene Region entsandt, ...</Text>
+                  <LastFinalText>Sie wurden in eine entlegene Region entsandt, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You were send out to an isolated region, ...</Text>
+                  <LastFinalText>You were send out to an isolated region, ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вас отправляют в отдаленную местность, ...</Text>
+                  <LastFinalText>Вас отправляют в отдаленную местность, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez été envoyé dans une région isolée...</Text>
+                  <LastFinalText>Vous avez été envoyé dans une région isolée...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Te han enviado a una región aislada...</Text>
+                  <LastFinalText>Te han enviado a una región aislada...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai ricevuto l'incarico di recarti in una regione isolata...</Text>
+                  <LastFinalText>Hai ricevuto l'incarico di recarti in una regione isolata...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vyslali vás do izolovaného regionu,...</Text>
+                  <LastFinalText>Vyslali vás do izolovaného regionu,...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wysłano cię do odległej krainy...</Text>
+                  <LastFinalText>Wysłano cię do odległej krainy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308002</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... um für den Kaiser eine prächtige Domstadt zu errichten. </Text>
+                  <LastFinalText>... um für den Kaiser eine prächtige Domstadt zu errichten. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...to build a gorgeous Cathedral city in the Emperor's name.</Text>
+                  <LastFinalText>...to build a gorgeous Cathedral city in the Emperor's name.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... где вы должны построить для императора роскошный город с собором. </Text>
+                  <LastFinalText>... где вы должны построить для императора роскошный город с собором. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... pour y bâtir une Ville de la Cathédrale grandiose au nom de l'Empereur.</Text>
+                  <LastFinalText>... pour y bâtir une Ville de la Cathédrale grandiose au nom de l'Empereur.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... a construir una preciosa ciudad catedralicia en nombre del Emperador.</Text>
+                  <LastFinalText>... a construir una preciosa ciudad catedralicia en nombre del Emperador.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...per costruire una stupenda Città della Cattedrale in onore dell'Imperatore.</Text>
+                  <LastFinalText>...per costruire una stupenda Città della Cattedrale in onore dell'Imperatore.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...abyste postavili císařovým jménem město s katedrálou.</Text>
+                  <LastFinalText>...abyste postavili císařovým jménem město s katedrálou.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...gdzie w imieniu Cesarza masz wznieść wspaniałą katedrę.</Text>
+                  <LastFinalText>...gdzie w imieniu Cesarza masz wznieść wspaniałą katedrę.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Doch bei Ihrer Ankunft sehen Sie sich mit zwei Problemen konfrontiert: </Text>
+                  <LastFinalText>Doch bei Ihrer Ankunft sehen Sie sich mit zwei Problemen konfrontiert: </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>But on your arrival you find yourself confronted with two issues:</Text>
+                  <LastFinalText>But on your arrival you find yourself confronted with two issues:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Прибыв туда, вы обнаруживаете две проблемы: </Text>
+                  <LastFinalText>Прибыв туда, вы обнаруживаете две проблемы: </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Mais à votre arrivée, vous êtes confronté à deux problèmes :</Text>
+                  <LastFinalText>Mais à votre arrivée, vous êtes confronté à deux problèmes :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Pero, al llegar, te encuentras con dos problemas:</Text>
+                  <LastFinalText>Pero, al llegar, te encuentras con dos problemas:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ma quando arrivi, ti trovi di fronte a due problemi:</Text>
+                  <LastFinalText>Ma quando arrivi, ti trovi di fronte a due problemi:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Ale po svém příjezdu narážíte na dva problémy:</Text>
+                  <LastFinalText>Ale po svém příjezdu narážíte na dva problémy:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Ale po przybyciu musisz zmierzyć się z dwoma problemami:</Text>
+                  <LastFinalText>Ale po przybyciu musisz zmierzyć się z dwoma problemami:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Der Boden scheint vollkommen unfruchtbar ...</Text>
+                  <LastFinalText>Der Boden scheint vollkommen unfruchtbar ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The terrain seems to be completely infertile...</Text>
+                  <LastFinalText>The terrain seems to be completely infertile...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Земля в этой местности совершенно бесплодна...</Text>
+                  <LastFinalText>Земля в этой местности совершенно бесплодна...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>le terrain semble totalement infertile...</Text>
+                  <LastFinalText>le terrain semble totalement infertile...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>el terreno parece ser completamente infértil...</Text>
+                  <LastFinalText>el terreno parece ser completamente infértil...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Il terreno sembra del tutto improduttivo...</Text>
+                  <LastFinalText>Il terreno sembra del tutto improduttivo...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Země se zdá být naprosto neúrodná...</Text>
+                  <LastFinalText>Země se zdá být naprosto neúrodná...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Ziemia wydaje się być zupełnie jałowa...</Text>
+                  <LastFinalText>Ziemia wydaje się być zupełnie jałowa...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... und die Gewässer sind in der eisernen Faust der Korsaren.</Text>
+                  <LastFinalText>... und die Gewässer sind in der eisernen Faust der Korsaren.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...and the seaways are in the iron hands of the Corsairs</Text>
+                  <LastFinalText>...and the seaways are in the iron hands of the Corsairs</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... а в прибрежных водах полным-полно корсаров.</Text>
+                  <LastFinalText>... а в прибрежных водах полным-полно корсаров.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et les voies de navigation sont aux mains des Corsaires.</Text>
+                  <LastFinalText>... et les voies de navigation sont aux mains des Corsaires.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... y las rutas marítimas están en manos de los corsarios.</Text>
+                  <LastFinalText>... y las rutas marítimas están en manos de los corsarios.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...e i mari sono saldamente nelle mani dei Corsari.</Text>
+                  <LastFinalText>...e i mari sono saldamente nelle mani dei Corsari.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...a námořní cesty pevně třímají ve svých rukách korzáři.</Text>
+                  <LastFinalText>...a námořní cesty pevně třímají ve svých rukách korzáři.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...a morskie szlaki znajdują się w żelaznym uścisku piratów</Text>
+                  <LastFinalText>...a morskie szlaki znajdują się w żelaznym uścisku piratów</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wollen Sie den kaiserlichen Auftrag dennoch erfüllen, ...</Text>
+                  <LastFinalText>Wollen Sie den kaiserlichen Auftrag dennoch erfüllen, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>If you want to fulfill the Emperor´s assignment...</Text>
+                  <LastFinalText>If you want to fulfill the Emperor´s assignment...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Если вы все же хотите выполнить поручение императора, ...</Text>
+                  <LastFinalText>Если вы все же хотите выполнить поручение императора, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Si vous voulez remplir la mission de l'Empereur...</Text>
+                  <LastFinalText>Si vous voulez remplir la mission de l'Empereur...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Si quieres cumplir el encargo del Emperador...</Text>
+                  <LastFinalText>Si quieres cumplir el encargo del Emperador...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Se vuoi portare a termine l'incarico dell'Imperatore...</Text>
+                  <LastFinalText>Se vuoi portare a termine l'incarico dell'Imperatore...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Pokud chcete splnit císařův úkol...</Text>
+                  <LastFinalText>Pokud chcete splnit císařův úkol...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Jeśli chcesz wykonać rozkaz Cesarza...</Text>
+                  <LastFinalText>Jeśli chcesz wykonać rozkaz Cesarza...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308007</GUID>
+              <Kommentar>Intro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... ist Ihr ganzes Handelsgeschick gefragt. </Text>
+                  <LastFinalText>... ist Ihr ganzes Handelsgeschick gefragt. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...you will need all of your Trading skills.</Text>
+                  <LastFinalText>...you will need all of your Trading skills.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... потребуется продемонстрировать весь ваш талант торговца. </Text>
+                  <LastFinalText>... потребуется продемонстрировать весь ваш талант торговца. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... vous aurez besoin de tous vos dons pour le Commerce.</Text>
+                  <LastFinalText>... vous aurez besoin de tous vos dons pour le Commerce.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... tendrás que emplear todas tus habilidades comerciales.</Text>
+                  <LastFinalText>... tendrás que emplear todas tus habilidades comerciales.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...ti serviranno tutte le tue abilità commerciali.</Text>
+                  <LastFinalText>...ti serviranno tutte le tue abilità commerciali.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...budete potřebovat veškeré své obchodní dovednosti.</Text>
+                  <LastFinalText>...budete potřebovat veškeré své obchodní dovednosti.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...musisz wykorzystać swoje umiejętności kupieckie.</Text>
+                  <LastFinalText>...musisz wykorzystać swoje umiejętności kupieckie.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308008</GUID>
+              <Kommentar>Intro Text 8</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Seine Majestät zählt fest auf Sie!</Text>
+                  <LastFinalText>Seine Majestät zählt fest auf Sie!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>His Majesty is counting on you!</Text>
+                  <LastFinalText>His Majesty is counting on you!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Его Величество рассчитывает на вас!</Text>
+                  <LastFinalText>Его Величество рассчитывает на вас!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Sa Majesté compte sur vous !</Text>
+                  <LastFinalText>Sa Majesté compte sur vous !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Su Majestad confía en ti!</Text>
+                  <LastFinalText>¡Su Majestad confía en ti!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sua Maestà conta su di te!</Text>
+                  <LastFinalText>Sua Maestà conta su di te!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Jeho veličenstvo se na vás spoléhá!</Text>
+                  <LastFinalText>Jeho veličenstvo se na vás spoléhá!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Jego Wysokość liczy na ciebie!</Text>
+                  <LastFinalText>Jego Wysokość liczy na ciebie!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308009</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ihre Stadt ist zur Metropole herangewachsen, ...</Text>
+                  <LastFinalText>Ihre Stadt ist zur Metropole herangewachsen, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Your city has grown into a Metropolis...</Text>
+                  <LastFinalText>Your city has grown into a Metropolis...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Ваш город, наконец, стал метрополией,</Text>
+                  <LastFinalText>Ваш город, наконец, стал метрополией,</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Votre ville est devenue une Métropole...</Text>
+                  <LastFinalText>Votre ville est devenue une Métropole...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tu ciudad se ha convertido en una metrópolis...</Text>
+                  <LastFinalText>Tu ciudad se ha convertido en una metrópolis...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La tua città è diventata una Metropoli...</Text>
+                  <LastFinalText>La tua città è diventata una Metropoli...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vaše město se rozrostlo v metropoli...</Text>
+                  <LastFinalText>Vaše město se rozrostlo v metropoli...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Twoje miasto stało się Metropolią...</Text>
+                  <LastFinalText>Twoje miasto stało się Metropolią...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308010</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... der Kaiserdom trotz widrigster Bedingungen errichtet ...</Text>
+                  <LastFinalText>... der Kaiserdom trotz widrigster Bedingungen errichtet ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>…and, against all odds, the Imperial cathedral is finished ...</Text>
+                  <LastFinalText>…and, against all odds, the Imperial cathedral is finished ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... в тяжелейших условиях воздвигнут императорский собор...</Text>
+                  <LastFinalText>... в тяжелейших условиях воздвигнут императорский собор...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et, contre toute attente, la Cathédrale impériale est finie...</Text>
+                  <LastFinalText>... et, contre toute attente, la Cathédrale impériale est finie...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... y, contra todo pronóstico, la catedral imperial está acabada...</Text>
+                  <LastFinalText>... y, contra todo pronóstico, la catedral imperial está acabada...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...e, contrariamente a ogni previsione, la Cattedrale imperiale è stata completata...</Text>
+                  <LastFinalText>...e, contrariamente a ogni previsione, la Cattedrale imperiale è stata completata...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...a navzdory všem nepříjemnostem je císařská katedrála postavena...</Text>
+                  <LastFinalText>...a navzdory všem nepříjemnostem je císařská katedrála postavena...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...i mimo przeciwności losu, zakończyła się budowa katedry cesarskiej...</Text>
+                  <LastFinalText>...i mimo przeciwności losu, zakończyła się budowa katedry cesarskiej...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308011</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... und der Handel blüht. </Text>
+                  <LastFinalText>... und der Handel blüht. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...and Trade is booming.</Text>
+                  <LastFinalText>...and Trade is booming.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... торговля процветает. </Text>
+                  <LastFinalText>... торговля процветает. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et le Commerce y est florissant.</Text>
+                  <LastFinalText>... et le Commerce y est florissant.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... y el comercio está en pleno auge.</Text>
+                  <LastFinalText>... y el comercio está en pleno auge.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...e il Commercio prospera.</Text>
+                  <LastFinalText>...e il Commercio prospera.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...obchod kvete.</Text>
+                  <LastFinalText>...obchod kvete.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...a handel kwitnie.</Text>
+                  <LastFinalText>...a handel kwitnie.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308012</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als dann noch Lord Northburgh freudestrahlend berichtet, ...</Text>
+                  <LastFinalText>Als dann noch Lord Northburgh freudestrahlend berichtet, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>And when, radiant with joy, Lord Northburgh tells you ...</Text>
+                  <LastFinalText>And when, radiant with joy, Lord Northburgh tells you ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Лорд Нортберг, лучась радостью, сообщает, ...</Text>
+                  <LastFinalText>Лорд Нортберг, лучась радостью, сообщает, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Et quand, rayonnant de joie, Lord Northburgh vous informe...</Text>
+                  <LastFinalText>Et quand, rayonnant de joie, Lord Northburgh vous informe...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando, radiante de alegría, el señor Northburgh te dice...</Text>
+                  <LastFinalText>Cuando, radiante de alegría, el señor Northburgh te dice...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>E quando, raggiante di gioia, Lord Northburgh ti comunica...</Text>
+                  <LastFinalText>E quando, raggiante di gioia, Lord Northburgh ti comunica...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>A když vám naprosto nadšený lord Northburgh sděluje...</Text>
+                  <LastFinalText>A když vám naprosto nadšený lord Northburgh sděluje...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>A gdy promieniejący radością Lord Northburgh mówi ci, że...</Text>
+                  <LastFinalText>A gdy promieniejący radością Lord Northburgh mówi ci, że...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308013</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  dass der Kaiser höchstselbst zur Weihe des Gotteshauses anreisen wird, ...</Text>
+                  <LastFinalText>...  dass der Kaiser höchstselbst zur Weihe des Gotteshauses anreisen wird, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... that the Emperor himself will be coming for the consecration...</Text>
+                  <LastFinalText>... that the Emperor himself will be coming for the consecration...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  что император собирается лично прибыть на церемонию освящения собора, ...</Text>
+                  <LastFinalText>...  что император собирается лично прибыть на церемонию освящения собора, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... que l'Empereur lui-même assistera à la consécration...</Text>
+                  <LastFinalText>... que l'Empereur lui-même assistera à la consécration...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... que el Emperador en persona vendrá a la consagración...</Text>
+                  <LastFinalText>... que el Emperador en persona vendrá a la consagración...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...che l'Imperatore in persona presenzierà alla consacrazione...</Text>
+                  <LastFinalText>...che l'Imperatore in persona presenzierà alla consacrazione...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...že na vysvěcení katedrály dorazí i sám císař...</Text>
+                  <LastFinalText>...že na vysvěcení katedrály dorazí i sám císař...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...Cesarz osobiście zjawi się na poświęceniu...</Text>
+                  <LastFinalText>...Cesarz osobiście zjawi się na poświęceniu...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308014</GUID>
+              <Kommentar>Outro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... wissen Sie, ...</Text>
+                  <LastFinalText>... wissen Sie, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... you realise ...</Text>
+                  <LastFinalText>... you realise ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... знайте, ...</Text>
+                  <LastFinalText>... знайте, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... vous réalisez...</Text>
+                  <LastFinalText>... vous réalisez...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... te das cuenta de que...</Text>
+                  <LastFinalText>... te das cuenta de que...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...ti rendi conto...</Text>
+                  <LastFinalText>...ti rendi conto...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...uvědomujete si...</Text>
+                  <LastFinalText>...uvědomujete si...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>...zdajesz sobie sprawę...</Text>
+                  <LastFinalText>...zdajesz sobie sprawę...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308015</GUID>
+              <Kommentar>Outro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... dass Sie das schier Unmögliche möglich gemacht haben!</Text>
+                  <LastFinalText>... dass Sie das schier Unmögliche möglich gemacht haben!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>… that you have made the impossible come true!</Text>
+                  <LastFinalText>… that you have made the impossible come true!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... что вы способны осуществить невозможное!</Text>
+                  <LastFinalText>... что вы способны осуществить невозможное!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... que vous avez réussi à faire l'impossible !</Text>
+                  <LastFinalText>... que vous avez réussi à faire l'impossible !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... ¡has hecho realidad lo imposible!</Text>
+                  <LastFinalText>... ¡has hecho realidad lo imposible!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...che hai trasformato l'impossibile in realtà!</Text>
+                  <LastFinalText>...che hai trasformato l'impossibile in realtà!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>...že se vám podařilo splnit nemožné!</Text>
+                  <LastFinalText>...že se vám podařilo splnit nemožné!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>…że udało ci się dokonać niemożliwego!</Text>
+                  <LastFinalText>…że udało ci się dokonać niemożliwego!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <GUIDRangeMin>41308500</GUIDRangeMin>
+      <GUIDRangeMax>41308549</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308500</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ausgebeutet</Text>
+                  <LastFinalText>Ausgebeutet</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Exhausted</Text>
+                  <LastFinalText>Exhausted</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Разработка</Text>
+                  <LastFinalText>Разработка</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Épuisé</Text>
+                  <LastFinalText>Épuisé</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Agotamiento</Text>
+                  <LastFinalText>Agotamiento</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Senza risorse</Text>
+                  <LastFinalText>Senza risorse</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vyčerpání</Text>
+                  <LastFinalText>Vyčerpání</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wyczerpanie</Text>
+                  <LastFinalText>Wyczerpanie</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308501</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erfüllen Sie des Kaisers Auftrag: [CR] [CR]</Text>
+                  <LastFinalText>Erfüllen Sie des Kaisers Auftrag: [CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Complete the Emperor's assignment: [CR] [CR] </Text>
+                  <LastFinalText>Complete the Emperor's assignment: [CR] [CR] </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Выполните поручение императора: [CR] [CR]</Text>
+                  <LastFinalText>Выполните поручение императора: [CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Remplissez la mission de l'Empereur : [CR] [CR] </Text>
+                  <LastFinalText>Remplissez la mission de l'Empereur : [CR] [CR] </LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cumple la tarea del Emperador: [CR] [CR] </Text>
+                  <LastFinalText>Cumple la tarea del Emperador: [CR] [CR] </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Completa l'incarico dell'Imperatore: [CR] [CR] </Text>
+                  <LastFinalText>Completa l'incarico dell'Imperatore: [CR] [CR] </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Splňte císařův úkol: [CR] [CR] </Text>
+                  <LastFinalText>Splňte císařův úkol: [CR] [CR] </LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wykonaj rozkaz Cesarza: [CR] [CR] </Text>
+                  <LastFinalText>Wykonaj rozkaz Cesarza: [CR] [CR] </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308502</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ihre Insel gleicht einem Schlachtfeld und ist völlig unfruchtbar. Im Meer haben Sie zwar Fischschwärme entdeckt, doch diese werden Ihre Bevölkerung nur für den Anfang zufrieden stellen.[CR] [CR][GUIDNAME 1645000] steht als Handelspartner zur Verfügung, aber Sie sollten die Region auch erkunden, ob sich nicht doch fruchtbares Land oder zumindest Handelspartner finden. Seien Sie jedoch stets auf der Hut vor den Korsaren!</Text>
+                  <LastFinalText>Ihre Insel gleicht einem Schlachtfeld und ist völlig unfruchtbar. Im Meer haben Sie zwar Fischschwärme entdeckt, doch diese werden Ihre Bevölkerung nur für den Anfang zufrieden stellen.[CR] [CR][GUIDNAME 1645000] steht als Handelspartner zur Verfügung, aber Sie sollten die Region auch erkunden, ob sich nicht doch fruchtbares Land oder zumindest Handelspartner finden. Seien Sie jedoch stets auf der Hut vor den Korsaren!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Your island is a wasteland, with neither fertilities nor resources. Fortunately some shoals of fish have been spotted nearby, but these will only support your population for a short time. [CR] [CR][GUIDNAME 1645000] is available as a trading partner, but you should also explore the region to see if there isn't a little fertile land, or at least some more trading partners, to be found. Keep a constant lookout for the Corsairs!</Text>
+                  <LastFinalText>Your island is a wasteland, with neither fertilities nor resources. Fortunately some shoals of fish have been spotted nearby, but these will only support your population for a short time. [CR] [CR][GUIDNAME 1645000] is available as a trading partner, but you should also explore the region to see if there isn't a little fertile land, or at least some more trading partners, to be found. Keep a constant lookout for the Corsairs!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Ваш остров напоминает поле сражения и совершенно бесплоден. Правда, в море изобилие рыбы, но ваших подданных это может удовлетворить лишь ненадолго.[CR] [CR][GUIDNAME 1645000] готов выступать в роли торгового партнера, но и вам придется исследовать регион, в надежде найти плодородные земли или хотя бы новых торговых партнеров. Только остерегайтесь корсаров!</Text>
+                  <LastFinalText>Ваш остров напоминает поле сражения и совершенно бесплоден. Правда, в море изобилие рыбы, но ваших подданных это может удовлетворить лишь ненадолго.[CR] [CR][GUIDNAME 1645000] готов выступать в роли торгового партнера, но и вам придется исследовать регион, в надежде найти плодородные земли или хотя бы новых торговых партнеров. Только остерегайтесь корсаров!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Votre île désertique ne comporte ni Fertilités ni Ressources. Par chance, des bancs de poissons ont été aperçus à proximité, mais ils ne pourvoiront aux besoins de votre population que peu de temps. [CR] [CR][GUIDNAME 1645000] se propose comme partenaire commercial, mais n'hésitez pas à explorer la région en quête d'une petite terre fertile ou d'autres partenaires commerciaux. Ne quittez pas des yeux les Corsaires !</Text>
+                  <LastFinalText>Votre île désertique ne comporte ni Fertilités ni Ressources. Par chance, des bancs de poissons ont été aperçus à proximité, mais ils ne pourvoiront aux besoins de votre population que peu de temps. [CR] [CR][GUIDNAME 1645000] se propose comme partenaire commercial, mais n'hésitez pas à explorer la région en quête d'une petite terre fertile ou d'autres partenaires commerciaux. Ne quittez pas des yeux les Corsaires !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tu isla es una tierra baldía, infértil y sin recursos. Por suerte, se han avistado unos bancos de peces cerca, pero solo servirán para abastecer a tu población durante un breve periodo. [CR] [CR][GUIDNAME 1645000] está disponible para ser tu socio comercial, pero también deberías explorar la región para ver si hay terrenos fértiles o más socios comerciales potenciales. ¡Y mantente alerta ante la llegada de corsarios!</Text>
+                  <LastFinalText>Tu isla es una tierra baldía, infértil y sin recursos. Por suerte, se han avistado unos bancos de peces cerca, pero solo servirán para abastecer a tu población durante un breve periodo. [CR] [CR][GUIDNAME 1645000] está disponible para ser tu socio comercial, pero también deberías explorar la región para ver si hay terrenos fértiles o más socios comerciales potenciales. ¡Y mantente alerta ante la llegada de corsarios!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La tua isola è una terra desolata, senza fertilità né risorse. Fortunatamente, nelle vicinanze sono stati avvistati dei branchi di pesci, che però non potranno sostenere la tua popolazione a lungo. [CR] [CR][GUIDNAME 1645000] è disponibile come socio in affari, ma dovresti anche esplorare la regione per vedere se riesci a trovare qualche piccola zona fertile, o almeno degli altri soci in affari. E fai sempre attenzione ai Corsari!</Text>
+                  <LastFinalText>La tua isola è una terra desolata, senza fertilità né risorse. Fortunatamente, nelle vicinanze sono stati avvistati dei branchi di pesci, che però non potranno sostenere la tua popolazione a lungo. [CR] [CR][GUIDNAME 1645000] è disponibile come socio in affari, ma dovresti anche esplorare la regione per vedere se riesci a trovare qualche piccola zona fertile, o almeno degli altri soci in affari. E fai sempre attenzione ai Corsari!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Váš ostrov je pustina bez úrodné půdy a zdrojů. Naštěstí byly nedaleko spatřeny hejna ryb, ale ty mohou populaci zasytit jen na krátkou dobu. [CR] [CR][GUIDNAME 1645000] se chce stát se vaším obchodním partnerem, nicméně byste měl prozkoumat celý region, zda není k nalezení alespoň kousek úrodné půdy nebo nějaký další obchodní partner. Dávejte si ale dobrý pozor na korzáry!</Text>
+                  <LastFinalText>Váš ostrov je pustina bez úrodné půdy a zdrojů. Naštěstí byly nedaleko spatřeny hejna ryb, ale ty mohou populaci zasytit jen na krátkou dobu. [CR] [CR][GUIDNAME 1645000] se chce stát se vaším obchodním partnerem, nicméně byste měl prozkoumat celý region, zda není k nalezení alespoň kousek úrodné půdy nebo nějaký další obchodní partner. Dávejte si ale dobrý pozor na korzáry!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Twoja wyspa to pustkowie z jałową ziemią i bez zasobów. Na szczęście w pobliżu dostrzeżono ławice ryb, ale wyżywią one mieszkańców tylko przez krótki czas. [CR] [CR][GUIDNAME 1645000] może być partnerem handlowym, ale zbadaj ten region, może jest tam choć trochę żyznych ziem albo więcej partnerów handlowych. Uważaj na piratów!</Text>
+                  <LastFinalText>Twoja wyspa to pustkowie z jałową ziemią i bez zasobów. Na szczęście w pobliżu dostrzeżono ławice ryb, ale wyżywią one mieszkańców tylko przez krótki czas. [CR] [CR][GUIDNAME 1645000] może być partnerem handlowym, ale zbadaj ten region, może jest tam choć trochę żyznych ziem albo więcej partnerów handlowych. Uważaj na piratów!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308504</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Im Namen des Kaisers beauftragt Sie [THIRDPARTY_SENDER_PLAYER], dieses unfruchtbare Land zu besiedeln und einen Kaiserdom zu errichten.</Text>
+                  <LastFinalText>Im Namen des Kaisers beauftragt Sie [THIRDPARTY_SENDER_PLAYER], dieses unfruchtbare Land zu besiedeln und einen Kaiserdom zu errichten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] orders you in the Emperor's name to colonize this infertile land and build an Imperial cathedral.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] orders you in the Emperor's name to colonize this infertile land and build an Imperial cathedral.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>От имени императора [THIRDPARTY_SENDER_PLAYER] поручает вам заселить эти негостеприимные земли и воздвигнуть здесь императорский собор.</Text>
+                  <LastFinalText>От имени императора [THIRDPARTY_SENDER_PLAYER] поручает вам заселить эти негостеприимные земли и воздвигнуть здесь императорский собор.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous ordonne, au nom de l'Empereur, de coloniser cette terre infertile et d'y bâtir une Cathédrale impériale.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous ordonne, au nom de l'Empereur, de coloniser cette terre infertile et d'y bâtir une Cathédrale impériale.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te ordena en nombre del Emperador colonizar esta tierra infértil y construir una catedral imperial.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te ordena en nombre del Emperador colonizar esta tierra infértil y construir una catedral imperial.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti ordina nel nome dell'Imperatore di colonizzare questa terra improduttiva e di costruire una Cattedrale imperiale.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti ordina nel nome dell'Imperatore di colonizzare questa terra improduttiva e di costruire una Cattedrale imperiale.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám jménem císaře dává rozkaz ke kolonizaci této neúrodné půdy a ke stavbě císařské katedrály.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám jménem císaře dává rozkaz ke kolonizaci této neúrodné půdy a ke stavbě císařské katedrály.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>W imieniu Cesarza, [THIRDPARTY_SENDER_PLAYER] rozkazuje ci skolonizowanie tej jałowej krainy i zbudowanie katedry cesarskiej.</Text>
+                  <LastFinalText>W imieniu Cesarza, [THIRDPARTY_SENDER_PLAYER] rozkazuje ci skolonizowanie tej jałowej krainy i zbudowanie katedry cesarskiej.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308506</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist außer sich vor Freude, dass Sie den Wunsch des Kaisers erfüllt haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist außer sich vor Freude, dass Sie den Wunsch des Kaisers erfüllt haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is overjoyed that you have managed to fulfill the Emperor's wish.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is overjoyed that you have managed to fulfill the Emperor's wish.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] вне себя от радости из-за того, что вам удалось выполнить желание императора.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] вне себя от радости из-за того, что вам удалось выполнить желание императора.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est ravi que vous ayez accompli le souhait de l'Empereur.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est ravi que vous ayez accompli le souhait de l'Empereur.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se muestra encantado de que hayas conseguido cumplir los deseos del Emperador.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se muestra encantado de que hayas conseguido cumplir los deseos del Emperador.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è colmo di gioia perché sei riuscito a realizzare il desiderio dell'Imperatore.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è colmo di gioia perché sei riuscito a realizzare il desiderio dell'Imperatore.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] nadšeně sleduje, jak se vám podařilo splnit císařovo přání.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] nadšeně sleduje, jak se vám podařilo splnit císařovo přání.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] raduje się, że udało ci się wypełnić wolę Cesarza.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] raduje się, że udało ci się wypełnić wolę Cesarza.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Sub01_Adlige_erreichen</Name>
+      <GUIDRangeMin>41308050</GUIDRangeMin>
+      <GUIDRangeMax>41308099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>- Adlige erreichen </Text>
+                  <LastFinalText>- Adlige erreichen </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>-WiP- Reach Nobleman status</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Sub02_Kaiserdom</Name>
+      <GUIDRangeMin>41308150</GUIDRangeMin>
+      <GUIDRangeMax>41308199</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308150</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text> - Kaiserdom errichten</Text>
+                  <LastFinalText> - Kaiserdom errichten</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>-WiP- Build up an imperial cathedral</Text>
+                </English>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ02_Korsaren_geben_niemals_auf</Name>
+      <GUIDRangeMin>41308250</GUIDRangeMin>
+      <GUIDRangeMax>41308299</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308250</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Korsaren geben niemals auf!</Text>
+                  <LastFinalText>Korsaren geben niemals auf!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Corsairs never give up</Text>
+                  <LastFinalText>Corsairs never give up</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Корсары никогда не сдаются!</Text>
+                  <LastFinalText>Корсары никогда не сдаются!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un Corsaire n'abandonne jamais</Text>
+                  <LastFinalText>Un Corsaire n'abandonne jamais</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Los corsarios nunca se rinden</Text>
+                  <LastFinalText>Los corsarios nunca se rinden</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>I Corsari non si arrendono mai</Text>
+                  <LastFinalText>I Corsari non si arrendono mai</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Korzáři se nikdy nevzdávají</Text>
+                  <LastFinalText>Korzáři se nikdy nevzdávají</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Piraci nigdy się nie poddają</Text>
+                  <LastFinalText>Piraci nigdy się nie poddają</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308252</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Verärgert über die fehlgeschlagene Blockade, hat sich [GUIDNAME 1645081] dieses Mal mit einer größeren Flotte vor Ihrem Hafen eingenistet und bereiten Ihren Handelschiffen arge Probleme.[CR] [CR]Wird er diesmal Erfolg haben oder können Sie den Korsaren erneut vertreiben?</Text>
+                  <LastFinalText>Verärgert über die fehlgeschlagene Blockade, hat sich [GUIDNAME 1645081] dieses Mal mit einer größeren Flotte vor Ihrem Hafen eingenistet und bereiten Ihren Handelschiffen arge Probleme.[CR] [CR]Wird er diesmal Erfolg haben oder können Sie den Korsaren erneut vertreiben?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Angered at having his blockade broken,  [GUIDNAME 1645081] has returned with a larger fleet which is proving to be a problem for your trading vessels.[CR] [CR] Will he succeed this time or will you once again be able to drive the Corsairs off?</Text>
+                  <LastFinalText>Angered at having his blockade broken,  [GUIDNAME 1645081] has returned with a larger fleet which is proving to be a problem for your trading vessels.[CR] [CR] Will he succeed this time or will you once again be able to drive the Corsairs off?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[GUIDNAME 1645081] в ярости из-за того, что блокада ни к чему не привела. На этот раз он подводит к вашему порту огромный флот, и у ваших торговых кораблей возникают серьезные трудности.[CR] [CR]Неужели на этот раз его ждет успех, или вы сумеете снова совладать с корсарами?</Text>
+                  <LastFinalText>[GUIDNAME 1645081] в ярости из-за того, что блокада ни к чему не привела. На этот раз он подводит к вашему порту огромный флот, и у ваших торговых кораблей возникают серьезные трудности.[CR] [CR]Неужели на этот раз его ждет успех, или вы сумеете снова совладать с корсарами?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Furieux de voir son Barrage enfoncé, [GUIDNAME 1645081] a envoyé une flotte plus nombreuse qui s'avère être un problème pour vos Navires de commerce.[CR] [CR] Réussira-t-il cette fois ou allez-vous encore chasser les Corsaires ?</Text>
+                  <LastFinalText>Furieux de voir son Barrage enfoncé, [GUIDNAME 1645081] a envoyé une flotte plus nombreuse qui s'avère être un problème pour vos Navires de commerce.[CR] [CR] Réussira-t-il cette fois ou allez-vous encore chasser les Corsaires ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Furioso por el fin de su bloqueo, [GUIDNAME 1645081] ha vuelto con una flota más grande y se ha convertido en un problema para tus naves mercantes.[CR] [CR] ¿Podrá salirse con la suya esta vez o serás capaz de echar a los corsarios de la zona?</Text>
+                  <LastFinalText>Furioso por el fin de su bloqueo, [GUIDNAME 1645081] ha vuelto con una flota más grande y se ha convertido en un problema para tus naves mercantes.[CR] [CR] ¿Podrá salirse con la suya esta vez o serás capaz de echar a los corsarios de la zona?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Adirato per la forzatura del suo blocco, [GUIDNAME 1645081] è tornato con una flotta più grande, che si sta rivelando un problema per i tuoi vascelli mercantili.[CR] [CR] Riuscirà nel suo intento stavolta, o saprai di nuovo liberarti dei Corsari?</Text>
+                  <LastFinalText>Adirato per la forzatura del suo blocco, [GUIDNAME 1645081] è tornato con una flotta più grande, che si sta rivelando un problema per i tuoi vascelli mercantili.[CR] [CR] Riuscirà nel suo intento stavolta, o saprai di nuovo liberarti dei Corsari?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[GUIDNAME 1645081] je rozzuřen proražením své blokády a vrátil se proto s větší flotilou, která způsobuje vašim obchodním plavidlům problémy.[CR] [CR]Uspěje tentokrát, nebo se vám opět podaří korzáry odehnat?</Text>
+                  <LastFinalText>[GUIDNAME 1645081] je rozzuřen proražením své blokády a vrátil se proto s větší flotilou, která způsobuje vašim obchodním plavidlům problémy.[CR] [CR]Uspěje tentokrát, nebo se vám opět podaří korzáry odehnat?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Rozwścieczony przełamaniem blokady, [GUIDNAME 1645081] powrócił z większą flotą, która nęka twoje statki kupieckie.[CR] [CR] Uda mu się tym razem, czy znowu odeprzesz piratów?</Text>
+                  <LastFinalText>Rozwścieczony przełamaniem blokady, [GUIDNAME 1645081] powrócił z większą flotą, która nęka twoje statki kupieckie.[CR] [CR] Uda mu się tym razem, czy znowu odeprzesz piratów?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ01_Wegezoll</Name>
+      <GUIDRangeMin>41308200</GUIDRangeMin>
+      <GUIDRangeMax>41308249</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308200</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wegezoll</Text>
+                  <LastFinalText>Wegezoll</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Toll collectors</Text>
+                  <LastFinalText>Toll collectors</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Дорожная пошлина</Text>
+                  <LastFinalText>Дорожная пошлина</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Percepteur de droits de passage</Text>
+                  <LastFinalText>Percepteur de droits de passage</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Recaudadores de peaje</Text>
+                  <LastFinalText>Recaudadores de peaje</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Collezionisti di dazi</Text>
+                  <LastFinalText>Collezionisti di dazi</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Výběrčí mýtného</Text>
+                  <LastFinalText>Výběrčí mýtného</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Poborcy myta</Text>
+                  <LastFinalText>Poborcy myta</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308202</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[GUIDNAME 1645081] ist dahintergekommen, dass Sie Ihre Waren fast ausschließlich per Schiff in Ihre Stadt befördern. Nun hat er eine Blockade vor Ihrer Stadt errichtet und verlangt Wegezoll.[CR] [CR]Im Namen des Kaisers: Lassen Sie sich das nicht gefallen!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] ist dahintergekommen, dass Sie Ihre Waren fast ausschließlich per Schiff in Ihre Stadt befördern. Nun hat er eine Blockade vor Ihrer Stadt errichtet und verlangt Wegezoll.[CR] [CR]Im Namen des Kaisers: Lassen Sie sich das nicht gefallen!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[GUIDNAME 1645081] has found out that you receive all your Goods by ship. Now he has blockaded your harbour in an attempt to extort a toll from you. [CR][CR]In the Emperor's name: Don't take this lying down!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] has found out that you receive all your Goods by ship. Now he has blockaded your harbour in an attempt to extort a toll from you. [CR][CR] In the Emperor's name: Don't take this lying down!</LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>[GUIDNAME 1645081] прослышал, что вы доставляете в город товары исключительно морем. Теперь он блокировал гавань и требует, чтобы ему платили дорожную пошлину.[CR] [CR]Именем императора: Не дайте этому произойти!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] прослышал, что вы доставляете в город товары исключительно морем. Теперь он блокировал гавань и требует, чтобы ему платили дорожную пошлину.[CR] [CR]Именем императора: Не дайте этому произойти!</LastFinalText>
+                  <Status>Edit</Status>
+                </Russian>
+                <French>
+                  <Text>[GUIDNAME 1645081] a découvert que vous receviez toutes vos Marchandises par navire. Il a installé un Barrage devant votre Port pour tenter de vous extorquer des droits de passage. [CR][CR]Au nom de l'Empereur, ne le laissez pas faire !</Text>
+                  <LastFinalText>[GUIDNAME 1645081] a découvert que vous receviez toutes vos Marchandises par navire. Il a installé un Barrage devant votre Port pour tenter de vous extorquer des droits de passage. [CR][CR] Au nom de l'Empereur, ne le laissez pas faire !</LastFinalText>
+                  <Status>Edit</Status>
+                </French>
+                <Spanish>
+                  <Text>[GUIDNAME 1645081] ha descubierto que recibes todos tus bienes por barco. Por eso, ha decidido bloquear tu puerto para intentar extorsionarte y cobrarte un peaje. [CR][CR]En nombre del Emperador, ¡no puedes permitirlo!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] ha descubierto que recibes todos tus bienes por barco. Por eso, ha decidido bloquear tu puerto para intentar extorsionarte y cobrarte un peaje. [CR][CR] En nombre del Emperador, ¡no puedes permitirlo!</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[GUIDNAME 1645081] ha scoperto che ricevi tutte le tue Merci via nave. Ora ha bloccato il tuo porto nel tentativo di estorcerti il pagamento di un dazio. [CR][CR] Non stare a guardare senza reagire, in nome dell'Imperatore!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] ha scoperto che ricevi tutte le tue Merci via nave. Ora ha bloccato il tuo porto nel tentativo di estorcerti il pagamento di un dazio. [CR][CR] Non stare a guardare senza reagire, in nome dell'Imperatore!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[GUIDNAME 1645081] zjišťuje, že veškeré zboží získáváte lodní dopravou. Snaží se proto zablokovat přístav, ať od vás může vymáhat mýtné. [CR][CR]Jménem císaře, tohle si nemůžete nechat líbit!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] zjišťuje, že veškeré zboží získáváte lodní dopravou. Snaží se proto zablokovat přístav, ať od vás může vymáhat mýtné. [CR][CR] Jménem císaře, tohle si nemůžete nechat líbit!</LastFinalText>
+                  <Status>Edit</Status>
+                </Czech>
+                <Polish>
+                  <Text>[GUIDNAME 1645081] wie, że wszystkie towary otrzymujesz drogą morską. Zablokował twój port, chcąc wymusić myto. [CR][CR] W imię Cesarza: Ukarz go za tę zniewagę!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] wie, że wszystkie towary otrzymujesz drogą morską. Zablokował twój port, chcąc wymusić myto. [CR][CR] W imię Cesarza: Ukarz go za tę zniewagę!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308204</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Beunruhigt weist Sie [THIRDPARTY_SENDER_PLAYER] auf eine Korsarenflotte hin, die sich bedrohlich Ihrem Hafen nähert.</Text>
+                  <LastFinalText>Beunruhigt weist Sie [THIRDPARTY_SENDER_PLAYER] auf eine Korsarenflotte hin, die sich bedrohlich Ihrem Hafen nähert.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A concerned [THIRDPARTY_SENDER_PLAYER] points out a Corsair fleet which is threatening your harbour.</Text>
+                  <LastFinalText>A concerned [THIRDPARTY_SENDER_PLAYER] points out a Corsair fleet which is threatening your harbour.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] тревожно указывает вам на флот корсаров, приближающийся к вашей гавани.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] тревожно указывает вам на флот корсаров, приближающийся к вашей гавани.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>D'un air inquiet, [THIRDPARTY_SENDER_PLAYER] fait remarquer qu'une flotte de Corsaires menace votre Port.</Text>
+                  <LastFinalText>D'un air inquiet, [THIRDPARTY_SENDER_PLAYER] fait remarquer qu'une flotte de Corsaires menace votre Port.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Preocupado, [THIRDPARTY_SENDER_PLAYER] te señala una flota de corsarios que amenaza tu puerto.</Text>
+                  <LastFinalText>Preocupado, [THIRDPARTY_SENDER_PLAYER] te señala una flota de corsarios que amenaza tu puerto.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] indica preoccupato la Flotta corsara che sta minacciando il tuo porto.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] indica preoccupato la Flotta corsara che sta minacciando il tuo porto.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s obavami poukazuje na flotilu korzárů, která blokuje váš přístav.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s obavami poukazuje na flotilu korzárů, která blokuje váš přístav.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] informuje o pirackiej flocie, która zagraża twemu portowi.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] informuje o pirackiej flocie, która zagraża twemu portowi.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308206</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist erleichtert, dass Sie die Bedrohung durch die Korsaren abwenden konnten. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist erleichtert, dass Sie die Bedrohung durch die Korsaren abwenden konnten. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is relieved that you were able to avert the Corsair threat. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is relieved that you were able to avert the Corsair threat. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] с облегчением замечает, что вы справились с корсарами. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] с облегчением замечает, что вы справились с корсарами. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est soulagé de voir que vous avez réussi à écarter la menace corsaire. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est soulagé de voir que vous avez réussi à écarter la menace corsaire. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se siente aliviado de que hayas evitado la amenaza corsaria. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se siente aliviado de que hayas evitado la amenaza corsaria. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è sollevato che tu sia riuscito a sventare la minaccia dei Corsari. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è sollevato che tu sia riuscito a sventare la minaccia dei Corsari. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s úlevou sleduje, že se vám podařilo odvrátit hrozbu korzárů. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s úlevou sleduje, že se vám podařilo odvrátit hrozbu korzárů. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z ulgą przyjmuje wiadomość, że udało ci się pokonać piratów. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z ulgą przyjmuje wiadomość, że udało ci się pokonać piratów. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ03_Die_Unbelehrbaren</Name>
+      <GUIDRangeMin>41308300</GUIDRangeMin>
+      <GUIDRangeMax>41308349</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308300</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Unbelehrbaren</Text>
+                  <LastFinalText>Die Unbelehrbaren</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The incorrigible</Text>
+                  <LastFinalText>The incorrigible</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Неисправимые</Text>
+                  <LastFinalText>Неисправимые</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Incorrigible</Text>
+                  <LastFinalText>Incorrigible</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Incorregible</Text>
+                  <LastFinalText>Incorregible</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Gli incorreggibili</Text>
+                  <LastFinalText>Gli incorreggibili</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Nenapravitelný</Text>
+                  <LastFinalText>Nenapravitelný</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Niepoprawny</Text>
+                  <LastFinalText>Niepoprawny</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308302</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Trotz seiner erbärmlichen Niederlagen sind [GUIDNAME 1645081]s Gier und Stolz immer noch ungebrochen. Mit einer mächtigen Flotte hat er sich erneut vor Ihrem Hafen breit gemacht.[CR] [CR]Lehren Sie die Korsaren Respekt!</Text>
+                  <LastFinalText>Trotz seiner erbärmlichen Niederlagen sind [GUIDNAME 1645081]s Gier und Stolz immer noch ungebrochen. Mit einer mächtigen Flotte hat er sich erneut vor Ihrem Hafen breit gemacht.[CR] [CR]Lehren Sie die Korsaren Respekt!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Despite his humiliating defeats [GUIDNAME 1645081]'s greed and his pride seem undiminished. Once again he has returned with a powerful fleet in an attempt to blockade your harbour. [CR] [CR] Teach the Corsairs some respect!</Text>
+                  <LastFinalText>Despite his humiliating defeats [GUIDNAME 1645081]'s greed and his pride seem undiminished. Once again he has returned with a powerful fleet in an attempt to blockade your harbour. [CR] [CR] Teach the Corsairs some respect!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[GUIDNAME 1645081] терпит одно поражение за другим, но его алчность и зависть так велики, что он предпринимает все новые и новые попытки. Его могучий флот снова приближается к вашей мирной гавани.[CR] [CR]Преподайте корсарам урок!</Text>
+                  <LastFinalText>[GUIDNAME 1645081] терпит одно поражение за другим, но его алчность и зависть так велики, что он предпринимает все новые и новые попытки. Его могучий флот снова приближается к вашей мирной гавани.[CR] [CR]Преподайте корсарам урок!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Malgré ses défaites humiliantes, [GUIDNAME 1645081] semble toujours aussi avide et fier. Une fois encore, il a envoyé une flotte puissante afin d'installer un Barrage devant votre Port. [CR] [CR] Apprenez à ces Corsaires ce qu'est le respect !</Text>
+                  <LastFinalText>Malgré ses défaites humiliantes, [GUIDNAME 1645081] semble toujours aussi avide et fier. Une fois encore, il a envoyé une flotte puissante afin d'installer un Barrage devant votre Port. [CR] [CR] Apprenez à ces Corsaires ce qu'est le respect !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A pesar de sus humillantes derrotas, la codicia y el orgullo de [GUIDNAME 1645081] no parecen tener fin. De nuevo, ha vuelto con una poderosa flota para intentar bloquear tu puerto. [CR] [CR] ¡Da una lección de respeto a los corsarios!</Text>
+                  <LastFinalText>A pesar de sus humillantes derrotas, la codicia y el orgullo de [GUIDNAME 1645081] no parecen tener fin. De nuevo, ha vuelto con una poderosa flota para intentar bloquear tu puerto. [CR] [CR] ¡Da una lección de respeto a los corsarios!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Le umilianti sconfitte subite non sembrano aver intaccato l'avidità e l'orgoglio di [GUIDNAME 1645081]. È tornato per l'ennesima volta con una potente flotta, nel tentativo di bloccare il tuo porto. [CR] [CR] Insegna ai Corsari che devono rispettarti!</Text>
+                  <LastFinalText>Le umilianti sconfitte subite non sembrano aver intaccato l'avidità e l'orgoglio di [GUIDNAME 1645081]. È tornato per l'ennesima volta con una potente flotta, nel tentativo di bloccare il tuo porto. [CR] [CR] Insegna ai Corsari che devono rispettarti!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Navzdory tomu, že [GUIDNAME 1645081] utrpěl potupné porážky, jeho touha po penězích a pýcha neznají hranic. Opět se vrátil se silnou flotilou a snaží se zablokovat váš přístav. [CR] [CR] Naučte korzáry troše respektu!</Text>
+                  <LastFinalText>Navzdory tomu, že [GUIDNAME 1645081] utrpěl potupné porážky, jeho touha po penězích a pýcha neznají hranic. Opět se vrátil se silnou flotilou a snaží se zablokovat váš přístav. [CR] [CR] Naučte korzáry troše respektu!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[GUIDNAME 1645081], mimo upokarzających porażek, nie wyleczył się z chciwości i dumy. Powrócił z potężną flotą i próbuje zablokować twój port. [CR] [CR] Naucz piratów szacunku!</Text>
+                  <LastFinalText>[GUIDNAME 1645081], mimo upokarzających porażek, nie wyleczył się z chciwości i dumy. Powrócił z potężną flotą i próbuje zablokować twój port. [CR] [CR] Naucz piratów szacunku!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ04_Rote_Segel_am_Horizont</Name>
+      <GUIDRangeMin>41308350</GUIDRangeMin>
+      <GUIDRangeMax>41308399</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308350</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Rote Segel am Horizont</Text>
+                  <LastFinalText>Rote Segel am Horizont</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Red sails on the horizon</Text>
+                  <LastFinalText>Red sails on the horizon</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Красный парус на горизонте</Text>
+                  <LastFinalText>Красный парус на горизонте</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Voiles rouges à l'horizon</Text>
+                  <LastFinalText>Voiles rouges à l'horizon</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Velas rojas en el horizonte</Text>
+                  <LastFinalText>Velas rojas en el horizonte</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Vele rosse all'orizzonte</Text>
+                  <LastFinalText>Vele rosse all'orizzonte</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Červené plachty na obzoru</Text>
+                  <LastFinalText>Červené plachty na obzoru</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Czerwone żagle na horyzoncie</Text>
+                  <LastFinalText>Czerwone żagle na horyzoncie</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308352</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Einer von [QUEST_SENDER]s Kapitänen berichtet, dass er unterwegs mehrere Korsarenschiffe ausgemacht hat. Da [GUIDNAME 1645081] meistens nichts Gutes im Schilde führt, sollten Sie besser Sicherheitsvorkehrungen treffen.</Text>
+                  <LastFinalText>Einer von [QUEST_SENDER]s Kapitänen berichtet, dass er unterwegs mehrere Korsarenschiffe ausgemacht hat. Da [GUIDNAME 1645081] meistens nichts Gutes im Schilde führt, sollten Sie besser Sicherheitsvorkehrungen treffen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>One of [QUEST_SENDER]'s captains reported seeing several Corsair ships on his travels. Since [GUIDNAME 1645081] is usually up to no good, you should take better precautions.</Text>
+                  <LastFinalText>One of [QUEST_SENDER]'s captains reported seeing several Corsair ships on his travels. Since [GUIDNAME 1645081] is usually up to no good, you should take better precautions.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[QUEST_SENDER] сообщает, что один из его капитанов по дороге видел несколько корсарских судов. [GUIDNAME 1645081] в своем репертуаре. Ничего хорошего от него ждать не приходится, так что лучше вам принять меры предосторожности.</Text>
+                  <LastFinalText>[QUEST_SENDER] сообщает, что один из его капитанов по дороге видел несколько корсарских судов. [GUIDNAME 1645081] в своем репертуаре. Ничего хорошего от него ждать не приходится, так что лучше вам принять меры предосторожности.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>L'un des Capitaines de [QUEST_SENDER] a repéré plusieurs Navires de corsaires lors de ses voyages. Puisque la bonté n'est pas le fort de [GUIDNAME 1645081], vous devriez prendre vos précautions.</Text>
+                  <LastFinalText>L'un des Capitaines de [QUEST_SENDER] a repéré plusieurs Navires de corsaires lors de ses voyages. Puisque la bonté n'est pas le fort de [GUIDNAME 1645081], vous devriez prendre vos précautions.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Uno de los capitanes de [QUEST_SENDER] afirma haber avistado barcos corsarios en sus viajes. Como [GUIDNAME 1645081] suele ser sinónimo de problemas, deberías extremar las precauciones.</Text>
+                  <LastFinalText>Uno de los capitanes de [QUEST_SENDER] afirma haber avistado barcos corsarios en sus viajes. Como [GUIDNAME 1645081] suele ser sinónimo de problemas, deberías extremar las precauciones.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Uno dei capitani di [QUEST_SENDER] ha riferito di aver avvistato diverse Navi corsare durante i suoi viaggi. Dato che [GUIDNAME 1645081] di solito porta solo problemi, sarà meglio che tu prenda delle precauzioni.</Text>
+                  <LastFinalText>Uno dei capitani di [QUEST_SENDER] ha riferito di aver avvistato diverse Navi corsare durante i suoi viaggi. Dato che [GUIDNAME 1645081] di solito porta solo problemi, sarà meglio che tu prenda delle precauzioni.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Jeden z kapitánů, kterým velí [QUEST_SENDER], ohlásil, že během své plavby zahlédl několik korzárských lodí. Jelikož [GUIDNAME 1645081] nikdy nechystá nic dobrého, měl byste přijmout příslušná opatření.</Text>
+                  <LastFinalText>Jeden z kapitánů, kterým velí [QUEST_SENDER], ohlásil, že během své plavby zahlédl několik korzárských lodí. Jelikož [GUIDNAME 1645081] nikdy nechystá nic dobrého, měl byste přijmout příslušná opatření.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] informuje, że jeden z kapitanów widział podczas podróży liczne okręty pirackie. [GUIDNAME 1645081] zawsze coś knuje, więc uważaj.</Text>
+                  <LastFinalText>[QUEST_SENDER] informuje, że jeden z kapitanów widział podczas podróży liczne okręty pirackie. [GUIDNAME 1645081] zawsze coś knuje, więc uważaj.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308354</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Aufgeregt informiert Sie [THIRDPARTY_SENDER_PLAYER], dass sich Korsarenschiffe nähern und rät zu Vorsichtsmaßnahmen.</Text>
+                  <LastFinalText>Aufgeregt informiert Sie [THIRDPARTY_SENDER_PLAYER], dass sich Korsarenschiffe nähern und rät zu Vorsichtsmaßnahmen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>An alarmed [THIRDPARTY_SENDER_PLAYER] reports that Corsairs have been sighted approaching your harbour and advises you to take precautions.</Text>
+                  <LastFinalText>An alarmed [THIRDPARTY_SENDER_PLAYER] reports that Corsairs have been sighted approaching your harbour and advises you to take precautions.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] встревоженно информирует вас о приближении флота корсаров и советует срочно принять необходимые меры предосторожности.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] встревоженно информирует вас о приближении флота корсаров и советует срочно принять необходимые меры предосторожности.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>D'un air effrayé, [THIRDPARTY_SENDER_PLAYER] rapporte que des Corsaires ont été aperçus en train d'approcher de votre Port. Il vous conseille de prendre vos précautions.</Text>
+                  <LastFinalText>D'un air effrayé, [THIRDPARTY_SENDER_PLAYER] rapporte que des Corsaires ont été aperçus en train d'approcher de votre Port. Il vous conseille de prendre vos précautions.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alarmado, [THIRDPARTY_SENDER_PLAYER] te informa de que se han avistado corsarios aproximándose a tu puerto, y te aconseja tomar medidas.</Text>
+                  <LastFinalText>Alarmado, [THIRDPARTY_SENDER_PLAYER] te informa de que se han avistado corsarios aproximándose a tu puerto, y te aconseja tomar medidas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un allarmato [THIRDPARTY_SENDER_PLAYER] ti informa che i Corsari sono stati visti avvicinarsi al tuo porto e ti consiglia di prendere le dovute precauzioni.</Text>
+                  <LastFinalText>Un allarmato [THIRDPARTY_SENDER_PLAYER] ti informa che i Corsari sono stati visti avvicinarsi al tuo porto e ti consiglia di prendere le dovute precauzioni.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám s obavami hlásí, že na cestě do vašeho přístavu jsou lodě korzárů. Doporučuje vám, abyste přijal příslušná opatření.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám s obavami hlásí, že na cestě do vašeho přístavu jsou lodě korzárů. Doporučuje vám, abyste přijal příslušná opatření.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] z niepokojem donosi, że widziano piratów zbliżających się do twojego portu i radzi ci przygotować się.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] z niepokojem donosi, że widziano piratów zbliżających się do twojego portu i radzi ci przygotować się.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ05_Sicherung_der_Seewege</Name>
+      <GUIDRangeMin>41308400</GUIDRangeMin>
+      <GUIDRangeMax>41308449</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308400</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sicherung der Seewege</Text>
+                  <LastFinalText>Sicherung der Seewege</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Securing your seaways</Text>
+                  <LastFinalText>Securing your seaways</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Безопасность в море</Text>
+                  <LastFinalText>Безопасность в море</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Protéger vos voies de navigation</Text>
+                  <LastFinalText>Protéger vos voies de navigation</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Asegurar las rutas marítimas</Text>
+                  <LastFinalText>Asegurar las rutas marítimas</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Difendere le rotte marittime</Text>
+                  <LastFinalText>Difendere le rotte marittime</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Zabezpečení námořních cest</Text>
+                  <LastFinalText>Zabezpečení námořních cest</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zabezpieczanie szlaków morskich</Text>
+                  <LastFinalText>Zabezpieczanie szlaków morskich</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308402</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erneut sind Korsaren gesichtet worden und wieder bedrohen diese Ihre Transportschiffe auf hoher See. Sorgen Sie dafür, dass Ihre Schiffe wieder auf sicherem Wege durch die hiesigen Gewässer fahren können. </Text>
+                  <LastFinalText>Erneut sind Korsaren gesichtet worden und wieder bedrohen diese Ihre Transportschiffe auf hoher See. Sorgen Sie dafür, dass Ihre Schiffe wieder auf sicherem Wege durch die hiesigen Gewässer fahren können. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Once again Corsair ships were sighted, and once again they are threatening your Transport ships at sea. Ensure that your Ships can travel these waters without fear of let or hindrance.</Text>
+                  <LastFinalText>Once again Corsair ships were sighted, and once again they are threatening your Transport ships at sea. Ensure that your Ships can travel these waters without fear of let or hindrance.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Снова поблизости появились корсары, которые будут угрожать вашим транспортным кораблям в открытом море. Позаботьтесь о том, чтобы ваши корабли снова могли чувствовать себя в безопасности. </Text>
+                  <LastFinalText>Снова поблизости появились корсары, которые будут угрожать вашим транспортным кораблям в открытом море. Позаботьтесь о том, чтобы ваши корабли снова могли чувствовать себя в безопасности. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Une fois encore, des Navires de Corsaires ont été aperçus et menacent vos Navires de Transport. Assurez-vous que vos Navires peuvent naviguer sans que personne ne s'y oppose.</Text>
+                  <LastFinalText>Une fois encore, des Navires de Corsaires ont été aperçus et menacent vos Navires de Transport. Assurez-vous que vos Navires peuvent naviguer sans que personne ne s'y oppose.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>De nuevo, han aparecido barcos corsarios que amenazan la seguridad de tus navíos de transporte en alta mar. Asegúrate de que tus barcos puedan surcar estas aguas sin ningún tipo de obstáculos.</Text>
+                  <LastFinalText>De nuevo, han aparecido barcos corsarios que amenazan la seguridad de tus navíos de transporte en alta mar. Asegúrate de que tus barcos puedan surcar estas aguas sin ningún tipo de obstáculos.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Le Navi corsare sono state avvistate di nuovo e ancora una volta stanno minacciando le tue Navi da trasporto in mare. Assicurati che le tue Navi possano solcare queste acque senza intralci.</Text>
+                  <LastFinalText>Le Navi corsare sono state avvistate di nuovo e ancora una volta stanno minacciando le tue Navi da trasporto in mare. Assicurati che le tue Navi possano solcare queste acque senza intralci.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Opět byly spatřeny lodě korzárů a opět ohrožují vaše transportní lodě na moři. Ujistěte se, že tyto lodě doplují do svého cíle beze strachu z nečekaných obtíží.</Text>
+                  <LastFinalText>Opět byly spatřeny lodě korzárů a opět ohrožují vaše transportní lodě na moři. Ujistěte se, že tyto lodě doplují do svého cíle beze strachu z nečekaných obtíží.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Znowu zauważono okręty pirackie, które ponownie zagrażają twoim okrętom handlowym. Zadbaj, aby twoje okręty mogły pływać po tych wodach bez obaw.</Text>
+                  <LastFinalText>Znowu zauważono okręty pirackie, które ponownie zagrażają twoim okrętom handlowym. Zadbaj, aby twoje okręty mogły pływać po tych wodach bez obaw.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ06_Anhaltende_Bedrohung</Name>
+      <GUIDRangeMin>41308450</GUIDRangeMin>
+      <GUIDRangeMax>41308499</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308450</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Anhaltende Bedrohung</Text>
+                  <LastFinalText>Anhaltende Bedrohung</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Continuing menace</Text>
+                  <LastFinalText>Continuing menace</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Снова в опасности</Text>
+                  <LastFinalText>Снова в опасности</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Menace constante</Text>
+                  <LastFinalText>Menace constante</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Amenaza continua</Text>
+                  <LastFinalText>Amenaza continua</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Minaccia continua</Text>
+                  <LastFinalText>Minaccia continua</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Stálá hrozba</Text>
+                  <LastFinalText>Stálá hrozba</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Nieustanne zagrożenie</Text>
+                  <LastFinalText>Nieustanne zagrożenie</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308452</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Gleich mehrere Ihrer Kapitäne berichten von zahlreichen Korsarenschiffen auf den Transportrouten zwischen Ihren Inseln. Um die Versorgung ihrer Bevölkerung weiterhin sicherzustellen, müssen Sie diese Bedrohung bekämpfen!</Text>
+                  <LastFinalText>Gleich mehrere Ihrer Kapitäne berichten von zahlreichen Korsarenschiffen auf den Transportrouten zwischen Ihren Inseln. Um die Versorgung ihrer Bevölkerung weiterhin sicherzustellen, müssen Sie diese Bedrohung bekämpfen!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Several of your catains report seeing numerous Corsair ships on the Transport routes between your islands. You will have to do something about this threat to ensure that supplies continue to flow to your population unhindered!</Text>
+                  <LastFinalText>Several of your catains report seeing numerous Corsair ships on the Transport routes between your islands. You will have to do something about this threat to ensure that supplies continue to flow to your population unhindered!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Уже несколько капитанов сообщили, что на транспортных маршрутах между вашими островами орудуют корсары. Чтобы успокоить ваших подданных, вам необходимо покончить с этой угрозой!</Text>
+                  <LastFinalText>Уже несколько капитанов сообщили, что на транспортных маршрутах между вашими островами орудуют корсары. Чтобы успокоить ваших подданных, вам необходимо покончить с этой угрозой!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Plusieurs de vos Capitaines signalent avoir vu de nombreux Navires de Corsaires sur les Routes de Transport entre vos îles. Vous allez devoir vous occuper de cette menace pour permettre à votre population d'être ravitaillée sans entrave.</Text>
+                  <LastFinalText>Plusieurs de vos Capitaines signalent avoir vu de nombreux Navires de Corsaires sur les Routes de Transport entre vos îles. Vous allez devoir vous occuper de cette menace pour permettre à votre population d'être ravitaillée sans entrave.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Varios de tus capitanes han asegurado ver numerosos barcos corsarios en las rutas de transporte entre tus islas. ¡Tendrás que hacer algo con esta amenaza para garantizar que los suministros sigan llegando sin problemas a la población!</Text>
+                  <LastFinalText>Varios de tus capitanes han asegurado ver numerosos barcos corsarios en las rutas de transporte entre tus islas. ¡Tendrás que hacer algo con esta amenaza para garantizar que los suministros sigan llegando sin problemas a la población!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Diversi dei tuoi capitani riferiscono di aver avvistato numerose Navi corsare sulle Vie di trasporto tra le tue isole. Devi fare qualcosa contro questa minaccia, per garantire un rifornimento costante alla tua popolazione!</Text>
+                  <LastFinalText>Diversi dei tuoi capitani riferiscono di aver avvistato numerose Navi corsare sulle Vie di trasporto tra le tue isole. Devi fare qualcosa contro questa minaccia, per garantire un rifornimento costante alla tua popolazione!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Několik vašich kapitánů spatřilo početné lodě korzárů hlídkovat na dopravních trasách mezi vašimi ostrovy. Budete se muset postarat, aby tato hrozba nezastavila přísun zásob pro vaši populaci!</Text>
+                  <LastFinalText>Několik vašich kapitánů spatřilo početné lodě korzárů hlídkovat na dopravních trasách mezi vašimi ostrovy. Budete se muset postarat, aby tato hrozba nezastavila přísun zásob pro vaši populaci!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Wielu twoich kapitanów informuje, że widziało piratów na szlakach handlowych pomiędzy twoimi wyspami. Musisz zażegnać to niebezpieczeństwo, żeby zasoby bez problemu docierały do twoich poddanych!</Text>
+                  <LastFinalText>Wielu twoich kapitanów informuje, że widziało piratów na szlakach handlowych pomiędzy twoimi wyspami. Musisz zażegnać to niebezpieczeństwo, żeby zasoby bez problemu docierały do twoich poddanych!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SideDummy_Säuberung der Umgebung</Name>
+      <GUIDRangeMin>41308550</GUIDRangeMin>
+      <GUIDRangeMax>41308599</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308550</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Genug ist genug!</Text>
+                  <LastFinalText>Genug ist genug!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Enough is enough!</Text>
+                  <LastFinalText>Enough is enough!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Довольно!</Text>
+                  <LastFinalText>Довольно!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Ça suffit !</Text>
+                  <LastFinalText>Ça suffit !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Basta ya!</Text>
+                  <LastFinalText>¡Basta ya!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Quando è troppo è troppo!</Text>
+                  <LastFinalText>Quando è troppo è troppo!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Čeho je moc, toho je příliš!</Text>
+                  <LastFinalText>Čeho je moc, toho je příliš!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Co za dużo, to niezdrowo!</Text>
+                  <LastFinalText>Co za dużo, to niezdrowo!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308551</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Befreien Sie die Region von  den Korsaren:[CR] [CR]</Text>
+                  <LastFinalText>Befreien Sie die Region von  den Korsaren:[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Free the area of Corsairs:[CR] [CR]</Text>
+                  <LastFinalText>Free the area of Corsairs:[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Нужно очистить регион от корсаров:[CR] [CR]</Text>
+                  <LastFinalText>Нужно очистить регион от корсаров:[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Débarrassez-vous des Corsaires :[CR] [CR]</Text>
+                  <LastFinalText>Débarrassez-vous des Corsaires :[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Libra de corsarios la zona:[CR] [CR]</Text>
+                  <LastFinalText>Libra de corsarios la zona:[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Libera l'area dai Corsari:[CR] [CR]</Text>
+                  <LastFinalText>Libera l'area dai Corsari:[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Vyčistěte oblast od korzárů:[CR] [CR]</Text>
+                  <LastFinalText>Vyčistěte oblast od korzárů:[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Oczyść rejon z piratów:[CR] [CR]</Text>
+                  <LastFinalText>Oczyść rejon z piratów:[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308552</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Korsaren werden zu einer immer größeren Bedrohung für Ihre Handelsschiffe. Um den Auftrag des Kaisers nicht zu gefährden, rät Ihnen [QUEST_SENDER] dazu, die Umgebung von den Korsaren zu befreien. Außerdem könnten Sie so die wenigen fruchtbaren Inseln für Ihre Zwecke nutzen…</Text>
+                  <LastFinalText>Die Korsaren werden zu einer immer größeren Bedrohung für Ihre Handelsschiffe. Um den Auftrag des Kaisers nicht zu gefährden, rät Ihnen [QUEST_SENDER] dazu, die Umgebung von den Korsaren zu befreien. Außerdem könnten Sie so die wenigen fruchtbaren Inseln für Ihre Zwecke nutzen…</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Корсары все чаще угрожают вашим торговым судам. Чтобы ничто не отвлекало вас от выполнения поручения императора, [QUEST_SENDER] советует полностью очистить регион от корсаров. Ведь здесь и без того так мало плодородных островов…</Text>
+                  <LastFinalText>Корсары все чаще угрожают вашим торговым судам. Чтобы ничто не отвлекало вас от выполнения поручения императора, [QUEST_SENDER] советует полностью очистить регион от корсаров. Ведь здесь и без того так мало плодородных островов…</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>The Corsairs represent an ever-increasing threat to your Trading ships. In order to ensure that nothing jeopardises the Emperor's mission, [QUEST_SENDER] advises you to clear the area of Corsairs once and for all. You could then use the few fertile islands for your own purposes, as well ...</Text>
+                  <LastFinalText>The Corsairs represent an ever-increasing threat to your Trading ships. In order to ensure that nothing jeopardises the Emperor's mission, [QUEST_SENDER] advises you to clear the area of Corsairs once and for all. You could then use the few fertile islands for your own purposes, as well ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>Les Corsaires représentent une menace grandissante pour vos Navires de Commerce. Afin de vous assurer que rien ne viendra compromettre les plans de l'Empereur, [QUEST_SENDER] vous conseille de vous débarrasser des Corsaires une bonne fois pour toutes. Vous pourrez alors profiter des quelques îles fertiles...</Text>
+                  <LastFinalText>Les Corsaires représentent une menace grandissante pour vos Navires de Commerce. Afin de vous assurer que rien ne viendra compromettre les plans de l'Empereur, [QUEST_SENDER] vous conseille de vous débarrasser des Corsaires une bonne fois pour toutes. Vous pourrez alors profiter des quelques îles fertiles...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Los corsarios representan una amenaza cada vez mayor para tus barcos mercantes. Para que nada ponga en peligro la misión del Emperador, [QUEST_SENDER] te aconseja que libres de corsarios la zona de una vez por todas. Además, así podrías aprovechar unas cuantas islas fértiles para tus propios fines...</Text>
+                  <LastFinalText>Los corsarios representan una amenaza cada vez mayor para tus barcos mercantes. Para que nada ponga en peligro la misión del Emperador, [QUEST_SENDER] te aconseja que libres de corsarios la zona de una vez por todas. Además, así podrías aprovechar unas cuantas islas fértiles para tus propios fines...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>I Corsari rappresentano una minaccia in costante aumento per le tue Navi mercantili. Per fare in modo che nulla metta a rischio la missione dell'Imperatore, [QUEST_SENDER] ti suggerisce di ripulire l'area dai Corsari una volta per tutte. E dopo potresti anche usare le poche isole fertili per i tuoi scopi personali...</Text>
+                  <LastFinalText>I Corsari rappresentano una minaccia in costante aumento per le tue Navi mercantili. Per fare in modo che nulla metta a rischio la missione dell'Imperatore, [QUEST_SENDER] ti suggerisce di ripulire l'area dai Corsari una volta per tutte. E dopo potresti anche usare le poche isole fertili per i tuoi scopi personali...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Korzáři představují pro vaše obchodní lodě čím dál větší hrozbu. Abyste měl jistotu, že císařovu misi nic neohrozí, [QUEST_SENDER] vám radí, abyste oblast korzárů zbavil jednou provždy. Mohl byste pak také využít vzácnou úrodnou půdu pro své potřeby...</Text>
+                  <LastFinalText>Korzáři představují pro vaše obchodní lodě čím dál větší hrozbu. Abyste měl jistotu, že císařovu misi nic neohrozí, [QUEST_SENDER] vám radí, abyste oblast korzárů zbavil jednou provždy. Mohl byste pak také využít vzácnou úrodnou půdu pro své potřeby...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Piraci są coraz większym zagrożeniem dla twoich statków handlowych. Żeby nic nie zagroziło misji zleconej przez Cesarza, [QUEST_SENDER] radzi ci oczyścić okolicę z piratów. Możesz wtedy również wykorzystać do własnych celów nowe, żyzne wyspy...</Text>
+                  <LastFinalText>Piraci są coraz większym zagrożeniem dla twoich statków handlowych. Żeby nic nie zagroziło misji zleconej przez Cesarza, [QUEST_SENDER] radzi ci oczyścić okolicę z piratów. Możesz wtedy również wykorzystać do własnych celów nowe, żyzne wyspy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308554</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] beschwört Sie, der Bedrohung durch die Korsaren ein für alle Mal Einhalt zu gebieten.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] beschwört Sie, der Bedrohung durch die Korsaren ein für alle Mal Einhalt zu gebieten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] implores you to end the Corsair menace once and for all.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] implores you to end the Corsair menace once and for all.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] советует вам раз и навсегда разобраться с корсарами.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] советует вам раз и навсегда разобраться с корсарами.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous implore de mettre un terme définitif à la menace des Corsaires.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous implore de mettre un terme définitif à la menace des Corsaires.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te implora que acabes con la amenaza de los corsarios de una vez por todas.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te implora que acabes con la amenaza de los corsarios de una vez por todas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ti implora di mettere fine alla minaccia dei Corsari una volta per tutte.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti implora di mettere fine alla minaccia dei Corsari una volta per tutte.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vás nabádá, abyste hrozbu korzárů ukončil jednou provždy.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vás nabádá, abyste hrozbu korzárů ukončil jednou provždy.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] prosi cię o ostateczne zlikwidowanie zagrożenia ze strony piratów.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] prosi cię o ostateczne zlikwidowanie zagrożenia ze strony piratów.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308556</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist erleichtert, dass Sie die Korsaren vertrieben haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist erleichtert, dass Sie die Korsaren vertrieben haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is relieved that you have driven the Corsairs off.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is relieved that you have driven the Corsairs off.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] с облегчением замечает, что вы сумели покончить с корсарами.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] с облегчением замечает, что вы сумели покончить с корсарами.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est soulagé de voir que vous avez chassé les Corsaires.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est soulagé de voir que vous avez chassé les Corsaires.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se siente aliviado de que hayas echado a los corsarios.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se siente aliviado de que hayas echado a los corsarios.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è sollevato che tu abbia costretto i Corsari ad andarsene.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è sollevato che tu abbia costretto i Corsari ad andarsene.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] s úlevou sleduje, že se vám podařilo korzáry vyhnat.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] s úlevou sleduje, že se vám podařilo korzáry vyhnat.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] cieszy się, że udało ci się przepędzić piratów.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] cieszy się, że udało ci się przepędzić piratów.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SideSub01_Insel1besiegen</Name>
+      <GUIDRangeMin>41308600</GUIDRangeMin>
+      <GUIDRangeMax>41308649</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308600</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text> - Insel 1 besiegen</Text>
+                  <LastFinalText> - Insel 1 besiegen</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Never-ending menace</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308601</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Vernichten Sie die feindlichen Einheiten auf der Insel im Nordwesten.[CR] [CR]</Text>
+                  <LastFinalText>Vernichten Sie die feindlichen Einheiten auf der Insel im Nordwesten.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Destroy all enemy units found on the north-western island.[CR] [CR]</Text>
+                  <LastFinalText>Destroy all enemy units found on the north-western island.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Уничтожьте вражеские отряды на острове на северо-западе.[CR] [CR]</Text>
+                  <LastFinalText>Уничтожьте вражеские отряды на острове на северо-западе.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Détruisez toutes les unités ennemies se trouvant sur l'île au nord-ouest.[CR] [CR]</Text>
+                  <LastFinalText>Détruisez toutes les unités ennemies se trouvant sur l'île au nord-ouest.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Destruye todas las unidades enemigas que encuentres en la isla noroccidental.[CR] [CR]</Text>
+                  <LastFinalText>Destruye todas las unidades enemigas que encuentres en la isla noroccidental.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Distruggi tutte le unità nemiche trovate sull'isola nord-occidentale.[CR] [CR]</Text>
+                  <LastFinalText>Distruggi tutte le unità nemiche trovate sull'isola nord-occidentale.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Zničte všechny nepřátelské jednotky na severozápadním ostrově.[CR] [CR]</Text>
+                  <LastFinalText>Zničte všechny nepřátelské jednotky na severozápadním ostrově.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zniszcz wszystkie nieprzyjacielskie jednostki na północno-zachodniej wyspie.[CR] [CR]</Text>
+                  <LastFinalText>Zniszcz wszystkie nieprzyjacielskie jednostki na północno-zachodniej wyspie.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308606</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erfreut gratuliert Ihnen [THIRDPARTY_SENDER_PLAYER] zur Eroberung der Insel. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>Erfreut gratuliert Ihnen [THIRDPARTY_SENDER_PLAYER] zur Eroberung der Insel. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] congratulates you on having conquered this island. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] congratulates you on having conquered this island. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] радостно поздравляет вас с захватом острова. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] радостно поздравляет вас с захватом острова. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous félicite d'avoir conquis cette île. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous félicite d'avoir conquis cette île. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te felicita por conquistar esta isla. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te felicita por conquistar esta isla. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si congratula con te per aver conquistato quest'isola. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si congratula con te per aver conquistato quest'isola. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vám gratuluje k obsazení ostrova. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vám gratuluje k obsazení ostrova. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] gratuluje ci udanego podboju wyspy. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] gratuluje ci udanego podboju wyspy. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SideSub02_Insel2besiegen</Name>
+      <GUIDRangeMin>41308650</GUIDRangeMin>
+      <GUIDRangeMax>41308699</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308650</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text> - Insel 2 besiegen</Text>
+                  <LastFinalText> - Insel 2 besiegen</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308651</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Vernichten Sie die feindlichen Einheiten auf der Insel im Nordosten.[CR] [CR]</Text>
+                  <LastFinalText>Vernichten Sie die feindlichen Einheiten auf der Insel im Nordosten.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Destroy all enemy units found on the north-eastern island.[CR] [CR]</Text>
+                  <LastFinalText>Destroy all enemy units found on the north-eastern island.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Уничтожьте вражеские отряды на острове на северо-востоке.[CR] [CR]</Text>
+                  <LastFinalText>Уничтожьте вражеские отряды на острове на северо-востоке.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Détruisez toutes les unités ennemies se trouvant sur l'île au nord-est.[CR] [CR]</Text>
+                  <LastFinalText>Détruisez toutes les unités ennemies se trouvant sur l'île au nord-est.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Destruye todas las unidades enemigas que encuentres en la isla nororiental.[CR] [CR]</Text>
+                  <LastFinalText>Destruye todas las unidades enemigas que encuentres en la isla nororiental.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Distruggi tutte le unità nemiche trovate sull'isola nord-orientale.[CR] [CR]</Text>
+                  <LastFinalText>Distruggi tutte le unità nemiche trovate sull'isola nord-orientale.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Zničte všechny nepřátelské jednotky na severovýchodním ostrově.[CR] [CR]</Text>
+                  <LastFinalText>Zničte všechny nepřátelské jednotky na severovýchodním ostrově.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zniszcz wszystkie nieprzyjacielskie jednostki na północno-wschodniej wyspie.[CR] [CR]</Text>
+                  <LastFinalText>Zniszcz wszystkie nieprzyjacielskie jednostki na północno-wschodniej wyspie.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SideSub03_VulkanInselbesiegen</Name>
+      <GUIDRangeMin>41308700</GUIDRangeMin>
+      <GUIDRangeMax>41308749</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308700</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>- Vulkaninsel besiegen</Text>
+                  <LastFinalText>- Vulkaninsel besiegen</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308701</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Vernichten Sie die feindlichen Einheiten auf der Vulkaninsel.[CR] [CR]</Text>
+                  <LastFinalText>Vernichten Sie die feindlichen Einheiten auf der Vulkaninsel.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Destroy all enemy units found on the volcanic island.[CR] [CR]</Text>
+                  <LastFinalText>Destroy all enemy units found on the volcanic island.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Уничтожьте вражеские отряды на вулканическом острове.[CR] [CR]</Text>
+                  <LastFinalText>Уничтожьте вражеские отряды на вулканическом острове.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Détruisez toutes les unités ennemies se trouvant sur l'île volcanique.[CR] [CR]</Text>
+                  <LastFinalText>Détruisez toutes les unités ennemies se trouvant sur l'île volcanique.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Destruye todas las unidades enemigas que encuentres en la isla volcánica.[CR] [CR]</Text>
+                  <LastFinalText>Destruye todas las unidades enemigas que encuentres en la isla volcánica.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Distruggi tutte le unità nemiche trovate sull'isola vulcanica.[CR] [CR]</Text>
+                  <LastFinalText>Distruggi tutte le unità nemiche trovate sull'isola vulcanica.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Zničte všechny nepřátelské jednotky na sopečném ostrově.[CR] [CR]</Text>
+                  <LastFinalText>Zničte všechny nepřátelské jednotky na sopečném ostrově.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zniszcz wszystkie nieprzyjacielskie jednostki na tej wulkanicznej wyspie.[CR] [CR]</Text>
+                  <LastFinalText>Zniszcz wszystkie nieprzyjacielskie jednostki na tej wulkanicznej wyspie.[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SideSub04_WehrtürmeVernichten</Name>
+      <GUIDRangeMin>41308750</GUIDRangeMin>
+      <GUIDRangeMax>41308799</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308750</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text> - Wehrtürme vernichten</Text>
+                  <LastFinalText> - Wehrtürme vernichten</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41308751</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Vernichten Sie alle Türme der Korsaren.[CR] Aktuell: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Türme zerstört[CR] [CR]</Text>
+                  <LastFinalText>Vernichten Sie alle Türme der Korsaren.[CR] Aktuell: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Türme zerstört[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Destroy all of the Corsair towers.[CR] Progress: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Towers destroyed[CR] [CR]</Text>
+                  <LastFinalText>Destroy all of the Corsair towers.[CR] Progress: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Towers destroyed[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Уничтожьте все башни корсаров.[CR] На данный момент: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] башен разрушено[CR] [CR]</Text>
+                  <LastFinalText>Уничтожьте все башни корсаров.[CR] На данный момент: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] башен разрушено[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Détruisez toutes les Tours de Corsaires.[CR] Progression : [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Tours détruites[CR] [CR]</Text>
+                  <LastFinalText>Détruisez toutes les Tours de Corsaires.[CR] Progression : [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Tours détruites[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Destruye todas las torres corsarias.[CR] Progreso: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] torres destruidas[CR] [CR]</Text>
+                  <LastFinalText>Destruye todas las torres corsarias.[CR] Progreso: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] torres destruidas[CR] [CR]</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Distruggi tutte le Torri corsare.[CR] Progresso: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Torri distrutte[CR] [CR]</Text>
+                  <LastFinalText>Distruggi tutte le Torri corsare.[CR] Progresso: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] Torri distrutte[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Zničte všechny věže korzárů.[CR] Pokrok: Zničeno [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] ze [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] věží[CR] [CR]</Text>
+                  <LastFinalText>Zničte všechny věže korzárů.[CR] Pokrok: Zničeno [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] ze [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] věží[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zniszcz wszystkie wieże piratów.[CR] Postęp: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] zniszczonych wież[CR] [CR]</Text>
+                  <LastFinalText>Zniszcz wszystkie wieże piratów.[CR] Postęp: [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount_destroyed] / [FLOWCONTROL_VARIABLE_VALUE_NUMBER var_TowerCount] zniszczonych wież[CR] [CR]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308756</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] stellt beeindruckt fest, dass Sie alle Türme der Korsaren vernichtet haben. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] stellt beeindruckt fest, dass Sie alle Türme der Korsaren vernichtet haben. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is impressed to see that you have destroyed all of the Corsairs' towers. [CR] [CR] [QUEST_REWARD] </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is impressed to see that you have destroyed all of the Corsairs' towers. [CR] [CR] [QUEST_REWARD] </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] утверждает, что вы уничтожили все башни корсаров. [CR] [CR] [QUEST_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] утверждает, что вы уничтожили все башни корсаров. [CR] [CR] [QUEST_REWARD]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est impressionné de voir que vous avez détruit toutes les Tours de Corsaires. [CR] [CR] [QUEST_REWARD] </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est impressionné de voir que vous avez détruit toutes les Tours de Corsaires. [CR] [CR] [QUEST_REWARD] </LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] está impresionado de ver que has destruido todas las torres corsarias. [CR] [CR] [QUEST_REWARD] </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está impresionado de ver que has destruido todas las torres corsarias. [CR] [CR] [QUEST_REWARD] </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è colpito dal fatto che hai distrutto tutte le torri dei Corsari. [CR] [CR] [QUEST_REWARD] </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è colpito dal fatto che hai distrutto tutte le torri dei Corsari. [CR] [CR] [QUEST_REWARD] </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ohromeně sleduje, jak se vám podařilo zničit všechny věže korzárů. [CR] [CR] [QUEST_REWARD] </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ohromeně sleduje, jak se vám podařilo zničit všechny věže korzárů. [CR] [CR] [QUEST_REWARD] </LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] raduje się, że udało ci się zniszczyć wszystkie wieże piratów. [CR] [CR] [QUEST_REWARD] </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] raduje się, że udało ci się zniszczyć wszystkie wieże piratów. [CR] [CR] [QUEST_REWARD] </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Mood Text</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308759</GUID>
+              <Kommentar>Mood Story</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist fest überzeugt, dass Sie allen Widrigkeiten zum Trotz einen prächtigen Kaiserdom errichten werden.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist fest überzeugt, dass Sie allen Widrigkeiten zum Trotz einen prächtigen Kaiserdom errichten werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is firmly convinced that you will be able to build a magnificent Imperial cathedral against all odds.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is firmly convinced that you will be able to build a magnificent Imperial cathedral against all odds.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] считает, что, несмотря на все трудности, вы просто обязаны построить роскошный императорский собор.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] считает, что, несмотря на все трудности, вы просто обязаны построить роскошный императорский собор.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est convaincu que vous parviendrez à construire une magnifique cathédrale impériale envers et contre tous.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est convaincu que vous parviendrez à construire une magnifique cathédrale impériale envers et contre tous.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] tiene el firme convencimiento de que podrás construir una magnífica catedral imperial, a pesar de todo.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] tiene el firme convencimiento de que podrás construir una magnífica catedral imperial, a pesar de todo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è fermamente convinto che sarai in grado di costruire una maestosa Cattedrale imperiale, contrariamente a ogni previsione.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è fermamente convinto che sarai in grado di costruire una maestosa Cattedrale imperiale, contrariamente a ogni previsione.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] wyraża przekonanie, że zdołasz wybudować wspaniałą katedrę wbrew wszystkim przeciwnościom losu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] wyraża przekonanie, że zdołasz wybudować wspaniałą katedrę wbrew wszystkim przeciwnościom losu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si myslí, že se vám navzdory všem očekáváním podaří vybudovat úchvatnou imperiální katedrálu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si myslí, že se vám navzdory všem očekáváním podaří vybudovat úchvatnou imperiální katedrálu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645000</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308760</GUID>
+              <Kommentar>Mood Story</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ist beeindruckt, wie weit Sie es in dieser kargen Region schon gebracht haben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ist beeindruckt, wie weit Sie es in dieser kargen Region schon gebracht haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is impressed by how well you have done in this barren region.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is impressed by how well you have done in this barren region.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] под впечатлением от того, как вы справляетесь с хозяйством в этом суровом краю.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] под впечатлением от того, как вы справляетесь с хозяйством в этом суровом краю.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est impressionné que vous vous soyez aussi bien débrouillé dans cette région aride.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est impressionné que vous vous soyez aussi bien débrouillé dans cette région aride.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] se muestra impresionado por lo bien que te has desenvuelto en esta región baldía.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] se muestra impresionado por lo bien que te has desenvuelto en esta región baldía.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Il colpito [THIRDPARTY_SENDER_PLAYER] riconosce il tuo successo in questa arida regione.</Text>
+                  <LastFinalText>Il colpito [THIRDPARTY_SENDER_PLAYER] riconosce il tuo successo in questa arida regione.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] jest pod wrażeniem jak świetnie udało ci się zagospodarować ten jałowy zakątek</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] jest pod wrażeniem jak świetnie udało ci się zagospodarować ten jałowy zakątek</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chce vědět, jak jste si dokázal v takové pusté oblasti poradit.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chce vědět, jak jste si dokázal v takové pusté oblasti poradit.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>1645001</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41308761</GUID>
+              <Kommentar>Mood Story</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] rechnet Ihnen gegen die Übermacht der Korsaren nur wenig Chancen aus.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] rechnet Ihnen gegen die Übermacht der Korsaren nur wenig Chancen aus.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] doesn't think you have much of a chance against the Corsairs' overpowering numbers.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] doesn't think you have much of a chance against the Corsairs' overpowering numbers.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] считает, что у вас почти нет шансов совладать с корсарами.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] считает, что у вас почти нет шансов совладать с корсарами.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] pense que vous n'avez aucune chance face aux Corsaires, qui sont plus nombreux.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] pense que vous n'avez aucune chance face aux Corsaires, qui sont plus nombreux.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] no cree que tengas mucho que hacer contra unos corsarios que te superan en número.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] no cree que tengas mucho que hacer contra unos corsarios que te superan en número.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] non crede che tu abbia molte possibilità contro le preponderanti forze dei Corsari.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] non crede che tu abbia molte possibilità contro le preponderanti forze dei Corsari.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] uważa, że nie masz zbyt wielkich szans w starciu z przeważającymi siłami piratów.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] uważa, że nie masz zbyt wielkich szans w starciu z przeważającymi siłami piratów.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si myslí, že nemáte proti té přesile korzárů moc velkou šanci.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si myslí, že nemáte proti té přesile korzárů moc velkou šanci.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>Standard Text</Template>
+      <Values>
+        <Standard>
+          <GUID>41308457</GUID>
+          <Version>Addon01</Version>
+          <LokaFlag>0</LokaFlag>
+        </Standard>
+        <SubAssets />
+        <Text>
+          <LocaText>
+            <German>
+              <Text>NorthburghItemPoolTollwares</Text>
+              <LastFinalText>NorthburghItemPoolTollwares</LastFinalText>
+              <Status>Final</Status>
+            </German>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Standard Text</Template>
+      <Values>
+        <Standard>
+          <GUID>41308458</GUID>
+          <Version>Addon01</Version>
+          <LokaFlag>0</LokaFlag>
+        </Standard>
+        <SubAssets />
+        <Text>
+          <LocaText>
+            <German>
+              <Text>AlZahirItemPooldiverse2</Text>
+              <LastFinalText>AlZahirItemPooldiverse2</LastFinalText>
+              <Status>Final</Status>
+            </German>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>41308757</GUID>
+          <Version>Addon01</Version>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>Wegpunkte auf Handelsrouten</Text>
+              <LastFinalText>Wegpunkte auf Handelsrouten</LastFinalText>
+              <Status>Final</Status>
+            </German>
+            <English>
+              <Text>Trading route customization </Text>
+              <LastFinalText>Trading route customization </LastFinalText>
+              <Status>Final</Status>
+            </English>
+            <Russian>
+              <Text>Пункты маршрута на торговых путях</Text>
+              <LastFinalText>Пункты маршрута на торговых путях</LastFinalText>
+              <Status>Final</Status>
+            </Russian>
+            <French>
+              <Text>Personnalisation des Routes de Commerce</Text>
+              <LastFinalText>Personnalisation des Routes de Commerce</LastFinalText>
+              <Status>Final</Status>
+            </French>
+            <Spanish>
+              <Text>Ruta comercial personalizada </Text>
+              <LastFinalText>Ruta comercial personalizada </LastFinalText>
+              <Status>Final</Status>
+            </Spanish>
+            <Italian>
+              <Text>Personalizzazione delle Vie commerciali</Text>
+              <LastFinalText>Personalizzazione delle Vie commerciali</LastFinalText>
+              <Status>Final</Status>
+            </Italian>
+            <Czech>
+              <Text>Úprava obchodních tras</Text>
+              <LastFinalText>Úprava obchodních tras</LastFinalText>
+              <Status>Final</Status>
+            </Czech>
+            <Polish>
+              <Text>Dostosowywanie szlaku handlowego </Text>
+              <LastFinalText>Dostosowywanie szlaku handlowego </LastFinalText>
+              <Status>Final</Status>
+            </Polish>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>QuestText</Template>
+      <Values>
+        <Standard>
+          <GUID>41308758</GUID>
+          <Version>Addon01</Version>
+        </Standard>
+        <Text>
+          <LocaText>
+            <German>
+              <Text>Die Wehrtürme der Korsaren greifen automatisch vorbeifahrende Schiffe an und beschädigen diese. Kontrollieren Sie daher Ihre Handelsrouten in der Routenplanung und korrigieren Sie mithilfe der Stecknadel die Wegstrecken Ihrer Schiffe. So können Sie die gefährlichen Regionen umschiffen und Ihre Waren sicher ans Ziel bringen.</Text>
+              <LastFinalText>Die Wehrtürme der Korsaren greifen automatisch vorbeifahrende Schiffe an und beschädigen diese. Kontrollieren Sie daher Ihre Handelsrouten in der Routenplanung und korrigieren Sie mithilfe der Stecknadel die Wegstrecken Ihrer Schiffe. So können Sie die gefährlichen Regionen umschiffen und Ihre Waren sicher ans Ziel bringen.</LastFinalText>
+              <Status>Final</Status>
+            </German>
+            <English>
+              <Text>The Corsairs' fortified towers automatically attack all passing Ships, damaging them. Check your Trade routes in the Routing and use the Waypoint pins to correct them. This will allow you to sail around the dangerous areas and transport your Goods to their destination safely.</Text>
+              <LastFinalText>The Corsairs' fortified towers automatically attack all passing Ships, damaging them. Check your Trade routes in the Routing and use the Waypoint pins to correct them. This will allow you to sail around the dangerous areas and transport your Goods to their destination safely.</LastFinalText>
+              <Status>Final</Status>
+            </English>
+            <Russian>
+              <Text>Оборонные башни корсаров автоматически атакуют проплывающие мимо корабли и наносят им урон. Имейте это в виду при разработке торговых маршрутов и корректируйте их с помощью булавок. Таким образом вы сможете избегать опасных регионов и успешно доставлять свои товары.</Text>
+              <LastFinalText>Оборонные башни корсаров автоматически атакуют проплывающие мимо корабли и наносят им урон. Имейте это в виду при разработке торговых маршрутов и корректируйте их с помощью булавок. Таким образом вы сможете избегать опасных регионов и успешно доставлять свои товары.</LastFinalText>
+              <Status>Final</Status>
+            </Russian>
+            <French>
+              <Text>Les tours fortifiées des Corsaires attaquent tous les Navires de passage. Vérifiez vos Routes de Commerce dans la Carte stratégique et utilisez les Points de passage pour les modifier. Vos Navires pourront ainsi contourner les zones dangereuses et transporter vos Marchandises en toute sécurité.</Text>
+              <LastFinalText>Les tours fortifiées des Corsaires attaquent tous les Navires de passage. Vérifiez vos Routes de Commerce dans la Carte stratégique et utilisez les Points de passage pour les modifier. Vos Navires pourront ainsi contourner les zones dangereuses et transporter vos Marchandises en toute sécurité.</LastFinalText>
+              <Status>Final</Status>
+            </French>
+            <Spanish>
+              <Text>Las torres fortificadas de los corsarios atacan automáticamente a todos los barcos que pasan y les causan daños. Inspecciona tus rutas comerciales y usa los puntos de ruta para modificarlas. Así, podrás rodear las zonas peligrosas y llevar tus bienes a su destino sanos y salvos.</Text>
+              <LastFinalText>Las torres fortificadas de los corsarios atacan automáticamente a todos los barcos que pasan y les causan daños. Inspecciona tus rutas comerciales y usa los puntos de ruta para modificarlas. Así, podrás rodear las zonas peligrosas y llevar tus bienes a su destino sanos y salvos.</LastFinalText>
+              <Status>Final</Status>
+            </Spanish>
+            <Italian>
+              <Text>Le torri fortificate dei Corsari attaccano automaticamente tutte le Navi di passaggio, danneggiandole. Controlla le tue Vie commerciali nella Mappa strategica e usa le puntine delle Tappe per modificarle. Così potrai navigare al largo delle aree pericolose e trasportare le tue Merci a destinazione in tutta sicurezza.</Text>
+              <LastFinalText>Le torri fortificate dei Corsari attaccano automaticamente tutte le Navi di passaggio, danneggiandole. Controlla le tue Vie commerciali nella Mappa strategica e usa le puntine delle Tappe per modificarle. Così potrai navigare al largo delle aree pericolose e trasportare le tue Merci a destinazione in tutta sicurezza.</LastFinalText>
+              <Status>Final</Status>
+            </Italian>
+            <Czech>
+              <Text>Opevněné věže korzárů automaticky napadají všechny proplouvající lodě. Prohlédněte si obchodní trasy a pomocí orientačních bodů je upravte. Díky tomu se vaše lodě nebezpečným oblastem vyhnou a dopravované zboží se tak dostane na místo určení bezpečněji.</Text>
+              <LastFinalText>Opevněné věže korzárů automaticky napadají všechny proplouvající lodě. Prohlédněte si obchodní trasy a pomocí orientačních bodů je upravte. Díky tomu se vaše lodě nebezpečným oblastem vyhnou a dopravované zboží se tak dostane na místo určení bezpečněji.</LastFinalText>
+              <Status>Final</Status>
+            </Czech>
+            <Polish>
+              <Text>Ufortyfikowane wieże piratów automatycznie atakują przepływające okręty i zadają im uszkodzenia. Sprawdź wyznaczone szlaki handlowe i zmień je za pomocą szpilek punktów kontrolnych. Umożliwisz w ten sposób ominięcie niebezpiecznych wód podczas żeglugi i bezpieczne dostarczanie towarów.</Text>
+              <LastFinalText>Ufortyfikowane wieże piratów automatycznie atakują przepływające okręty i zadają im uszkodzenia. Sprawdź wyznaczone szlaki handlowe i zmień je za pomocą szpilek punktów kontrolnych. Umożliwisz w ten sposób ominięcie niebezpiecznych wód podczas żeglugi i bezpieczne dostarczanie towarów.</LastFinalText>
+              <Status>Final</Status>
+            </Polish>
+          </LocaText>
+        </Text>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

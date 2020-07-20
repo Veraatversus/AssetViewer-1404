@@ -1,3 +1,1998 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:90c853b2fd0c9b914a6e076003d28407f8b88b37e9eae11555d0b79915831081
-size 47251
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoardersItem>
+  <Asset ID="8052" Name="Entermannschaft schwach I">
+    <Text ID="8052" FontStyle="0">
+      <EN>Drunken Crew</EN>
+      <DE>Versoffene Entermannschaft</DE>
+      <Icon d3p1:type="Icon" FileIndex="35" Width="64" Height="64" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Had to pull some courage out of the bottle... </EN>
+        <DE>Mussten sich Mut antrinken... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>50  Honour</EN>
+      <DE>50  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon d5p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon d6p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon d5p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon d6p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>8250512</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="8250512" FontStyle="0">
+            <EN>Friend or foe</EN>
+            <DE>Freund oder Feind</DE>
+          </Description>
+          <Description ID="8250516" FontStyle="0">
+            <EN>Security measures</EN>
+            <DE>Sicherheitsmaßnahmen</DE>
+          </Description>
+          <Description ID="8250519" FontStyle="0">
+            <EN>Compassion for a Corsair</EN>
+            <DE>Barmherzigkeit für einen Korsaren</DE>
+          </Description>
+          <Description ID="8250522" FontStyle="0">
+            <EN>Corsair literature</EN>
+            <DE>Korsarenliteratur</DE>
+          </Description>
+          <Description ID="8250525" FontStyle="0">
+            <EN>Equal opportunities at Sea</EN>
+            <DE>Chancengleichheit auf See</DE>
+          </Description>
+          <Description ID="8250528" FontStyle="0">
+            <EN>Ransom demand</EN>
+            <DE>Lösegeldforderung</DE>
+          </Description>
+          <Description ID="8250531" FontStyle="0">
+            <EN>Golden ballast</EN>
+            <DE>Güldener Ballast</DE>
+          </Description>
+          <Description ID="8250534" FontStyle="0">
+            <EN>Over-zealous Corsairs</EN>
+            <DE>Übereifrige Korsaren</DE>
+          </Description>
+          <Description ID="8250537" FontStyle="0">
+            <EN>Collision with a stranger</EN>
+            <DE>Kollision mit einer Unbekannten</DE>
+          </Description>
+          <Description ID="8250549" FontStyle="0">
+            <EN>Rum at the helm</EN>
+            <DE>Rum am Rad</DE>
+          </Description>
+          <Description ID="8250552" FontStyle="0">
+            <EN>Supplies for the Suppliers</EN>
+            <DE>Versorgung für die Versorgung</DE>
+          </Description>
+          <Description ID="8250555" FontStyle="0">
+            <EN>Reinforcing the planks</EN>
+            <DE>Verstärkung der Planken</DE>
+          </Description>
+          <Description ID="8250558" FontStyle="0">
+            <EN>The secret base</EN>
+            <DE>Der geheime Stützpunkt</DE>
+          </Description>
+          <Description ID="8250570" FontStyle="0">
+            <EN>Bearer of bad news</EN>
+            <DE>Unheilsbote</DE>
+          </Description>
+          <Description ID="8250573" FontStyle="0">
+            <EN>Four walk the plank</EN>
+            <DE>Vier über die Planke</DE>
+          </Description>
+          <Description ID="8250579" FontStyle="0">
+            <EN>Information</EN>
+            <DE>Informationen</DE>
+          </Description>
+          <Description ID="8250582" FontStyle="0">
+            <EN>Unmasking of a Spy</EN>
+            <DE>Enthüllung eines Spions</DE>
+          </Description>
+          <Description ID="8250585" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erschließung</DE>
+          </Description>
+          <Description ID="8250588" FontStyle="0">
+            <EN>The arch-enemy</EN>
+            <DE>Der Erzfeind</DE>
+          </Description>
+          <Description ID="8250591" FontStyle="0">
+            <EN>Captivity</EN>
+            <DE>Geiselhaft</DE>
+          </Description>
+          <Description ID="40844022" FontStyle="0">
+            <EN>He who will not pay must feel</EN>
+            <DE>Wer nicht zahlen will, muss fühlen</DE>
+          </Description>
+          <Description ID="40844024" FontStyle="0">
+            <EN>Bottleneck</EN>
+            <DE>Engpass</DE>
+          </Description>
+          <Description ID="40844026" FontStyle="0">
+            <EN>MY property!</EN>
+            <DE>MEIN Eigentum!</DE>
+          </Description>
+          <Description ID="40844028" FontStyle="0">
+            <EN>No unnecessary work </EN>
+            <DE>Keine unnötige Mühe</DE>
+          </Description>
+          <Description ID="40844030" FontStyle="0">
+            <EN>No exchange</EN>
+            <DE>Umtausch ausgeschlossen</DE>
+          </Description>
+          <Description ID="40844032" FontStyle="0">
+            <EN>Lesson</EN>
+            <DE>Lehrstunde</DE>
+          </Description>
+          <Description ID="40844034" FontStyle="0">
+            <EN>A change of plans</EN>
+            <DE>Planänderung</DE>
+          </Description>
+          <Description ID="40844038" FontStyle="0">
+            <EN>In custody</EN>
+            <DE>In Gewahrsam</DE>
+          </Description>
+          <Description ID="40844040" FontStyle="0">
+            <EN>Pride goes before a fall</EN>
+            <DE>Übermut tut selten gut</DE>
+          </Description>
+          <Description ID="40844042" FontStyle="0">
+            <EN>Wolf in sheep's clothing</EN>
+            <DE>In fremdem Gewand</DE>
+          </Description>
+          <Description ID="40844044" FontStyle="0">
+            <EN>Finding a replacement</EN>
+            <DE>Ersatzbeschaffung</DE>
+          </Description>
+          <Description ID="40844046" FontStyle="0">
+            <EN>Get out!</EN>
+            <DE>Hau ab!</DE>
+          </Description>
+          <Description ID="40844050" FontStyle="0">
+            <EN>Don't move!</EN>
+            <DE>Hiergeblieben!</DE>
+          </Description>
+          <Description ID="40844052" FontStyle="0">
+            <EN>Reception committee</EN>
+            <DE>Empfangskommitee</DE>
+          </Description>
+          <Description ID="40844054" FontStyle="0">
+            <EN>Leverage</EN>
+            <DE>Druckmittel</DE>
+          </Description>
+          <Description ID="40844056" FontStyle="0">
+            <EN>Snapped up</EN>
+            <DE>Weggeschnappt</DE>
+          </Description>
+          <Description ID="40844058" FontStyle="0">
+            <EN>Slow corsairs</EN>
+            <DE>Langsame Korsaren</DE>
+          </Description>
+          <Description ID="40844060" FontStyle="0">
+            <EN>Quickly now</EN>
+            <DE>Jetzt aber schnell</DE>
+          </Description>
+          <Description ID="8250540" FontStyle="0">
+            <EN>The Corsair hunter</EN>
+            <DE>Der Korsarenjäger</DE>
+          </Description>
+          <Description ID="8250543" FontStyle="0">
+            <EN>Letter of marque in sight</EN>
+            <DE>Kaperbrief in Aussicht</DE>
+          </Description>
+          <Description ID="8250546" FontStyle="0">
+            <EN>Escort for a Trader</EN>
+            <DE>Eskorte für einen Händler</DE>
+          </Description>
+          <Description ID="8250561" FontStyle="0">
+            <EN>The dishonourable Corsair</EN>
+            <DE>Der unehrliche Korsar</DE>
+          </Description>
+          <Description ID="8250564" FontStyle="0">
+            <EN>Blockade attempt</EN>
+            <DE>Blockadeversuch</DE>
+          </Description>
+          <Description ID="8250567" FontStyle="0">
+            <EN>High treason</EN>
+            <DE>Hochverrat</DE>
+          </Description>
+          <Description ID="8250576" FontStyle="0">
+            <EN>Hard times</EN>
+            <DE>Schwere Zeiten</DE>
+          </Description>
+          <Description ID="8250608" FontStyle="0">
+            <EN>Uncharted reefs</EN>
+            <DE>Unbekannte Riffe</DE>
+          </Description>
+          <Description ID="40844036" FontStyle="0">
+            <EN>A fine specimen</EN>
+            <DE>Prachtexemplar</DE>
+          </Description>
+          <Description ID="40844048" FontStyle="0">
+            <EN>Resupply</EN>
+            <DE>Nachschub</DE>
+          </Description>
+          <Description ID="40650311" FontStyle="0">
+            <EN>Defamation in the dark</EN>
+            <DE>Heimliche Diffamierung</DE>
+          </Description>
+          <Description ID="40650326" FontStyle="0">
+            <EN>Wolf in sheep's clothing</EN>
+            <DE>Wolf im Schafspelz</DE>
+          </Description>
+          <Description ID="40820009" FontStyle="0">
+            <EN>Right of revocation</EN>
+            <DE>Widerrufsrecht</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8347" Name="Entermannschaft mittel I">
+    <Text ID="8347" FontStyle="0">
+      <EN>Brave Boarding crew</EN>
+      <DE>Tapfere Entermannschaft</DE>
+      <Icon d3p1:type="Icon" FileIndex="35" Width="64" Height="64" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Yo ho ho and a bottle of Rum! </EN>
+        <DE>Ho Ho Ho und ne Buddel voll Rum! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>C</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>100  Honour</EN>
+      <DE>100  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>6350000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="6350000" FontStyle="0">
+            <EN>The rumour</EN>
+            <DE>Das Gerücht</DE>
+          </Description>
+          <Description ID="6350002" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350004" FontStyle="0">
+            <EN>Funeral service</EN>
+            <DE>Trauerfeier</DE>
+          </Description>
+          <Description ID="6350006" FontStyle="0">
+            <EN>Costly robes</EN>
+            <DE>Kostbare  Roben</DE>
+          </Description>
+          <Description ID="6350007" FontStyle="0">
+            <EN>Lucky survivors</EN>
+            <DE>Glückliche Überlebende</DE>
+          </Description>
+          <Description ID="6350010" FontStyle="0">
+            <EN>Sabotage</EN>
+            <DE>Sabotage</DE>
+          </Description>
+          <Description ID="6350012" FontStyle="0">
+            <EN>Badly advised</EN>
+            <DE>Schlecht beraten</DE>
+          </Description>
+          <Description ID="6350032" FontStyle="0">
+            <EN>Collision</EN>
+            <DE>Kollision </DE>
+          </Description>
+          <Description ID="6350014" FontStyle="0">
+            <EN>Rough Ropes</EN>
+            <DE>Spröde Taue </DE>
+          </Description>
+          <Description ID="6350036" FontStyle="0">
+            <EN>Shallows</EN>
+            <DE>Untiefen</DE>
+          </Description>
+          <Description ID="6350015" FontStyle="0">
+            <EN>Too late?</EN>
+            <DE>Zu spät?</DE>
+          </Description>
+          <Description ID="6350026" FontStyle="0">
+            <EN>Cruel Sea</EN>
+            <DE>Tückische See</DE>
+          </Description>
+          <Description ID="6350022" FontStyle="0">
+            <EN>Short process</EN>
+            <DE>Kurzer Prozess</DE>
+          </Description>
+          <Description ID="6350034" FontStyle="0">
+            <EN>Heavy burden</EN>
+            <DE>Schwere Bürde</DE>
+          </Description>
+          <Description ID="6350020" FontStyle="0">
+            <EN>Sacrilege</EN>
+            <DE>Sakrileg</DE>
+          </Description>
+          <Description ID="6350040" FontStyle="0">
+            <EN>Hospitality I</EN>
+            <DE>Gastfreundschaft I</DE>
+          </Description>
+          <Description ID="6350044" FontStyle="0">
+            <EN>Show your Colours I</EN>
+            <DE>Flagge zeigen I</DE>
+          </Description>
+          <Description ID="6350046" FontStyle="0">
+            <EN>Show your Colours II</EN>
+            <DE>Flagge zeigen II</DE>
+          </Description>
+          <Description ID="6350050" FontStyle="0">
+            <EN>A matter of trust I</EN>
+            <DE>Eine Frage des Vertrauens I</DE>
+          </Description>
+          <Description ID="6350052" FontStyle="0">
+            <EN>A matter of trust II</EN>
+            <DE>Eine Frage des Vertrauens II</DE>
+          </Description>
+          <Description ID="6350054" FontStyle="0">
+            <EN>A matter of trust III</EN>
+            <DE>Eine Frage des Vertrauen III</DE>
+          </Description>
+          <Description ID="6350060" FontStyle="0">
+            <EN>Deceit II</EN>
+            <DE>Täuschung II</DE>
+          </Description>
+          <Description ID="6350064" FontStyle="0">
+            <EN>Against the Pirates</EN>
+            <DE>Wider die Piraten!</DE>
+          </Description>
+          <Description ID="6350066" FontStyle="0">
+            <EN>Incorrigible traitor</EN>
+            <DE>Uneinsichtiger Verräter</DE>
+          </Description>
+          <Description ID="6350068" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350070" FontStyle="0">
+            <EN>Whoever finds it…</EN>
+            <DE>Wer es findet ...</DE>
+          </Description>
+          <Description ID="6350072" FontStyle="0">
+            <EN>Thieves</EN>
+            <DE>Diebe</DE>
+          </Description>
+          <Description ID="40835002" FontStyle="0">
+            <EN>Other peoples' laurels</EN>
+            <DE>Fremde Lorbeeren</DE>
+          </Description>
+          <Description ID="40835004" FontStyle="0">
+            <EN>Pure self-interest</EN>
+            <DE>Reiner Eigennutz</DE>
+          </Description>
+          <Description ID="40835006" FontStyle="0">
+            <EN>Ordered but not collected</EN>
+            <DE>Bestellt und nicht abgeholt</DE>
+          </Description>
+          <Description ID="40835008" FontStyle="0">
+            <EN>A perfect alibi</EN>
+            <DE>Ein perfektes Alibi</DE>
+          </Description>
+          <Description ID="40835010" FontStyle="0">
+            <EN>Third one laughs</EN>
+            <DE>Der lachende Dritte</DE>
+          </Description>
+          <Description ID="40835012" FontStyle="0">
+            <EN>A welcome storm</EN>
+            <DE>Willkommenes Unwetter</DE>
+          </Description>
+          <Description ID="40835018" FontStyle="0">
+            <EN>One opinion</EN>
+            <DE>Einer Meinung</DE>
+          </Description>
+          <Description ID="6350030" FontStyle="0">
+            <EN>No honour among thieves</EN>
+            <DE>Keine Ehre unter Dieben</DE>
+          </Description>
+          <Description ID="6350028" FontStyle="0">
+            <EN>Conspiracy</EN>
+            <DE>Verschwörung</DE>
+          </Description>
+          <Description ID="6350018" FontStyle="0">
+            <EN>The rightful owner</EN>
+            <DE>Der rechtmäßige Besitzer</DE>
+          </Description>
+          <Description ID="6350024" FontStyle="0">
+            <EN>Warmonger</EN>
+            <DE>Kriegstreiber</DE>
+          </Description>
+          <Description ID="6350038" FontStyle="0">
+            <EN>The legation</EN>
+            <DE>Die Gesandtschaft</DE>
+          </Description>
+          <Description ID="6350078" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="40835014" FontStyle="0">
+            <EN>On foreign shoulders</EN>
+            <DE>Tatenloser Ruhm</DE>
+          </Description>
+          <Description ID="40835016" FontStyle="0">
+            <EN>Reluctant witness</EN>
+            <DE>Unfreiwilliger Zeuge</DE>
+          </Description>
+          <Description ID="8250512" FontStyle="0">
+            <EN>Friend or foe</EN>
+            <DE>Freund oder Feind</DE>
+          </Description>
+          <Description ID="8250516" FontStyle="0">
+            <EN>Security measures</EN>
+            <DE>Sicherheitsmaßnahmen</DE>
+          </Description>
+          <Description ID="8250519" FontStyle="0">
+            <EN>Compassion for a Corsair</EN>
+            <DE>Barmherzigkeit für einen Korsaren</DE>
+          </Description>
+          <Description ID="8250522" FontStyle="0">
+            <EN>Corsair literature</EN>
+            <DE>Korsarenliteratur</DE>
+          </Description>
+          <Description ID="8250525" FontStyle="0">
+            <EN>Equal opportunities at Sea</EN>
+            <DE>Chancengleichheit auf See</DE>
+          </Description>
+          <Description ID="8250528" FontStyle="0">
+            <EN>Ransom demand</EN>
+            <DE>Lösegeldforderung</DE>
+          </Description>
+          <Description ID="8250531" FontStyle="0">
+            <EN>Golden ballast</EN>
+            <DE>Güldener Ballast</DE>
+          </Description>
+          <Description ID="8250534" FontStyle="0">
+            <EN>Over-zealous Corsairs</EN>
+            <DE>Übereifrige Korsaren</DE>
+          </Description>
+          <Description ID="8250537" FontStyle="0">
+            <EN>Collision with a stranger</EN>
+            <DE>Kollision mit einer Unbekannten</DE>
+          </Description>
+          <Description ID="8250549" FontStyle="0">
+            <EN>Rum at the helm</EN>
+            <DE>Rum am Rad</DE>
+          </Description>
+          <Description ID="8250552" FontStyle="0">
+            <EN>Supplies for the Suppliers</EN>
+            <DE>Versorgung für die Versorgung</DE>
+          </Description>
+          <Description ID="8250555" FontStyle="0">
+            <EN>Reinforcing the planks</EN>
+            <DE>Verstärkung der Planken</DE>
+          </Description>
+          <Description ID="8250558" FontStyle="0">
+            <EN>The secret base</EN>
+            <DE>Der geheime Stützpunkt</DE>
+          </Description>
+          <Description ID="8250570" FontStyle="0">
+            <EN>Bearer of bad news</EN>
+            <DE>Unheilsbote</DE>
+          </Description>
+          <Description ID="8250573" FontStyle="0">
+            <EN>Four walk the plank</EN>
+            <DE>Vier über die Planke</DE>
+          </Description>
+          <Description ID="8250579" FontStyle="0">
+            <EN>Information</EN>
+            <DE>Informationen</DE>
+          </Description>
+          <Description ID="8250582" FontStyle="0">
+            <EN>Unmasking of a Spy</EN>
+            <DE>Enthüllung eines Spions</DE>
+          </Description>
+          <Description ID="8250585" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erschließung</DE>
+          </Description>
+          <Description ID="8250588" FontStyle="0">
+            <EN>The arch-enemy</EN>
+            <DE>Der Erzfeind</DE>
+          </Description>
+          <Description ID="8250591" FontStyle="0">
+            <EN>Captivity</EN>
+            <DE>Geiselhaft</DE>
+          </Description>
+          <Description ID="40844022" FontStyle="0">
+            <EN>He who will not pay must feel</EN>
+            <DE>Wer nicht zahlen will, muss fühlen</DE>
+          </Description>
+          <Description ID="40844024" FontStyle="0">
+            <EN>Bottleneck</EN>
+            <DE>Engpass</DE>
+          </Description>
+          <Description ID="40844026" FontStyle="0">
+            <EN>MY property!</EN>
+            <DE>MEIN Eigentum!</DE>
+          </Description>
+          <Description ID="40844028" FontStyle="0">
+            <EN>No unnecessary work </EN>
+            <DE>Keine unnötige Mühe</DE>
+          </Description>
+          <Description ID="40844030" FontStyle="0">
+            <EN>No exchange</EN>
+            <DE>Umtausch ausgeschlossen</DE>
+          </Description>
+          <Description ID="40844032" FontStyle="0">
+            <EN>Lesson</EN>
+            <DE>Lehrstunde</DE>
+          </Description>
+          <Description ID="40844034" FontStyle="0">
+            <EN>A change of plans</EN>
+            <DE>Planänderung</DE>
+          </Description>
+          <Description ID="40844038" FontStyle="0">
+            <EN>In custody</EN>
+            <DE>In Gewahrsam</DE>
+          </Description>
+          <Description ID="40844040" FontStyle="0">
+            <EN>Pride goes before a fall</EN>
+            <DE>Übermut tut selten gut</DE>
+          </Description>
+          <Description ID="40844042" FontStyle="0">
+            <EN>Wolf in sheep's clothing</EN>
+            <DE>In fremdem Gewand</DE>
+          </Description>
+          <Description ID="40844044" FontStyle="0">
+            <EN>Finding a replacement</EN>
+            <DE>Ersatzbeschaffung</DE>
+          </Description>
+          <Description ID="40844046" FontStyle="0">
+            <EN>Get out!</EN>
+            <DE>Hau ab!</DE>
+          </Description>
+          <Description ID="40844050" FontStyle="0">
+            <EN>Don't move!</EN>
+            <DE>Hiergeblieben!</DE>
+          </Description>
+          <Description ID="40844052" FontStyle="0">
+            <EN>Reception committee</EN>
+            <DE>Empfangskommitee</DE>
+          </Description>
+          <Description ID="40844054" FontStyle="0">
+            <EN>Leverage</EN>
+            <DE>Druckmittel</DE>
+          </Description>
+          <Description ID="40844056" FontStyle="0">
+            <EN>Snapped up</EN>
+            <DE>Weggeschnappt</DE>
+          </Description>
+          <Description ID="40844058" FontStyle="0">
+            <EN>Slow corsairs</EN>
+            <DE>Langsame Korsaren</DE>
+          </Description>
+          <Description ID="40844060" FontStyle="0">
+            <EN>Quickly now</EN>
+            <DE>Jetzt aber schnell</DE>
+          </Description>
+          <Description ID="8250540" FontStyle="0">
+            <EN>The Corsair hunter</EN>
+            <DE>Der Korsarenjäger</DE>
+          </Description>
+          <Description ID="8250543" FontStyle="0">
+            <EN>Letter of marque in sight</EN>
+            <DE>Kaperbrief in Aussicht</DE>
+          </Description>
+          <Description ID="8250546" FontStyle="0">
+            <EN>Escort for a Trader</EN>
+            <DE>Eskorte für einen Händler</DE>
+          </Description>
+          <Description ID="8250561" FontStyle="0">
+            <EN>The dishonourable Corsair</EN>
+            <DE>Der unehrliche Korsar</DE>
+          </Description>
+          <Description ID="8250564" FontStyle="0">
+            <EN>Blockade attempt</EN>
+            <DE>Blockadeversuch</DE>
+          </Description>
+          <Description ID="8250567" FontStyle="0">
+            <EN>High treason</EN>
+            <DE>Hochverrat</DE>
+          </Description>
+          <Description ID="8250576" FontStyle="0">
+            <EN>Hard times</EN>
+            <DE>Schwere Zeiten</DE>
+          </Description>
+          <Description ID="8250608" FontStyle="0">
+            <EN>Uncharted reefs</EN>
+            <DE>Unbekannte Riffe</DE>
+          </Description>
+          <Description ID="40844036" FontStyle="0">
+            <EN>A fine specimen</EN>
+            <DE>Prachtexemplar</DE>
+          </Description>
+          <Description ID="40844048" FontStyle="0">
+            <EN>Resupply</EN>
+            <DE>Nachschub</DE>
+          </Description>
+          <Description ID="40650331" FontStyle="0">
+            <EN>An old flame</EN>
+            <DE>Jugendliebe</DE>
+          </Description>
+          <Description ID="40650337" FontStyle="0">
+            <EN>Tricky trading</EN>
+            <DE>Trickreicher Handel</DE>
+          </Description>
+          <Description ID="40802014" FontStyle="0">
+            <EN>Claim to power</EN>
+            <DE>Machtanspruch</DE>
+          </Description>
+          <Description ID="40805008" FontStyle="0">
+            <EN>The credulous artist</EN>
+            <DE>Der leichtgläubige Künstler</DE>
+          </Description>
+          <Description ID="40814012" FontStyle="0">
+            <EN>Crippling memory</EN>
+            <DE>Lähmende Erinnerung</DE>
+          </Description>
+          <Description ID="40823004" FontStyle="0">
+            <EN>Beneath contempt</EN>
+            <DE>Unter aller Würde</DE>
+          </Description>
+          <Description ID="40823006" FontStyle="0">
+            <EN>Quality goods</EN>
+            <DE>Qualitätsware</DE>
+          </Description>
+          <Description ID="40835014" FontStyle="0">
+            <EN>On foreign shoulders</EN>
+            <DE>Tatenloser Ruhm</DE>
+          </Description>
+          <Description ID="40820005" FontStyle="0">
+            <EN>Good idea?</EN>
+            <DE>Gute Idee?</DE>
+          </Description>
+          <Description ID="40844015" FontStyle="0">
+            <EN>Homeless on the high seas</EN>
+            <DE>Obdachlos auf hoher See</DE>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Ship Drop - Hassan ben Sahid</EN>
+          <DE>Schiff Drop - Hassan ben Sahid</DE>
+          <Icon d5p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon d6p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+      <TempSource>
+        <ID>1645081</ID>
+        <Text ID="1645081" FontStyle="0">
+          <EN>Harbour - Hassan ben Sahid</EN>
+          <DE>Hafen - Hassan ben Sahid</DE>
+          <Icon d5p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+            <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+          </Icon>
+        </Text>
+        <Details>
+          <Description ID="1645081" FontStyle="0">
+            <EN>Hassan ben Sahid</EN>
+            <DE>Hassan ben Sahid</DE>
+            <Icon d6p1:type="Icon" FileIndex="170" Width="46" Height="46" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">
+              <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+            </Icon>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8349" Name="Entermannschaft stark II">
+    <Text ID="8349" FontStyle="0">
+      <EN>Infamous Boarding crew</EN>
+      <DE>Berüchtigte Entermannschaft</DE>
+      <Icon d3p1:type="Icon" FileIndex="35" Width="64" Height="64" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>A dubious reputation precedes them... </EN>
+        <DE>Ein zweifelhafter Ruf eilt ihnen voraus... </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemQuality>B</ItemQuality>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>150  Honour</EN>
+      <DE>150  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>6350000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="6350000" FontStyle="0">
+            <EN>The rumour</EN>
+            <DE>Das Gerücht</DE>
+          </Description>
+          <Description ID="6350002" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350004" FontStyle="0">
+            <EN>Funeral service</EN>
+            <DE>Trauerfeier</DE>
+          </Description>
+          <Description ID="6350006" FontStyle="0">
+            <EN>Costly robes</EN>
+            <DE>Kostbare  Roben</DE>
+          </Description>
+          <Description ID="6350007" FontStyle="0">
+            <EN>Lucky survivors</EN>
+            <DE>Glückliche Überlebende</DE>
+          </Description>
+          <Description ID="6350010" FontStyle="0">
+            <EN>Sabotage</EN>
+            <DE>Sabotage</DE>
+          </Description>
+          <Description ID="6350012" FontStyle="0">
+            <EN>Badly advised</EN>
+            <DE>Schlecht beraten</DE>
+          </Description>
+          <Description ID="6350032" FontStyle="0">
+            <EN>Collision</EN>
+            <DE>Kollision </DE>
+          </Description>
+          <Description ID="6350014" FontStyle="0">
+            <EN>Rough Ropes</EN>
+            <DE>Spröde Taue </DE>
+          </Description>
+          <Description ID="6350036" FontStyle="0">
+            <EN>Shallows</EN>
+            <DE>Untiefen</DE>
+          </Description>
+          <Description ID="6350015" FontStyle="0">
+            <EN>Too late?</EN>
+            <DE>Zu spät?</DE>
+          </Description>
+          <Description ID="6350026" FontStyle="0">
+            <EN>Cruel Sea</EN>
+            <DE>Tückische See</DE>
+          </Description>
+          <Description ID="6350022" FontStyle="0">
+            <EN>Short process</EN>
+            <DE>Kurzer Prozess</DE>
+          </Description>
+          <Description ID="6350034" FontStyle="0">
+            <EN>Heavy burden</EN>
+            <DE>Schwere Bürde</DE>
+          </Description>
+          <Description ID="6350020" FontStyle="0">
+            <EN>Sacrilege</EN>
+            <DE>Sakrileg</DE>
+          </Description>
+          <Description ID="6350040" FontStyle="0">
+            <EN>Hospitality I</EN>
+            <DE>Gastfreundschaft I</DE>
+          </Description>
+          <Description ID="6350044" FontStyle="0">
+            <EN>Show your Colours I</EN>
+            <DE>Flagge zeigen I</DE>
+          </Description>
+          <Description ID="6350046" FontStyle="0">
+            <EN>Show your Colours II</EN>
+            <DE>Flagge zeigen II</DE>
+          </Description>
+          <Description ID="6350050" FontStyle="0">
+            <EN>A matter of trust I</EN>
+            <DE>Eine Frage des Vertrauens I</DE>
+          </Description>
+          <Description ID="6350052" FontStyle="0">
+            <EN>A matter of trust II</EN>
+            <DE>Eine Frage des Vertrauens II</DE>
+          </Description>
+          <Description ID="6350054" FontStyle="0">
+            <EN>A matter of trust III</EN>
+            <DE>Eine Frage des Vertrauen III</DE>
+          </Description>
+          <Description ID="6350060" FontStyle="0">
+            <EN>Deceit II</EN>
+            <DE>Täuschung II</DE>
+          </Description>
+          <Description ID="6350064" FontStyle="0">
+            <EN>Against the Pirates</EN>
+            <DE>Wider die Piraten!</DE>
+          </Description>
+          <Description ID="6350066" FontStyle="0">
+            <EN>Incorrigible traitor</EN>
+            <DE>Uneinsichtiger Verräter</DE>
+          </Description>
+          <Description ID="6350068" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350070" FontStyle="0">
+            <EN>Whoever finds it…</EN>
+            <DE>Wer es findet ...</DE>
+          </Description>
+          <Description ID="6350072" FontStyle="0">
+            <EN>Thieves</EN>
+            <DE>Diebe</DE>
+          </Description>
+          <Description ID="40835002" FontStyle="0">
+            <EN>Other peoples' laurels</EN>
+            <DE>Fremde Lorbeeren</DE>
+          </Description>
+          <Description ID="40835004" FontStyle="0">
+            <EN>Pure self-interest</EN>
+            <DE>Reiner Eigennutz</DE>
+          </Description>
+          <Description ID="40835006" FontStyle="0">
+            <EN>Ordered but not collected</EN>
+            <DE>Bestellt und nicht abgeholt</DE>
+          </Description>
+          <Description ID="40835008" FontStyle="0">
+            <EN>A perfect alibi</EN>
+            <DE>Ein perfektes Alibi</DE>
+          </Description>
+          <Description ID="40835010" FontStyle="0">
+            <EN>Third one laughs</EN>
+            <DE>Der lachende Dritte</DE>
+          </Description>
+          <Description ID="40835012" FontStyle="0">
+            <EN>A welcome storm</EN>
+            <DE>Willkommenes Unwetter</DE>
+          </Description>
+          <Description ID="40835018" FontStyle="0">
+            <EN>One opinion</EN>
+            <DE>Einer Meinung</DE>
+          </Description>
+          <Description ID="6350030" FontStyle="0">
+            <EN>No honour among thieves</EN>
+            <DE>Keine Ehre unter Dieben</DE>
+          </Description>
+          <Description ID="6350028" FontStyle="0">
+            <EN>Conspiracy</EN>
+            <DE>Verschwörung</DE>
+          </Description>
+          <Description ID="6350018" FontStyle="0">
+            <EN>The rightful owner</EN>
+            <DE>Der rechtmäßige Besitzer</DE>
+          </Description>
+          <Description ID="6350024" FontStyle="0">
+            <EN>Warmonger</EN>
+            <DE>Kriegstreiber</DE>
+          </Description>
+          <Description ID="6350038" FontStyle="0">
+            <EN>The legation</EN>
+            <DE>Die Gesandtschaft</DE>
+          </Description>
+          <Description ID="6350078" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="40835014" FontStyle="0">
+            <EN>On foreign shoulders</EN>
+            <DE>Tatenloser Ruhm</DE>
+          </Description>
+          <Description ID="40835016" FontStyle="0">
+            <EN>Reluctant witness</EN>
+            <DE>Unfreiwilliger Zeuge</DE>
+          </Description>
+          <Description ID="5650000" FontStyle="0">
+            <EN>Pretty maid</EN>
+            <DE>Schöne Maid</DE>
+          </Description>
+          <Description ID="5650002" FontStyle="0">
+            <EN>New spurs</EN>
+            <DE>Neue Sporen</DE>
+          </Description>
+          <Description ID="5650004" FontStyle="0">
+            <EN>A clever plan</EN>
+            <DE>Ein kühner Plan</DE>
+          </Description>
+          <Description ID="5650006" FontStyle="0">
+            <EN>Mishap on the whaling expedition</EN>
+            <DE>Unglück beim Walfang</DE>
+          </Description>
+          <Description ID="5650008" FontStyle="0">
+            <EN>Heavy Cargo</EN>
+            <DE>Schwere Ladung</DE>
+          </Description>
+          <Description ID="5650010" FontStyle="0">
+            <EN>A wet Medic</EN>
+            <DE>Ein nasser Medicus</DE>
+          </Description>
+          <Description ID="5650012" FontStyle="0">
+            <EN>The Lord's blessing</EN>
+            <DE>Der Segen des Herrn</DE>
+          </Description>
+          <Description ID="5650014" FontStyle="0">
+            <EN>The feast I</EN>
+            <DE>Das Gelage I</DE>
+          </Description>
+          <Description ID="5650020" FontStyle="0">
+            <EN>Nightmares</EN>
+            <DE>Nachtmahre</DE>
+          </Description>
+          <Description ID="5650022" FontStyle="0">
+            <EN>Guests in danger</EN>
+            <DE>Gäste in Gefahr</DE>
+          </Description>
+          <Description ID="5650024" FontStyle="0">
+            <EN>Men overboard!</EN>
+            <DE>Männer über Bord!</DE>
+          </Description>
+          <Description ID="5650026" FontStyle="0">
+            <EN>Dissimilar brothers</EN>
+            <DE>Ungleiche Brüder</DE>
+          </Description>
+          <Description ID="5650034" FontStyle="0">
+            <EN>Money</EN>
+            <DE>Münze</DE>
+          </Description>
+          <Description ID="5650036" FontStyle="0">
+            <EN>Stopped</EN>
+            <DE>Verhindert</DE>
+          </Description>
+          <Description ID="5650038" FontStyle="0">
+            <EN>The missing Smith</EN>
+            <DE>Der vermisste Schmied</DE>
+          </Description>
+          <Description ID="5650042" FontStyle="0">
+            <EN>Drunk at the helm</EN>
+            <DE>Trunkenheit am Steuer</DE>
+          </Description>
+          <Description ID="5650046" FontStyle="0">
+            <EN>The Tournament I</EN>
+            <DE>Das Turnier I</DE>
+          </Description>
+          <Description ID="5650050" FontStyle="0">
+            <EN>The memoirs I</EN>
+            <DE>Die Memoiren I</DE>
+          </Description>
+          <Description ID="5650052" FontStyle="0">
+            <EN>The memoirs II</EN>
+            <DE>Die Memoiren II</DE>
+          </Description>
+          <Description ID="5650056" FontStyle="0">
+            <EN>Pure luxury</EN>
+            <DE>Purer Luxus</DE>
+          </Description>
+          <Description ID="5650058" FontStyle="0">
+            <EN>Support</EN>
+            <DE>Schützenhilfe</DE>
+          </Description>
+          <Description ID="5650060" FontStyle="0">
+            <EN>Before the fall</EN>
+            <DE>Vor dem Fall</DE>
+          </Description>
+          <Description ID="5650062" FontStyle="0">
+            <EN>Too many opportunities</EN>
+            <DE>Zu viele Möglichkeiten</DE>
+          </Description>
+          <Description ID="5650064" FontStyle="0">
+            <EN>The golden spoon</EN>
+            <DE>Der goldene Löffel</DE>
+          </Description>
+          <Description ID="5650066" FontStyle="0">
+            <EN>Crop and bridle</EN>
+            <DE>Gerte und Zaumzeug</DE>
+          </Description>
+          <Description ID="5650068" FontStyle="0">
+            <EN>the Smith and his Journeymen</EN>
+            <DE>Der Schmied und seine Gesellen</DE>
+          </Description>
+          <Description ID="5650070" FontStyle="0">
+            <EN>The braggadocio I</EN>
+            <DE>Prahlhans I</DE>
+          </Description>
+          <Description ID="5650072" FontStyle="0">
+            <EN>The braggadocio II</EN>
+            <DE>Prahlhans II</DE>
+          </Description>
+          <Description ID="5650074" FontStyle="0">
+            <EN>The braggadocio III</EN>
+            <DE>Prahlhans III</DE>
+          </Description>
+          <Description ID="40801000" FontStyle="0">
+            <EN>Welcome distraction</EN>
+            <DE>Willkommene Ablenkung</DE>
+          </Description>
+          <Description ID="40801002" FontStyle="0">
+            <EN>Risky business</EN>
+            <DE>Riskante Affäre</DE>
+          </Description>
+          <Description ID="40801004" FontStyle="0">
+            <EN>Rare immunity</EN>
+            <DE>Seltene Immunität</DE>
+          </Description>
+          <Description ID="40801005" FontStyle="0">
+            <EN>Das Statussymbol</EN>
+            <DE>Das Statussymbol</DE>
+          </Description>
+          <Description ID="40801012" FontStyle="0">
+            <EN>Saving honour</EN>
+            <DE>Rettung der Ehre </DE>
+          </Description>
+          <Description ID="40801014" FontStyle="0">
+            <EN>Escape agent</EN>
+            <DE>Fluchthelfer</DE>
+          </Description>
+          <Description ID="40801016" FontStyle="0">
+            <EN>The charmer</EN>
+            <DE>Der Charmeur</DE>
+          </Description>
+          <Description ID="40801018" FontStyle="0">
+            <EN>Bragging</EN>
+            <DE>Prahlerei</DE>
+          </Description>
+          <Description ID="5650018" FontStyle="0">
+            <EN>The portrait</EN>
+            <DE>Das Porträt</DE>
+          </Description>
+          <Description ID="5650028" FontStyle="0">
+            <EN>The contingent</EN>
+            <DE>Das Aufgebot</DE>
+          </Description>
+          <Description ID="5650030" FontStyle="0">
+            <EN>The lothario</EN>
+            <DE>Der Schürzenjäger</DE>
+          </Description>
+          <Description ID="5650032" FontStyle="0">
+            <EN>Drinking buddies</EN>
+            <DE>Zechkumpane</DE>
+          </Description>
+          <Description ID="5650040" FontStyle="0">
+            <EN>Headlong into the adventure</EN>
+            <DE>Hinein ins Abenteuer</DE>
+          </Description>
+          <Description ID="5650044" FontStyle="0">
+            <EN>The thief makes his escape</EN>
+            <DE>Langfinger auf der Flucht</DE>
+          </Description>
+          <Description ID="5650084" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="40801020" FontStyle="0">
+            <EN>A man thing</EN>
+            <DE>Männersache</DE>
+          </Description>
+          <Description ID="8250512" FontStyle="0">
+            <EN>Friend or foe</EN>
+            <DE>Freund oder Feind</DE>
+          </Description>
+          <Description ID="8250516" FontStyle="0">
+            <EN>Security measures</EN>
+            <DE>Sicherheitsmaßnahmen</DE>
+          </Description>
+          <Description ID="8250519" FontStyle="0">
+            <EN>Compassion for a Corsair</EN>
+            <DE>Barmherzigkeit für einen Korsaren</DE>
+          </Description>
+          <Description ID="8250522" FontStyle="0">
+            <EN>Corsair literature</EN>
+            <DE>Korsarenliteratur</DE>
+          </Description>
+          <Description ID="8250525" FontStyle="0">
+            <EN>Equal opportunities at Sea</EN>
+            <DE>Chancengleichheit auf See</DE>
+          </Description>
+          <Description ID="8250528" FontStyle="0">
+            <EN>Ransom demand</EN>
+            <DE>Lösegeldforderung</DE>
+          </Description>
+          <Description ID="8250531" FontStyle="0">
+            <EN>Golden ballast</EN>
+            <DE>Güldener Ballast</DE>
+          </Description>
+          <Description ID="8250534" FontStyle="0">
+            <EN>Over-zealous Corsairs</EN>
+            <DE>Übereifrige Korsaren</DE>
+          </Description>
+          <Description ID="8250537" FontStyle="0">
+            <EN>Collision with a stranger</EN>
+            <DE>Kollision mit einer Unbekannten</DE>
+          </Description>
+          <Description ID="8250549" FontStyle="0">
+            <EN>Rum at the helm</EN>
+            <DE>Rum am Rad</DE>
+          </Description>
+          <Description ID="8250552" FontStyle="0">
+            <EN>Supplies for the Suppliers</EN>
+            <DE>Versorgung für die Versorgung</DE>
+          </Description>
+          <Description ID="8250555" FontStyle="0">
+            <EN>Reinforcing the planks</EN>
+            <DE>Verstärkung der Planken</DE>
+          </Description>
+          <Description ID="8250558" FontStyle="0">
+            <EN>The secret base</EN>
+            <DE>Der geheime Stützpunkt</DE>
+          </Description>
+          <Description ID="8250570" FontStyle="0">
+            <EN>Bearer of bad news</EN>
+            <DE>Unheilsbote</DE>
+          </Description>
+          <Description ID="8250573" FontStyle="0">
+            <EN>Four walk the plank</EN>
+            <DE>Vier über die Planke</DE>
+          </Description>
+          <Description ID="8250579" FontStyle="0">
+            <EN>Information</EN>
+            <DE>Informationen</DE>
+          </Description>
+          <Description ID="8250582" FontStyle="0">
+            <EN>Unmasking of a Spy</EN>
+            <DE>Enthüllung eines Spions</DE>
+          </Description>
+          <Description ID="8250585" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erschließung</DE>
+          </Description>
+          <Description ID="8250588" FontStyle="0">
+            <EN>The arch-enemy</EN>
+            <DE>Der Erzfeind</DE>
+          </Description>
+          <Description ID="8250591" FontStyle="0">
+            <EN>Captivity</EN>
+            <DE>Geiselhaft</DE>
+          </Description>
+          <Description ID="40844022" FontStyle="0">
+            <EN>He who will not pay must feel</EN>
+            <DE>Wer nicht zahlen will, muss fühlen</DE>
+          </Description>
+          <Description ID="40844024" FontStyle="0">
+            <EN>Bottleneck</EN>
+            <DE>Engpass</DE>
+          </Description>
+          <Description ID="40844026" FontStyle="0">
+            <EN>MY property!</EN>
+            <DE>MEIN Eigentum!</DE>
+          </Description>
+          <Description ID="40844028" FontStyle="0">
+            <EN>No unnecessary work </EN>
+            <DE>Keine unnötige Mühe</DE>
+          </Description>
+          <Description ID="40844030" FontStyle="0">
+            <EN>No exchange</EN>
+            <DE>Umtausch ausgeschlossen</DE>
+          </Description>
+          <Description ID="40844032" FontStyle="0">
+            <EN>Lesson</EN>
+            <DE>Lehrstunde</DE>
+          </Description>
+          <Description ID="40844034" FontStyle="0">
+            <EN>A change of plans</EN>
+            <DE>Planänderung</DE>
+          </Description>
+          <Description ID="40844038" FontStyle="0">
+            <EN>In custody</EN>
+            <DE>In Gewahrsam</DE>
+          </Description>
+          <Description ID="40844040" FontStyle="0">
+            <EN>Pride goes before a fall</EN>
+            <DE>Übermut tut selten gut</DE>
+          </Description>
+          <Description ID="40844042" FontStyle="0">
+            <EN>Wolf in sheep's clothing</EN>
+            <DE>In fremdem Gewand</DE>
+          </Description>
+          <Description ID="40844044" FontStyle="0">
+            <EN>Finding a replacement</EN>
+            <DE>Ersatzbeschaffung</DE>
+          </Description>
+          <Description ID="40844046" FontStyle="0">
+            <EN>Get out!</EN>
+            <DE>Hau ab!</DE>
+          </Description>
+          <Description ID="40844050" FontStyle="0">
+            <EN>Don't move!</EN>
+            <DE>Hiergeblieben!</DE>
+          </Description>
+          <Description ID="40844052" FontStyle="0">
+            <EN>Reception committee</EN>
+            <DE>Empfangskommitee</DE>
+          </Description>
+          <Description ID="40844054" FontStyle="0">
+            <EN>Leverage</EN>
+            <DE>Druckmittel</DE>
+          </Description>
+          <Description ID="40844056" FontStyle="0">
+            <EN>Snapped up</EN>
+            <DE>Weggeschnappt</DE>
+          </Description>
+          <Description ID="40844058" FontStyle="0">
+            <EN>Slow corsairs</EN>
+            <DE>Langsame Korsaren</DE>
+          </Description>
+          <Description ID="40844060" FontStyle="0">
+            <EN>Quickly now</EN>
+            <DE>Jetzt aber schnell</DE>
+          </Description>
+          <Description ID="8250540" FontStyle="0">
+            <EN>The Corsair hunter</EN>
+            <DE>Der Korsarenjäger</DE>
+          </Description>
+          <Description ID="8250543" FontStyle="0">
+            <EN>Letter of marque in sight</EN>
+            <DE>Kaperbrief in Aussicht</DE>
+          </Description>
+          <Description ID="8250546" FontStyle="0">
+            <EN>Escort for a Trader</EN>
+            <DE>Eskorte für einen Händler</DE>
+          </Description>
+          <Description ID="8250561" FontStyle="0">
+            <EN>The dishonourable Corsair</EN>
+            <DE>Der unehrliche Korsar</DE>
+          </Description>
+          <Description ID="8250564" FontStyle="0">
+            <EN>Blockade attempt</EN>
+            <DE>Blockadeversuch</DE>
+          </Description>
+          <Description ID="8250567" FontStyle="0">
+            <EN>High treason</EN>
+            <DE>Hochverrat</DE>
+          </Description>
+          <Description ID="8250576" FontStyle="0">
+            <EN>Hard times</EN>
+            <DE>Schwere Zeiten</DE>
+          </Description>
+          <Description ID="8250608" FontStyle="0">
+            <EN>Uncharted reefs</EN>
+            <DE>Unbekannte Riffe</DE>
+          </Description>
+          <Description ID="40844036" FontStyle="0">
+            <EN>A fine specimen</EN>
+            <DE>Prachtexemplar</DE>
+          </Description>
+          <Description ID="40844048" FontStyle="0">
+            <EN>Resupply</EN>
+            <DE>Nachschub</DE>
+          </Description>
+          <Description ID="40650329" FontStyle="0">
+            <EN>Heavy transport</EN>
+            <DE>Schwertransport</DE>
+          </Description>
+          <Description ID="40650339" FontStyle="0">
+            <EN>Fast as the wind</EN>
+            <DE>Schnell wie der Wind</DE>
+          </Description>
+          <Description ID="40650341" FontStyle="0">
+            <EN>Competition</EN>
+            <DE>Konkurrenzkampf</DE>
+          </Description>
+          <Description ID="40802016" FontStyle="0">
+            <EN>Revolution with consequences</EN>
+            <DE>Staatsstreich mit Folgen</DE>
+          </Description>
+          <Description ID="40823000" FontStyle="0">
+            <EN>Valuable knowledge</EN>
+            <DE>Wertvolles Wissen</DE>
+          </Description>
+          <Description ID="40820003" FontStyle="0">
+            <EN>Free of charge</EN>
+            <DE>Ohne jeden Preis</DE>
+          </Description>
+          <Description ID="40803084" FontStyle="0">
+            <EN>Tit for tat</EN>
+            <DE>Wie du mir…</DE>
+          </Description>
+          <Description ID="40803017" FontStyle="0">
+            <EN>Replica with consequences I</EN>
+            <DE>Nachbau mit Folgen I</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+  <Asset ID="8350" Name="Entermannschaft stark III">
+    <Text ID="8350" FontStyle="0">
+      <EN>Bloodthirsty Boarding crew</EN>
+      <DE>Blutrünstige Entermannschaft</DE>
+      <Icon d3p1:type="Icon" FileIndex="35" Width="64" Height="64" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_1_anno4.png</Filename>
+      </Icon>
+      <AdditionalInformation d3p1:type="Description" FontStyle="0" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <EN>Armed to the teeth! </EN>
+        <DE>Bis an die Zähne bewaffnet! </DE>
+      </AdditionalInformation>
+    </Text>
+    <ItemType ID="137575" FontStyle="0">
+      <EN>Ship Item</EN>
+      <DE>Schiffs-Item</DE>
+    </ItemType>
+    <ItemCategory>Ship</ItemCategory>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>200  Honour</EN>
+      <DE>200  Ruhm</DE>
+      <Icon d3p1:type="Icon" FileIndex="245" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+      </Icon>
+    </HonourPrice>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources>
+      <TempSource>
+        <ID>6350000</ID>
+        <Text ID="" FontStyle="0">
+          <EN>Quest</EN>
+          <DE>Quest</DE>
+        </Text>
+        <Details>
+          <Description ID="6350000" FontStyle="0">
+            <EN>The rumour</EN>
+            <DE>Das Gerücht</DE>
+          </Description>
+          <Description ID="6350002" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350004" FontStyle="0">
+            <EN>Funeral service</EN>
+            <DE>Trauerfeier</DE>
+          </Description>
+          <Description ID="6350006" FontStyle="0">
+            <EN>Costly robes</EN>
+            <DE>Kostbare  Roben</DE>
+          </Description>
+          <Description ID="6350007" FontStyle="0">
+            <EN>Lucky survivors</EN>
+            <DE>Glückliche Überlebende</DE>
+          </Description>
+          <Description ID="6350010" FontStyle="0">
+            <EN>Sabotage</EN>
+            <DE>Sabotage</DE>
+          </Description>
+          <Description ID="6350012" FontStyle="0">
+            <EN>Badly advised</EN>
+            <DE>Schlecht beraten</DE>
+          </Description>
+          <Description ID="6350032" FontStyle="0">
+            <EN>Collision</EN>
+            <DE>Kollision </DE>
+          </Description>
+          <Description ID="6350014" FontStyle="0">
+            <EN>Rough Ropes</EN>
+            <DE>Spröde Taue </DE>
+          </Description>
+          <Description ID="6350036" FontStyle="0">
+            <EN>Shallows</EN>
+            <DE>Untiefen</DE>
+          </Description>
+          <Description ID="6350015" FontStyle="0">
+            <EN>Too late?</EN>
+            <DE>Zu spät?</DE>
+          </Description>
+          <Description ID="6350026" FontStyle="0">
+            <EN>Cruel Sea</EN>
+            <DE>Tückische See</DE>
+          </Description>
+          <Description ID="6350022" FontStyle="0">
+            <EN>Short process</EN>
+            <DE>Kurzer Prozess</DE>
+          </Description>
+          <Description ID="6350034" FontStyle="0">
+            <EN>Heavy burden</EN>
+            <DE>Schwere Bürde</DE>
+          </Description>
+          <Description ID="6350020" FontStyle="0">
+            <EN>Sacrilege</EN>
+            <DE>Sakrileg</DE>
+          </Description>
+          <Description ID="6350040" FontStyle="0">
+            <EN>Hospitality I</EN>
+            <DE>Gastfreundschaft I</DE>
+          </Description>
+          <Description ID="6350044" FontStyle="0">
+            <EN>Show your Colours I</EN>
+            <DE>Flagge zeigen I</DE>
+          </Description>
+          <Description ID="6350046" FontStyle="0">
+            <EN>Show your Colours II</EN>
+            <DE>Flagge zeigen II</DE>
+          </Description>
+          <Description ID="6350050" FontStyle="0">
+            <EN>A matter of trust I</EN>
+            <DE>Eine Frage des Vertrauens I</DE>
+          </Description>
+          <Description ID="6350052" FontStyle="0">
+            <EN>A matter of trust II</EN>
+            <DE>Eine Frage des Vertrauens II</DE>
+          </Description>
+          <Description ID="6350054" FontStyle="0">
+            <EN>A matter of trust III</EN>
+            <DE>Eine Frage des Vertrauen III</DE>
+          </Description>
+          <Description ID="6350060" FontStyle="0">
+            <EN>Deceit II</EN>
+            <DE>Täuschung II</DE>
+          </Description>
+          <Description ID="6350064" FontStyle="0">
+            <EN>Against the Pirates</EN>
+            <DE>Wider die Piraten!</DE>
+          </Description>
+          <Description ID="6350066" FontStyle="0">
+            <EN>Incorrigible traitor</EN>
+            <DE>Uneinsichtiger Verräter</DE>
+          </Description>
+          <Description ID="6350068" FontStyle="0">
+            <EN>Stroke of luck</EN>
+            <DE>Glückliche Fügung</DE>
+          </Description>
+          <Description ID="6350070" FontStyle="0">
+            <EN>Whoever finds it…</EN>
+            <DE>Wer es findet ...</DE>
+          </Description>
+          <Description ID="6350072" FontStyle="0">
+            <EN>Thieves</EN>
+            <DE>Diebe</DE>
+          </Description>
+          <Description ID="40835002" FontStyle="0">
+            <EN>Other peoples' laurels</EN>
+            <DE>Fremde Lorbeeren</DE>
+          </Description>
+          <Description ID="40835004" FontStyle="0">
+            <EN>Pure self-interest</EN>
+            <DE>Reiner Eigennutz</DE>
+          </Description>
+          <Description ID="40835006" FontStyle="0">
+            <EN>Ordered but not collected</EN>
+            <DE>Bestellt und nicht abgeholt</DE>
+          </Description>
+          <Description ID="40835008" FontStyle="0">
+            <EN>A perfect alibi</EN>
+            <DE>Ein perfektes Alibi</DE>
+          </Description>
+          <Description ID="40835010" FontStyle="0">
+            <EN>Third one laughs</EN>
+            <DE>Der lachende Dritte</DE>
+          </Description>
+          <Description ID="40835012" FontStyle="0">
+            <EN>A welcome storm</EN>
+            <DE>Willkommenes Unwetter</DE>
+          </Description>
+          <Description ID="40835018" FontStyle="0">
+            <EN>One opinion</EN>
+            <DE>Einer Meinung</DE>
+          </Description>
+          <Description ID="6350030" FontStyle="0">
+            <EN>No honour among thieves</EN>
+            <DE>Keine Ehre unter Dieben</DE>
+          </Description>
+          <Description ID="6350028" FontStyle="0">
+            <EN>Conspiracy</EN>
+            <DE>Verschwörung</DE>
+          </Description>
+          <Description ID="6350018" FontStyle="0">
+            <EN>The rightful owner</EN>
+            <DE>Der rechtmäßige Besitzer</DE>
+          </Description>
+          <Description ID="6350024" FontStyle="0">
+            <EN>Warmonger</EN>
+            <DE>Kriegstreiber</DE>
+          </Description>
+          <Description ID="6350038" FontStyle="0">
+            <EN>The legation</EN>
+            <DE>Die Gesandtschaft</DE>
+          </Description>
+          <Description ID="6350078" FontStyle="0">
+            <EN>Distress call</EN>
+            <DE>Hilferuf</DE>
+          </Description>
+          <Description ID="40835014" FontStyle="0">
+            <EN>On foreign shoulders</EN>
+            <DE>Tatenloser Ruhm</DE>
+          </Description>
+          <Description ID="40835016" FontStyle="0">
+            <EN>Reluctant witness</EN>
+            <DE>Unfreiwilliger Zeuge</DE>
+          </Description>
+          <Description ID="8250512" FontStyle="0">
+            <EN>Friend or foe</EN>
+            <DE>Freund oder Feind</DE>
+          </Description>
+          <Description ID="8250516" FontStyle="0">
+            <EN>Security measures</EN>
+            <DE>Sicherheitsmaßnahmen</DE>
+          </Description>
+          <Description ID="8250519" FontStyle="0">
+            <EN>Compassion for a Corsair</EN>
+            <DE>Barmherzigkeit für einen Korsaren</DE>
+          </Description>
+          <Description ID="8250522" FontStyle="0">
+            <EN>Corsair literature</EN>
+            <DE>Korsarenliteratur</DE>
+          </Description>
+          <Description ID="8250525" FontStyle="0">
+            <EN>Equal opportunities at Sea</EN>
+            <DE>Chancengleichheit auf See</DE>
+          </Description>
+          <Description ID="8250528" FontStyle="0">
+            <EN>Ransom demand</EN>
+            <DE>Lösegeldforderung</DE>
+          </Description>
+          <Description ID="8250531" FontStyle="0">
+            <EN>Golden ballast</EN>
+            <DE>Güldener Ballast</DE>
+          </Description>
+          <Description ID="8250534" FontStyle="0">
+            <EN>Over-zealous Corsairs</EN>
+            <DE>Übereifrige Korsaren</DE>
+          </Description>
+          <Description ID="8250537" FontStyle="0">
+            <EN>Collision with a stranger</EN>
+            <DE>Kollision mit einer Unbekannten</DE>
+          </Description>
+          <Description ID="8250549" FontStyle="0">
+            <EN>Rum at the helm</EN>
+            <DE>Rum am Rad</DE>
+          </Description>
+          <Description ID="8250552" FontStyle="0">
+            <EN>Supplies for the Suppliers</EN>
+            <DE>Versorgung für die Versorgung</DE>
+          </Description>
+          <Description ID="8250555" FontStyle="0">
+            <EN>Reinforcing the planks</EN>
+            <DE>Verstärkung der Planken</DE>
+          </Description>
+          <Description ID="8250558" FontStyle="0">
+            <EN>The secret base</EN>
+            <DE>Der geheime Stützpunkt</DE>
+          </Description>
+          <Description ID="8250570" FontStyle="0">
+            <EN>Bearer of bad news</EN>
+            <DE>Unheilsbote</DE>
+          </Description>
+          <Description ID="8250573" FontStyle="0">
+            <EN>Four walk the plank</EN>
+            <DE>Vier über die Planke</DE>
+          </Description>
+          <Description ID="8250579" FontStyle="0">
+            <EN>Information</EN>
+            <DE>Informationen</DE>
+          </Description>
+          <Description ID="8250582" FontStyle="0">
+            <EN>Unmasking of a Spy</EN>
+            <DE>Enthüllung eines Spions</DE>
+          </Description>
+          <Description ID="8250585" FontStyle="0">
+            <EN>Exploration</EN>
+            <DE>Erschließung</DE>
+          </Description>
+          <Description ID="8250588" FontStyle="0">
+            <EN>The arch-enemy</EN>
+            <DE>Der Erzfeind</DE>
+          </Description>
+          <Description ID="8250591" FontStyle="0">
+            <EN>Captivity</EN>
+            <DE>Geiselhaft</DE>
+          </Description>
+          <Description ID="40844022" FontStyle="0">
+            <EN>He who will not pay must feel</EN>
+            <DE>Wer nicht zahlen will, muss fühlen</DE>
+          </Description>
+          <Description ID="40844024" FontStyle="0">
+            <EN>Bottleneck</EN>
+            <DE>Engpass</DE>
+          </Description>
+          <Description ID="40844026" FontStyle="0">
+            <EN>MY property!</EN>
+            <DE>MEIN Eigentum!</DE>
+          </Description>
+          <Description ID="40844028" FontStyle="0">
+            <EN>No unnecessary work </EN>
+            <DE>Keine unnötige Mühe</DE>
+          </Description>
+          <Description ID="40844030" FontStyle="0">
+            <EN>No exchange</EN>
+            <DE>Umtausch ausgeschlossen</DE>
+          </Description>
+          <Description ID="40844032" FontStyle="0">
+            <EN>Lesson</EN>
+            <DE>Lehrstunde</DE>
+          </Description>
+          <Description ID="40844034" FontStyle="0">
+            <EN>A change of plans</EN>
+            <DE>Planänderung</DE>
+          </Description>
+          <Description ID="40844038" FontStyle="0">
+            <EN>In custody</EN>
+            <DE>In Gewahrsam</DE>
+          </Description>
+          <Description ID="40844040" FontStyle="0">
+            <EN>Pride goes before a fall</EN>
+            <DE>Übermut tut selten gut</DE>
+          </Description>
+          <Description ID="40844042" FontStyle="0">
+            <EN>Wolf in sheep's clothing</EN>
+            <DE>In fremdem Gewand</DE>
+          </Description>
+          <Description ID="40844044" FontStyle="0">
+            <EN>Finding a replacement</EN>
+            <DE>Ersatzbeschaffung</DE>
+          </Description>
+          <Description ID="40844046" FontStyle="0">
+            <EN>Get out!</EN>
+            <DE>Hau ab!</DE>
+          </Description>
+          <Description ID="40844050" FontStyle="0">
+            <EN>Don't move!</EN>
+            <DE>Hiergeblieben!</DE>
+          </Description>
+          <Description ID="40844052" FontStyle="0">
+            <EN>Reception committee</EN>
+            <DE>Empfangskommitee</DE>
+          </Description>
+          <Description ID="40844054" FontStyle="0">
+            <EN>Leverage</EN>
+            <DE>Druckmittel</DE>
+          </Description>
+          <Description ID="40844056" FontStyle="0">
+            <EN>Snapped up</EN>
+            <DE>Weggeschnappt</DE>
+          </Description>
+          <Description ID="40844058" FontStyle="0">
+            <EN>Slow corsairs</EN>
+            <DE>Langsame Korsaren</DE>
+          </Description>
+          <Description ID="40844060" FontStyle="0">
+            <EN>Quickly now</EN>
+            <DE>Jetzt aber schnell</DE>
+          </Description>
+          <Description ID="8250540" FontStyle="0">
+            <EN>The Corsair hunter</EN>
+            <DE>Der Korsarenjäger</DE>
+          </Description>
+          <Description ID="8250543" FontStyle="0">
+            <EN>Letter of marque in sight</EN>
+            <DE>Kaperbrief in Aussicht</DE>
+          </Description>
+          <Description ID="8250546" FontStyle="0">
+            <EN>Escort for a Trader</EN>
+            <DE>Eskorte für einen Händler</DE>
+          </Description>
+          <Description ID="8250561" FontStyle="0">
+            <EN>The dishonourable Corsair</EN>
+            <DE>Der unehrliche Korsar</DE>
+          </Description>
+          <Description ID="8250564" FontStyle="0">
+            <EN>Blockade attempt</EN>
+            <DE>Blockadeversuch</DE>
+          </Description>
+          <Description ID="8250567" FontStyle="0">
+            <EN>High treason</EN>
+            <DE>Hochverrat</DE>
+          </Description>
+          <Description ID="8250576" FontStyle="0">
+            <EN>Hard times</EN>
+            <DE>Schwere Zeiten</DE>
+          </Description>
+          <Description ID="8250608" FontStyle="0">
+            <EN>Uncharted reefs</EN>
+            <DE>Unbekannte Riffe</DE>
+          </Description>
+          <Description ID="40844036" FontStyle="0">
+            <EN>A fine specimen</EN>
+            <DE>Prachtexemplar</DE>
+          </Description>
+          <Description ID="40844048" FontStyle="0">
+            <EN>Resupply</EN>
+            <DE>Nachschub</DE>
+          </Description>
+          <Description ID="40650258" FontStyle="0">
+            <EN>Urgent business II</EN>
+            <DE>Eilige Geschäfte II</DE>
+          </Description>
+          <Description ID="40650273" FontStyle="0">
+            <EN>Reallocation II</EN>
+            <DE>Flurbereinigung II</DE>
+          </Description>
+          <Description ID="40650333" FontStyle="0">
+            <EN>Gallant schemer</EN>
+            <DE>Galant intrigant</DE>
+          </Description>
+          <Description ID="40650335" FontStyle="0">
+            <EN>Unmasked</EN>
+            <DE>Demaskiert</DE>
+          </Description>
+          <Description ID="40800009" FontStyle="0">
+            <EN>Unbelievable</EN>
+            <DE>Unglaublich</DE>
+          </Description>
+          <Description ID="40800011" FontStyle="0">
+            <EN>Altered omens</EN>
+            <DE>Veränderte Vorzeichen</DE>
+          </Description>
+          <Description ID="40800013" FontStyle="0">
+            <EN>Holy duty</EN>
+            <DE>Heilige Pflicht</DE>
+          </Description>
+          <Description ID="40801004" FontStyle="0">
+            <EN>Rare immunity</EN>
+            <DE>Seltene Immunität</DE>
+          </Description>
+          <Description ID="40801005" FontStyle="0">
+            <EN>Das Statussymbol</EN>
+            <DE>Das Statussymbol</DE>
+          </Description>
+          <Description ID="40802004" FontStyle="0">
+            <EN>Rant</EN>
+            <DE>Wutrede</DE>
+          </Description>
+          <Description ID="40802006" FontStyle="0">
+            <EN>No backtalk</EN>
+            <DE>Keine Widerrede</DE>
+          </Description>
+          <Description ID="40802008" FontStyle="0">
+            <EN>Correctional institutions</EN>
+            <DE>Korrektur der Mittel</DE>
+          </Description>
+          <Description ID="40802010" FontStyle="0">
+            <EN>Gruesome example</EN>
+            <DE>Grausames Exempel</DE>
+          </Description>
+          <Description ID="40802011" FontStyle="0">
+            <EN>A betrayal foiled</EN>
+            <DE>Vereitelter Verrat</DE>
+          </Description>
+          <Description ID="40805006" FontStyle="0">
+            <EN>Betrayal of the choir boys</EN>
+            <DE>Verrat der Chorknaben</DE>
+          </Description>
+          <Description ID="40814010" FontStyle="0">
+            <EN>Unsuccessful mourning</EN>
+            <DE>Missglückte Trauer</DE>
+          </Description>
+          <Description ID="40814014" FontStyle="0">
+            <EN>Flight from reality</EN>
+            <DE>Flucht vor der Realität</DE>
+          </Description>
+          <Description ID="40823002" FontStyle="0">
+            <EN>Valiant tailor</EN>
+            <DE>Tapferes Schneiderlein</DE>
+          </Description>
+          <Description ID="40823008" FontStyle="0">
+            <EN>Premature gift</EN>
+            <DE>Verfrühtes Geschenk</DE>
+          </Description>
+          <Description ID="40835002" FontStyle="0">
+            <EN>Other peoples' laurels</EN>
+            <DE>Fremde Lorbeeren</DE>
+          </Description>
+          <Description ID="40835004" FontStyle="0">
+            <EN>Pure self-interest</EN>
+            <DE>Reiner Eigennutz</DE>
+          </Description>
+          <Description ID="40835006" FontStyle="0">
+            <EN>Ordered but not collected</EN>
+            <DE>Bestellt und nicht abgeholt</DE>
+          </Description>
+          <Description ID="40835008" FontStyle="0">
+            <EN>A perfect alibi</EN>
+            <DE>Ein perfektes Alibi</DE>
+          </Description>
+          <Description ID="40835010" FontStyle="0">
+            <EN>Third one laughs</EN>
+            <DE>Der lachende Dritte</DE>
+          </Description>
+          <Description ID="40835012" FontStyle="0">
+            <EN>A welcome storm</EN>
+            <DE>Willkommenes Unwetter</DE>
+          </Description>
+          <Description ID="40835016" FontStyle="0">
+            <EN>Reluctant witness</EN>
+            <DE>Unfreiwilliger Zeuge</DE>
+          </Description>
+          <Description ID="40835018" FontStyle="0">
+            <EN>One opinion</EN>
+            <DE>Einer Meinung</DE>
+          </Description>
+          <Description ID="40820007" FontStyle="0">
+            <EN>Nothing but the truth</EN>
+            <DE>Nichts als die Wahrheit</DE>
+          </Description>
+          <Description ID="40844011" FontStyle="0">
+            <EN>Brazen gluttony</EN>
+            <DE>Dreiste Völlerei</DE>
+          </Description>
+          <Description ID="40844013" FontStyle="0">
+            <EN>In enemy hands</EN>
+            <DE>In fremder Gewalt</DE>
+          </Description>
+          <Description ID="40803080" FontStyle="0">
+            <EN>Change of ownership</EN>
+            <DE>Besitzerwechsel</DE>
+          </Description>
+          <Description ID="40803082" FontStyle="0">
+            <EN>Loss of taste</EN>
+            <DE>Geschmacksverlust</DE>
+          </Description>
+          <Description ID="40803086" FontStyle="0">
+            <EN>Impoundment</EN>
+            <DE>Fahrverbot</DE>
+          </Description>
+          <Description ID="40803088" FontStyle="0">
+            <EN>Signpost</EN>
+            <DE>Wegweiser</DE>
+          </Description>
+          <Description ID="40803025" FontStyle="0">
+            <EN>Cultural exchange IV</EN>
+            <DE>Austausch von Kulturgut IV</DE>
+          </Description>
+          <Description ID="40844022" FontStyle="0">
+            <EN>He who will not pay must feel</EN>
+            <DE>Wer nicht zahlen will, muss fühlen</DE>
+          </Description>
+          <Description ID="40844024" FontStyle="0">
+            <EN>Bottleneck</EN>
+            <DE>Engpass</DE>
+          </Description>
+          <Description ID="40844026" FontStyle="0">
+            <EN>MY property!</EN>
+            <DE>MEIN Eigentum!</DE>
+          </Description>
+          <Description ID="40844028" FontStyle="0">
+            <EN>No unnecessary work </EN>
+            <DE>Keine unnötige Mühe</DE>
+          </Description>
+          <Description ID="40844030" FontStyle="0">
+            <EN>No exchange</EN>
+            <DE>Umtausch ausgeschlossen</DE>
+          </Description>
+          <Description ID="40844032" FontStyle="0">
+            <EN>Lesson</EN>
+            <DE>Lehrstunde</DE>
+          </Description>
+          <Description ID="40844034" FontStyle="0">
+            <EN>A change of plans</EN>
+            <DE>Planänderung</DE>
+          </Description>
+          <Description ID="40844036" FontStyle="0">
+            <EN>A fine specimen</EN>
+            <DE>Prachtexemplar</DE>
+          </Description>
+          <Description ID="40844038" FontStyle="0">
+            <EN>In custody</EN>
+            <DE>In Gewahrsam</DE>
+          </Description>
+          <Description ID="40844040" FontStyle="0">
+            <EN>Pride goes before a fall</EN>
+            <DE>Übermut tut selten gut</DE>
+          </Description>
+          <Description ID="40844042" FontStyle="0">
+            <EN>Wolf in sheep's clothing</EN>
+            <DE>In fremdem Gewand</DE>
+          </Description>
+          <Description ID="40844044" FontStyle="0">
+            <EN>Finding a replacement</EN>
+            <DE>Ersatzbeschaffung</DE>
+          </Description>
+          <Description ID="40844046" FontStyle="0">
+            <EN>Get out!</EN>
+            <DE>Hau ab!</DE>
+          </Description>
+          <Description ID="40844048" FontStyle="0">
+            <EN>Resupply</EN>
+            <DE>Nachschub</DE>
+          </Description>
+          <Description ID="40844050" FontStyle="0">
+            <EN>Don't move!</EN>
+            <DE>Hiergeblieben!</DE>
+          </Description>
+          <Description ID="40844092" FontStyle="0">
+            <EN>Callback</EN>
+            <DE>Rückruf</DE>
+          </Description>
+          <Description ID="40844064" FontStyle="0">
+            <EN>Lesson</EN>
+            <DE>Lehrstunde</DE>
+          </Description>
+          <Description ID="40844066" FontStyle="0">
+            <EN>End of the flagpole</EN>
+            <DE>Ende der Fahnenstange</DE>
+          </Description>
+          <Description ID="40844068" FontStyle="0">
+            <EN>Removed from office</EN>
+            <DE>Amtsentzug</DE>
+          </Description>
+          <Description ID="40844070" FontStyle="0">
+            <EN>Self-defence</EN>
+            <DE>Notwehr</DE>
+          </Description>
+        </Details>
+      </TempSource>
+    </Sources>
+  </Asset>
+</BoardersItem>

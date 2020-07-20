@@ -23,7 +23,7 @@ namespace RDA {
     public static Dictionary<string, XElement> IconFilemap { get; private set; }
     public static Dictionary<string, XElement> Icons { get; private set; }
     public static Dictionary<string, string> NamesToId { get; private set; } = new Dictionary<string, string>();
-    public static IEnumerable<XElement> AllXmls => new[] { Ai, Game, QuestConfig, Features };
+    public static IEnumerable<XElement> AllXmls => new[] { Ai, Game, QuestConfig, Features/*, Balancing*/ };
 
     #endregion Properties
 
@@ -34,6 +34,7 @@ namespace RDA {
       PathViewer = new DirectoryInfo(Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase).Replace(@"file:\", String.Empty)).Parent.Parent.Parent.FullName + @"\AssetViewer 1404";
       PathRoot = new DirectoryInfo(Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase).Replace(@"file:\", String.Empty)).Parent.Parent.FullName;
       Features = XmlLoader.LoadXml(PathRoot + @"\Original\features\features.xml");
+      //Balancing = XmlLoader.LoadXml(PathRoot + @"\Original\features\balancing.xml");
       Ai = XmlLoader.LoadXml(PathRoot + @"\Original\ai\aiprofiles.xml");
       Game = XmlLoader.LoadXml(PathRoot + @"\Original\game\assets.xml");
       QuestConfig = XmlLoader.LoadXml(PathRoot + @"\Original\questconfig\quests.xml");
@@ -51,13 +52,16 @@ namespace RDA {
     #region Fields
 
     internal static XElement Features;
+
+    public static XElement Balancing { get; private set; }
+
     internal static String PathRoot;
     internal static String PathViewer;
 
     #endregion Fields
 
     private static void ProcessingTextEditorFolder() {
-      foreach (var item in Directory.EnumerateFiles(PathRoot + @"\Original\texteditor\")) {
+      foreach (var item in Directory.EnumerateFiles(PathRoot + @"\Original\texteditor\", "*", SearchOption.AllDirectories).OrderBy(f => f)) {
         ProcessingText(item);
       }
     }
@@ -143,6 +147,13 @@ namespace RDA {
       NamesToId.Add("TollMoney", "140006");
       NamesToId.Add("ResidenceUpgradeAmountMaxPercent", "137743");
       NamesToId.Add("GeneratedFertility", "137532");
+      NamesToId.Add("DiscoverAllChance", "137570");
+      NamesToId.Add("SharePriceForeignUpgrade", "40122013");
+      NamesToId.Add("SharePriceOwnerUpgrade", "40122012");
+      NamesToId.Add("TownAcquisitionCooldown", "40122011");
+      NamesToId.Add("WaterCapacity", "40122007");
+      NamesToId.Add("ProductionCapacity", "40122007");
+      NamesToId.Add("IncreasedMaintenanceCost", "40122005");
     }
 
     private static void ProcessingIcons() {

@@ -1,0 +1,4084 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Profil</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5309000</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_COOLDOWN</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] braucht noch etwas Zeit, um neue Assassinen auszubilden.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] braucht noch etwas Zeit, um neue Assassinen auszubilden.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] needs more time to train new Assassins.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] needs more time to train new Assassins.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a besoin de plus de temps pour former de nouveaux Assassins.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a besoin de plus de temps pour former de nouveaux Assassins.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] necesita más tiempo para entrenar a los nuevos asesinos.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] necesita más tiempo para entrenar a los nuevos asesinos.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha bisogno di altro tempo per addestrare nuovi Assassini.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha bisogno di altro tempo per addestrare nuovi Assassini.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5309002</GUID>
+              <Kommentar>FUNCTION_QUEST_INVITATION_ACCEPTED</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] stellt ihnen seine besten Assassinen zur Verfügung.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] stellt ihnen seine besten Assassinen zur Verfügung.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] puts his best Assassins at your disposal.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] puts his best Assassins at your disposal.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] met ses meilleurs Assassins à votre disposition.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] met ses meilleurs Assassins à votre disposition.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] pone sus mejores asesinos a tu disposición.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] pone sus mejores asesinos a tu disposición.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] mette a tua disposizione i suoi migliori Assassini.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] mette a tua disposizione i suoi migliori Assassini.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5309003</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_WARES raus?</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] weist Sie darauf hin, Waren in der erforderlichen Menge zu besorgen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] weist Sie darauf hin, Waren in der erforderlichen Menge zu besorgen.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] points out that you need to deliver the required amount of Goods.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] points out that you need to deliver the required amount of Goods.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] souligne que vous devez livrer la quantité de Marchandises requise.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] souligne que vous devez livrer la quantité de Marchandises requise.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te indica que tienes que entregar la cantidad de bienes requerida.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te indica que tienes que entregar la cantidad de bienes requerida.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fa notare che devi consegnare la quantità di richiesta di Merci.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fa notare che devi consegnare la quantità di richiesta di Merci.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5309031</GUID>
+              <Kommentar>Truppen in Ausbildung (Assassinen UND Raubritter)</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] bildet gerade neue Truppen aus.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bildet gerade neue Truppen aus.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is training new Troops.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is training new Troops.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] entraîne de nouvelles Troupes.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] entraîne de nouvelles Troupes.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] está entrenando nuevos efectivos.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está entrenando nuevos efectivos.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] sta addestrando nuove Truppe.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] sta addestrando nuove Truppe.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>StandardQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309004</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Auf die Köpfe von [QUEST_SENDER]s Assassinen ist ein hoher Preis ausgesetzt, weshalb sie sich in ihrer Festung verschanzt haben. Helfen Sie ihnen bei der Versorgung mit Waren!</Text>
+                      <LastFinalText>Auf die Köpfe von [QUEST_SENDER]s Assassinen ist ein hoher Preis ausgesetzt, weshalb sie sich in ihrer Festung verschanzt haben. Helfen Sie ihnen bei der Versorgung mit Waren!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309001</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Taktischer Rückzug</Text>
+                      <LastFinalText>Taktischer Rückzug</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Tactical retreat</Text>
+                      <LastFinalText>Tactical retreat</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Repli tactique</Text>
+                      <LastFinalText>Repli tactique</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Retirada táctica</Text>
+                      <LastFinalText>Retirada táctica</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Ritirata strategica</Text>
+                      <LastFinalText>Ritirata strategica</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309006</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] erwartete die Lieferung eines Manuskripts über die Kriegskunst aus dem fernen Osten. Das Schiff ist jedoch leider gesunken. Sollten die Aufzeichnungen nun für immer verloren sein?</Text>
+                      <LastFinalText>[QUEST_SENDER] erwartete die Lieferung eines Manuskripts über die Kriegskunst aus dem fernen Osten. Das Schiff ist jedoch leider gesunken. Sollten die Aufzeichnungen nun für immer verloren sein?</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309005</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Kunst des Krieges</Text>
+                      <LastFinalText>Die Kunst des Krieges</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The art of War</Text>
+                      <LastFinalText>The art of War</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L’art de la guerre</Text>
+                      <LastFinalText>L’art de la guerre</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El arte de la guerra</Text>
+                      <LastFinalText>El arte de la guerra</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Arte della guerra</Text>
+                      <LastFinalText>L'Arte della guerra</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309008</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER]s Auftraggeber wollen den Tod eines Rivalen. Dieser will sich an Bord eines Kriegsschiffes dem Zugriff durch die Assassinen entziehen. Doch die Zielperson darf unter keinen Umständen ihren Bestimmungsort erreichen.</Text>
+                      <LastFinalText>[QUEST_SENDER]s Auftraggeber wollen den Tod eines Rivalen. Dieser will sich an Bord eines Kriegsschiffes dem Zugriff durch die Assassinen entziehen. Doch die Zielperson darf unter keinen Umständen ihren Bestimmungsort erreichen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309010</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein hoher Assassinen-Führer soll zu Verhandlungen mit einem Edelmann reisen. [QUEST_SENDER] traut der Sache nicht und bittet Sie als erfahrenen Seemann, das Schiff zu eskortieren!</Text>
+                      <LastFinalText>Ein hoher Assassinen-Führer soll zu Verhandlungen mit einem Edelmann reisen. [QUEST_SENDER] traut der Sache nicht und bittet Sie als erfahrenen Seemann, das Schiff zu eskortieren!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309009</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ehrenwerter Auftrag</Text>
+                      <LastFinalText>Ehrenwerter Auftrag</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Honourable Quest</Text>
+                      <LastFinalText>Honourable Quest</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Une quête honorable</Text>
+                      <LastFinalText>Une quête honorable</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Misión honorable</Text>
+                      <LastFinalText>Misión honorable</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Missione onorevole</Text>
+                      <LastFinalText>Missione onorevole</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309012</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>An einer Meerenge wollten die Assassinen ein Schiff abfangen, leider ist Ihr Schiff auf Grund gelaufen. Helfen Sie, das Schiff zu reparieren, damit [QUEST_SENDER]s Männer den Auftrag ausführen können!</Text>
+                      <LastFinalText>An einer Meerenge wollten die Assassinen ein Schiff abfangen, leider ist Ihr Schiff auf Grund gelaufen. Helfen Sie, das Schiff zu reparieren, damit [QUEST_SENDER]s Männer den Auftrag ausführen können!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309011</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Pleiten, Pech und Pannen</Text>
+                      <LastFinalText>Pleiten, Pech und Pannen</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Just our luck</Text>
+                      <LastFinalText>Just our luck</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Manque de chance</Text>
+                      <LastFinalText>Manque de chance</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Nuestra suerte</Text>
+                      <LastFinalText>Nuestra suerte</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La solita fortuna</Text>
+                      <LastFinalText>La solita fortuna</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309014</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Verärgert stellt [QUEST_SENDER] fest, dass das Schiff mit seinen besten Männern auf dem Weg zu einem Auftrag havariert ist. Zudem sind viele Waffen über Bord gegangen. Schnelle Hilfe tut Not.</Text>
+                      <LastFinalText>Verärgert stellt [QUEST_SENDER] fest, dass das Schiff mit seinen besten Männern auf dem Weg zu einem Auftrag havariert ist. Zudem sind viele Waffen über Bord gegangen. Schnelle Hilfe tut Not.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309013</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Im Verzug</Text>
+                      <LastFinalText>Im Verzug</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Delayed</Text>
+                      <LastFinalText>Delayed</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Retard</Text>
+                      <LastFinalText>Retard</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Con retraso</Text>
+                      <LastFinalText>Con retraso</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>In ritardo</Text>
+                      <LastFinalText>In ritardo</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309016</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Auftraggeber hat sich nicht an den Vertrag mit den Assassinen gehalten. Um  [QUEST_SENDER]s Unmut Ausdruck zu verleihen, sollte es reichen, ein Handelsschiff dieses Auftraggebers zu versenken.</Text>
+                      <LastFinalText>Ein Auftraggeber hat sich nicht an den Vertrag mit den Assassinen gehalten. Um  [QUEST_SENDER]s Unmut Ausdruck zu verleihen, sollte es reichen, ein Handelsschiff dieses Auftraggebers zu versenken.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309015</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Eidbruch</Text>
+                      <LastFinalText>Eidbruch</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Perjury</Text>
+                      <LastFinalText>Perjury</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Trahison</Text>
+                      <LastFinalText>Trahison</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Perjurio</Text>
+                      <LastFinalText>Perjurio</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Spergiuro</Text>
+                      <LastFinalText>Spergiuro</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309018</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] wächst die Arbeit langsam über den Kopf. Da seine Brüder ohnehin nicht die besten Seeleute sind, bittet er Sie, ein Schiff für Ihn zu versenken.</Text>
+                      <LastFinalText>[QUEST_SENDER] wächst die Arbeit langsam über den Kopf. Da seine Brüder ohnehin nicht die besten Seeleute sind, bittet er Sie, ein Schiff für Ihn zu versenken.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309017</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Zu viel Arbeit</Text>
+                      <LastFinalText>Zu viel Arbeit</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Too much work</Text>
+                      <LastFinalText>Too much work</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Trop de travail</Text>
+                      <LastFinalText>Trop de travail</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Demasiado trabajo</Text>
+                      <LastFinalText>Demasiado trabajo</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Troppo lavoro</Text>
+                      <LastFinalText>Troppo lavoro</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309020</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Nach seinem Versagen bei einem wichtigen Auftrag hat sich einer von [QUEST_SENDER]s Assassinen ausgerechnet in Ihrer Stadt versteckt. Bringen Sie den Abtrünnigen besser gleich zu seinem Meister zurück.</Text>
+                      <LastFinalText>Nach seinem Versagen bei einem wichtigen Auftrag hat sich einer von [QUEST_SENDER]s Assassinen ausgerechnet in Ihrer Stadt versteckt. Bringen Sie den Abtrünnigen besser gleich zu seinem Meister zurück.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309019</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Abtrünnige</Text>
+                      <LastFinalText>Der Abtrünnige</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The renegade</Text>
+                      <LastFinalText>The renegade</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le renégat</Text>
+                      <LastFinalText>Le renégat</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El renegado</Text>
+                      <LastFinalText>El renegado</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il rinnegato</Text>
+                      <LastFinalText>Il rinnegato</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309022</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Unfassbar, aber irgendwie ist es einem Händler gelungen, diverse Dokumente [QUEST_SENDER]s in seinen Besitz zu bringen. Dieses Wissen darf nicht in die falschen Hände gelangen.</Text>
+                      <LastFinalText>Unfassbar, aber irgendwie ist es einem Händler gelungen, diverse Dokumente [QUEST_SENDER]s in seinen Besitz zu bringen. Dieses Wissen darf nicht in die falschen Hände gelangen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309021</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Verbotenes Wissen</Text>
+                      <LastFinalText>Verbotenes Wissen</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Forbidden knowledge</Text>
+                      <LastFinalText>Forbidden knowledge</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le savoir interdit</Text>
+                      <LastFinalText>Le savoir interdit</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Conocimiento prohibido</Text>
+                      <LastFinalText>Conocimiento prohibido</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Conoscenze proibite</Text>
+                      <LastFinalText>Conoscenze proibite</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309024</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Bruder [QUEST_SENDER]s hat sich von der Gemeinschaft losgesagt und will sich den Korsaren anschliessen. Diese Schmach muss gesühnt und der Verräter zur Strecke gebracht werden.</Text>
+                      <LastFinalText>Ein Bruder [QUEST_SENDER]s hat sich von der Gemeinschaft losgesagt und will sich den Korsaren anschliessen. Diese Schmach muss gesühnt und der Verräter zur Strecke gebracht werden.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309026</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Viele Feinde und Ungläubige [QUEST_SENDER]s wurden an diesem Tag bereits ausgeschaltet, doch einer konnte fliehen. Doch soll niemand verschont werden. </Text>
+                      <LastFinalText>Viele Feinde und Ungläubige [QUEST_SENDER]s wurden an diesem Tag bereits ausgeschaltet, doch einer konnte fliehen. Doch soll niemand verschont werden. </LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309025</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Tag des Blutes</Text>
+                      <LastFinalText>Tag des Blutes</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Day of blood</Text>
+                      <LastFinalText>Day of blood</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Journée sanglante</Text>
+                      <LastFinalText>Journée sanglante</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Día de sangre</Text>
+                      <LastFinalText>Día de sangre</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Giorno di sangue</Text>
+                      <LastFinalText>Giorno di sangue</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309028</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Schiff eines wichtigen Bündnispartners [QUEST_SENDER]s wurde angegriffen und versenkt. Der Schiffbrüchige muss dringend gerettet und in die Assassinenfestung gebracht werden.</Text>
+                      <LastFinalText>Das Schiff eines wichtigen Bündnispartners [QUEST_SENDER]s wurde angegriffen und versenkt. Der Schiffbrüchige muss dringend gerettet und in die Assassinenfestung gebracht werden.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Ship belonging to one of [QUEST_SENDER]'s important Alliance partners was attacked and sunk. The Castaway must be rescued immediately and taken to the Assassins' fortress.</Text>
+                      <LastFinalText>The Ship belonging to one of [QUEST_SENDER]'s important Alliance partners was attacked and sunk. The Castaway must be rescued immediately and taken to the Assassins' fortress.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Navire appartenant à l'un des principaux partenaires de l'Alliance formée par [QUEST_SENDER] a été attaqué et coulé. Vous devez immédiatement porter secours au Naufragé et l'emmener à la Forteresse des Assassins.</Text>
+                      <LastFinalText>Le Navire appartenant à l'un des principaux partenaires de l'Alliance formée par [QUEST_SENDER] a été attaqué et coulé. Vous devez immédiatement porter secours au Naufragé et l'emmener à la Forteresse des Assassins.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Han atacado y hundido el barco de un importante aliado de [QUEST_SENDER]. Hay que rescatar al náufrago de inmediato y llevarlo a la fortaleza de los asesinos.</Text>
+                      <LastFinalText>Han atacado y hundido el barco de un importante aliado de [QUEST_SENDER]. Hay que rescatar al náufrago de inmediato y llevarlo a la fortaleza de los asesinos.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave di uno dei più importanti Alleati di [QUEST_SENDER] è stata attaccata e affondata. Il Naufrago dev'essere salvato e portato alla Fortezza dell'assassino.</Text>
+                      <LastFinalText>La Nave di uno dei più importanti Alleati di [QUEST_SENDER] è stata attaccata e affondata. Il Naufrago dev'essere salvato e portato alla Fortezza dell'assassino.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309030</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der gerettete Bündnispartner ist auf dem Wege der Besserung, möchte jedoch wieder in seine Heimat zurückkehren. Um weitere Übergriffe zu vereiteln, will [QUEST_SENDER], dass Sie ihn eskortieren.</Text>
+                      <LastFinalText>Der gerettete Bündnispartner ist auf dem Wege der Besserung, möchte jedoch wieder in seine Heimat zurückkehren. Um weitere Übergriffe zu vereiteln, will [QUEST_SENDER], dass Sie ihn eskortieren.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The rescued Alliance partner is on the road to recovery, but would like to return to his native land.  [QUEST_SENDER] wants you to escort him to fend off any further attacks.</Text>
+                      <LastFinalText>The rescued Alliance partner is on the road to recovery, but would like to return to his native land.  [QUEST_SENDER] wants you to escort him to fend off any further attacks.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le partenaire de l'Alliance auquel vous avez porté secours se rétablit lentement, mais il souhaite maintenant rentrer dans son pays natal. [QUEST_SENDER] vous demande de l'escorter afin de repousser d'éventuelles attaques.</Text>
+                      <LastFinalText>Le partenaire de l'Alliance auquel vous avez porté secours se rétablit lentement, mais il souhaite maintenant rentrer dans son pays natal. [QUEST_SENDER] vous demande de l'escorter afin de repousser d'éventuelles attaques.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El aliado rescatado se está recuperando, pero le gustaría regresar a su tierra. [QUEST_SENDER] quiere que lo escoltes para repeler nuevos ataques.</Text>
+                      <LastFinalText>El aliado rescatado se está recuperando, pero le gustaría regresar a su tierra. [QUEST_SENDER] quiere que lo escoltes para repeler nuevos ataques.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Alleato salvato si sta rimettendo, ma vorrebbe tornare alla sua terra natia. [QUEST_SENDER] vuole che lo scorti per respingere ulteriori attacchi.</Text>
+                      <LastFinalText>L'Alleato salvato si sta rimettendo, ma vorrebbe tornare alla sua terra natia. [QUEST_SENDER] vuole che lo scorti per respingere ulteriori attacchi.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309029</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Verbündete II</Text>
+                      <LastFinalText>Der Verbündete II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Ally II</Text>
+                      <LastFinalText>The Ally II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L'Allié II</Text>
+                      <LastFinalText>L'Allié II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El aliado II</Text>
+                      <LastFinalText>El aliado II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Alleato II</Text>
+                      <LastFinalText>L'Alleato II</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309027</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Verbündete I</Text>
+                      <LastFinalText>Der Verbündete I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Ally I</Text>
+                      <LastFinalText>The Ally I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L'Allié I</Text>
+                      <LastFinalText>L'Allié I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El aliado I</Text>
+                      <LastFinalText>El aliado I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'Alleato I</Text>
+                      <LastFinalText>L'Alleato I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309032</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Drei von [QUEST_SENDER]s Assassinen sind nach erfolgreichem Abschluss eines Auftrags auf dem Weg zur Festung über Bord gegangen. Sie kämpfen nun auf hoher See ums Überleben. Stehen Sie ihnen bei.</Text>
+                      <LastFinalText>Drei von [QUEST_SENDER]s Assassinen sind nach erfolgreichem Abschluss eines Auftrags auf dem Weg zur Festung über Bord gegangen. Sie kämpfen nun auf hoher See ums Überleben. Stehen Sie ihnen bei.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309033</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Feuchtes Grab</Text>
+                      <LastFinalText>Feuchtes Grab</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Watery grave</Text>
+                      <LastFinalText>Watery grave</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Six pieds sous l’eau</Text>
+                      <LastFinalText>Six pieds sous l’eau</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Tumba en las aguas</Text>
+                      <LastFinalText>Tumba en las aguas</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Tomba d'acqua</Text>
+                      <LastFinalText>Tomba d'acqua</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309035</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Zwei Korsaren-Kapitäne haben den Unmut der Assassinen erregt. Da sie zu feige sind, sich [QUEST_SENDER] zu stellen, fordert Sie dieser auf, die beiden seinen Unmut spüren zu lassen.</Text>
+                      <LastFinalText>Zwei Korsaren-Kapitäne haben den Unmut der Assassinen erregt. Da sie zu feige sind, sich [QUEST_SENDER] zu stellen, fordert Sie dieser auf, die beiden seinen Unmut spüren zu lassen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309036</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Feigheit vor dem Feind</Text>
+                      <LastFinalText>Feigheit vor dem Feind</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Cowardice in the face of the enemy</Text>
+                      <LastFinalText>Cowardice in the face of the enemy</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Lâcheté devant l’ennemi</Text>
+                      <LastFinalText>Lâcheté devant l’ennemi</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Cobardía ante el enemigo</Text>
+                      <LastFinalText>Cobardía ante el enemigo</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Codardia di fronte al nemico</Text>
+                      <LastFinalText>Codardia di fronte al nemico</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309038</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Einer von [QUEST_SENDER]s Assassinen floh aus der Festung, weil er die Gemeinschaft verlassen will. Auf einem Korsarenschiff will er dem gerechten Zorn seiner Gefährten entgehen. Bringen Sie den Mann zurück!</Text>
+                      <LastFinalText>Einer von [QUEST_SENDER]s Assassinen floh aus der Festung, weil er die Gemeinschaft verlassen will. Auf einem Korsarenschiff will er dem gerechten Zorn seiner Gefährten entgehen. Bringen Sie den Mann zurück!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309039</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Abtrünnig</Text>
+                      <LastFinalText>Abtrünnig</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Renegade</Text>
+                      <LastFinalText>Renegade</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Renégat</Text>
+                      <LastFinalText>Renégat</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Renegado</Text>
+                      <LastFinalText>Renegado</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Al bando</Text>
+                      <LastFinalText>Al bando</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309041</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] ist verärgert. Die nahende Flotte seines nächsten Opfers ist viel zu stark gesichert. Wenn Sie jedoch einige Schiffe zerstören, können die Assassinen ihren Auftrag doch noch erfüllen.</Text>
+                      <LastFinalText>[QUEST_SENDER] ist verärgert. Die nahende Flotte seines nächsten Opfers ist viel zu stark gesichert. Wenn Sie jedoch einige Schiffe zerstören, können die Assassinen ihren Auftrag doch noch erfüllen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309042</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Kräfteausgleich</Text>
+                      <LastFinalText>Kräfteausgleich</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Balance of power</Text>
+                      <LastFinalText>Balance of power</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L’équilibre du pouvoir</Text>
+                      <LastFinalText>L’équilibre du pouvoir</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Equilibrio de poder</Text>
+                      <LastFinalText>Equilibrio de poder</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'equilibrio del potere</Text>
+                      <LastFinalText>L'equilibrio del potere</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309165</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Verrat!</Text>
+                      <LastFinalText>Verrat!</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Betrayal!</Text>
+                      <LastFinalText>Betrayal!</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Trahison !</Text>
+                      <LastFinalText>Trahison !</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>¡Traición!</Text>
+                      <LastFinalText>¡Traición!</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Tradimento!</Text>
+                      <LastFinalText>Tradimento!</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309166</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Heikler Auftrag</Text>
+                      <LastFinalText>Heikler Auftrag</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Dangerous Quest</Text>
+                      <LastFinalText>Dangerous Quest</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Une quête dangereuse</Text>
+                      <LastFinalText>Une quête dangereuse</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Misión peligrosa</Text>
+                      <LastFinalText>Misión peligrosa</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Missione pericolosa</Text>
+                      <LastFinalText>Missione pericolosa</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309168</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Mönch aus Ihrer Stadt hat [QUEST_SENDER]s Mannen mit seinen Thesen verunsichert. Sie widersprechen dem Kodex der Assassinen grundlegend. Es bedarf dringender Klärung. Der Mönch soll Rede und Antwort stehen.</Text>
+                      <LastFinalText>Ein Mönch aus Ihrer Stadt hat [QUEST_SENDER]s Mannen mit seinen Thesen verunsichert. Sie widersprechen dem Kodex der Assassinen grundlegend. Es bedarf dringender Klärung. Der Mönch soll Rede und Antwort stehen.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Some theses written by a Monk from your City have angered [QUEST_SENDER]'s men, as these fundamentally contradict the Assassins' code. Urgent clarification is required and the Monk must justify himself.</Text>
+                      <LastFinalText>Some theses written by a Monk from your City have angered [QUEST_SENDER]'s men, as these fundamentally contradict the Assassins' code. Urgent clarification is required and the Monk must justify himself.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Des thèses rédigées par un Moine de votre Ville ont provoqué la fureur des hommes d'[QUEST_SENDER], car ces principes contredisent fondamentalement le Code des Assassins. Une explication est requise de toute urgence ; le Moine devra se justifier de ses propos.</Text>
+                      <LastFinalText>Des thèses rédigées par un Moine de votre Ville ont provoqué la fureur des hommes d'[QUEST_SENDER], car ces principes contredisent fondamentalement le Code des Assassins. Une explication est requise de toute urgence ; le Moine devra se justifier de ses propos.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Las tesis escritas por un monje de tu ciudad han enfurecido a los hombres de [QUEST_SENDER], pues contradicen el código de los asesinos. Se exige una aclaración urgente y una explicación del monje.</Text>
+                      <LastFinalText>Las tesis escritas por un monje de tu ciudad han enfurecido a los hombres de [QUEST_SENDER], pues contradicen el código de los asesinos. Se exige una aclaración urgente y una explicación del monje.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Alcune teorie scritte da un Monaco della tua Città hanno fatto adirare gli uomini di [QUEST_SENDER]; queste infatti contestano il codice degli Assassini. C'è bisogno immediato di una chiarificazione e il Monaco deve giustificarsi.</Text>
+                      <LastFinalText>Alcune teorie scritte da un Monaco della tua Città hanno fatto adirare gli uomini di [QUEST_SENDER]; queste infatti contestano il codice degli Assassini. C'è bisogno immediato di una chiarificazione e il Monaco deve giustificarsi.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309169</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Kodex und Glauben I</Text>
+                      <LastFinalText>Kodex und Glauben I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Code and Faith I</Text>
+                      <LastFinalText>Code and Faith I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Code et Foi I</Text>
+                      <LastFinalText>Code et Foi I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Código y fe I</Text>
+                      <LastFinalText>Código y fe I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Codice e Fede I</Text>
+                      <LastFinalText>Codice e Fede I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309171</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Trotz der Beteuerungen des Mönchs, niemals den Kodex der Assassinen in Frage gestellt zu haben, sind [QUEST_SENDER]s Männer immer noch misstrauisch. Ein Assassinenveteran in Ihrer Stadt sollte sie wieder zur Vernunft bringen.</Text>
+                      <LastFinalText>Trotz der Beteuerungen des Mönchs, niemals den Kodex der Assassinen in Frage gestellt zu haben, sind [QUEST_SENDER]s Männer immer noch misstrauisch. Ein Assassinenveteran in Ihrer Stadt sollte sie wieder zur Vernunft bringen.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Despite the Monk's assertion that he never intended to attack the Assassins' code, [QUEST_SENDER]'s men are still distrustful. A veteran Assassin in your City must persuade them see reason.</Text>
+                      <LastFinalText>Despite the Monk's assertion that he never intended to attack the Assassins' code, [QUEST_SENDER]'s men are still distrustful. A veteran Assassin in your City must persuade them see reason.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>En dépit de l'affirmation du Moine, qui déclare n'avoir jamais voulu porter atteinte au Code des Assassins, les hommes d'[QUEST_SENDER] sont toujours méfiants. Un Assassin vétéran de votre Ville doit les convaincre d'entendre raison.</Text>
+                      <LastFinalText>En dépit de l'affirmation du Moine, qui déclare n'avoir jamais voulu porter atteinte au Code des Assassins, les hommes d'[QUEST_SENDER] sont toujours méfiants. Un Assassin vétéran de votre Ville doit les convaincre d'entendre raison.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Pese a que el monje asegura que nunca pretendió criticar el código de los asesinos, los hombres de [QUEST_SENDER] siguen desconfiando de él. Un asesino veterano de tu ciudad debe hacerles entrar en razón.</Text>
+                      <LastFinalText>Pese a que el monje asegura que nunca pretendió criticar el código de los asesinos, los hombres de [QUEST_SENDER] siguen desconfiando de él. Un asesino veterano de tu ciudad debe hacerles entrar en razón.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Nonostante le dichiarazioni del Monaco non intendessero attaccare il codice degli Assassini, gli uomini di [QUEST_SENDER] sono ancora diffidenti. Un Assassino veterano della tua Città deve convincerli a ragionare.</Text>
+                      <LastFinalText>Nonostante le dichiarazioni del Monaco non intendessero attaccare il codice degli Assassini, gli uomini di [QUEST_SENDER] sono ancora diffidenti. Un Assassino veterano della tua Città deve convincerli a ragionare.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309172</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Kodex und Glauben II</Text>
+                      <LastFinalText>Kodex und Glauben II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Code and Faith II</Text>
+                      <LastFinalText>Code and Faith II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Code et Foi II</Text>
+                      <LastFinalText>Code et Foi II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Código y fe II</Text>
+                      <LastFinalText>Código y fe II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Codice e Fede II</Text>
+                      <LastFinalText>Codice e Fede II</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309173</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Weg des Kriegers I</Text>
+                      <LastFinalText>Weg des Kriegers I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The path of the Warrior I</Text>
+                      <LastFinalText>The path of the Warrior I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Voie du Guerrier I</Text>
+                      <LastFinalText>La Voie du Guerrier I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La senda del guerrero I</Text>
+                      <LastFinalText>La senda del guerrero I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il sentiero del Guerriero I</Text>
+                      <LastFinalText>Il sentiero del Guerriero I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309174</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Assassinen sind die gefürchtetsten Krieger des Orients. Doch Meisterkrieger fallen nicht vom Himmel. Harte Arbeit, eiserne Disziplin und fester Glaube sind unabdingbar. [QUEST_SENDER] benötigt neue Schüler!</Text>
+                      <LastFinalText>Die Assassinen sind die gefürchtetsten Krieger des Orients. Doch Meisterkrieger fallen nicht vom Himmel. Harte Arbeit, eiserne Disziplin und fester Glaube sind unabdingbar. [QUEST_SENDER] benötigt neue Schüler!</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Assassins are the most fearless fighters in the Orient, but superb warriors don't grow on trees. Hard work, iron discipline and strong Faith are essential qualities. [QUEST_SENDER] needs some new disciples!</Text>
+                      <LastFinalText>The Assassins are the most fearless fighters in the Orient, but superb warriors don't grow on trees. Hard work, iron discipline and strong Faith are essential qualities. [QUEST_SENDER] needs some new disciples!</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Les Assassins sont les plus redoutables combattants de l'Orient, mais les Guerriers d'exception ne poussent hélas pas dans les arbres. Un entraînement acharné, une discipline de fer et une Foi à toute épreuve sont autant de qualités essentielles. [QUEST_SENDER] a besoin de nouveaux disciples !</Text>
+                      <LastFinalText>Les Assassins sont les plus redoutables combattants de l'Orient, mais les Guerriers d'exception ne poussent hélas pas dans les arbres. Un entraînement acharné, une discipline de fer et une Foi à toute épreuve sont autant de qualités essentielles. [QUEST_SENDER] a besoin de nouveaux disciples !</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Los asesinos son los luchadores más temidos de Oriente, pero los buenos combatientes no abundan. Tesón, disciplina férrea y fe inquebrantable son cualidades básicas. ¡[QUEST_SENDER] necesita nuevos discípulos!</Text>
+                      <LastFinalText>Los asesinos son los luchadores más temidos de Oriente, pero los buenos combatientes no abundan. Tesón, disciplina férrea y fe inquebrantable son cualidades básicas. ¡[QUEST_SENDER] necesita nuevos discípulos!</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Gli Assassini sono i guerrieri più coraggiosi d'Oriente, ma i grandi guerrieri non crescono sugli alberi. Duro lavoro, disciplina ferrea e una Fede solida sono qualità essenziali. [QUEST_SENDER] ha bisogno di nuovi discepoli!</Text>
+                      <LastFinalText>Gli Assassini sono i guerrieri più coraggiosi d'Oriente, ma i grandi guerrieri non crescono sugli alberi. Duro lavoro, disciplina ferrea e una Fede solida sono qualità essenziali. [QUEST_SENDER] ha bisogno di nuovi discepoli!</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309175</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Weg des Kriegers II</Text>
+                      <LastFinalText>Weg des Kriegers II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The path of the Warrior II</Text>
+                      <LastFinalText>The path of the Warrior II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Voie du Guerrier II</Text>
+                    </French>
+                    <Spanish>
+                      <Text>La senda del guerrero II</Text>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il sentiero del Guerriero II</Text>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309176</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Tarnen und Täuschen ist eines der wichtigsten Gebote der Assassinen. Für eine ganz bestimmte Verkleidung seiner Novizen benötigt [QUEST_SENDER] Ihre Mithilfe.</Text>
+                      <LastFinalText>Tarnen und Täuschen ist eines der wichtigsten Gebote der Assassinen. Für eine ganz bestimmte Verkleidung seiner Novizen benötigt [QUEST_SENDER] Ihre Mithilfe.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Disguise and deception are among the most important of the Assassins' commandments. [QUEST_SENDER] needs your assistance to create a special disguise for his Novices.</Text>
+                      <LastFinalText>Disguise and deception are among the most important of the Assassins' commandments. [QUEST_SENDER] needs your assistance to create a special disguise for his Novices.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La science du déguisement et l'art de la ruse figurent parmi les principales techniques employées par les Assassins. [QUEST_SENDER] a besoin de votre aide pour créer un déguisement spécial pour ses Novices.</Text>
+                      <LastFinalText>La science du déguisement et l'art de la ruse figurent parmi les principales techniques employées par les Assassins. [QUEST_SENDER] a besoin de votre aide pour créer un déguisement spécial pour ses Novices.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El disfraz y el engaño se cuentan entre los principales mandamientos de los asesinos. [QUEST_SENDER] necesita tu ayuda para confeccionar un disfraz especial para sus aprendices.</Text>
+                      <LastFinalText>El disfraz y el engaño se cuentan entre los principales mandamientos de los asesinos. [QUEST_SENDER] necesita tu ayuda para confeccionar un disfraz especial para sus aprendices.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Inganno e travestimento sono tra i più importanti comandamenti per un Assassino. [QUEST_SENDER] ha bisogno del tuo aiuto per creare un travestimento speciale per i suoi Novizi.</Text>
+                      <LastFinalText>Inganno e travestimento sono tra i più importanti comandamenti per un Assassino. [QUEST_SENDER] ha bisogno del tuo aiuto per creare un travestimento speciale per i suoi Novizi.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309177</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Weg des Kriegers III</Text>
+                      <LastFinalText>Weg des Kriegers III</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The path of the Warrior III</Text>
+                      <LastFinalText>The path of the Warrior III</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Voie du Guerrier III</Text>
+                      <LastFinalText>La Voie du Guerrier III</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La senda del guerrero III</Text>
+                      <LastFinalText>La senda del guerrero III</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il sentiero del Guerriero III</Text>
+                      <LastFinalText>Il sentiero del Guerriero III</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309178</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Al Zahirs bevorstehendes Fest ist die perfekte Gelegenheit die Verkleidungskünste auszuprobieren. Schmuggeln Sie die „Damen“ unter die Gäste und bringen Sie sie nach bestandener Feuertaufe zurück zu [QUEST_SENDER]!</Text>
+                      <LastFinalText>Al Zahirs bevorstehendes Fest ist die perfekte Gelegenheit die Verkleidungskünste auszuprobieren. Schmuggeln Sie die „Damen“ unter die Gäste und bringen Sie sie nach bestandener Feuertaufe zurück zu [QUEST_SENDER]!</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Al Zahir's imminent feast is the perfect opportunity to test the art of disguise. Smuggle the "ladies" in among the guests and, once they have passed their "baptism of fire", return them to [QUEST_SENDER]!</Text>
+                      <LastFinalText>Al Zahir's imminent feast is the perfect opportunity to test the art of disguise. Smuggle the "ladies" in among the guests and, once they have passed their "baptism of fire", return them to [QUEST_SENDER]!</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le festin imminent d'Al Zahir incarne l'opportunité idéale pour mettre votre science du déguisement à l'épreuve. Infiltrez les « Dames » parmi les convives et, lorsqu'elles auront passé leur « baptême du feu », ramenez-les à [QUEST_SENDER] !</Text>
+                      <LastFinalText>Le festin imminent d'Al Zahir incarne l'opportunité idéale pour mettre votre science du déguisement à l'épreuve. Infiltrez les « Dames » parmi les convives et, lorsqu'elles auront passé leur « baptême du feu », ramenez-les à [QUEST_SENDER] !</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El banquete que dará Al Zahir será una buena ocasión para practicar el arte del disfraz. ¡Haz que las “damas” se mezclen con los invitados y, una vez superado su “bautismo de fuego”, llévalas con [QUEST_SENDER]!</Text>
+                      <LastFinalText>El banquete que dará Al Zahir será una buena ocasión para practicar el arte del disfraz. ¡Haz que las “damas” se mezclen con los invitados y, una vez superado su “bautismo de fuego”, llévalas con [QUEST_SENDER]!</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La festa imminente di Al Zahir è l'occasione perfetta per provare l'arte del travestimento. Fai intrufolare le "signore" tra gli ospiti e una volta superato il loro "battesimo del fuoco" riportale da [QUEST_SENDER]!</Text>
+                      <LastFinalText>La festa imminente di Al Zahir è l'occasione perfetta per provare l'arte del travestimento. Fai intrufolare le "signore" tra gli ospiti e una volta superato il loro "battesimo del fuoco" riportale da [QUEST_SENDER]!</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309179</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Weg des Kriegers IV</Text>
+                      <LastFinalText>Weg des Kriegers IV</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The path of the Warrior IV</Text>
+                      <LastFinalText>The path of the Warrior IV</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Voie du Guerrier IV</Text>
+                      <LastFinalText>La Voie du Guerrier IV</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La senda del guerrero IV</Text>
+                      <LastFinalText>La senda del guerrero IV</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il sentiero del Guerriero IV</Text>
+                      <LastFinalText>Il sentiero del Guerriero IV</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309180</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Assassinenausbildung ist fast abgeschlossen. Nun müssen [QUEST_SENDER]s Schüler ihr erlerntes Wissen anwenden. Allein auf einer Insel ausgesetzt, sollen sie gegen alle Widrigkeiten ankämpfen!</Text>
+                      <LastFinalText>Die Assassinenausbildung ist fast abgeschlossen. Nun müssen [QUEST_SENDER]s Schüler ihr erlerntes Wissen anwenden. Allein auf einer Insel ausgesetzt, sollen sie gegen alle Widrigkeiten ankämpfen!</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Assassin training is nearly finished. [QUEST_SENDER]'s Novices must now use the knowledge they have gained. They will be left on an Island alone, where they must survive all the hardships and privations.</Text>
+                      <LastFinalText>The Assassin training is nearly finished. [QUEST_SENDER]'s Novices must now use the knowledge they have gained. They will be left on an Island alone, where they must survive all the hardships and privations.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>L'entraînement des Assassins est presque terminé. Les Novices d'[QUEST_SENDER] doivent maintenant utiliser les connaissances qu'ils ont acquises. Ils seront laissés seuls sur une Île, où ils devront survivre à toutes les épreuves et privations qui les attendent.</Text>
+                      <LastFinalText>L'entraînement des Assassins est presque terminé. Les Novices d'[QUEST_SENDER] doivent maintenant utiliser les connaissances qu'ils ont acquises. Ils seront laissés seuls sur une Île, où ils devront survivre à toutes les épreuves et privations qui les attendent.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Los asesinos están terminando su entrenamiento. Ahora los aprendices de [QUEST_SENDER] han de aplicar los conocimientos adquiridos. Se les dejará solos en una isla, donde tendrán que hacer frente a todo tipo de adversidades y privaciones.</Text>
+                      <LastFinalText>Los asesinos están terminando su entrenamiento. Ahora los aprendices de [QUEST_SENDER] han de aplicar los conocimientos adquiridos. Se les dejará solos en una isla, donde tendrán que hacer frente a todo tipo de adversidades y privaciones.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>L'addestramento da Assassino è quasi terminato. I Novizi di [QUEST_SENDER] adesso dovranno usare le conoscenze acquisite. Saranno lasciati soli su un'Isola e dovranno sopravvivere agli stenti e alle difficoltà.</Text>
+                      <LastFinalText>L'addestramento da Assassino è quasi terminato. I Novizi di [QUEST_SENDER] adesso dovranno usare le conoscenze acquisite. Saranno lasciati soli su un'Isola e dovranno sopravvivere agli stenti e alle difficoltà.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309181</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Weg des Kriegers V</Text>
+                      <LastFinalText>Weg des Kriegers V</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The path of the Warrior V</Text>
+                      <LastFinalText>The path of the Warrior V</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La Voie du Guerrier V</Text>
+                      <LastFinalText>La Voie du Guerrier V</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La senda del guerrero V</Text>
+                      <LastFinalText>La senda del guerrero V</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il sentiero del Guerriero V</Text>
+                      <LastFinalText>Il sentiero del Guerriero V</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309182</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Weg des Kriegers VI</Text>
+                      <LastFinalText>Weg des Kriegers VI</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The path of the Warrior VI</Text>
+                    </English>
+                    <French>
+                      <Text>La Voie du Guerrier VI</Text>
+                    </French>
+                    <Spanish>
+                      <Text>La senda del guerrero VI</Text>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il sentiero del Guerriero VI</Text>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309183</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat Kunde darüber erhalten, dass sich alle Schüler bestens bewährt haben. Holen Sie die ausgebildeten Assassinen von den Inseln ab, damit sie bei [QUEST_SENDER] ihren Treueschwur ablegen können.</Text>
+                      <LastFinalText>[QUEST_SENDER] hat Kunde darüber erhalten, dass sich alle Schüler bestens bewährt haben. Holen Sie die ausgebildeten Assassinen von den Inseln ab, damit sie bei [QUEST_SENDER] ihren Treueschwur ablegen können.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] has received word that all the Novices have come through the test with flying colours. Pick the trained Assassins up from the Island so they can swear an oath of loyalty to  [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] has received word that all the Novices have come through the test with flying colours. Pick the trained Assassins up from the Island so they can swear an oath of loyalty to  [QUEST_SENDER].</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] a reçu des nouvelles indiquant que tous les Novices ont passé l'épreuve haut-la-main. Allez chercher les Assassins entraînés sur l'Île, afin qu'ils puissent maintenant jurer leur allégeance à [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] a reçu des nouvelles indiquant que tous les Novices ont passé l'épreuve haut-la-main. Allez chercher les Assassins entraînés sur l'Île, afin qu'ils puissent maintenant jurer leur allégeance à [QUEST_SENDER].</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] ha sabido que todos los aprendices salieron airosos de la prueba. Recoge a los asesinos ya entrenados en la isla para que juren lealtad a [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] ha sabido que todos los aprendices salieron airosos de la prueba. Recoge a los asesinos ya entrenados en la isla para que juren lealtad a [QUEST_SENDER].</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] ha appreso che tutti i Novizi hanno passato a pieni voti la prova. Recupera gli Assassini dall'Isola affinché possano giurare la loro fedeltà a [QUEST_SENDER].</Text>
+                      <LastFinalText>[QUEST_SENDER] ha appreso che tutti i Novizi hanno passato a pieni voti la prova. Recupera gli Assassini dall'Isola affinché possano giurare la loro fedeltà a [QUEST_SENDER].</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5309184</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Während sich die Kriegeranwärter in der Wildnis behaupten müssen, will Al Raschid die Waffen, die Sie zu wahren Assassinen machen, schon anfertigen. Liefern Sie ihm die nötigen Rohstoffe.</Text>
+                      <LastFinalText>Während sich die Kriegeranwärter in der Wildnis behaupten müssen, will Al Raschid die Waffen, die Sie zu wahren Assassinen machen, schon anfertigen. Liefern Sie ihm die nötigen Rohstoffe.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>While the warrior cadets are living rough on the Island, Al Rashid wants to have the Weapons ready which will turn them into true Assassins. Deliver the Raw materials required to do this.</Text>
+                      <LastFinalText>While the warrior cadets are living rough on the Island, Al Rashid wants to have the Weapons ready which will turn them into true Assassins. Deliver the Raw materials required to do this.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Pendant que les futurs Guerriers subissent leur épreuve d'initiation sur l'Île, Al Rashid souhaite faire préparer les Armes qui feront d'eux de véritables Assassins. Livrez-lui les Matières premières dont il a besoin à cette fin.</Text>
+                      <LastFinalText>Pendant que les futurs Guerriers subissent leur épreuve d'initiation sur l'Île, Al Rashid souhaite faire préparer les Armes qui feront d'eux de véritables Assassins. Livrez-lui les Matières premières dont il a besoin à cette fin.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Aunque los jóvenes luchadores viven sin lujos en la isla, Al Rashid quiere tener las armas listas para hacer de ellos unos auténticos asesinos. Entrega las materias primas necesarias para conseguirlo.</Text>
+                      <LastFinalText>Aunque los jóvenes luchadores viven sin lujos en la isla, Al Rashid quiere tener las armas listas para hacer de ellos unos auténticos asesinos. Entrega las materias primas necesarias para conseguirlo.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Mentre i guerrieri cadetti vivono tra gli stenti sull'Isola, Al Rashid vuole avere pronte le Armi che li renderanno veri Assassini. Consegna le Materie prime necessarie allo scopo.</Text>
+                      <LastFinalText>Mentre i guerrieri cadetti vivono tra gli stenti sull'Isola, Al Rashid vuole avere pronte le Armi che li renderanno veri Assassini. Consegna le Materie prime necessarie allo scopo.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Helperquests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>FirstSelection</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5309160</GUID>
+                      <Kommentar>Questname</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Assassinen anwerben</Text>
+                          <LastFinalText>Assassinen anwerben</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>Recruit Assassins</Text>
+                          <LastFinalText>Recruit Assassins</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Recrutez des Assassins</Text>
+                          <LastFinalText>Recrutez des Assassins</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>Reclutar asesinos</Text>
+                          <LastFinalText>Reclutar asesinos</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Recluta gli Assassini</Text>
+                          <LastFinalText>Recluta gli Assassini</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5309161</GUID>
+                      <Kommentar>Infotext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Die Bereitstellung bestimmter Waren ermöglicht das Anheuern von Assassinen.</Text>
+                          <LastFinalText>Die Bereitstellung bestimmter Waren ermöglicht das Anheuern von Assassinen.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>The availability of certain Goods allows you to recruit Assassins.</Text>
+                          <LastFinalText>The availability of certain Goods allows you to recruit Assassins.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>La disponibilité de certaines Marchandises vous permet de recruter des Assassins.</Text>
+                          <LastFinalText>La disponibilité de certaines Marchandises vous permet de recruter des Assassins.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>La disponibilidad de ciertos bienes te permitirá reclutar asesinos.</Text>
+                          <LastFinalText>La disponibilidad de ciertos bienes te permitirá reclutar asesinos.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>La disponibilità di alcune Merci permetterà di reclutare gli Assassini.</Text>
+                          <LastFinalText>La disponibilità di alcune Merci permetterà di reclutare gli Assassini.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5309162</GUID>
+                      <Kommentar>Storytext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[QUEST_SENDER] und seine Assassinen sind berüchtigte Kämpfer. Binden Sie seine Assassinenfestung mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Sorgen Sie dafür, dass die benötigten Waren vor Ort sind, und starten Sie im Gebäudemenü die Truppenausbildung. Wenig später steht Ihnen ein Trupp Assassinen zur Verfügung.</Text>
+                          <LastFinalText>[QUEST_SENDER] und seine Assassinen sind berüchtigte Kämpfer. Binden Sie seine Assassinenfestung mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Sorgen Sie dafür, dass die benötigten Waren vor Ort sind, und starten Sie im Gebäudemenü die Truppenausbildung. Wenig später steht Ihnen ein Trupp Assassinen zur Verfügung.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[QUEST_SENDER] and his Assassins are notorious fighters. Create a Road connection between their Assassins' fortress and one of your Trade buildings to take advantage of this![CR]Go to the Buildings menu and select Troop training and a Troop of Assassins will be available to you shortly afterwards.</Text>
+                          <LastFinalText>[QUEST_SENDER] and his Assassins are notorious fighters. Create a Road connection between their Assassins' fortress and one of your Trade buildings to take advantage of this![CR]Go to the Buildings menu and select Troop training and a Troop of Assassins will be available to you shortly afterwards.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[QUEST_SENDER] et ses Assassins sont de redoutables combattants. Créez une Route entre la Forteresse des Assassins et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Accédez au menu Bâtiments, sélectionnez Entraînement de Troupes et une Troupe d'Assassins sera bientôt à votre disposition.</Text>
+                          <LastFinalText>[QUEST_SENDER] et ses Assassins sont de redoutables combattants. Créez une Route entre la Forteresse des Assassins et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Accédez au menu Bâtiments, sélectionnez Entraînement de Troupes et une Troupe d'Assassins sera bientôt à votre disposition.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[QUEST_SENDER] y sus asesinos son luchadores reconocidos. ¡Crea un camino de acceso entre la fortaleza de los asesinos y uno de tus edificios comerciales para sacarles partido![CR]Ve al menú Edificios, selecciona Entrenamiento de tropas y enseguida tendrás a tu disposición una tropa de asesinos.</Text>
+                          <LastFinalText>[QUEST_SENDER] y sus asesinos son luchadores reconocidos. ¡Crea un camino de acceso entre la fortaleza de los asesinos y uno de tus edificios comerciales para sacarles partido![CR]Ve al menú Edificios, selecciona Entrenamiento de tropas y enseguida tendrás a tu disposición una tropa de asesinos.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER] e i suoi Assassini sono famosi guerrieri. Crea una Strada che li colleghi a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Seleziona Addestramento truppe dal Menu Edifici e presto avrai a disposizione una Truppa di Assassini.</Text>
+                          <LastFinalText>[QUEST_SENDER] e i suoi Assassini sono famosi guerrieri. Crea una Strada che li colleghi a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]Seleziona Addestramento truppe dal Menu Edifici e presto avrai a disposizione una Truppa di Assassini.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Character Audio</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Al Rashid</Sprecher>
+                    </Sound>
+                    <Standard>
+                      <GUID>5309163</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Ihr wollt meine Männer? Dann müsst Ihr dafür bezahlen.</Text>
+                          <LastFinalText>Ihr wollt meine Männer? Dann müsst Ihr dafür bezahlen.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>You want my men?! Well, you'll have to pay for them!</Text>
+                          <LastFinalText>You want my men?! Well, you'll have to pay for them!</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Vous voulez mes hommes ?! Alors, vous devez acheter leurs services !</Text>
+                          <LastFinalText>Vous voulez mes hommes ?! Alors, vous devez acheter leurs services !</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>¡¿Quieres a mis hombres?! ¡Pues tendrás que pagar por ellos!</Text>
+                          <LastFinalText>¡¿Quieres a mis hombres?! ¡Pues tendrás que pagar por ellos!</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Vuoi i miei uomini?! Bene, ma dovrai pagare!</Text>
+                          <LastFinalText>Vuoi i miei uomini?! Bene, ma dovrai pagare!</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>CharacterText</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Al Rashid</Sprecher>
+                    </Sound>
+                    <Standard>
+                      <GUID>5309164</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Wenn Sie für die Ausbildung aufkommen, ist [THIRDPARTY_SENDER_PLAYER] bereit, Ihnen einige Männer zur Verfügung zu stellen.</Text>
+                          <LastFinalText>Wenn Sie für die Ausbildung aufkommen, ist [THIRDPARTY_SENDER_PLAYER] bereit, Ihnen einige Männer zur Verfügung zu stellen.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] is prepared to give you some men if you pay for their training.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is prepared to give you some men if you pay for their training.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] est prêt à vous confier ses hommes si vous financez leur entraînement.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est prêt à vous confier ses hommes si vous financez leur entraînement.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] está dispuesto a darte algunos hombres si pagas por su entrenamiento.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está dispuesto a darte algunos hombres si pagas por su entrenamiento.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] è pronto a darti degli uomini se paghi per il loro addestramento.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è pronto a darti degli uomini se paghi per il loro addestramento.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

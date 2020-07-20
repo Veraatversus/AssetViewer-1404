@@ -1,0 +1,3215 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Profil</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5302001</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_WARES</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] weist Sie darauf hin, Waren in der erforderlichen Menge zu besorgen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] weist Sie darauf hin, Waren in der erforderlichen Menge zu besorgen.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] points out that you need to deliver the required amount of Goods.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] points out that you need to deliver the required amount of Goods.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] souligne que vous devez livrer la quantité de Marchandises requise.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] souligne que vous devez livrer la quantité de Marchandises requise.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] te indica que tienes que entregar la cantidad de bienes requerida.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te indica que tienes que entregar la cantidad de bienes requerida.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fa notare che devi consegnare la quantità richiesta di Merci.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fa notare che devi consegnare la quantità richiesta di Merci.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5302002</GUID>
+              <Kommentar>FUNCTION_RUNNING</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] brütet über seinen Büchern.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] brütet über seinen Büchern.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] is poring over his books.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is poring over his books.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] est plongé dans ses livres.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] est plongé dans ses livres.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] está estudiando sus libros.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] está estudiando sus libros.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] è immerso nei suoi libri.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] è immerso nei suoi libri.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5302003</GUID>
+              <Kommentar>FUNCTION_NOT_AVAILABLE_SHUTDOWN</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+                <French>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Status>Final</Status>
+                </Italian>
+                <Russian>
+                  <Status>Exported</Status>
+                </Russian>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] benötigt Ihre Unterstützung, um die Akademie zu betreiben.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] benötigt Ihre Unterstützung, um die Akademie zu betreiben.</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] needs your financial aid to run the Academy.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] needs your financial aid to run the Academy.</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a besoin de votre aide financière pour gérer l'Académie.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a besoin de votre aide financière pour gérer l'Académie.</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] necesita tu ayuda económica para dirigir la Academia.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] necesita tu ayuda económica para dirigir la Academia.</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha bisogno del tuo sostegno economico per mandare avanti l'Accademia.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha bisogno del tuo sostegno economico per mandare avanti l'Accademia.</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>5302004</GUID>
+              <Kommentar>FUNCTION_FINISHED</Kommentar>
+              <Status>
+                <German>
+                  <Status>Final</Status>
+                  <ExportCount>1</ExportCount>
+                </German>
+                <English>
+                  <Status>Final</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </Status>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>In [THIRDPARTY_CITY] hat [THIRDPARTY_SENDER_PLAYER] eine neue Erfindung gemacht.[CR][THIRDPARTY_REWARD]</Text>
+                  <LastFinalText>In [THIRDPARTY_CITY] hat [THIRDPARTY_SENDER_PLAYER] eine neue Erfindung gemacht.[CR][THIRDPARTY_REWARD]</LastFinalText>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] has invented something new.[CR][THIRDPARTY_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] has invented something new.[CR][THIRDPARTY_REWARD]</LastFinalText>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] a inventé quelque chose de nouveau.[CR][THIRDPARTY_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] a inventé quelque chose de nouveau.[CR][THIRDPARTY_REWARD]</LastFinalText>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha inventado algo nuevo.[CR][THIRDPARTY_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha inventado algo nuevo.[CR][THIRDPARTY_REWARD]</LastFinalText>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ha inventato qualcosa di nuovo.[CR][THIRDPARTY_REWARD]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ha inventato qualcosa di nuovo.[CR][THIRDPARTY_REWARD]</LastFinalText>
+                </Italian>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>StandardQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>QuestText</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302005</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Forschungsschiff soll in einem Wirbelsturm gesunken sein. [QUEST_SENDER] bittet Sie im Namen der Wissenschaft, die Unfallstelle abzusuchen und Ihm die Ladung zu bringen.</Text>
+                      <LastFinalText>Ein Forschungsschiff soll in einem Wirbelsturm gesunken sein. [QUEST_SENDER] bittet Sie im Namen der Wissenschaft, die Unfallstelle abzusuchen und Ihm die Ladung zu bringen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302000</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Wissenschaft in Kisten</Text>
+                      <LastFinalText>Wissenschaft in Kisten</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Science in crates</Text>
+                      <LastFinalText>Science in crates</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La science en caisses</Text>
+                      <LastFinalText>La science en caisses</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Ciencia en cajas</Text>
+                      <LastFinalText>Ciencia en cajas</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Casse di scienza</Text>
+                      <LastFinalText>Casse di scienza</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302007</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Der Hauptarchivar von [QUEST_SENDER]s Bibliothek ist auf einer Reise verunglückt. Doch ohne ihn und seinen fleißigen Lehrling ist [QUEST_SENDER] arbeitsunfähig. Retten Sie die teuren Gehilfen aus den Fluten.</Text>
+                      <LastFinalText>Der Hauptarchivar von [QUEST_SENDER]s Bibliothek ist auf einer Reise verunglückt. Doch ohne ihn und seinen fleißigen Lehrling ist [QUEST_SENDER] arbeitsunfähig. Retten Sie die teuren Gehilfen aus den Fluten.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302006</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Wenn einer eine Reise tut ...</Text>
+                      <LastFinalText>Wenn einer eine Reise tut ...</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>When one goes on a voyage...</Text>
+                      <LastFinalText>When one goes on a voyage...</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le départ en voyage...</Text>
+                      <LastFinalText>Le départ en voyage...</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Cuando alguien se va de viaje...</Text>
+                      <LastFinalText>Cuando alguien se va de viaje...</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Quando si parte per un viaggio...</Text>
+                      <LastFinalText>Quando si parte per un viaggio...</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302009</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] möchte mehr über den abendländischen Humor erfahren. In Ihrer Stadt soll sich ein Narr aufhalten, der [QUEST_SENDER] wie geschaffen für Studienzwecke scheint.</Text>
+                      <LastFinalText>[QUEST_SENDER] möchte mehr über den abendländischen Humor erfahren. In Ihrer Stadt soll sich ein Narr aufhalten, der [QUEST_SENDER] wie geschaffen für Studienzwecke scheint.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302008</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Närrischer Kulturaustausch</Text>
+                      <LastFinalText>Närrischer Kulturaustausch</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Crazy cultural exchange</Text>
+                      <LastFinalText>Crazy cultural exchange</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Échanges culturels délirants</Text>
+                      <LastFinalText>Échanges culturels délirants</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Intercambio cultural de locos</Text>
+                      <LastFinalText>Intercambio cultural de locos</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Folle scambio culturale</Text>
+                      <LastFinalText>Folle scambio culturale</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302011</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein Schiff mit einer Lieferung abendländischer Kulturgüter für [QUEST_SENDER] ist auf eine Sandbank gelaufen. Der Weise erwartet diese Ladung voller Neugier. Helfen Sie ihm in seiner Not.</Text>
+                      <LastFinalText>Ein Schiff mit einer Lieferung abendländischer Kulturgüter für [QUEST_SENDER] ist auf eine Sandbank gelaufen. Der Weise erwartet diese Ladung voller Neugier. Helfen Sie ihm in seiner Not.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302010</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Waren im Verzug</Text>
+                      <LastFinalText>Waren im Verzug</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Delayed goods</Text>
+                      <LastFinalText>Delayed goods</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Des marchandises en retard</Text>
+                      <LastFinalText>Des marchandises en retard</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Bienes con retraso</Text>
+                      <LastFinalText>Bienes con retraso</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Merci in ritardo</Text>
+                      <LastFinalText>Merci in ritardo</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302012</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Forscherdrang</Text>
+                      <LastFinalText>Forscherdrang</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Scientific curiosity</Text>
+                      <LastFinalText>Scientific curiosity</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Curiosité scientifique</Text>
+                      <LastFinalText>Curiosité scientifique</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Curiosidad científica</Text>
+                      <LastFinalText>Curiosidad científica</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Curiosità scientifica</Text>
+                      <LastFinalText>Curiosità scientifica</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302015</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat wichtige Dokumente mit wissenschaftlichen Erkentnissen an einen Kollegen geschickt. Leider sank das Schiff, und die wertvollen Dokumente sind dem Untergang geweiht, wenn Sie nicht helfen.</Text>
+                      <LastFinalText>[QUEST_SENDER] hat wichtige Dokumente mit wissenschaftlichen Erkentnissen an einen Kollegen geschickt. Leider sank das Schiff, und die wertvollen Dokumente sind dem Untergang geweiht, wenn Sie nicht helfen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302014</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Treibende Erkenntnisse</Text>
+                      <LastFinalText>Treibende Erkenntnisse</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Driving insights</Text>
+                      <LastFinalText>Driving insights</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Intuitions concluantes</Text>
+                      <LastFinalText>Intuitions concluantes</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Perspectivas de cambio</Text>
+                      <LastFinalText>Perspectivas de cambio</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Intuizioni sferzanti</Text>
+                      <LastFinalText>Intuizioni sferzanti</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302016</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Geisterschiff I</Text>
+                      <LastFinalText>Das Geisterschiff I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Ghost ship I</Text>
+                      <LastFinalText>The Ghost ship I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Vaisseau Fantôme I</Text>
+                      <LastFinalText>Le Vaisseau Fantôme I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El barco fantasma I</Text>
+                      <LastFinalText>El barco fantasma I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave fantasma I</Text>
+                      <LastFinalText>La Nave fantasma I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302017</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Über Jahre kreuzte ein angebliches Geisterschiff in den Gewässern. Nun soll es auf Grund gelaufen sein. [QUEST_SENDER] bittet Sie gut gerüstet, das Schiff unter die Lupe zu nehmen.</Text>
+                      <LastFinalText>Über Jahre kreuzte ein angebliches Geisterschiff in den Gewässern. Nun soll es auf Grund gelaufen sein. [QUEST_SENDER] bittet Sie gut gerüstet, das Schiff unter die Lupe zu nehmen.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>For years a "Ghost ship" was said to sail the waters and it has now allegedly run aground. [QUEST_SENDER] asks you to equip yourself well and go and examine the Ship more closely.</Text>
+                      <LastFinalText>For years a "Ghost ship" was said to sail the waters and it has now allegedly run aground. [QUEST_SENDER] asks you to equip yourself well and go and examine the Ship more closely.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Pendant des années, un « Vaisseau Fantôme » sillonnait les Océans de la région ; il se serait désormais échoué. [QUEST_SENDER] vous demande de vous équiper avec soin et d'aller inspecter le Navire de plus près.</Text>
+                      <LastFinalText>Pendant des années, un « Vaisseau Fantôme » sillonnait les Océans de la région ; il se serait désormais échoué. [QUEST_SENDER] vous demande de vous équiper avec soin et d'aller inspecter le Navire de plus près.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Se dice que un “barco fantasma” lleva años surcando los mares pero que ahora está encallado. [QUEST_SENDER] te pide que te equipes bien y vayas en persona a examinar el barco.</Text>
+                      <LastFinalText>Se dice que un “barco fantasma” lleva años surcando los mares pero que ahora está encallado. [QUEST_SENDER] te pide que te equipes bien y vayas en persona a examinar el barco.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Si dice che per anni una "Nave fantasma" abbia solcato i mari e ora pare si sia arenata. [QUEST_SENDER] ti chiede di attrezzarti adeguatamente e di andare a esaminare la Nave più da vicino.</Text>
+                      <LastFinalText>Si dice che per anni una "Nave fantasma" abbia solcato i mari e ora pare si sia arenata. [QUEST_SENDER] ti chiede di attrezzarti adeguatamente e di andare a esaminare la Nave più da vicino.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302019</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Erstaunlicherweise scheint sich das Geisterschiff wirklich ohne Besatzung zu bewegen. [QUEST_SENDER] ist ratlos. Er bittet Sie, seine besten Schüler und Wissenschaftler in Ihrer Siedlung zu suchen. Nur gemeinsam können sie das Rätsel lösen.</Text>
+                      <LastFinalText>Erstaunlicherweise scheint sich das Geisterschiff wirklich ohne Besatzung zu bewegen. [QUEST_SENDER] ist ratlos. Er bittet Sie, seine besten Schüler und Wissenschaftler in Ihrer Siedlung zu suchen. Nur gemeinsam können sie das Rätsel lösen.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The amazing thing is that the Ghost ship really does appear to move through the water without using sails. [QUEST_SENDER] is baffled, and asks you to find the best Scholars and Scientists in your Settlement, as only together can they solve the puzzle.</Text>
+                      <LastFinalText>The amazing thing is that the Ghost ship really does appear to move through the water without using sails. [QUEST_SENDER] is baffled, and asks you to find the best Scholars and Scientists in your Settlement, as only together can they solve the puzzle.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le plus incroyable est que le Vaisseau Fantôme semble vraiment glisser sur l'eau sans même lever une voile. [QUEST_SENDER] est perplexe et vous demande de quérir les meilleurs Érudits et Scientifiques de votre Colonie ; il n'y a qu'en unissant leurs connaissances qu'ils pourront résoudre cette énigme.</Text>
+                      <LastFinalText>Le plus incroyable est que le Vaisseau Fantôme semble vraiment glisser sur l'eau sans même lever une voile. [QUEST_SENDER] est perplexe et vous demande de quérir les meilleurs Érudits et Scientifiques de votre Colonie ; il n'y a qu'en unissant leurs connaissances qu'ils pourront résoudre cette énigme.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Lo sorprendente es que el barco fantasma parece que en efecto surca las aguas sin necesidad de velas. [QUEST_SENDER] no sabe qué pensar y te pide que reúnas a los mejores sabios y científicos de tu asentamiento, pues solo ellos resolverán el misterio.</Text>
+                      <LastFinalText>Lo sorprendente es que el barco fantasma parece que en efecto surca las aguas sin necesidad de velas. [QUEST_SENDER] no sabe qué pensar y te pide que reúnas a los mejores sabios y científicos de tu asentamiento, pues solo ellos resolverán el misterio.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il fatto straordinario è che la Nave sembra davvero muoversi sull'acqua senza usare le vele. [QUEST_SENDER] è perplesso e ti chiede di radunare i migliori Studiosi e Scienziati del tuo Insediamento; solo lavorando insieme possono risolvere il mistero.</Text>
+                      <LastFinalText>Il fatto straordinario è che la Nave sembra davvero muoversi sull'acqua senza usare le vele. [QUEST_SENDER] è perplesso e ti chiede di radunare i migliori Studiosi e Scienziati del tuo Insediamento; solo lavorando insieme possono risolvere il mistero.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302020</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Geisterschiff II</Text>
+                      <LastFinalText>Das Geisterschiff II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Ghost ship II</Text>
+                      <LastFinalText>The Ghost ship II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Vaisseau Fantôme II</Text>
+                      <LastFinalText>Le Vaisseau Fantôme II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El barco fantasma II</Text>
+                      <LastFinalText>El barco fantasma II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave fantasma II</Text>
+                      <LastFinalText>La Nave fantasma II</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302022</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat endlich eine weltliche Erklärung für das Geisterschiff gefunden und möchte die Forschungsergebnisse verbreiten lassen. Da eine unbekannte Macht jedoch versucht, das Geheimnis zu bewaren, um weiter Angst und Schrecken verbreiten zu können, bittet [QUEST_SENDER] Sie um Geleitschutz.</Text>
+                      <LastFinalText>[QUEST_SENDER] hat endlich eine weltliche Erklärung für das Geisterschiff gefunden und möchte die Forschungsergebnisse verbreiten lassen. Da eine unbekannte Macht jedoch versucht, das Geheimnis zu bewaren, um weiter Angst und Schrecken verbreiten zu können, bittet [QUEST_SENDER] Sie um Geleitschutz.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] has finally found an earthly explanation for the Ghost ship and wants to circulate the findings of his Research. However, as an unknown power wants to safeguard the secret to spread more fear and horror, [QUEST_SENDER] asks you for a Convoy escort.</Text>
+                      <LastFinalText>[QUEST_SENDER] has finally found an earthly explanation for the Ghost ship and wants to circulate the findings of his Research. However, as an unknown power wants to safeguard the secret to spread more fear and horror, [QUEST_SENDER] asks you for a Convoy escort.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] a enfin trouvé une explication rationnelle à l'existence du Vaisseau Fantôme et souhaite diffuser les conclusions de ses Recherches. Toutefois, une puissance inconnue aspire apparemment à préserver ce secret afin de semer encore la terreur et l'horreur, et [QUEST_SENDER] vous demande donc d'escorter son Convoi.</Text>
+                      <LastFinalText>[QUEST_SENDER] a enfin trouvé une explication rationnelle à l'existence du Vaisseau Fantôme et souhaite diffuser les conclusions de ses Recherches. Toutefois, une puissance inconnue aspire apparemment à préserver ce secret afin de semer encore la terreur et l'horreur, et [QUEST_SENDER] vous demande donc d'escorter son Convoi.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] ha encontrado por fin una explicación lógica para el barco fantasma y quiere anunciar las conclusiones de su investigación. Pero, dado que un ente desconocido quiere mantener el secreto para sembrar el miedo y el pánico, [QUEST_SENDER] te pide que te encargues de la escolta.</Text>
+                      <LastFinalText>[QUEST_SENDER] ha encontrado por fin una explicación lógica para el barco fantasma y quiere anunciar las conclusiones de su investigación. Pero, dado que un ente desconocido quiere mantener el secreto para sembrar el miedo y el pánico, [QUEST_SENDER] te pide que te encargues de la escolta.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] ha finalmente trovato una possibile spiegazione per la Nave fantasma e vuole diffondere le scoperte della sua Ricerca. Ma visto che una forza ignota vuole proteggere il segreto per diffondere la paura, [QUEST_SENDER] ti chiede un Convoglio di scorta.</Text>
+                      <LastFinalText>[QUEST_SENDER] ha finalmente trovato una possibile spiegazione per la Nave fantasma e vuole diffondere le scoperte della sua Ricerca. Ma visto che una forza ignota vuole proteggere il segreto per diffondere la paura, [QUEST_SENDER] ti chiede un Convoglio di scorta.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302024</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Des Rätsels einfache Lösung: Die Strömung trieb das Schiff an und erweckte den Eindruck, es bewege sich von Geisterhand. [QUEST_SENDER] möchte ein Fest für die beteiligten Wissenschaftler geben und bittet Sie um Unterstützung.</Text>
+                      <LastFinalText>Des Rätsels einfache Lösung: Die Strömung trieb das Schiff an und erweckte den Eindruck, es bewege sich von Geisterhand. [QUEST_SENDER] möchte ein Fest für die beteiligten Wissenschaftler geben und bittet Sie um Unterstützung.</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The simple solution to the mystery: the Ocean current was propelling the Ship which appeared to be guided by a phantom hand. [QUEST_SENDER] would like to organise a feast for the Scientists involved and asks you for your help.</Text>
+                      <LastFinalText>The simple solution to the mystery: the Ocean current was propelling the Ship which appeared to be guided by a phantom hand. [QUEST_SENDER] would like to organise a feast for the Scientists involved and asks you for your help.</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Une solution simple à un profond mystère : les courants océaniques propulsaient le Navire, qui semblait ainsi être guidé par la main d'un Fantôme. [QUEST_SENDER] souhaite organiser un banquet pour les Scientifiques impliqués, et vous demande de l'aider.</Text>
+                      <LastFinalText>Une solution simple à un profond mystère : les courants océaniques propulsaient le Navire, qui semblait ainsi être guidé par la main d'un Fantôme. [QUEST_SENDER] souhaite organiser un banquet pour les Scientifiques impliqués, et vous demande de l'aider.</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El misterio tiene una explicación sencilla: la corriente oceánica impulsaba el barco, que parecía navegar guiado por una mano fantasmal. A [QUEST_SENDER] le gustaría dar una fiesta para los científicos involucrados y te solicita ayuda.</Text>
+                      <LastFinalText>El misterio tiene una explicación sencilla: la corriente oceánica impulsaba el barco, que parecía navegar guiado por una mano fantasmal. A [QUEST_SENDER] le gustaría dar una fiesta para los científicos involucrados y te solicita ayuda.</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La semplice soluzione al mistero: la corrente dell'Oceano faceva muovere la Nave che sembrava guidata da una mano fantasma. [QUEST_SENDER] vorrebbe organizzare una festa per gli Scienziati coinvolti e chiede il tuo aiuto.</Text>
+                      <LastFinalText>La semplice soluzione al mistero: la corrente dell'Oceano faceva muovere la Nave che sembrava guidata da una mano fantasma. [QUEST_SENDER] vorrebbe organizzare una festa per gli Scienziati coinvolti e chiede il tuo aiuto.</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302025</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Geisterschiff IV</Text>
+                      <LastFinalText>Das Geisterschiff IV</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Ghost ship IV</Text>
+                      <LastFinalText>The Ghost ship IV</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Vaisseau Fantôme IV</Text>
+                      <LastFinalText>Le Vaisseau Fantôme IV</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El barco fantasma IV</Text>
+                      <LastFinalText>El barco fantasma IV</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave fantasma IV</Text>
+                      <LastFinalText>La Nave fantasma IV</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302026</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Das Geisterschiff III</Text>
+                      <LastFinalText>Das Geisterschiff III</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Ghost ship III</Text>
+                      <LastFinalText>The Ghost ship III</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Vaisseau Fantôme III</Text>
+                      <LastFinalText>Le Vaisseau Fantôme III</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El barco fantasma III</Text>
+                      <LastFinalText>El barco fantasma III</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave fantasma III</Text>
+                      <LastFinalText>La Nave fantasma III</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302028</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Sie haben [QUEST_SENDER]s verschollenes, neu erfundenes Schiff gefunden. Es verfügte über eine einzigartige Tauchluke. Deshalb ist das Schiff voll Wasser gelaufen. Machen Sie es wieder seetauglich!</Text>
+                      <LastFinalText>Sie haben [QUEST_SENDER]s verschollenes, neu erfundenes Schiff gefunden. Es verfügte über eine einzigartige Tauchluke. Deshalb ist das Schiff voll Wasser gelaufen. Machen Sie es wieder seetauglich!</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302029</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Konstruktionslücke</Text>
+                      <LastFinalText>Konstruktionslücke</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Hiatus in Construction work</Text>
+                      <LastFinalText>Hiatus in Construction work</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Interruption des travaux</Text>
+                      <LastFinalText>Interruption des travaux</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Un paréntesis en las obras</Text>
+                      <LastFinalText>Un paréntesis en las obras</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Pausa nei lavori di costruzione</Text>
+                      <LastFinalText>Pausa nei lavori di costruzione</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302031</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Diese Kisten enthalten astrologische Aufzeichnungen vom nördlichen Kontinent und waren wohl für [QUEST_SENDER] bestimmt. Er wird ihnen dankbar sein, wenn Sie sie zurückbringen, denn er benötigt sie zur Erstellung einer Sternkarte.</Text>
+                      <LastFinalText>Diese Kisten enthalten astrologische Aufzeichnungen vom nördlichen Kontinent und waren wohl für [QUEST_SENDER] bestimmt. Er wird ihnen dankbar sein, wenn Sie sie zurückbringen, denn er benötigt sie zur Erstellung einer Sternkarte.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302032</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Sternkarte</Text>
+                      <LastFinalText>Die Sternkarte</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Celestial chart</Text>
+                      <LastFinalText>The Celestial chart</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La carte céleste</Text>
+                      <LastFinalText>La carte céleste</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>La carta astronómica</Text>
+                      <LastFinalText>La carta astronómica</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Tracciato dei cieli</Text>
+                      <LastFinalText>Il Tracciato dei cieli</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302034</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein von [QUEST_SENDER] erfundener Schnellsegler wurde von Korsaren geentert, die die Besatzung über die Planke jagten. Eilen Sie den Männer zur Hilfe.</Text>
+                      <LastFinalText>Ein von [QUEST_SENDER] erfundener Schnellsegler wurde von Korsaren geentert, die die Besatzung über die Planke jagten. Eilen Sie den Männer zur Hilfe.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302035</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Über die Planke</Text>
+                      <LastFinalText>Über die Planke</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Over the plank</Text>
+                      <LastFinalText>Over the plank</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La planche</Text>
+                      <LastFinalText>La planche</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Sobre las tablas</Text>
+                      <LastFinalText>Sobre las tablas</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Sull'asse</Text>
+                      <LastFinalText>Sull'asse</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302037</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Sie haben die über Bord gegangenen Lehrlinge gefunden. Sie sind auf einem Schulschiff der Akademie über Bord gegangen. Peinlich berührt bittet [QUEST_SENDER] Sie, seine Sprößlinge zurückzubringen.</Text>
+                      <LastFinalText>Sie haben die über Bord gegangenen Lehrlinge gefunden. Sie sind auf einem Schulschiff der Akademie über Bord gegangen. Peinlich berührt bittet [QUEST_SENDER] Sie, seine Sprößlinge zurückzubringen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302038</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Lehrreich </Text>
+                      <LastFinalText>Lehrreich </LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Instructive</Text>
+                      <LastFinalText>Instructive</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Instructif</Text>
+                      <LastFinalText>Instructif</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Instructivo</Text>
+                      <LastFinalText>Instructivo</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Istruttivo</Text>
+                      <LastFinalText>Istruttivo</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302040</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Gedungene Korsaren haben Teile der Akademie geplündert und versuchen jetzt, Erfindungen und Konzepte in alle Welt zu verkaufen. [QUEST_SENDER] bittet Sie, soviele Erfindungen wie möglich zu retten.</Text>
+                      <LastFinalText>Gedungene Korsaren haben Teile der Akademie geplündert und versuchen jetzt, Erfindungen und Konzepte in alle Welt zu verkaufen. [QUEST_SENDER] bittet Sie, soviele Erfindungen wie möglich zu retten.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302041</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Patentspionage</Text>
+                      <LastFinalText>Patentspionage</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Patent espionage</Text>
+                      <LastFinalText>Patent espionage</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Espionnage avéré</Text>
+                      <LastFinalText>Espionnage avéré</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Espionaje patente</Text>
+                      <LastFinalText>Espionaje patente</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Spionaggio manifesto</Text>
+                      <LastFinalText>Spionaggio manifesto</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302043</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] will auf einer abgelegenen Insel eine Forschungsstation errichten. Sein Schiff kann jedoch nicht alles transportieren, was zum Bau benötigt wird. Unterstützen Sie das Bauvorhaben.</Text>
+                      <LastFinalText>[QUEST_SENDER] will auf einer abgelegenen Insel eine Forschungsstation errichten. Sein Schiff kann jedoch nicht alles transportieren, was zum Bau benötigt wird. Unterstützen Sie das Bauvorhaben.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302044</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Die Forschungsstation</Text>
+                      <LastFinalText>Die Forschungsstation</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Research station</Text>
+                      <LastFinalText>The Research station</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>La station de recherche</Text>
+                      <LastFinalText>La station de recherche</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El puesto de investigación</Text>
+                      <LastFinalText>El puesto de investigación</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Il Centro di ricerca</Text>
+                      <LastFinalText>Il Centro di ricerca</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302046</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Immer wieder werden Schiffe, die Schüler zu [QUEST_SENDER]s Akademie bringen, Opfer von Korsarenangriffen. Die Patrouillen sind machtlos. Machen Sie dem ein Ende und bringen die Störenfriede zur Strecke.</Text>
+                      <LastFinalText>Immer wieder werden Schiffe, die Schüler zu [QUEST_SENDER]s Akademie bringen, Opfer von Korsarenangriffen. Die Patrouillen sind machtlos. Machen Sie dem ein Ende und bringen die Störenfriede zur Strecke.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302047</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Schulschiffe in Gefahr</Text>
+                      <LastFinalText>Schulschiffe in Gefahr</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Training Ship in danger</Text>
+                      <LastFinalText>Training Ship in danger</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Navire d’entraînement en danger</Text>
+                      <LastFinalText>Navire d’entraînement en danger</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Barco de prácticas en peligro</Text>
+                      <LastFinalText>Barco de prácticas en peligro</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Nave scuola in pericolo</Text>
+                      <LastFinalText>Nave scuola in pericolo</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302049</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>[QUEST_SENDER] hat ein neuartiges, schnelleres Handelsschiff für den Sultan konzipiert. Nun sollen die Bauarbeiten beginnen, allerdings fehlen Ihm diverse Baumaterialien. Helfen Sie ihm aus!</Text>
+                      <LastFinalText>[QUEST_SENDER] hat ein neuartiges, schnelleres Handelsschiff für den Sultan konzipiert. Nun sollen die Bauarbeiten beginnen, allerdings fehlen Ihm diverse Baumaterialien. Helfen Sie ihm aus!</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>[QUEST_SENDER] has designed an innovative, faster Trading ship for the Sultan. Building work is due to begin, but he lacks various Building materials. Help him out!</Text>
+                      <LastFinalText>[QUEST_SENDER] has designed an innovative, faster Trading ship for the Sultan. Building work is due to begin, but he lacks various Building materials. Help him out!</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] a conçu un Navire de commerce novateur, car plus rapide, pour le Sultan ; les Travaux de Construction doivent commencer sous peu, mais il ne dispose pas des Matériaux de construction requis. Aidez-le !</Text>
+                      <LastFinalText>[QUEST_SENDER] a conçu un Navire de commerce novateur, car plus rapide, pour le Sultan ; les Travaux de Construction doivent commencer sous peu, mais il ne dispose pas des Matériaux de construction requis. Aidez-le !</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>[QUEST_SENDER] ha diseñado un barco mercante innovador y más veloz para el Sultán. El proyecto empezará en breve, pero necesita algunos materiales de construcción. ¡Ayúdalo!</Text>
+                      <LastFinalText>[QUEST_SENDER] ha diseñado un barco mercante innovador y más veloz para el Sultán. El proyecto empezará en breve, pero necesita algunos materiales de construcción. ¡Ayúdalo!</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>[QUEST_SENDER] ha progettato per il Sultano una Nave mercantile innovativa e più veloce. I lavori stanno per iniziare ma ha bisogno di alcuni Materiali da costruzione. Aiutalo!</Text>
+                      <LastFinalText>[QUEST_SENDER] ha progettato per il Sultano una Nave mercantile innovativa e più veloce. I lavori stanno per iniziare ma ha bisogno di alcuni Materiali da costruzione. Aiutalo!</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302050</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Des Sultans Schiff I</Text>
+                      <LastFinalText>Des Sultans Schiff I</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Sultan's Ship I</Text>
+                      <LastFinalText>The Sultan's Ship I</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Navire du Sultan I</Text>
+                      <LastFinalText>Le Navire du Sultan I</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El barco del Sultán I</Text>
+                      <LastFinalText>El barco del Sultán I</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave del Sultano I</Text>
+                      <LastFinalText>La Nave del Sultano I</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302052</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Nach Fertigstellung des Schiffes möchte [QUEST_SENDER] sichergehen, dass es nicht den Falschen in die Hände fällt und sicher beim Sultan ankommt. Sorgen Sie für eine reibungslose Überführung!</Text>
+                      <LastFinalText>Nach Fertigstellung des Schiffes möchte [QUEST_SENDER] sichergehen, dass es nicht den Falschen in die Hände fällt und sicher beim Sultan ankommt. Sorgen Sie für eine reibungslose Überführung!</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>Once the Ship is finished, [QUEST_SENDER] would like to make sure it doesn't fall into the wrong hands and that it reaches the Sultan safe and sound. You must assure its safe passage!</Text>
+                      <LastFinalText>Once the Ship is finished, [QUEST_SENDER] would like to make sure it doesn't fall into the wrong hands and that it reaches the Sultan safe and sound. You must assure its safe passage!</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>[QUEST_SENDER] souhaite s'assurer qu'une fois terminé, le Navire ne tombera pas en de mauvaises mains et sera bien remis au Sultan. Vous devez veiller à ce que le Navire arrive à bon port !</Text>
+                      <LastFinalText>[QUEST_SENDER] souhaite s'assurer qu'une fois terminé, le Navire ne tombera pas en de mauvaises mains et sera bien remis au Sultan. Vous devez veiller à ce que le Navire arrive à bon port !</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>Una vez que el barco esté terminado, a [QUEST_SENDER] le gustaría asegurarse de que no caerá en las manos equivocadas y de que el Sultán lo recibirá sin problemas. ¡Encárgate de que no le pase nada!</Text>
+                      <LastFinalText>Una vez que el barco esté terminado, a [QUEST_SENDER] le gustaría asegurarse de que no caerá en las manos equivocadas y de que el Sultán lo recibirá sin problemas. ¡Encárgate de que no le pase nada!</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>Una volta che la costruzione della Nave sarà terminata, [QUEST_SENDER] vuole essere certo che non cada in mani sbagliate e che raggiunga sana e salva il Sultano. Devi assicurarti che ciò accada!</Text>
+                      <LastFinalText>Una volta che la costruzione della Nave sarà terminata, [QUEST_SENDER] vuole essere certo che non cada in mani sbagliate e che raggiunga sana e salva il Sultano. Devi assicurarti che ciò accada!</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302053</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Des Sultans Schiff II</Text>
+                      <LastFinalText>Des Sultans Schiff II</LastFinalText>
+                    </German>
+                    <English>
+                      <Text>The Sultan's Ship II</Text>
+                      <LastFinalText>The Sultan's Ship II</LastFinalText>
+                    </English>
+                    <French>
+                      <Text>Le Navire du Sultan II</Text>
+                      <LastFinalText>Le Navire du Sultan II</LastFinalText>
+                    </French>
+                    <Spanish>
+                      <Text>El barco del Sultán II</Text>
+                      <LastFinalText>El barco del Sultán II</LastFinalText>
+                    </Spanish>
+                    <Italian>
+                      <Text>La Nave del Sultano II</Text>
+                      <LastFinalText>La Nave del Sultano II</LastFinalText>
+                    </Italian>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302054</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Ein mit [QUEST_SENDER] befreundeter Gelehrter beobachtet auf einer abgelegenen Insel die Flora und Fauna. Damit ihm die Vorräte nicht knapp werden, bittet [QUEST_SENDER] Sie, ihm Proviant zu liefern.</Text>
+                      <LastFinalText>Ein mit [QUEST_SENDER] befreundeter Gelehrter beobachtet auf einer abgelegenen Insel die Flora und Fauna. Damit ihm die Vorräte nicht knapp werden, bittet [QUEST_SENDER] Sie, ihm Proviant zu liefern.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302056</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Es heisst, dass auf einer Insel antike Schriftrollen von unschätzbaren Wert und vergangenem Wissen vergraben sein sollen. [QUEST_SENDER] hat einen Hinweis gefunden und bittet Sie nun, den Schatz zu bergen.</Text>
+                      <LastFinalText>Es heisst, dass auf einer Insel antike Schriftrollen von unschätzbaren Wert und vergangenem Wissen vergraben sein sollen. [QUEST_SENDER] hat einen Hinweis gefunden und bittet Sie nun, den Schatz zu bergen.</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>QuestText</Template>
+              <Values>
+                <Standard>
+                  <GUID>5302057</GUID>
+                  <Status>
+                    <German>
+                      <Status>Final</Status>
+                      <ExportCount>1</ExportCount>
+                    </German>
+                    <English>
+                      <Status>Final</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                    <French>
+                      <Status>Final</Status>
+                    </French>
+                    <Spanish>
+                      <Status>Final</Status>
+                    </Spanish>
+                    <Italian>
+                      <Status>Final</Status>
+                    </Italian>
+                    <Chinese>
+                      <Status>Final</Status>
+                    </Chinese>
+                    <Polish>
+                      <Status>Final</Status>
+                    </Polish>
+                    <Czech>
+                      <Status>Final</Status>
+                    </Czech>
+                    <Russian>
+                      <Status>Final</Status>
+                    </Russian>
+                    <EnglishUS>
+                      <Status>Final</Status>
+                    </EnglishUS>
+                    <SpanishUS>
+                      <Status>Final</Status>
+                    </SpanishUS>
+                    <FrenchUS>
+                      <Status>Final</Status>
+                    </FrenchUS>
+                  </Status>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <German>
+                      <Text>Schriften der Weisheit</Text>
+                      <LastFinalText>Schriften der Weisheit</LastFinalText>
+                    </German>
+                  </LocaText>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>HelperQuests</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Groups>
+            <Group>
+              <Name>FirstSelection</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <Assets>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5302160</GUID>
+                      <Kommentar>Questname</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Das Wissen des Orients</Text>
+                          <LastFinalText>Das Wissen des Orients</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>The Knowledge of the Orient</Text>
+                          <LastFinalText>The Knowledge of the Orient</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>La Sagesse de l'Orient</Text>
+                          <LastFinalText>La Sagesse de l'Orient</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>El saber de Oriente</Text>
+                          <LastFinalText>El saber de Oriente</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>La conoscenza dell'Oriente</Text>
+                          <LastFinalText>La conoscenza dell'Oriente</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5302161</GUID>
+                      <Kommentar>Infotext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Durch die Versorgung der Gelehrten können Sie neue Items gewinnen.</Text>
+                          <LastFinalText>Durch die Versorgung der Gelehrten können Sie neue Items gewinnen.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>You can earn new Items by delivering supplies to the Scholars.</Text>
+                          <LastFinalText>You can earn new Items by delivering supplies to the Scholars.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Vous pouvez obtenir de nouveaux Objets en fournissant des Vivres aux Érudits.</Text>
+                          <LastFinalText>Vous pouvez obtenir de nouveaux Objets en fournissant des Vivres aux Érudits.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>Puedes conseguir objetos nuevos si proporcionas suministros a los eruditos.</Text>
+                          <LastFinalText>Puedes conseguir objetos nuevos si proporcionas suministros a los eruditos.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Puoi guadagnare nuovi Oggetti consegnando rifornimenti agli Studiosi.</Text>
+                          <LastFinalText>Puoi guadagnare nuovi Oggetti consegnando rifornimenti agli Studiosi.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>QuestText</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>5302162</GUID>
+                      <Kommentar>Storytext</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[QUEST_SENDER] und seine Gelehrte tüfteln an neuen Technologien und Gegenständen. Binden Sie seine Akademie der Weisen mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Damit [QUEST_SENDER] an neuen Erfindungen arbeiten kann, müssen die dafür benötigten Waren kontinuierlich in Ihrem Handelsgebäude zur Verfügung stehen.Die Ergebnisse seiner Forschungen werden direkt bei Ihnen abgeliefert.</Text>
+                          <LastFinalText>[QUEST_SENDER] und seine Gelehrte tüfteln an neuen Technologien und Gegenständen. Binden Sie seine Akademie der Weisen mittels Straße an eines Ihrer Handelsgebäude an, um davon zu profitieren![CR] [CR]Damit [QUEST_SENDER] an neuen Erfindungen arbeiten kann, müssen die dafür benötigten Waren kontinuierlich in Ihrem Handelsgebäude zur Verfügung stehen.Die Ergebnisse seiner Forschungen werden direkt bei Ihnen abgeliefert.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[QUEST_SENDER] and his Scholars are always working on new Technologies and Objects. Create a Road connection between his Academy of Philosphers and one of your Trade buildings to take advantage of this![CR]You must have a continuous supply of the required Goods in your Trade building to enable [QUEST_SENDER] to work on new Inventions. The results of his Research will be delivered to you direct.</Text>
+                          <LastFinalText>[QUEST_SENDER] and his Scholars are always working on new Technologies and Objects. Create a Road connection between his Academy of Philosphers and one of your Trade buildings to take advantage of this![CR]You must have a continuous supply of the required Goods in your Trade building to enable [QUEST_SENDER] to work on new Inventions. The results of his Research will be delivered to you direct.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[QUEST_SENDER] et ses Érudits étudient constamment de nouveaux Objets et Technologies. Créez une Route entre l'Académie des Philosophes et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Vous devez continuellement approvisionner le Bâtiment de Commerce en Marchandises requises pour qu'[QUEST_SENDER] puisse développer de nouvelles Inventions. Les résultats de ses Recherches vous seront directement remis.</Text>
+                          <LastFinalText>[QUEST_SENDER] et ses Érudits étudient constamment de nouveaux Objets et Technologies. Créez une Route entre l'Académie des Philosophes et l'un de vos Bâtiments de Commerce pour en profiter ![CR]Vous devez continuellement approvisionner le Bâtiment de Commerce en Marchandises requises pour qu'[QUEST_SENDER] puisse développer de nouvelles Inventions. Les résultats de ses Recherches vous seront directement remis.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[QUEST_SENDER] y sus eruditos están siempre trabajando para crear nuevas tecnologías y objetos. ¡Crea un camino de acceso entre su Academia de filósofos y uno de tus edificios comerciales para sacarle partido![CR] Para que [QUEST_SENDER] trabaje en nuevos inventos, debes tener un suministro continuo de los bienes necesarios en tu edificio comercial. Los resultados de su investigación te serán entregados directamente.</Text>
+                          <LastFinalText>[QUEST_SENDER] y sus eruditos están siempre trabajando para crear nuevas tecnologías y objetos. ¡Crea un camino de acceso entre su Academia de filósofos y uno de tus edificios comerciales para sacarle partido![CR] Para que [QUEST_SENDER] trabaje en nuevos inventos, debes tener un suministro continuo de los bienes necesarios en tu edificio comercial. Los resultados de su investigación te serán entregados directamente.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[QUEST_SENDER] e i suoi Studiosi sono sempre al lavoro su nuovi Oggetti e Tecnologie. Crea una Strada che colleghi l'Accademia dei filosofi a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]La Bottega dovrà sempre essere rifornita delle Merci necessarie per consentire a [QUEST_SENDER] di lavorare a nuove Invenzioni. I risultati delle Ricerche ti saranno consegnati direttamente.</Text>
+                          <LastFinalText>[QUEST_SENDER] e i suoi Studiosi sono sempre al lavoro su nuovi Oggetti e Tecnologie. Crea una Strada che colleghi l'Accademia dei filosofi a una delle tue Botteghe per sfruttare questa situazione a tuo vantaggio![CR]La Bottega dovrà sempre essere rifornita delle Merci necessarie per consentire a [QUEST_SENDER] di lavorare a nuove Invenzioni. I risultati delle Ricerche ti saranno consegnati direttamente.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Character Audio</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Ibn al Hakim</Sprecher>
+                      <Intonation>weise</Intonation>
+                    </Sound>
+                    <Standard>
+                      <GUID>5302163</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>Wenn für unser Wohl gesorgt ist, können wir uns ganz auf neue Entdeckungen konzentrieren...</Text>
+                          <LastFinalText>Wenn für unser Wohl gesorgt ist, können wir uns ganz auf neue Entdeckungen konzentrieren...</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>If you attend to our welfare, we can dedicate ourselves to making new discoveries…</Text>
+                          <LastFinalText>If you attend to our welfare, we can dedicate ourselves to making new discoveries…</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>Si vous veillez à notre bien-être, nous pourrons nous consacrer à de nouvelles découvertes...</Text>
+                          <LastFinalText>Si vous veillez à notre bien-être, nous pourrons nous consacrer à de nouvelles découvertes...</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>Si se ocupa de nuestro bienestar, podremos dedicarnos a realizar nuevos descubrimiento...</Text>
+                          <LastFinalText>Si se ocupa de nuestro bienestar, podremos dedicarnos a realizar nuevos descubrimiento...</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>Se provvederai al nostro benessere, potremo dedicarci a nuove scoperte...</Text>
+                          <LastFinalText>Se provvederai al nostro benessere, potremo dedicarci a nuove scoperte...</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>CharacterText</Template>
+                  <Values>
+                    <Sound>
+                      <Sprecher>Ibn al Hakim</Sprecher>
+                    </Sound>
+                    <Standard>
+                      <GUID>5302164</GUID>
+                      <Kommentar>Start Heplerquest</Kommentar>
+                      <Status>
+                        <German>
+                          <Status>Final</Status>
+                        </German>
+                        <English>
+                          <Status>Final</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                        <French>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </French>
+                        <Spanish>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Spanish>
+                        <Italian>
+                          <Status>Final</Status>
+                          <ExportCount>1</ExportCount>
+                        </Italian>
+                        <Russian>
+                          <Status>Exported</Status>
+                        </Russian>
+                      </Status>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <German>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] bietet Ihnen seinen Erfindungen an, wenn Sie für den Unterhalt der Akademie aufkommen.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] bietet Ihnen seinen Erfindungen an, wenn Sie für den Unterhalt der Akademie aufkommen.</LastFinalText>
+                        </German>
+                        <English>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] is offering you his Inventions if you pay the Maintenance costs for the Academy.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] is offering you his Inventions if you pay the Maintenance costs for the Academy.</LastFinalText>
+                        </English>
+                        <French>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] vous propose de vous faire profiter de ses Inventions si vous financez le coût de l'Entretien de l'Académie.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous propose de vous faire profiter de ses Inventions si vous financez le coût de l'Entretien de l'Académie.</LastFinalText>
+                        </French>
+                        <Spanish>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] te ofrece sus inventos si pagas los costes de mantenimiento de la Academia.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] te ofrece sus inventos si pagas los costes de mantenimiento de la Academia.</LastFinalText>
+                        </Spanish>
+                        <Italian>
+                          <Text>[THIRDPARTY_SENDER_PLAYER] ti offre le sue Invenzioni se paghi i Costi di manutenzione dell'Accademia.</Text>
+                          <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ti offre le sue Invenzioni se paghi i Costi di manutenzione dell'Accademia.</LastFinalText>
+                        </Italian>
+                      </LocaText>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

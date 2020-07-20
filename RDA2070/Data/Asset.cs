@@ -33,7 +33,7 @@ namespace RDA.Data {
     public string Cooldown { get; set; }
     public string EffectDuration { get; set; }
     public string UtilizationCount { get; set; }
-    public UpgradeList Upgrade { get; private set; }
+    public UpgradeList Upgrade { get; set; }
     public List<Description> AffectTargets { get; set; }
     public List<Description> TargetCategories { get; set; } = new List<Description>();
 
@@ -41,28 +41,28 @@ namespace RDA.Data {
     public UpgradeList Seed { get; set; }
     public bool IsQuestItem { get; set; }
     public bool IsPassiveItem { get; set; }
-    public bool IsScienceItem { get; private set; }
+    public bool IsScienceItem { get; set; }
     public List<TempSource> Sources { get; set; }
-    public UpgradeList TollBalancing { get; private set; }
-    public UpgradeList Document { get; private set; }
-    public UpgradeList PrestigeItem { get; private set; }
-    public UpgradeList GlobalUpgrade { get; private set; }
-    public UpgradeList WarehouseUpgrade { get; private set; }
-    public UpgradeList PublicBuildingUpgrade { get; private set; }
-    public UpgradeList ProductionUpgrade { get; private set; }
-    public UpgradeList BuildCostUpgrade { get; private set; }
-    public UpgradeList UnitUpgrade { get; private set; }
-    public UpgradeList TransportUpgrade { get; private set; }
-    public UpgradeList ShipUpgrade { get; private set; }
-    public UpgradeList ShipRepairUpgrade { get; private set; }
-    public UpgradeList ShipCombatUpgrade { get; private set; }
-    public UpgradeList HitpointUpgrade { get; private set; }
-    public UpgradeList CostUpgrades { get; private set; }
-    public string Wiki { get; private set; }
-    public Description ItemFaction { get; private set; }
-    public Description ItemAllocationCategory { get; private set; }
-    public Description ItemDescription { get; private set; }
-    public Description BuffDescription { get; private set; }
+    public UpgradeList TollBalancing { get; set; }
+    public UpgradeList Document { get; set; }
+    public UpgradeList PrestigeItem { get; set; }
+    public UpgradeList GlobalUpgrade { get; set; }
+    public UpgradeList WarehouseUpgrade { get; set; }
+    public UpgradeList PublicBuildingUpgrade { get; set; }
+    public UpgradeList ProductionUpgrade { get; set; }
+    public UpgradeList BuildCostUpgrade { get; set; }
+    public UpgradeList UnitUpgrade { get; set; }
+    public UpgradeList TransportUpgrade { get; set; }
+    public UpgradeList ShipUpgrade { get; set; }
+    public UpgradeList ShipRepairUpgrade { get; set; }
+    public UpgradeList ShipCombatUpgrade { get; set; }
+    public UpgradeList HitpointUpgrade { get; set; }
+    public UpgradeList CostUpgrades { get; set; }
+    public string Wiki { get; set; }
+    public Description ItemFaction { get; set; }
+    public Description ItemAllocationCategory { get; set; }
+    public Description ItemDescription { get; set; }
+    public Description BuffDescription { get; set; }
 
     #endregion Properties
 

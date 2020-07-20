@@ -1,0 +1,1917 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41301000</GUIDRangeMin>
+      <GUIDRangeMax>41301019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Schlüssel der Macht</Text>
+                  <LastFinalText>Schlüssel der Macht</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The key to power</Text>
+                  <LastFinalText>The key to power</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Ключ к власти</Text>
+                  <LastFinalText>Ключ к власти</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>La clé du pouvoir</Text>
+                  <LastFinalText>La clé du pouvoir</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La llave del poder</Text>
+                  <LastFinalText>La llave del poder</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>La chiave per il potere</Text>
+                  <LastFinalText>La chiave per il potere</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Klucz do władzy</Text>
+                  <LastFinalText>Klucz do władzy</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Klíč k moci</Text>
+                  <LastFinalText>Klíč k moci</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Giacomo Garibaldi vom Rat der Zehn hat einen delikaten Auftrag für Sie: </Text>
+                  <LastFinalText>Giacomo Garibaldi vom Rat der Zehn hat einen delikaten Auftrag für Sie: </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Council of the ten member Giacomo Garibaldi has a delicate assignment for you:</Text>
+                  <LastFinalText>Council of the ten member Giacomo Garibaldi has a delicate assignment for you:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>У Джакомо Гарибальди из Совета десяти есть для вас деликатное поручение: </Text>
+                  <LastFinalText>У Джакомо Гарибальди из Совета десяти есть для вас деликатное поручение: </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Giacomo Garibaldi, membre du Conseil des Dix, a une mission délicate à vous confier :</Text>
+                  <LastFinalText>Giacomo Garibaldi, membre du Conseil des Dix, a une mission délicate à vous confier :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Giacomo Garibaldi, miembro del Consejo de los Diez, tiene un delicado encargo:</Text>
+                  <LastFinalText>Giacomo Garibaldi, miembro del Consejo de los Diez, tiene un delicado encargo:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Il membro del Consiglio dei Dieci Giacomo Garibaldi ha un incarico delicato per te:</Text>
+                  <LastFinalText>Il membro del Consiglio dei Dieci Giacomo Garibaldi ha un incarico delicato per te:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Członek Rady Dziesięciu, Giacomo Garibaldi, ma dla ciebie delikatne zadanie:</Text>
+                  <LastFinalText>Członek Rady Dziesięciu, Giacomo Garibaldi, ma dla ciebie delikatne zadanie:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Člen rady deseti Giacomo Garibaldi má pro vás zvláštní úkol:</Text>
+                  <LastFinalText>Člen rady deseti Giacomo Garibaldi má pro vás zvláštní úkol:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301002</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Es gilt, dem venezianischen Imperium eine Insel einzuverleiben, ... </Text>
+                  <LastFinalText>Es gilt, dem venezianischen Imperium eine Insel einzuverleiben, ... </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>It is imperative that some islands be incorporated into the Venetian republic</Text>
+                  <LastFinalText>It is imperative that some islands be incorporated into the Venetian republic</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Нужно присоединить к венецианской империи несколько островов, ... </Text>
+                  <Status>Exported</Status>
+                </Russian>
+                <French>
+                  <Text>il est capital que certaines îles soient incorporées à la République vénitienne</Text>
+                  <LastFinalText>il est capital que certaines îles soient incorporées à la République vénitienne</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>es imprescindible incorporar algunas islas a la República veneciana</Text>
+                  <LastFinalText>es imprescindible incorporar algunas islas a la república veneciana</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>È necessario che alcune isole vengano incorporate nella Repubblica veneziana</Text>
+                  <LastFinalText>È necessario che alcune isole vengano incorporate nella Repubblica veneziana</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>trzeba przyłączyć pewne wyspy do Republiki Wenecji</Text>
+                  <LastFinalText>trzeba przyłączyć pewne wyspy do Republiki Wenecji</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Je nutné, aby byly některé ostrovy zahrnuty do benátské republiky,</Text>
+                  <LastFinalText>Je nutné, aby byly některé ostrovy zahrnuty do benátské republiky,</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... ohne sich dabei auf diplomatisches Glatteis zu begeben.</Text>
+                  <LastFinalText>... ohne sich dabei auf diplomatisches Glatteis zu begeben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>without disturbing the diplomatic balance. </Text>
+                  <LastFinalText>without disturbing the diplomatic balance. </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... не осложнив при этом дипломатических отношений.</Text>
+                  <LastFinalText>... не осложнив при этом дипломатических отношений.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>sans affecter l'équilibre diplomatique.</Text>
+                  <LastFinalText>sans affecter l'équilibre diplomatique.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>sin perturbar el equilibrio diplomático. </Text>
+                  <LastFinalText>sin perturbar el equilibrio diplomático. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>senza alterare l'equilibrio diplomatico.</Text>
+                  <LastFinalText>senza alterare l'equilibrio diplomatico.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>nie szkodząc przy tym równowadze dyplomatycznej. </Text>
+                  <LastFinalText>nie szkodząc przy tym równowadze dyplomatycznej. </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>aniž by byla porušena diplomatická rovnováha.</Text>
+                  <LastFinalText>aniž by byla porušena diplomatická rovnováha.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Beweisen Sie Scharfsinn und List! </Text>
+                  <LastFinalText>Beweisen Sie Scharfsinn und List! </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Prove your intelligence and cunning!</Text>
+                  <LastFinalText>Prove your intelligence and cunning!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вам придется продемонстрировать хитрость и проницательность! </Text>
+                  <LastFinalText>Вам придется продемонстрировать хитрость и проницательность! </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Faites preuve d'intelligence et d'habileté !</Text>
+                  <LastFinalText>Faites preuve d'intelligence et d'habileté !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Demuestra tu inteligencia y tu astucia!</Text>
+                  <LastFinalText>¡Demuestra tu inteligencia y tu astucia!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Dai prova di intelligenza e astuzia!</Text>
+                  <LastFinalText>Dai prova di intelligenza e astuzia!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Wykaż się inteligencją i sprytem!</Text>
+                  <LastFinalText>Wykaż się inteligencją i sprytem!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Dokažte svou inteligenci a mazanost!</Text>
+                  <LastFinalText>Dokažte svou inteligenci a mazanost!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Nur so können Sie die Herrschaft über die Nachbarinsel erlangen ...</Text>
+                  <LastFinalText>Nur so können Sie die Herrschaft über die Nachbarinsel erlangen ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>That is the only way to gain control of the nearby islands ...</Text>
+                  <LastFinalText>That is the only way to gain control of the nearby islands ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Только так вы сможете завладеть соседними островами...</Text>
+                  <Status>Exported</Status>
+                </Russian>
+                <French>
+                  <Text>C'est le seul moyen de prendre le contrôle des îles voisines...</Text>
+                  <LastFinalText>C'est le seul moyen de prendre le contrôle des îles voisines...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Es el único modo de hacerte con el control de las islas cercanas...</Text>
+                  <LastFinalText>Es el único modo de hacerte con el control de las islas cercanas...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>È l'unico modo di ottenere il controllo delle isole vicine...</Text>
+                  <LastFinalText>È l'unico modo di ottenere il controllo delle isole vicine...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Tylko tak można opanować pobliskie wyspy...</Text>
+                  <LastFinalText>Tylko tak można opanować pobliskie wyspy...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Je to jediný způsob, jak získat kontrolu nad okolními ostrovy...</Text>
+                  <LastFinalText>Je to jediný způsob, jak získat kontrolu nad okolními ostrovy...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... und damit die Anerkennung Garibaldis!</Text>
+                  <LastFinalText>... und damit die Anerkennung Garibaldis!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... and earn Garibaldi's respect! </Text>
+                  <LastFinalText>... and earn Garibaldi's respect! </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... а вместе с ними - расположением Гарибальди!</Text>
+                  <LastFinalText>... а вместе с ними - расположением Гарибальди!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... et de gagner le respect de Garibaldi !</Text>
+                  <LastFinalText>... et de gagner le respect de Garibaldi !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... ¡y ganarte el respeto de Garibaldi! </Text>
+                  <LastFinalText>... ¡y ganarte el respeto de Garibaldi! </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...e guadagnarsi il rispetto di Garibaldi!</Text>
+                  <LastFinalText>...e guadagnarsi il rispetto di Garibaldi!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...i zdobyć szacunek Garibaldiego!</Text>
+                  <LastFinalText>...i zdobyć szacunek Garibaldiego!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... a získat si tak Garibaldiho úctu!</Text>
+                  <LastFinalText>... a získat si tak Garibaldiho úctu!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301007</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Mit Geschick und einer wohlgefüllten Goldschatulle haben Sie es geschafft, ...</Text>
+                  <LastFinalText>Mit Geschick und einer wohlgefüllten Goldschatulle haben Sie es geschafft, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>With expertise and a full purse you managed …</Text>
+                  <LastFinalText>With expertise and a full purse you managed …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Благодаря известной ловкости и золотой шкатулке с драгоценностями вам удалось...</Text>
+                  <LastFinalText>Благодаря известной ловкости и золотой шкатулке с драгоценностями вам удалось...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Avec votre expertise et une bourse bien garnie, vous avez...</Text>
+                  <LastFinalText>Avec votre expertise et une bourse bien garnie, vous avez...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Con pericia y el bolsillo lleno has conseguido...</Text>
+                  <LastFinalText>Con pericia y el bolsillo lleno has conseguido...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Con perizia e abbondanza di fondi hai potuto...</Text>
+                  <LastFinalText>Con perizia e abbondanza di fondi hai potuto...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Dzięki umiejętnościom i pełnej sakiewce udało ci się…</Text>
+                  <LastFinalText>Dzięki umiejętnościom i pełnej sakiewce udało ci się…</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Díky znalostem a penězům se vám podařilo...</Text>
+                  <LastFinalText>Díky znalostem a penězům se vám podařilo...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301008</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... die Ratsversammlungen der Nachbarinsel für sich zu gewinnen! </Text>
+                  <LastFinalText>... die Ratsversammlungen der Nachbarinsel für sich zu gewinnen! </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... to take over the councils on the neighboring islands!</Text>
+                  <LastFinalText>... to take over the councils on the neighboring islands!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... склонить на свою сторону Советы соседних островов! </Text>
+                  <Status>Exported</Status>
+                </Russian>
+                <French>
+                  <Text>... pris le contrôle des conseils des îles voisines !</Text>
+                  <LastFinalText>... pris le contrôle des conseils des îles voisines !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... ¡controlar los ayuntamientos de las islas vecinas!</Text>
+                  <LastFinalText>... ¡controlar los ayuntamientos de las islas vecinas!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>...prendere il controllo dei consigli cittadini delle isole vicine!</Text>
+                  <LastFinalText>...prendere il controllo dei consigli cittadini delle isole vicine!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>...przejąć rady sąsiednich wysp!</Text>
+                  <LastFinalText>...przejąć rady sąsiednich wysp!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... ovládnout rady okolních ostrovů!</Text>
+                  <LastFinalText>... ovládnout rady okolních ostrovů!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301009</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als Giacomo Garibaldi den Stadtschlüssel entgegen nimmt, ...</Text>
+                  <LastFinalText>Als Giacomo Garibaldi den Stadtschlüssel entgegen nimmt, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As Giacomo Garibaldi receives the key to the cities …</Text>
+                  <LastFinalText>As Giacomo Garibaldi receives the key to the cities …</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Когда Джакомо Гарибальди принимал ключи от города, ...</Text>
+                  <Status>Exported</Status>
+                </Russian>
+                <French>
+                  <Text>Alors que Garibaldi reçoit la clé des villes...</Text>
+                  <LastFinalText>Alors que Garibaldi reçoit la clé des villes...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando Giacomo Garibaldi recibe la llave de las ciudades...</Text>
+                  <LastFinalText>Cuando Giacomo Garibaldi recibe la llave de las ciudades...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Quando Giacomo Garibaldi riceve le chiavi delle città...</Text>
+                  <LastFinalText>Quando Giacomo Garibaldi riceve le chiavi delle città...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Gdy Giacomo Garibaldi odbiera klucze do miast...</Text>
+                  <LastFinalText>Gdy Giacomo Garibaldi odbiera klucze do miast...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Když Giacomo Garibaldi převzal klíč k městům ...</Text>
+                  <LastFinalText>Když Giacomo Garibaldi převzal klíč k městům ...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301010</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>...  liegt ein zufriedenes Funkeln in seinen Augen. </Text>
+                  <LastFinalText>...  liegt ein zufriedenes Funkeln in seinen Augen. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>a satisfied glint appears in his eyes.</Text>
+                  <LastFinalText>a satisfied glint appears in his eyes.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>...  в его глазах заблестели довольные искорки. </Text>
+                  <LastFinalText>...  в его глазах заблестели довольные искорки. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>... son regard s'illumine de satisfaction.</Text>
+                  <LastFinalText>... son regard s'illumine de satisfaction.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>se aprecia un destello de satisfacción en su mirada.</Text>
+                  <LastFinalText>se aprecia un destello de satisfacción en su mirada.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>un bagliore di soddisfazione compare nei suoi occhi.</Text>
+                  <LastFinalText>un bagliore di soddisfazione compare nei suoi occhi.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>w jego oczach widać błysk zadowolenia.</Text>
+                  <LastFinalText>w jego oczach widać błysk zadowolenia.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>v očích se mu objeví záblesk spokojenosti.</Text>
+                  <LastFinalText>v očích se mu objeví záblesk spokojenosti.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301011</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Und das sagt mehr, als tausend Dankesworte...</Text>
+                  <LastFinalText>Und das sagt mehr, als tausend Dankesworte...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A glint that says more than words ever could ...</Text>
+                  <LastFinalText>A glint that says more than words ever could ...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>И это сказало вам больше, чем тысячи благодарностей...</Text>
+                  <LastFinalText>И это сказало вам больше, чем тысячи благодарностей...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un regard qui en dit bien plus long que des mots...</Text>
+                  <LastFinalText>Un regard qui en dit bien plus long que des mots...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Un destello más locuaz que las palabras...</Text>
+                  <LastFinalText>Un destello más locuaz que las palabras...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Un bagliore che vale più di mille parole...</Text>
+                  <LastFinalText>Un bagliore che vale più di mille parole...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Ten błysk mówi więcej niż słowa...</Text>
+                  <LastFinalText>Ten błysk mówi więcej niż słowa...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Záblesk, který se nedá popsat slovy...</Text>
+                  <LastFinalText>Záblesk, který se nedá popsat slovy...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <GUIDRangeMin>41301020</GUIDRangeMin>
+      <GUIDRangeMax>41301049</GUIDRangeMax>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Im Auftrag des Rates</Text>
+                  <LastFinalText>Im Auftrag des Rates</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>On council orders</Text>
+                  <LastFinalText>On council orders</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>По поручению Совета</Text>
+                  <LastFinalText>По поручению Совета</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Sur les ordres du Conseil</Text>
+                  <LastFinalText>Sur les ordres du Conseil</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Órdenes del Consejo</Text>
+                  <LastFinalText>Órdenes del Consejo</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Agli ordini del consiglio</Text>
+                  <LastFinalText>Agli ordini del consiglio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Na rozkaz rady</Text>
+                  <LastFinalText>Na rozkaz rady</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Na příkaz rady</Text>
+                  <LastFinalText>Na příkaz rady</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301051</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erwerben Sie den Stadtschlüssel von [GUIDNAME 1645021]s Hauptinsel, ohne dabei einen Krieg zu provozieren.</Text>
+                  <LastFinalText>Erwerben Sie den Stadtschlüssel von [GUIDNAME 1645021]s Hauptinsel, ohne dabei einen Krieg zu provozieren.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Get the keys to [GUIDNAME 1645021]'s main island without starting a war in the process.</Text>
+                  <LastFinalText>Get the keys to [GUIDNAME 1645021]'s main island without starting a war in the process.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Получите ключ от города [GUIDNAME 1645021], не спровоцировав войну.</Text>
+                  <LastFinalText>Получите ключ от города [GUIDNAME 1645021], не спровоцировав войну.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Apportez les clés à l'île principale de [GUIDNAME 1645021] sans déclencher de guerre.</Text>
+                  <LastFinalText>Apportez les clés à l'île principale de [GUIDNAME 1645021] sans déclencher de guerre.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Consigue las llaves de la isla principal de [GUIDNAME 1645021] sin provocar una guerra.</Text>
+                  <LastFinalText>Consigue las llaves de la isla principal de [GUIDNAME 1645021] sin provocar una guerra.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Conquista le chiavi dell'isola principale di [GUIDNAME 1645021] senza scatenare una guerra.</Text>
+                  <LastFinalText>Conquista le chiavi dell'isola principale di [GUIDNAME 1645021] senza scatenare una guerra.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Zdobądź klucze do głównej wyspy: [GUIDNAME 1645021], nie wszczynając przy tym wojny.</Text>
+                  <LastFinalText>Zdobądź klucze do głównej wyspy: [GUIDNAME 1645021], nie wszczynając przy tym wojny.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Získejte klíče k hlavnímu ostrovu postavy jménem [GUIDNAME 1645021], aniž byste rozpoutal válku.</Text>
+                  <LastFinalText>Získejte klíče k hlavnímu ostrovu postavy jménem [GUIDNAME 1645021], aniž byste rozpoutal válku.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Urkunden, die [QUEST_SENDER] jüngst entdeckte, belegen es eindeutig: Das Land, auf dem sich die Stadt von [GUIDNAME 1645021] erstreckt, ist in Wahrheit Eigentum des venezianischen Imperiums! Jahrelang wurde dieser Missstand übersehen, doch nun muss Schluss damit sein.[CR] [CR]Eine kriegerische Auseinandersetzung steht jedoch völlig außer Frage, schließlich wollen [QUEST_SENDER] und der Rat der Zehn ihre diplomatischen und wirtschaftlichen Beziehungen zum jetzigen Eigentümer nicht gefährden. Eine subtilere Lösung muss her...</Text>
+                  <LastFinalText>Urkunden, die [QUEST_SENDER] jüngst entdeckte, belegen es eindeutig: Das Land, auf dem sich die Stadt von [GUIDNAME 1645021] erstreckt, ist in Wahrheit Eigentum des venezianischen Imperiums! Jahrelang wurde dieser Missstand übersehen, doch nun muss Schluss damit sein.[CR] [CR]Eine kriegerische Auseinandersetzung steht jedoch völlig außer Frage, schließlich wollen [QUEST_SENDER] und der Rat der Zehn ihre diplomatischen und wirtschaftlichen Beziehungen zum jetzigen Eigentümer nicht gefährden. Eine subtilere Lösung muss her...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[QUEST_SENDER] recently discovered documents which prove beyond a shadow of a doubt: the land upon which [GUIDNAME 1645021]'s city stands actually belongs to the Venetian empire! This grievance has been overlooked for years, but now the time has come to change that.[CR][CR]A military conflict, however, is absolutely out of question, as [QUEST_SENDER] and the Council of the Ten do not want to jeopardise their diplomatic and economic relations with the current owners. A more subtle solution is required ...</Text>
+                  <LastFinalText>[QUEST_SENDER] recently discovered documents which prove beyond a shadow of a doubt: the land upon which [GUIDNAME 1645021]'s city stands actually belongs to the Venetian empire! This grievance has been overlooked for years, but now the time has come to change that.[CR][CR]A military conflict, however, is absolutely out of question, as [QUEST_SENDER] and the Council of the Ten do not want to jeopardize their diplomatic and economic relations with the current owners. A more subtle solution is required ...</LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>В документах, которые недавно обнаружил [QUEST_SENDER], говорится: Земля, на которой расположен город [GUIDNAME 1645021], на самом деле является собственностью венецианской империи! Много лет на это безобразие никто не обращал внимания, но теперь пришла пора покончить с этим.[CR] [CR]При этом вооруженный конфликт полностью исключен, ведь [QUEST_SENDER] и Совет десяти не хотят осложнять дипломатические и хозяйственные отношения с нынешним собственником. Найти решение будет непросто...</Text>
+                  <LastFinalText>В документах, которые недавно обнаружил [QUEST_SENDER], говорится: Земля, на которой расположен город [GUIDNAME 1645021], на самом деле является собственностью венецианской империи! Много лет на это безобразие никто не обращал внимания, но теперь пришла пора покончить с этим.[CR] [CR]При этом вооруженный конфликт полностью исключен, ведь [QUEST_SENDER] и Совет десяти не хотят осложнять дипломатические и хозяйственные отношения с нынешним собственником. Найти решение будет непросто...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[QUEST_SENDER] a récemment découvert des documents qui affirment sans l'ombre d'un doute que la région où se trouve la ville de [GUIDNAME 1645021] appartient en réalité à l'empire vénitien ! Ce point a été longtemps ignoré, mais l'heure est au changement.[CR][CR]Toutefois, un conflit militaire est absolument hors de question, [QUEST_SENDER] et le Conseil des Dix refusent de compromettre leurs relations diplomatiques et économiques avec les actuels propriétaires. Il faut trouver une solution plus subtile...</Text>
+                  <LastFinalText>[QUEST_SENDER] a récemment découvert des documents qui affirment sans l'ombre d'un doute que la région où se trouve la ville de [GUIDNAME 1645021] appartient en réalité à l'empire vénitien ! Ce point a été longtemps ignoré, mais l'heure est au changement.[CR][CR]Toutefois, un conflit militaire est absolument hors de question, [QUEST_SENDER] et le Conseil des Dix refusent de compromettre leurs relations diplomatiques et économiques avec les actuels propriétaires. Il faut trouver une solution plus subtile...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[QUEST_SENDER] ha descubierto hace poco unos documentos que demuestran sin asomo de duda que el terreno sobre el que se erige la ciudad de [GUIDNAME 1645021] pertenece en realidad al Imperio Veneciano. Se ha obviado este hecho durante años, pero ya ha llegado el momento de que eso cambie.[CR][CR]Sin embargo, un conflicto militar no es una alternativa viable: [QUEST_SENDER] y el Consejo de los Diez no quieren poner en peligro sus relaciones económicas y diplomáticas con los actuales propietarios. Hace falta una solución más sutil...</Text>
+                  <LastFinalText>[QUEST_SENDER] ha descubierto hace poco unos documentos que demuestran sin asomo de duda que el terreno sobre el que se erige la ciudad de [GUIDNAME 1645021] pertenece en realidad al imperio veneciano. Se ha obviado este hecho durante años, pero ya ha llegado el momento de que eso cambie.[CR][CR]Sin embargo, un conflicto militar no es una alternativa viable: [QUEST_SENDER] y el Consejo de los Diez no quieren poner en peligro sus relaciones económicas y diplomáticas con los actuales propietarios. Hace falta una solución más sutil...</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Recentemente [QUEST_SENDER] ha scoperto dei documenti che provano senza ombra di dubbio che la terra su cui sorge la città di [GUIDNAME 1645021] appartiene all'Impero veneziano! Si è sorvolato su questa ingiustizia per anni, ma ora è giunto il momento di porvi rimedio.[CR][CR]Un conflitto armato, tuttavia, è fuori discussione, perché [QUEST_SENDER] e il Consiglio dei Dieci non vogliono mettere a rischio le loro relazioni diplomatiche ed economiche con gli attuali proprietari. Bisognerà agire d'astuzia...</Text>
+                  <LastFinalText>Recentemente [QUEST_SENDER] ha scoperto dei documenti che provano senza ombra di dubbio che la terra su cui sorge la città di [GUIDNAME 1645021] appartiene all'Impero veneziano! Si è sorvolato su questa ingiustizia per anni, ma ora è giunto il momento di porvi rimedio.[CR][CR]Un conflitto armato, tuttavia, è fuori discussione, perché [QUEST_SENDER] e il Consiglio dei Dieci non vogliono mettere a rischio le loro relazioni diplomatiche ed economiche con gli attuali proprietari. Bisognerà agire d'astuzia...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Osoba znana jako [QUEST_SENDER] ostatnio weszła w posiadanie dokumentów dowodzących ponad wszelką wątpliwość, że ziemia na której stoi miasto, którym włada [GUIDNAME 1645021], jest tak naprawdę własnością Wenecji! Niesprawiedliwość ta była ignorowana przez lata, ale nadszedł czas, by to zmienić.[CR][CR]Otwarte starcie zbrojne nie wchodzi w grę, ponieważ [QUEST_SENDER] i Rada Dziesięciu nie chcą narażać stosunków dyplomatycznych i gospodarczych z aktualnym panem tych włości. Potrzebne jest subtelniejsze rozwiązanie...</Text>
+                  <LastFinalText>Osoba znana jako [QUEST_SENDER] ostatnio weszła w posiadanie dokumentów dowodzących ponad wszelką wątpliwość, że ziemia na której stoi miasto, którym włada [GUIDNAME 1645021], jest tak naprawdę własnością Wenecji! Niesprawiedliwość ta była ignorowana przez lata, ale nadszedł czas, by to zmienić.[CR][CR]Otwarte starcie zbrojne nie wchodzi w grę, ponieważ [QUEST_SENDER] i Rada Dziesięciu nie chcą narażać stosunków dyplomatycznych i gospodarczych z aktualnym panem tych włości. Potrzebne jest subtelniejsze rozwiązanie...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[QUEST_SENDER] nedávno objevuje dokumenty, které prokazují nade vší pochybnost, že půda, na které stojí město postavy jménem [GUIDNAME 1645021], patří benátské říši! Tahle křivda byla celá léta přehlížena, ale nyní nadešel čas to změnit.[CR][CR]Ozbrojený konflikt ale nepřichází vůbec v úvahu, neboť [QUEST_SENDER] a rada deseti nechtějí ohrozit své diplomatické a ekonomické vztahy se současnými majiteli. Bude třeba to vyřešit nějak mazaněji...</Text>
+                  <LastFinalText>[QUEST_SENDER] nedávno objevuje dokumenty, které prokazují nade vší pochybnost, že půda, na které stojí město postavy jménem [GUIDNAME 1645021], patří benátské říši! Tahle křivda byla celá léta přehlížena, ale nyní nadešel čas to změnit.[CR][CR]Ozbrojený konflikt ale nepřichází vůbec v úvahu, neboť [QUEST_SENDER] a rada deseti nechtějí ohrozit své diplomatické a ekonomické vztahy se současnými majiteli. Bude třeba to vyřešit nějak mazaněji...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301054</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] beansprucht die Hauptinsel von [GUIDNAME 1645021] für das venezianische Imperium und beauftragt Sie, die dort ansässige Ratsversammlung für sich zu gewinnen.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] beansprucht die Hauptinsel von [GUIDNAME 1645021] für das venezianische Imperium und beauftragt Sie, die dort ansässige Ratsversammlung für sich zu gewinnen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] claims [GUIDNAME 1645021]'s main island for the Venetian empire and assigns you the task of winning over the council there.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] claims [GUIDNAME 1645021]'s main island for the Venetian empire and assigns you the task of winning over the council there.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] претендует на главный остров [GUIDNAME 1645021] для Венецианской империи, и просит склонить на свою сторону городской совет.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] претендует на главный остров [GUIDNAME 1645021] для Венецианской империи, и просит склонить на свою сторону городской совет.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] revendique l'annexion de l'île principale de [GUIDNAME 1645021] à l'empire vénitien. Vous devez convaincre leur Conseil.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] revendique l'annexion de l'île principale de [GUIDNAME 1645021] à l'empire vénitien. Vous devez convaincre leur Conseil.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] reivindica la isla principal de [GUIDNAME 1645021] para el Imperio Veneciano y te encomienda la misión de hacerte con el control de su ayuntamiento.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] reivindica la isla principal de [GUIDNAME 1645021] para el imperio veneciano y te encomienda la misión de hacerte con el control de su ayuntamiento.</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] rivendica per l'Impero veneziano l'isola principale di [GUIDNAME 1645021] e ti assegna il compito di persuaderne il consiglio.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] rivendica per l'Impero veneziano l'isola principale di [GUIDNAME 1645021] e ti assegna il compito di persuaderne il consiglio.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] chce zdobyć dla imperium Wenecji główną wyspę, której właścicielem jest [GUIDNAME 1645021]. Otrzymujesz zadanie zdobycia przychylności tamtejszej rady.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] chce zdobyć dla imperium Wenecji główną wyspę, której właścicielem jest [GUIDNAME 1645021]. Otrzymujesz zadanie zdobycia przychylności tamtejszej rady.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] zahrnuje hlavní ostrov postavy jménem [GUIDNAME 1645021] do benátské říše a do vašich rukou svěřuje úkol ovládnout tamější radu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] zahrnuje hlavní ostrov postavy jménem [GUIDNAME 1645021] do benátské říše a do vašich rukou svěřuje úkol ovládnout tamější radu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301056</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein anerkennenden Lächeln umspielt [THIRDPARTY_SENDER_PLAYER]s Lippen, als er feststellt, dass Sie die Stadtschlüssel von [QUEST_CITY] in Händen halten.</Text>
+                  <LastFinalText>Ein anerkennenden Lächeln umspielt [THIRDPARTY_SENDER_PLAYER]s Lippen, als er feststellt, dass Sie die Stadtschlüssel von [QUEST_CITY] in Händen halten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>An appreciative smile plays on [THIRDPARTY_SENDER_PLAYER]'s lips when he learns that you now hold the key to the city of [QUEST_CITY].</Text>
+                  <LastFinalText>An appreciative smile plays on [THIRDPARTY_SENDER_PLAYER]'s lips when he learns that you now hold the key to the city of [QUEST_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Довольная улыбка появляется на лице [THIRDPARTY_SENDER_PLAYER], когда он понимает, что у вас в руках - ключ от города [QUEST_CITY].</Text>
+                  <LastFinalText>Довольная улыбка появляется на лице [THIRDPARTY_SENDER_PLAYER], когда он понимает, что у вас в руках - ключ от города [QUEST_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Un sourire reconnaissant éclaire le visage de [THIRDPARTY_SENDER_PLAYER] lorsqu'il apprend que vous détenez la clé de la ville de [QUEST_CITY].</Text>
+                  <LastFinalText>Un sourire reconnaissant éclaire le visage de [THIRDPARTY_SENDER_PLAYER] lorsqu'il apprend que vous détenez la clé de la ville de [QUEST_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Una sonrisa de agradecimiento asoma al rostro de [THIRDPARTY_SENDER_PLAYER] cuando se entera de que la llave de la ciudad de [QUEST_CITY] está en tu poder.</Text>
+                  <LastFinalText>Una sonrisa de agradecimiento asoma al rostro de [THIRDPARTY_SENDER_PLAYER] cuando se entera de que la llave de la ciudad de [QUEST_CITY] está en tu poder.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Quando [THIRDPARTY_SENDER_PLAYER] apprende che ora le chiavi della città di [QUEST_CITY] sono tue, un sorriso di gratitudine compare sul suo viso.</Text>
+                  <LastFinalText>Quando [THIRDPARTY_SENDER_PLAYER] apprende che ora le chiavi della città di [QUEST_CITY] sono tue, un sorriso di gratitudine compare sul suo viso.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] uśmiecha się, gdy dowiaduje się, że masz klucze do miasta [QUEST_CITY].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] uśmiecha się, gdy dowiaduje się, że masz klucze do miasta [QUEST_CITY].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Když se [THIRDPARTY_SENDER_PLAYER] dozvídá, že se vám podařilo získat klíč k městu [QUEST_CITY], objeví se na jeho tváři uznalý úsměv.</Text>
+                  <LastFinalText>Když se [THIRDPARTY_SENDER_PLAYER] dozvídá, že se vám podařilo získat klíč k městu [QUEST_CITY], objeví se na jeho tváři uznalý úsměv.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301100</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Spieler Verlustbedingung </Text>
+                  <LastFinalText>Spieler Verlustbedingung </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301150</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>CSP Verlustbedingung </Text>
+                  <LastFinalText>CSP Verlustbedingung </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MQ01_Vorbereitungen</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301200</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Vorbereitung </Text>
+                  <LastFinalText>Vorbereitung </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Preparation</Text>
+                  <LastFinalText>Preparation</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Подготовка </Text>
+                  <LastFinalText>Подготовка </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Préparatifs</Text>
+                  <LastFinalText>Préparatifs</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Preparación</Text>
+                  <LastFinalText>Preparación</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Preparativi</Text>
+                  <LastFinalText>Preparativi</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Przygotowania</Text>
+                  <LastFinalText>Przygotowania</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Příprava</Text>
+                  <LastFinalText>Příprava</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301201</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Augenblicklich sind Sie noch nicht in der Lage, [QUEST_SENDER]s Aufgabe zu erfüllen. Denn erst wenn sich Patrizier in der Stadt angesiedelt haben, können Sie die Entscheidungen der Ratsversammlung lenken und letztendlich den Stadtschlüssel an sich bringen.[CR] [CR]Außerdem benötigen Sie die venezianische Errungenschaft der "Feindlichen Übernahme", um die Ratsversammlungen fremder Städte beeinflussen zu können.[CR] [CR][QUEST_SENDER] drängt zur Eile - schließlich geht es um venezianisches Eigentum!</Text>
+                  <LastFinalText>Augenblicklich sind Sie noch nicht in der Lage, [QUEST_SENDER]s Aufgabe zu erfüllen. Denn erst wenn sich Patrizier in der Stadt angesiedelt haben, können Sie die Entscheidungen der Ratsversammlung lenken und letztendlich den Stadtschlüssel an sich bringen.[CR] [CR]Außerdem benötigen Sie die venezianische Errungenschaft der "Feindlichen Übernahme", um die Ratsversammlungen fremder Städte beeinflussen zu können.[CR] [CR][QUEST_SENDER] drängt zur Eile - schließlich geht es um venezianisches Eigentum!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You are not yet able to complete [QUEST_SENDER]'s task. For only when Patricians have settled in the city will you be able to direct the council's decisions and finally gain the key to the city. [CR][CR]Furthermore, you also require the Venetian Attainment "Hostile Takeover" in order to be able to influence the councils of other cities. [CR][CR] [QUEST_SENDER] urges you to hurry - after all, this is all about Venetian property!</Text>
+                  <LastFinalText>You are not yet able to complete [QUEST_SENDER]'s task. For only when Patricians have settled in the city will you be able to direct the council's decisions and finally gain the key to the city. [CR][CR]Furthermore, you also require the Venetian Attainment "Hostile Takeover" in order to be able to influence the councils of other cities. [CR][CR] [QUEST_SENDER] urges you to hurry - after all, this is all about Venetian property!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>В настоящее время вы не в состоянии выполнить поручение, которое дал вам [QUEST_SENDER]. Дело в том, что лишь после того, как в городе появятся патриции, вы сможете склонить городской совет на свою сторону и заполучить ключи от города.[CR] [CR]Кроме того, чтобы оказывать влияние на советы других городов, вы должны получить венецианское достижение "Захват".[CR] [CR][QUEST_SENDER] торопит вас - в конце концов, речь идет о собственности венецианцев!</Text>
+                  <LastFinalText>В настоящее время вы не в состоянии выполнить поручение, которое дал вам [QUEST_SENDER]. Дело в том, что лишь после того, как в городе появятся патриции, вы сможете склонить городской совет на свою сторону и заполучить ключи от города.[CR] [CR]Кроме того, чтобы оказывать влияние на советы других городов, вы должны получить венецианское достижение "Захват".[CR] [CR][QUEST_SENDER] торопит вас - в конце концов, речь идет о собственности венецианцев!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous ne pouvez pas accomplir la mission de [QUEST_SENDER] tant que des Patriciens ne sont pas établis dans la ville. Alors vous pourrez diriger le conseil pour enfin obtenir la clé de la ville. [CR][CR] Vous devez aussi obtenir l'Accomplissement vénitien "Prise de Contrôle hostile" afin d'influencer les conseils des autres villes. [CR][CR] [QUEST_SENDER] vous prie de vous presser, il en est de la propriété de Venise !</Text>
+                  <LastFinalText>Vous ne pouvez pas accomplir la mission de [QUEST_SENDER] tant que des Patriciens ne sont pas établis dans la ville. Alors vous pourrez diriger le conseil pour enfin obtenir la clé de la ville. [CR][CR] Vous devez aussi obtenir l'Accomplissement vénitien "Prise de Contrôle hostile" afin d'influencer les conseils des autres villes. [CR][CR] [QUEST_SENDER] vous prie de vous presser, il en est de la propriété de Venise !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Aún no has podido acabar el encargo de [QUEST_SENDER]. Solo cuando los patricios se asienten en la ciudad, podrás dirigir las decisiones del ayuntamiento y, finalmente, ganarte la llave de la ciudad. [CR][CR]Además, también tienes que alcanzar el logro veneciano "Ocupación hostil" para tener influencia en los ayuntamientos de otras ciudades. [CR][CR][QUEST_SENDER] te pide que te des prisa: ¡está en juego la propiedad veneciana!</Text>
+                  <LastFinalText>Aún no has podido acabar el encargo de [QUEST_SENDER]. Solo cuando los patricios se asienten en la ciudad, podrás dirigir las decisiones del ayuntamiento y, finalmente, ganarte la llave de la ciudad. [CR][CR] Además, también tienes que alcanzar el logro veneciano "Ocupación hostil" para tener influencia en los ayuntamientos de otras ciudades. [CR][CR] [QUEST_SENDER] te pide que te des prisa: ¡está en juego la propiedad veneciana!</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Non sei ancora in grado di completare il compito che [QUEST_SENDER] ti ha assegnato. Solo quando i Patrizi si saranno stabiliti in città potrai finalmente indirizzare le decisioni del consiglio e ottenere le chiavi della città. [CR][CR] Inoltre, hai bisogno del Conseguimento veneziano "Acquisizione ostile" per poter influenzare i consigli delle altre città. [CR][CR] [QUEST_SENDER] ti esorta a fare in fretta. Dopotutto, stiamo parlando di una proprietà veneziana!</Text>
+                  <LastFinalText>Non sei ancora in grado di completare il compito che [QUEST_SENDER] ti ha assegnato. Solo quando i Patrizi si saranno stabiliti in città potrai finalmente indirizzare le decisioni del consiglio e ottenere le chiavi della città. [CR][CR] Inoltre, hai bisogno del Conseguimento veneziano "Acquisizione ostile" per poter influenzare i consigli delle altre città. [CR][CR] [QUEST_SENDER] ti esorta a fare in fretta. Dopotutto, stiamo parlando di una proprietà veneziana!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Úkol postavy jménem [QUEST_SENDER] zatím nejste schopen dokončit, neboť klíč od města a slovo v radě můžete získat teprve tehdy, až se do vašeho města nastěhují patricijové. [CR][CR]Navíc k tomu, abyste mohl ovlivňovat rady v ostatních městech, potřebujete benátskou vymoženost "Obsazení nepřítele". [CR][CR] [QUEST_SENDER] vám klade na srdce, abyste si pospíšil, jde tu konec konců o benátský majetek!</Text>
+                  <LastFinalText>Úkol postavy jménem [QUEST_SENDER] zatím nejste schopen dokončit, neboť klíč od města a slovo v radě můžete získat teprve tehdy, až se do vašeho města nastěhují patricijové. [CR][CR]Navíc k tomu, abyste mohl ovlivňovat rady v ostatních městech, potřebujete benátskou vymoženost "Obsazení nepřítele". [CR][CR] [QUEST_SENDER] vám klade na srdce, abyste si pospíšil, jde tu konec konců o benátský majetek!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Nie jesteś jeszcze w stanie wypełnić zadania, który wyznacza ci [QUEST_SENDER]. Ponieważ jedynie osiedlenie się Patrycjuszy pozwoli ci przejąć kontrolę nad radą i zdobyć klucze do miasta. [CR][CR]Co więcej, musisz zdobyć weneckie osiągnięcie: "Wrogie przejęcie", aby móc wpływać na rady w innych miastach. [CR][CR] [QUEST_SENDER] ponagla cię - w końcu chodzi przecież o majątek Wenecji!</Text>
+                  <LastFinalText>Nie jesteś jeszcze w stanie wypełnić zadania, który wyznacza ci [QUEST_SENDER]. Ponieważ jedynie osiedlenie się Patrycjuszy pozwoli ci przejąć kontrolę nad radą i zdobyć klucze do miasta. [CR][CR]Co więcej, musisz zdobyć weneckie osiągnięcie: "Wrogie przejęcie", aby móc wpływać na rady w innych miastach. [CR][CR] [QUEST_SENDER] ponagla cię - w końcu chodzi przecież o majątek Wenecji!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301202</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Schaffen Sie die Voraussetzungen, um Stadtschlüssel fremder Inseln erwerben zu können:</Text>
+                  <LastFinalText>Schaffen Sie die Voraussetzungen, um Stadtschlüssel fremder Inseln erwerben zu können:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Make the necessary preparations for acquiring the keys to foreign islands:   </Text>
+                  <LastFinalText>Make the necessary preparations for acquiring the keys to foreign islands:   </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Произведите необходимую подготовку, чтобы получить возможность захватывать ключи от городов, расположенных на чужеземных островах:</Text>
+                  <LastFinalText>Произведите необходимую подготовку, чтобы получить возможность захватывать ключи от городов, расположенных на чужеземных островах:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Veillez aux préparatifs nécessaires pour récupérer les clés des îles voisines :</Text>
+                  <LastFinalText>Veillez aux préparatifs nécessaires pour récupérer les clés des îles voisines :</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Haz los preparativos necesarios para conseguir las llaves de islas extranjeras: </Text>
+                  <LastFinalText>Haz los preparativos necesarios para conseguir las llaves de islas extranjeras: </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Fai i preparativi necessari per ottenere le chiavi delle isole straniere:</Text>
+                  <LastFinalText>Fai i preparativi necessari per ottenere le chiavi delle isole straniere:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Przygotuj się na zdobycie kluczy do następujących wysp:   </Text>
+                  <LastFinalText>Przygotuj się na zdobycie kluczy do następujących wysp:   </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Podnikněte nutné přípravy k získání klíčů k cizím ostrovům:</Text>
+                  <LastFinalText>Podnikněte nutné přípravy k získání klíčů k cizím ostrovům:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301250</GUID>
+              <Kommentar>Infotext Sub1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Erreichen Sie die Stufe Patrizier.</Text>
+                  <LastFinalText>Erreichen Sie die Stufe Patrizier.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Reach Patrician level</Text>
+                  <LastFinalText>Reach Patrician level</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Достигните уровня патрициев.</Text>
+                  <LastFinalText>Достигните уровня патрициев.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Atteignez le niveau Patricien.</Text>
+                  <LastFinalText>Atteignez le niveau Patricien.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Alcanza el nivel de patricio</Text>
+                  <LastFinalText>Alcanza el nivel de patricio</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Raggiungi il livello Patrizio</Text>
+                  <LastFinalText>Raggiungi il livello Patrizio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Osiągnij poziom Patrycjusza</Text>
+                  <LastFinalText>Osiągnij poziom Patrycjusza</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Dosáhněte patricijské úrovně</Text>
+                  <LastFinalText>Dosáhněte patricijské úrovně</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41301260</GUID>
+              <Kommentar>Infotext Sub2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Schalten Sie folgende Errungeschaft frei: [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Schalten Sie folgende Errungeschaft frei: [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Unlock the following Attainment: [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Unlock the following Attainment: [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Подключите при этом следующее достижение: [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Подключите при этом следующее достижение: [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Déverrouillez l'Accomplissement suivant : [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Déverrouillez l'Accomplissement suivant : [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Desbloquea el siguiente logro: [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Desbloquea el siguiente logro: [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sblocca il seguente Conseguimento: [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Sblocca il seguente Conseguimento: [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Odblokuj następujące zdobycze: [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Odblokuj następujące zdobycze: [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Odemkněte tyto vymoženosti: [QUEST_WINCONDITION_OBJECTS]</Text>
+                  <LastFinalText>Odemkněte tyto vymoženosti: [QUEST_WINCONDITION_OBJECTS]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301261</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Doch zuvor empfiehlt Ihnen [THIRDPARTY_SENDER_PLAYER], Ihre Stadt auszubauen und sich die Fähigkeit der "Feindlichen Übernahme" anzueignen.</Text>
+                  <LastFinalText>Doch zuvor empfiehlt Ihnen [THIRDPARTY_SENDER_PLAYER], Ihre Stadt auszubauen und sich die Fähigkeit der "Feindlichen Übernahme" anzueignen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>But first, [THIRDPARTY_SENDER_PLAYER] advises you to expand your city and  to acquire the Attainment 'Hostile Takeover.'</Text>
+                  <LastFinalText>But first, [THIRDPARTY_SENDER_PLAYER] advises you to expand your city and  to acquire the Attainment 'Hostile Takeover.'</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Прежде всего [THIRDPARTY_SENDER_PLAYER] советует вам развить ваш собственный город и приобрести способность "Захват".</Text>
+                  <LastFinalText>Прежде всего [THIRDPARTY_SENDER_PLAYER] советует вам развить ваш собственный город и приобрести способность "Захват".</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous conseille d'étendre votre ville et d'obtenir l'Accomplissement "Prise de Contrôle hostile".</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous conseille d'étendre votre ville et d'obtenir l'Accomplissement "Prise de Contrôle hostile".</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Pero antes, [THIRDPARTY_SENDER_PLAYER] te aconseja expandir tu ciudad y alcanzar el logro "Ocupación hostil".</Text>
+                  <LastFinalText>Pero antes, [THIRDPARTY_SENDER_PLAYER] te aconseja expandir tu ciudad y alcanzar el logro "Ocupación hostil".</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Ma prima, [THIRDPARTY_SENDER_PLAYER] ti suggerisce di espandere la tua città e di acquisire il Conseguimento "Acquisizione ostile".</Text>
+                  <LastFinalText>Ma prima, [THIRDPARTY_SENDER_PLAYER] ti suggerisce di espandere la tua città e di acquisire il Conseguimento "Acquisizione ostile".</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Lecz najpierw, [THIRDPARTY_SENDER_PLAYER] radzi ci rozwinąć miasto i uzyskać 'Wrogie przejęcie'.</Text>
+                  <LastFinalText>Lecz najpierw, [THIRDPARTY_SENDER_PLAYER] radzi ci rozwinąć miasto i uzyskać 'Wrogie przejęcie'.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Ale [THIRDPARTY_SENDER_PLAYER] vám radí, ať nejprve rozšíříte své město a získáte vymoženost "Obsazení nepřítele".</Text>
+                  <LastFinalText>Ale [THIRDPARTY_SENDER_PLAYER] vám radí, ať nejprve rozšíříte své město a získáte vymoženost "Obsazení nepřítele".</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301262</GUID>
+              <Kommentar>Quest Finished Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Voller Vorfreude nimmt [THIRDPARTY_SENDER_PLAYER] Ihre Fortschritte zur Kenntnis und drängt darauf, dass Sie Ihren eigentlichen Auftrag in Angriff nehmen.</Text>
+                  <LastFinalText>Voller Vorfreude nimmt [THIRDPARTY_SENDER_PLAYER] Ihre Fortschritte zur Kenntnis und drängt darauf, dass Sie Ihren eigentlichen Auftrag in Angriff nehmen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Delighted at the progress your city has made, [THIRDPARTY_SENDER_PLAYER] urges you to get on with your real assignment.  </Text>
+                  <LastFinalText>Delighted at the progress your city has made, [THIRDPARTY_SENDER_PLAYER] urges you to get on with your real assignment.  </LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] радостно приветствует вашу тягу к знаниям и советует вам приниматься за исполнение собственного поручения.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] радостно приветствует вашу тягу к знаниям и советует вам приниматься за исполнение собственного поручения.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Ravi des progrès réalisés par votre ville, [THIRDPARTY_SENDER_PLAYER] vous demande de reprendre votre véritable mission.</Text>
+                  <LastFinalText>Ravi des progrès réalisés par votre ville, [THIRDPARTY_SENDER_PLAYER] vous demande de reprendre votre véritable mission.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Exultante por los progresos de tu ciudad, [THIRDPARTY_SENDER_PLAYER] te anima a centrarte en tu auténtica tarea. </Text>
+                  <LastFinalText>Exultante por los progresos de tu ciudad, [THIRDPARTY_SENDER_PLAYER] te anima a centrarte en tu auténtica tarea. </LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Compiaciuto dai progressi della tua città, [THIRDPARTY_SENDER_PLAYER] ti esorta a procedere nel tuo vero incarico.</Text>
+                  <LastFinalText>Compiaciuto dai progressi della tua città, [THIRDPARTY_SENDER_PLAYER] ti esorta a procedere nel tuo vero incarico.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER], zachwycając się twoim sukcesem zachęca cię do zajęcia się głównym zadaniem.  </Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER], zachwycając się twoim sukcesem zachęca cię do zajęcia się głównym zadaniem.  </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] spokojeně sleduje výsledky vašeho města a chce po vás, abyste se chopil svého skutečného úkolu.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] spokojeně sleduje výsledky vašeho města a chce po vás, abyste se chopil svého skutečného úkolu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ_LoseQuest</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301263</GUID>
+              <Kommentar>Lose Condition Text Szenario 1 + 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie haben einen Krieg vom Zaun gebrochen und sind damit an Ihrem diplomatischen Auftrag gescheitert. Während Sie sich für die Schlacht rüsten, wendet sich Giacomo Garibaldi mit steinerner Miene ab und überlässt Sie Ihrem Schicksal.</Text>
+                  <LastFinalText>Sie haben einen Krieg vom Zaun gebrochen und sind damit an Ihrem diplomatischen Auftrag gescheitert. Während Sie sich für die Schlacht rüsten, wendet sich Giacomo Garibaldi mit steinerner Miene ab und überlässt Sie Ihrem Schicksal.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You have started a war, and thus have failed in your diplomatic mission. As you prepare for battle a stone-faced Giacomo Garibaldi turns away, leaving you to your fate.</Text>
+                  <LastFinalText>You have started a war, and thus have failed in your diplomatic mission. As you prepare for battle a stone-faced Giacomo Garibaldi turns away, leaving you to your fate.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы развязали войну и таким образом провалили свое дипломатическое поручение. Вы готовитесь к битве, а Джакомо Гарибальди отворачивается с каменным лицом, предоставляя вас вашей судьбе.</Text>
+                  <LastFinalText>Вы развязали войну и таким образом провалили свое дипломатическое поручение. Вы готовитесь к битве, а Джакомо Гарибальди отворачивается с каменным лицом, предоставляя вас вашей судьбе.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Vous avez déclenché une guerre et échoué dans votre mission diplomatique. À l'approche du combat, Giacomo Garibaldi, le visage dur, se retire, vous laissant face à votre destin.</Text>
+                  <LastFinalText>Vous avez déclenché une guerre et échoué dans votre mission diplomatique. À l'approche du combat, Giacomo Garibaldi, le visage dur, se retire, vous laissant face à votre destin.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Has provocado una guerra y, por tanto, has fracasado en tu misión diplomática. Mientras te preparas para la batalla, Giacomo Garibaldi se aleja con expresión adusta, abandonándote a tu suerte.</Text>
+                  <LastFinalText>Has provocado una guerra y, por tanto, has fracasado en tu misión diplomática. Mientras te preparas para la batalla, Giacomo Garibaldi se aleja con expresión adusta, abandonándote a tu suerte.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Hai fatto scoppiare una guerra e quindi la tua missione diplomatica è fallita. Mentre ti prepari a combattere, un impietrito Giacomo Garibaldi si allontana, abbandonandoti al tuo destino.</Text>
+                  <LastFinalText>Hai fatto scoppiare una guerra e quindi la tua missione diplomatica è fallita. Mentre ti prepari a combattere, un impietrito Giacomo Garibaldi si allontana, abbandonandoti al tuo destino.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Wybuchła wojna i nie udało ci się wykonać misji dyplomatycznej. Gdy przygotowujesz się do bitwy, ponury Giacomo Garibaldi odwraca się od ciebie i pozostawia na pastwę losu.</Text>
+                  <LastFinalText>Wybuchła wojna i nie udało ci się wykonać misji dyplomatycznej. Gdy przygotowujesz się do bitwy, ponury Giacomo Garibaldi odwraca się od ciebie i pozostawia na pastwę losu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Dostal jste se do války a tím jste ve svém diplomatické misi selhal. Při vašich přípravách na válku se od vás Giacomo s kamennou tváří odvrací a ponechává vás vašemu osudu.</Text>
+                  <LastFinalText>Dostal jste se do války a tím jste ve svém diplomatické misi selhal. Při vašich přípravách na válku se od vás Giacomo s kamennou tváří odvrací a ponechává vás vašemu osudu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>ContinuesQuests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301264</GUID>
+              <Kommentar>Titel Continues Quest 1 Northburgh</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Zu Füßen des Kaisers</Text>
+                  <LastFinalText>Zu Füßen des Kaisers</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>К ногам императора</Text>
+                  <LastFinalText>К ногам императора</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>Beneath the Emperor's feet</Text>
+                  <LastFinalText>Beneath the Emperor's feet</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>Sous les pieds de l'Empereur</Text>
+                  <LastFinalText>Sous les pieds de l'Empereur</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A los pies del Emperador</Text>
+                  <LastFinalText>A los pies del Emperador</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Sotto i piedi dell'Imperatore</Text>
+                  <LastFinalText>Sotto i piedi dell'Imperatore</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Pod nohy císaře</Text>
+                  <LastFinalText>Pod nohy císaře</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Pod cesarskim butem</Text>
+                  <LastFinalText>Pod cesarskim butem</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301265</GUID>
+              <Kommentar>Infotext für ContinuesQuest 1 </Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sorgen Sie für die kontinuierliche Versorgung von [QUEST_CITY] mit Teppichen.[CR]Die Mindestmenge je Lieferung beträgt [QUEST_VALUE 1]t.</Text>
+                  <LastFinalText>Sorgen Sie für die kontinuierliche Versorgung von [QUEST_CITY] mit Teppichen.[CR]Die Mindestmenge je Lieferung beträgt [QUEST_VALUE 1]t.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Позаботьтесь об обеспечении города [QUEST_CITY] коврами.[CR]Минимальная партия составляет [QUEST_VALUE 1]т.</Text>
+                  <LastFinalText>Позаботьтесь об обеспечении города [QUEST_CITY] коврами.[CR]Минимальная партия составляет [QUEST_VALUE 1]т.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>Ensure a continuous supply of Carpets to [QUEST_CITY].[CR] The minimum quantity per delivery is [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Ensure a continuous supply of Carpets to [QUEST_CITY].[CR] The minimum quantity per delivery is [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>Approvisionnez continuellement [QUEST_CITY] en Tapis.[CR] La quantité minimale par livraison est de [QUEST_VALUE 1] tonnes.</Text>
+                  <LastFinalText>Approvisionnez continuellement [QUEST_CITY] en Tapis.[CR] La quantité minimale par livraison est de [QUEST_VALUE 1] tonnes.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Garantiza un suministro continuo de alfombras a [QUEST_CITY]. [CR] La cantidad mínima por envío es de [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Garantiza un suministro continuo de alfombras a [QUEST_CITY]. [CR] La cantidad mínima por envío es de [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Garantisci un rifornimento continuo di Tappeti a [QUEST_CITY].[CR] La quantità minima per consegna è di [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Garantisci un rifornimento continuo di Tappeti a [QUEST_CITY].[CR] La quantità minima per consegna è di [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Zajistěte kontinuální zásilku koberců do města [QUEST_CITY].[CR] Minimální množství na jednu zásilku je [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Zajistěte kontinuální zásilku koberců do města [QUEST_CITY].[CR] Minimální množství na jednu zásilku je [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zapewnij nieprzerwane dostawy dywanów do miasta [QUEST_CITY].[CR] Minimalna wielkość dostawy to: [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Zapewnij nieprzerwane dostawy dywanów do miasta [QUEST_CITY].[CR] Minimalna wielkość dostawy to: [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301266</GUID>
+              <Kommentar>Storytext für Continues Quest 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER] benötigt Unmengen an Teppichen. Die Boden- und Wandbeläge im Kaiserpalast sind alt und zerschlissen. Und Seine Majestät soll seinen Fuß schließlich nur auf die edelsten Knüpfarbeiten setzen. Die zahlreichen Zimmer und Kemenaten müssen also neu ausstaffiert werden.</Text>
+                  <LastFinalText>[QUEST_SENDER] benötigt Unmengen an Teppichen. Die Boden- und Wandbeläge im Kaiserpalast sind alt und zerschlissen. Und Seine Majestät soll seinen Fuß schließlich nur auf die edelsten Knüpfarbeiten setzen. Die zahlreichen Zimmer und Kemenaten müssen also neu ausstaffiert werden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>[QUEST_SENDER] нуждается в огромном количестве ковров. Полы и стены в императорском дворце очень старые и покрыты щелями. А его величество может ходить лишь по самым лучшим коврам. Многочисленные комнаты дворца тоже нужно украсить по-новому.</Text>
+                  <LastFinalText>[QUEST_SENDER] нуждается в огромном количестве ковров. Полы и стены в императорском дворце очень старые и покрыты щелями. А его величество может ходить лишь по самым лучшим коврам. Многочисленные комнаты дворца тоже нужно украсить по-новому.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>[QUEST_SENDER] requires vast numbers of Carpets. The floor and wall coverings in the Imperial Palace are old and tattered. It goes without saying that only the finest in hand-knotted Carpets are fit for His Majesty's feet. The numerous rooms and ladies' chambers also need to be refitted.</Text>
+                  <LastFinalText>[QUEST_SENDER] requires vast numbers of Carpets. The floor and wall coverings in the Imperial Palace are old and tattered. It goes without saying that only the finest in hand-knotted Carpets are fit for His Majesty's feet. The numerous rooms and ladies' chambers also need to be refitted.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[QUEST_SENDER] a besoin d'un grand nombre de Tapis. Les revêtements muraux et au sol du Palais impérial sont vieux et usés. Il va sans dire que seuls les Tapis tissés à la main les plus raffinés conviennent à Sa Majesté. Les nombreuses salles et chambres de ses dames doivent aussi être rééquipées.</Text>
+                  <LastFinalText>[QUEST_SENDER] a besoin d'un grand nombre de Tapis. Les revêtements muraux et au sol du Palais impérial sont vieux et usés. Il va sans dire que seuls les Tapis tissés à la main les plus raffinés conviennent à Sa Majesté. Les nombreuses salles et chambres de ses dames doivent aussi être rééquipées.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[QUEST_SENDER] necesita una enorme cantidad de alfombras. Las alfombras y los tapices del Palacio Imperial están viejos y hechos jirones. Ni qué decir tiene que solo las mejores alfombras tejidas a mano son dignas de tocar los pies del Emperador. También hay que acondicionar las numerosas estancias y habitaciones femeninas.</Text>
+                  <LastFinalText>[QUEST_SENDER] necesita una enorme cantidad de alfombras. Las alfombras y los tapices del Palacio Imperial están viejos y hechos jirones. Ni qué decir tiene que solo las mejores alfombras tejidas a mano son dignas de tocar los pies del Emperador. También hay que acondicionar las numerosas estancias y habitaciones femeninas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] ha bisogno di grandi quantità di Tappeti. Quelli che rivestono i pavimenti e i muri del Palazzo imperiale sono vecchi e logori. Non c'è bisogno di precisare che solo i migliori Tappeti intrecciati a mano sono degni dei piedi di Sua Maestà. Anche tutte le altre stanze e le camere delle signore devono essere rinnovate.</Text>
+                  <LastFinalText>[QUEST_SENDER] ha bisogno di grandi quantità di Tappeti. Quelli che rivestono i pavimenti e i muri del Palazzo imperiale sono vecchi e logori. Non c'è bisogno di precisare che solo i migliori Tappeti intrecciati a mano sono degni dei piedi di Sua Maestà. Anche tutte le altre stanze e le camere delle signore devono essere rinnovate.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] žádá spoustu koberců. Podlahy a zdi v imperiálním paláci jsou již staré a otrhané. Netřeba zmiňovat, že pro nohy jeho veličenstva jsou vhodné pouze ty nejkvalitnější ručně tkané koberce. Renovaci potřebuje i nespočet pokojů a dámských komnat.</Text>
+                  <LastFinalText>[QUEST_SENDER] žádá spoustu koberců. Podlahy a zdi v imperiálním paláci jsou již staré a otrhané. Netřeba zmiňovat, že pro nohy jeho veličenstva jsou vhodné pouze ty nejkvalitnější ručně tkané koberce. Renovaci potřebuje i nespočet pokojů a dámských komnat.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] potrzebuje olbrzymich ilości dywanów. Te znajdujące się na podłodze i ścianach Pałacu Cesarskiego są stare i zniszczone. Nie trzeba dodawać, że Jego Wysokość może stąpać tylko po najlepszych, ręcznie tkanych dywanach. Trzeba w nie wyposażyć także liczne pomieszczenia i komnaty dam.</Text>
+                  <LastFinalText>[QUEST_SENDER] potrzebuje olbrzymich ilości dywanów. Te znajdujące się na podłodze i ścianach Pałacu Cesarskiego są stare i zniszczone. Nie trzeba dodawać, że Jego Wysokość może stąpać tylko po najlepszych, ręcznie tkanych dywanach. Trzeba w nie wyposażyć także liczne pomieszczenia i komnaty dam.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301267</GUID>
+              <Kommentar>Titel für Continues Quest 2 Al Zahir</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Verbleib unbekannt</Text>
+                  <LastFinalText>Verbleib unbekannt</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Местонахождение неизвестно</Text>
+                  <LastFinalText>Местонахождение неизвестно</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>Whereabouts unknown</Text>
+                  <LastFinalText>Whereabouts unknown</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>Disparition</Text>
+                  <LastFinalText>Disparition</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Paradero desconocido</Text>
+                  <LastFinalText>Paradero desconocido</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Irreperibile</Text>
+                  <LastFinalText>Irreperibile</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Místo neznámé</Text>
+                  <LastFinalText>Místo neznámé</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Miejsce pobytu - nieznane</Text>
+                  <LastFinalText>Miejsce pobytu - nieznane</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301268</GUID>
+              <Kommentar>Storytext für Continues Quest 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[QUEST_SENDER] ist seit jeher von ein und demselben Händler mit Lederwämsern beliefert worden. Nun ist dieser seit Monaten überfällig. Niemand weiß, was mit dem sonst so zuverlässigen Mann geschehen ist. Doch vorangig gilt es, den Warenengpass schnellstmöglich zu überwinden.</Text>
+                  <LastFinalText>[QUEST_SENDER] ist seit jeher von ein und demselben Händler mit Lederwämsern beliefert worden. Nun ist dieser seit Monaten überfällig. Niemand weiß, was mit dem sonst so zuverlässigen Mann geschehen ist. Doch vorangig gilt es, den Warenengpass schnellstmöglich zu überwinden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>[QUEST_SENDER] уже некоторое время покупает кожаные камзолы только у одного торговца. Но вот уже несколько месяцев, как об этом торговце нет никаких вестей. Никто не знает, что случилось с торговцем, пользовавшимся до того отличной репутацией. Сейчас прежде всего нужно как можно скорее ликвидировать дефицит товаров.</Text>
+                  <LastFinalText>[QUEST_SENDER] уже некоторое время покупает кожаные камзолы только у одного торговца. Но вот уже несколько месяцев, как об этом торговце нет никаких вестей. Никто не знает, что случилось с торговцем, пользовавшимся до того отличной репутацией. Сейчас прежде всего нужно как можно скорее ликвидировать дефицит товаров.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>[QUEST_SENDER] has traditionally always bought his Leather jerkins from the same merchant. Yet he is now months overdue. Nobody knows what happened to the otherwise reliable trader. But first it is necessary to supply the goods and relieve the bottleneck as quickly as possible.</Text>
+                  <LastFinalText>[QUEST_SENDER] has traditionally always bought his Leather jerkins from the same merchant. Yet he is now months overdue. Nobody knows what happened to the otherwise reliable trader. But first it is necessary to supply the goods and relieve the bottleneck as quickly as possible.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[QUEST_SENDER] a toujours acheté ses Pourpoints de Cuir auprès du même marchand. Or celui-ci ne l'approvisionne plus depuis maintenant plusieurs mois. Personne ne sait ce qui est arrivé à ce marchand pourtant de confiance. Mais il est urgent et prioritaire de remédier à ce problème d'approvisionnement.</Text>
+                  <LastFinalText>[QUEST_SENDER] a toujours acheté ses Pourpoints de Cuir auprès du même marchand. Or celui-ci ne l'approvisionne plus depuis maintenant plusieurs mois. Personne ne sait ce qui est arrivé à ce marchand pourtant de confiance. Mais il est urgent et prioritaire de remédier à ce problème d'approvisionnement.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[QUEST_SENDER] siempre ha comprado los chalecos de cuero al mismo mercader. Sin embargo, ahora lleva meses de retraso. Nadie sabe qué le ha podido ocurrir a un comerciante tan cumplidor. Lo primero es suministrar los bienes para mitigar el contratiempo lo antes posible.</Text>
+                  <LastFinalText>[QUEST_SENDER] siempre ha comprado los chalecos de cuero al mismo mercader. Sin embargo, ahora lleva meses de retraso. Nadie sabe qué le ha podido ocurrir a un comerciante tan cumplidor. Lo primero es suministrar los bienes para mitigar el contratiempo lo antes posible.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[QUEST_SENDER] ha sempre comprato i suoi Gilet di pelle dallo stesso mercante. Tuttavia la consegna è ora in ritardo di mesi. Nessuno sa cosa sia successo al commerciante, di solito affidabile. Prima di tutto, però, bisogna provvedere al rifornimento delle merci e risolvere il collo di bottiglia il prima possibile.</Text>
+                  <LastFinalText>[QUEST_SENDER] ha sempre comprato i suoi Gilet di pelle dallo stesso mercante. Tuttavia la consegna è ora in ritardo di mesi. Nessuno sa cosa sia successo al commerciante, di solito affidabile. Prima di tutto, però, bisogna provvedere al rifornimento delle merci e risolvere il collo di bottiglia il prima possibile.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[QUEST_SENDER] si své kožené vesty kupuje již tradičně u stejného obchodníka. Jenže ten už má několik měsíců zpoždění. Nikdo nemá ponětí, co se s tím jinak spolehlivým obchodníkem stalo. Nejdřív je ale třeba zajistit dodávku toho zboží a co nejrychleji zabránit jeho nedostatku.</Text>
+                  <LastFinalText>[QUEST_SENDER] si své kožené vesty kupuje již tradičně u stejného obchodníka. Jenže ten už má několik měsíců zpoždění. Nikdo nemá ponětí, co se s tím jinak spolehlivým obchodníkem stalo. Nejdřív je ale třeba zajistit dodávku toho zboží a co nejrychleji zabránit jeho nedostatku.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[QUEST_SENDER] zawsze zamawia skórzane kaftany u tego samego kupca. Ale ten spóźnia się już kilka miesięcy. Nikt nie wie, co się stało z tak dotąd niezawodnym handlarzem. Najważniejszym jednak jest dostarczenie towaru i rozwiązanie problemu braku stałych dostaw.</Text>
+                  <LastFinalText>[QUEST_SENDER] zawsze zamawia skórzane kaftany u tego samego kupca. Ale ten spóźnia się już kilka miesięcy. Nikt nie wie, co się stało z tak dotąd niezawodnym handlarzem. Najważniejszym jednak jest dostarczenie towaru i rozwiązanie problemu braku stałych dostaw.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41301269</GUID>
+              <Kommentar>Infotext für ContinuesQuest 1 </Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sorgen Sie für die kontinuierliche Versorgung von [QUEST_CITY] mit Lederwämsern.[CR]Die Mindestmenge je Lieferung beträgt [QUEST_VALUE 1]t.</Text>
+                  <LastFinalText>Sorgen Sie für die kontinuierliche Versorgung von [QUEST_CITY] mit Lederwämsern.[CR]Die Mindestmenge je Lieferung beträgt [QUEST_VALUE 1]t.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Позаботьтесь об обеспечении города [QUEST_CITY] кожаными камзолами.[CR]Минимальная партия составляет [QUEST_VALUE 1]т.</Text>
+                  <LastFinalText>Позаботьтесь об обеспечении города [QUEST_CITY] кожаными камзолами.[CR]Минимальная партия составляет [QUEST_VALUE 1]т.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>Ensure a continuous supply of Leather jerkins to [QUEST_CITY].[CR] The minimum quantity per delivery is [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Ensure a continuous supply of Leather jerkins to [QUEST_CITY].[CR] The minimum quantity per delivery is [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>Approvisionnez continuellement [QUEST_CITY] en Pourpoints de Cuir.[CR] La quantité minimale par livraison est de [QUEST_VALUE 1] tonnes.</Text>
+                  <LastFinalText>Approvisionnez continuellement [QUEST_CITY] en Pourpoints de Cuir.[CR] La quantité minimale par livraison est de [QUEST_VALUE 1] tonnes.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Garantiza un suministro continuo de chalecos de cuero a [QUEST_CITY].[CR] La cantidad mínima por envío es de [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Garantiza un suministro continuo de chalecos de cuero a [QUEST_CITY].[CR] La cantidad mínima por envío es de [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Garantisci un rifornimento continuo di Gilet di pelle a [QUEST_CITY].[CR] La quantità minima per consegna è di [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Garantisci un rifornimento continuo di Gilet di pelle a [QUEST_CITY].[CR] La quantità minima per consegna è di [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>Zajistěte stálou zásilku kožených vest do města [QUEST_CITY].[CR] Minimální množství na jednu zásilku je [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Zajistěte stálou zásilku kožených vest do města [QUEST_CITY].[CR] Minimální množství na jednu zásilku je [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Zapewnij nieprzerwane dostawy skórzanych kaftanów do miasta [QUEST_CITY].[CR] Minimalna ilość dostawy to: [QUEST_VALUE 1] t.</Text>
+                  <LastFinalText>Zapewnij nieprzerwane dostawy skórzanych kaftanów do miasta [QUEST_CITY].[CR] Minimalna ilość dostawy to: [QUEST_VALUE 1] t.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Mood Text</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301270</GUID>
+              <Kommentar>Mood Story</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] fordert, was dem venezianischen Imperium von Rechts wegen zusteht: [GUIDNAME 1645021]s Hauptinsel.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] fordert, was dem venezianischen Imperium von Rechts wegen zusteht: [GUIDNAME 1645021]s Hauptinsel.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] требует то, что принадлежит венецианской империи по праву: главный остров, где правит [GUIDNAME 1645021]</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] требует то, что принадлежит венецианской империи по праву: главный остров, где правит [GUIDNAME 1645021]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] demands no more than that which lawfully belongs to the Venetian Empire: [GUIDNAME 1645021]'s main island.</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] demands no more than that which lawfully belongs to the Venetian Empire: [GUIDNAME 1645021]'s main island.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ne demande rien de plus que ce qui revient de droit à l'Empire vénitien : l'île principale de [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ne demande rien de plus que ce qui revient de droit à l'Empire vénitien : l'île principale de [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] no pide más que aquello que pertenece por derecho al Imperio Veneciano: la isla principal de [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] no pide más que aquello que pertenece por derecho al Imperio Veneciano: la isla principal de [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] richiede niente di più di ciò che appartiene di diritto all'Impero veneziano: l'isola principale di [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] richiede niente di più di ciò che appartiene di diritto all'Impero veneziano: l'isola principale di [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] po vás požaduje jen to, co právem náleží benátskému impériu: hlavní ostrov postavy jménem [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] po vás požaduje jen to, co právem náleží benátskému impériu: hlavní ostrov postavy jménem [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] domaga się niczego innego, jak obiektu prawnie należącego do imperium weneckiego - głównej wyspy, którą włada [GUIDNAME 1645021].</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] domaga się niczego innego, jak obiektu prawnie należącego do imperium weneckiego - głównej wyspy, którą włada [GUIDNAME 1645021].</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41301271</GUID>
+              <Kommentar>Mood Kein Krieg</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] erwartet, dass Sie den Stadtschlüssel [GUIDNAME 1645021] rasch an sich bringen - und keinesfalls einen Krieg provozieren!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] erwartet, dass Sie den Stadtschlüssel [GUIDNAME 1645021] rasch an sich bringen - und keinesfalls einen Krieg provozieren!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] ожидает, что вы быстро захватите ключи от городов, где правит [GUIDNAME 1645021] - ни в коем случае не провоцируя войну!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] ожидает, что вы быстро захватите ключи от городов, где правит [GUIDNAME 1645021] - ни в коем случае не провоцируя войну!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <English>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] expects you to quickly acquire the Key to [GUIDNAME 1645021]'s City  - without provoking a war!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] expects you to quickly acquire the Key to [GUIDNAME 1645021]'s City  - without provoking a war!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <French>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] vous demande d'acquérir rapidement la Clé de la Ville de [GUIDNAME 1645021], et cela sans déclencher de guerre !</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] vous demande d'acquérir rapidement la Clé de la Ville de [GUIDNAME 1645021], et cela sans déclencher de guerre !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] espera que te hagas pronto con la llave de la ciudad de [GUIDNAME 1645021]... ¡sin provocar una guerra!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] espera que te hagas pronto con la llave de la ciudad de [GUIDNAME 1645021]... ¡sin provocar una guerra!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] si aspetta che tu ottenga in fretta la Chiave della Città di [GUIDNAME 1645021]... senza scatenare una guerra!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] si aspetta che tu ottenga in fretta la Chiave della Città di [GUIDNAME 1645021]... senza scatenare una guerra!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] spodziewa się, że szybko zdobędziesz klucze do miasta, którym włada [GUIDNAME 1645021] - i to bez wywoływania wojny!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] spodziewa się, że szybko zdobędziesz klucze do miasta, którym włada [GUIDNAME 1645021] - i to bez wywoływania wojny!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>[THIRDPARTY_SENDER_PLAYER] očekává, že co nejdříve získáte klíč od města postavy jménem [GUIDNAME 1645021]. A to aniž byste vyprovokoval válku!</Text>
+                  <LastFinalText>[THIRDPARTY_SENDER_PLAYER] očekává, že co nejdříve získáte klíč od města postavy jménem [GUIDNAME 1645021]. A to aniž byste vyprovokoval válku!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400006</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

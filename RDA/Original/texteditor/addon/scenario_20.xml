@@ -1,0 +1,2641 @@
+<Group>
+  <Groups>
+    <Group>
+      <Name>Sequence</Name>
+      <GUIDRangeMin>41320000</GUIDRangeMin>
+      <GUIDRangeMax>41320019</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320000</GUID>
+              <Kommentar>Titel und Ingame Headline</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Istars Labyrinth</Text>
+                  <LastFinalText>Istars Labyrinth</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Istar's Labyrinth</Text>
+                  <LastFinalText>Istars Labyrinth</LastFinalText>
+                  <Status>Edit</Status>
+                </English>
+                <Russian>
+                  <Text>Лабиринт Иштар</Text>
+                  <LastFinalText>Лабиринт Иштар</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <French>
+                  <Text>Le Labyrinthe d'Istar</Text>
+                  <LastFinalText>Le Labyrinthe d'Istar</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>El laberinto de Istar</Text>
+                  <LastFinalText>El laberinto de Istar</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Italian>
+                  <Text>Il Labirinto di Istar</Text>
+                  <LastFinalText>Il Labirinto di Istar</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <Polish>
+                  <Text>Labirynt Istara</Text>
+                  <LastFinalText>Labirynt Istara</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Istarův labyrint</Text>
+                  <LastFinalText>Istarův labyrint</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320001</GUID>
+              <Kommentar>Intro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Eine uralten Handschrift voller Legenden berichtet vom mächtigen Dschinn Istar.</Text>
+                  <LastFinalText>Eine uralten Handschrift voller Legenden berichtet vom mächtigen Dschinn Istar.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Legends from an ancient scroll tell the story of a mighty djinn named Istar.</Text>
+                  <LastFinalText>Legends from an ancient scroll tell the story of a mighty djinn named Istar.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Древняя рукопись рассказывает о могущественном джинне Иштаре,</Text>
+                  <LastFinalText>Древняя рукопись рассказывает о могущественном джинне Иштаре,</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>In un'antica pergamena si racconta la leggenda di un potente Genio chiamato Istar.</Text>
+                  <LastFinalText>In un'antica pergamena si racconta la leggenda di un potente Genio chiamato Istar.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Une ancienne légende raconte l'histoire d'un puissant Djinn nommé Istar.</Text>
+                  <LastFinalText>Une ancienne légende raconte l'histoire d'un puissant Djinn nommé Istar.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Las leyendas de un antiguo pergamino cuentan la historia de un poderoso genio llamado Istar.</Text>
+                  <LastFinalText>Las leyendas de un antiguo pergamino cuentan la historia de un poderoso genio llamado Istar.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Legendy ze starożytnego zwoju opowiadają o potężnym dżinie zwanym Istar.</Text>
+                  <LastFinalText>Legendy ze starożytnego zwoju opowiadają o potężnym dżinie zwanym Istar.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>V legendách na starém svitku se praví o mocném džinovi Istarovi.</Text>
+                  <LastFinalText>V legendách na starém svitku se praví o mocném džinovi Istarovi.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320002</GUID>
+              <Kommentar>Intro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Dieser versteckte seine unvorstellbaren Reichtümer ...</Text>
+                  <LastFinalText>Dieser versteckte seine unvorstellbaren Reichtümer ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>This djinn hid incredible riches...</Text>
+                  <LastFinalText>This djinn hid incredible riches...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>который спрятал свои невообразимые сокровища ...</Text>
+                  <LastFinalText>который спрятал свои невообразимые сокровища ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Questo Genio aveva nascosto incredibili ricchezze...</Text>
+                  <LastFinalText>Questo Genio aveva nascosto incredibili ricchezze...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Ce Djinn cachait d'incroyables richesses...</Text>
+                  <LastFinalText>Ce Djinn cachait d'incroyables richesses...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Albergaba riquezas impensables...</Text>
+                  <LastFinalText>Albergaba riquezas impensables...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Dżin ukrył niewyobrażalne bogactwa...</Text>
+                  <LastFinalText>Dżin ukrył niewyobrażalne bogactwa...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Džin schoval v kouzelném labyrintu na dně moře...</Text>
+                  <LastFinalText>Džin schoval v kouzelném labyrintu na dně moře...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320003</GUID>
+              <Kommentar>Intro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... in einem magischen Labyrinth auf dem Meeresgrund. </Text>
+                  <LastFinalText>... in einem magischen Labyrinth auf dem Meeresgrund. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...within a magic labyrinth on the bottom of the sea.</Text>
+                  <LastFinalText>...within a magic labyrinth on the bottom of the sea.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... в волшебном лабиринте на дне моря. </Text>
+                  <LastFinalText>... в волшебном лабиринте на дне моря. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>...in un Labirinto magico in fondo al mare.</Text>
+                  <LastFinalText>...in un Labirinto magico in fondo al mare.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>... dans un labyrinthe magique au fond de la mer.</Text>
+                  <LastFinalText>... dans un labyrinthe magique au fond de la mer.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... dentro de un laberinto mágico, en el fondo del mar.</Text>
+                  <LastFinalText>... dentro de un laberinto mágico, en el fondo del mar.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>…w magicznym labiryncie na dnie morza.</Text>
+                  <LastFinalText>…w magicznym labiryncie na dnie morza.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... nesmírné bohatství.</Text>
+                  <LastFinalText>... nesmírné bohatství.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320004</GUID>
+              <Kommentar>Intro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Alle 300 Jahre taucht dieses Labyrinth für kurze Zeit an der Wasseroberfläche auf.</Text>
+                  <LastFinalText>Alle 300 Jahre taucht dieses Labyrinth für kurze Zeit an der Wasseroberfläche auf.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Every 300 years, this labyrinth emerges from the depths for but a short period of time.</Text>
+                  <LastFinalText>Every 300 years, this labyrinth emerges from the depths for but a short period of time.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Каждые 300 лет этот лабиринт ненадолго показывается над поверхностью воды.</Text>
+                  <LastFinalText>Каждые 300 лет этот лабиринт ненадолго показывается над поверхностью воды.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Ogni 300 anni questo Labirinto emerge dagli abissi per un breve periodo.</Text>
+                  <LastFinalText>Ogni 300 anni questo Labirinto emerge dagli abissi per un breve periodo.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Tous les 300 ans, ce labyrinthe émerge des profondeurs pendant une courte durée.</Text>
+                  <LastFinalText>Tous les 300 ans, ce labyrinthe émerge des profondeurs pendant une courte durée.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cada 300 años, el laberinto emergía de las profundidades durante un breve periodo de tiempo.</Text>
+                  <LastFinalText>Cada 300 años, el laberinto emergía de las profundidades durante un breve periodo de tiempo.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Co 300 lat labirynt wynurza się z głębin, ale tylko na krótko.</Text>
+                  <LastFinalText>Co 300 lat labirynt wynurza się z głębin, ale tylko na krótko.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Každých 300 let se tento labyrint na krátko vynoří z hlubin.</Text>
+                  <LastFinalText>Každých 300 let se tento labyrint na krátko vynoří z hlubin.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320005</GUID>
+              <Kommentar>Intro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Verlockung für alle wagemutigen Abenteurer, ...</Text>
+                  <LastFinalText>Verlockung für alle wagemutigen Abenteurer, ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>A temptation for brave adventurers...</Text>
+                  <LastFinalText>A temptation for brave adventurers...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Какой соблазн для отважных искателей приключений, ...</Text>
+                  <LastFinalText>Какой соблазн для отважных искателей приключений, ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Una tentazione per avventurieri coraggiosi...</Text>
+                  <LastFinalText>Una tentazione per avventurieri coraggiosi...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Une opportunité pour les braves aventuriers...</Text>
+                  <LastFinalText>Une opportunité pour les braves aventuriers...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Una tentación para los aventureros valientes...</Text>
+                  <LastFinalText>Una tentación para los aventureros valientes...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Kusi odważnych poszukiwaczy przygód...</Text>
+                  <LastFinalText>Kusi odważnych poszukiwaczy przygód...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Pro odvážné dobrodruhy je to pokušení...</Text>
+                  <LastFinalText>Pro odvážné dobrodruhy je to pokušení...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320006</GUID>
+              <Kommentar>Intro Text 6</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... ihr Glück bei der Schatzsuche zu versuchen. </Text>
+                  <LastFinalText>... ihr Glück bei der Schatzsuche zu versuchen. </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...to try their luck at finding the djinn's treasures.</Text>
+                  <LastFinalText>...to try their luck at finding the djinn's treasures.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... попытать счастья в поисках сокровищ. </Text>
+                  <LastFinalText>... попытать счастья в поисках сокровищ. </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>...che vogliono trovare il tesoro del Genio.</Text>
+                  <LastFinalText>...che vogliono trovare il tesoro del Genio.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>... qui veulent tenter de trouver les trésors du Djinn.</Text>
+                  <LastFinalText>... qui veulent tenter de trouver les trésors du Djinn.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... de probar fortuna y encontrar los tesoros del genio.</Text>
+                  <LastFinalText>... de probar fortuna y encontrar los tesoros del genio.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>…pragnących odnaleźć skarby dżina.</Text>
+                  <LastFinalText>…pragnących odnaleźć skarby dżina.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... zkusit štěstí při hledání džinova pokladu.</Text>
+                  <LastFinalText>... zkusit štěstí při hledání džinova pokladu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320007</GUID>
+              <Kommentar>Intro Text 7</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Bisher kehrte keiner von ihnen zurück...</Text>
+                  <LastFinalText>Bisher kehrte keiner von ihnen zurück...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>To this day, not one of them has ever returned...</Text>
+                  <LastFinalText>To this day, not one of them has ever returned...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Но до сих пор ни один из них не вернулся...</Text>
+                  <LastFinalText>Но до сих пор ни один из них не вернулся...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Fino a oggi nessuno di loro è mai ritornato...</Text>
+                  <LastFinalText>Fino a oggi nessuno di loro è mai ritornato...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Jusqu'à ce jour, aucun n'est jamais revenu...</Text>
+                  <LastFinalText>Jusqu'à ce jour, aucun n'est jamais revenu...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Hasta este día, ninguno ha conseguido regresar...</Text>
+                  <LastFinalText>Hasta este día, ninguno ha conseguido regresar...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Do dziś nie powrócił żaden z nich...</Text>
+                  <LastFinalText>Do dziś nie powrócił żaden z nich...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Dodnes se nikdo z nich nevrátil...</Text>
+                  <LastFinalText>Dodnes se nikdo z nich nevrátil...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320008</GUID>
+              <Kommentar>Outro Text 1</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Legende vom sagenumwobenen Schatz des Dschinns ist wahr! </Text>
+                  <LastFinalText>Die Legende vom sagenumwobenen Schatz des Dschinns ist wahr! </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The legend of the Djinn and its fabled treasure - it's all true!</Text>
+                  <LastFinalText>The legend of the Djinn and its fabled treasure - it's all true!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Легенда о сказочном сокровище джинна оказалась правдой! </Text>
+                  <LastFinalText>Легенда о сказочном сокровище джинна оказалась правдой! </LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>La leggenda del Genio e del suo mitico tesoro... è vera!</Text>
+                  <LastFinalText>La leggenda del Genio e del suo mitico tesoro... è vera!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>La légende du Djinn et de son fabuleux trésor est vraie !</Text>
+                  <LastFinalText>La légende du Djinn et de son fabuleux trésor est vraie !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La leyenda del genio y su fabuloso tesoro... ¡es cierta!</Text>
+                  <LastFinalText>La leyenda del genio y su fabuloso tesoro... ¡es cierta!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Legenda o dżinie i jego bajecznym skarbie - to prawda!</Text>
+                  <LastFinalText>Legenda o dżinie i jego bajecznym skarbie - to prawda!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Ta legenda o tom džinovi a jeho pohádkovém pokladu je pravdivá!</Text>
+                  <LastFinalText>Ta legenda o tom džinovi a jeho pohádkovém pokladu je pravdivá!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320009</GUID>
+              <Kommentar>Outro Text 2</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie haben Istars Labyrinth gefunden ...</Text>
+                  <LastFinalText>Sie haben Istars Labyrinth gefunden ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You have found Istar's labyrinth...</Text>
+                  <LastFinalText>You have found Istar's labyrinth...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы нашли лабиринт Иштара,</Text>
+                  <LastFinalText>Вы нашли лабиринт Иштара,</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Hai trovato il Labirinto di Istar...</Text>
+                  <LastFinalText>Hai trovato il Labirinto di Istar...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Vous avez trouvé le Labyrinthe d'Istar...</Text>
+                  <LastFinalText>Vous avez trouvé le Labyrinthe d'Istar...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Has encontrado el laberinto de Istar...</Text>
+                  <LastFinalText>Has encontrado el laberinto de Istar...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Udało ci się odnaleźć labirynt Istara...</Text>
+                  <LastFinalText>Udało ci się odnaleźć labirynt Istara...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Objevil jste Istarův labyrint...</Text>
+                  <LastFinalText>Objevil jste Istarův labyrint...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320010</GUID>
+              <Kommentar>Outro Text 3</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... und unermessliche Reichtümer entdeckt!</Text>
+                  <LastFinalText>... und unermessliche Reichtümer entdeckt!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>...and with it immeasurable riches!</Text>
+                  <LastFinalText>...and with it immeasurable riches!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... и его несметные сокровища!</Text>
+                  <LastFinalText>... и его несметные сокровища!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>...e con esso ricchezze incommensurabili!</Text>
+                  <LastFinalText>...e con esso ricchezze incommensurabili!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>... et ses incommensurables richesses !</Text>
+                  <LastFinalText>... et ses incommensurables richesses !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡... con sus incontables riquezas!</Text>
+                  <LastFinalText>¡... con sus incontables riquezas!</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Polish>
+                  <Text>…a w nim niewyobrażalne bogactwa!</Text>
+                  <LastFinalText>…a w nim niewyobrażalne bogactwa!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... i s tím nezměrným bohatstvím!</Text>
+                  <LastFinalText>... i s tím nezměrným bohatstvím!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320011</GUID>
+              <Kommentar>Outro Text 4</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Mit voll beladenem Schiff kehren Sie stolz in Ihre Heimatstadt zurück ...</Text>
+                  <LastFinalText>Mit voll beladenem Schiff kehren Sie stolz in Ihre Heimatstadt zurück ...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Your ship loaded to the gunwales, you proudly return to your hometown...</Text>
+                  <LastFinalText>Your ship loaded to the gunwales, you proudly return to your hometown...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>На загруженном до отказа корабле вы с гордостью возвращаетесь в свой родной город ...</Text>
+                  <LastFinalText>На загруженном до отказа корабле вы с гордостью возвращаетесь в свой родной город ...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>La tua nave è piena fino all'orlo e fai ritorno a testa alta nella tua terra...</Text>
+                  <LastFinalText>La tua nave è piena fino all'orlo e fai ritorno a testa alta nella tua terra...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Votre Navire plein à ras bords, vous revenez fièrement dans votre Ville...</Text>
+                  <LastFinalText>Votre Navire plein à ras bords, vous revenez fièrement dans votre Ville...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Con tu barco cargado hasta la borda, emprendes el regreso con orgullo a tu tierra natal...</Text>
+                  <LastFinalText>Con tu barco cargado hasta la borda, emprendes el regreso con orgullo a tu tierra natal...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Wracasz do rodzinnego miasta na wyładowanym po brzegi okręcie...</Text>
+                  <LastFinalText>Wracasz do rodzinnego miasta na wyładowanym po brzegi okręcie...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Vaše loď je plná k prasknutí a vy se hrdě vracíte domů...</Text>
+                  <LastFinalText>Vaše loď je plná k prasknutí a vy se hrdě vracíte domů...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Sequenz Audio+Text</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320012</GUID>
+              <Kommentar>Outro Text 5</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>... und sind damit selbst zur Legende geworden.</Text>
+                  <LastFinalText>... und sind damit selbst zur Legende geworden.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>... to become a legend yourself.</Text>
+                  <LastFinalText>... to become a legend yourself.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>... и таким образом сами превращаетесь в легенду.</Text>
+                  <LastFinalText>... и таким образом сами превращаетесь в легенду.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>...per diventare anche tu una leggenda vivente.</Text>
+                  <LastFinalText>...per diventare anche tu una leggenda vivente.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>... et devenez à votre tour une légende.</Text>
+                  <LastFinalText>... et devenez à votre tour une légende.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>... para convertirte en leyenda.</Text>
+                  <LastFinalText>... para convertirte en leyenda.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>...i sam przechodzisz do legendy.</Text>
+                  <LastFinalText>...i sam przechodzisz do legendy.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>... abyste se stal legendou.</Text>
+                  <LastFinalText>... abyste se stal legendou.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+              <SprecherAuswahl>41400053</SprecherAuswahl>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Assets</Name>
+      <GUIDRangeMin>41320020</GUIDRangeMin>
+      <GUIDRangeMax>41320049</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320020</GUID>
+              <Kommentar>Timer</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Verbleibende Zeit:</Text>
+                  <LastFinalText>Verbleibende Zeit:</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Time left:</Text>
+                  <LastFinalText>Time left:</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Времени осталось:</Text>
+                  <LastFinalText>Времени осталось:</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Tempo rimasto:</Text>
+                  <LastFinalText>Tempo rimasto:</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Temps restant</Text>
+                  <LastFinalText>Temps restant</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tiempo restante:</Text>
+                  <LastFinalText>Tiempo restante:</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Pozostały czas:</Text>
+                  <LastFinalText>Pozostały czas:</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Zbývající čas:</Text>
+                  <LastFinalText>Zbývající čas:</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320021</GUID>
+              <Kommentar>Island Name</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Totenkopfinsel</Text>
+                  <LastFinalText>Totenkopfinsel</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Skull Island</Text>
+                  <LastFinalText>Skull Island</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Остров мертвой головы</Text>
+                  <LastFinalText>Остров мертвой головы</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Isola del Teschio</Text>
+                  <LastFinalText>Isola del Teschio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Île du Crâne</Text>
+                  <LastFinalText>Île du Crâne</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Isla Calavera</Text>
+                  <LastFinalText>Isla Calavera</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Wyspa Czaszek</Text>
+                  <LastFinalText>Wyspa Czaszek</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Ostrov lebek</Text>
+                  <LastFinalText>Ostrov lebek</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320022</GUID>
+              <Kommentar>Ghost Ship Name</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Decaying Shipwreck</Text>
+                  <LastFinalText>Decaying Shipwreck</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>Verrottetes Schiffswrack</Text>
+                  <LastFinalText>Verrottetes Schiffswrack</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Корабль призраков</Text>
+                  <LastFinalText>Корабль призраков</LastFinalText>
+                  <Status>Exported</Status>
+                </Russian>
+                <Italian>
+                  <Text>Relitto deteriorato</Text>
+                  <LastFinalText>Relitto deteriorato</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Épave délabrée</Text>
+                  <LastFinalText>Épave délabrée</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Restos podridos de naufragio</Text>
+                  <LastFinalText>Restos podridos de naufragio</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Czech>
+                  <Text>Rozkládající se vrak lodi</Text>
+                  <LastFinalText>Rozkládající se vrak lodi</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+                <Polish>
+                  <Text>Gnijący wrak</Text>
+                  <LastFinalText>Gnijący wrak</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320023</GUID>
+              <Kommentar>Asset Name</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Repair Crane</Text>
+                  <LastFinalText>Repair Crane</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>Reparaturkran</Text>
+                  <LastFinalText>Reparaturkran</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Ремонтный кран</Text>
+                  <LastFinalText>Ремонтный кран</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Gru di riparazione</Text>
+                  <LastFinalText>Gru di riparazione</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Grue de réparation</Text>
+                  <LastFinalText>Grue de réparation</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Grúa de reparación</Text>
+                  <LastFinalText>Grúa de reparación</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Żuraw naprawczy</Text>
+                  <LastFinalText>Żuraw naprawczy</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Opravárenský jeřáb</Text>
+                  <LastFinalText>Opravárenský jeřáb</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320024</GUID>
+              <Kommentar>Ancient Statue</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Ancient weathered Statue</Text>
+                  <LastFinalText>Ancient weathered Statue</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>Uralte verwitterte Statue</Text>
+                  <LastFinalText>Uralte verwitterte Statue</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Древняя полуразрушенная статуя</Text>
+                  <LastFinalText>Древняя полуразрушенная статуя</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Antica statua deteriorata</Text>
+                  <LastFinalText>Antica statua deteriorata</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Ancienne statue érodée</Text>
+                  <LastFinalText>Ancienne statue érodée</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Estatua antigua erosionada</Text>
+                  <LastFinalText>Estatua antigua erosionada</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Podniszczony starożytny posąg</Text>
+                  <LastFinalText>Podniszczony starożytny posąg</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Stará, větrem ošlehaná socha</Text>
+                  <LastFinalText>Stará, větrem ošlehaná socha</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Asset Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320025</GUID>
+              <Kommentar>Item Name</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Mystical Hourglass of the Djinn</Text>
+                  <LastFinalText>Mystical Hourglass of the Djinn</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>WiP: mystische Sanduhr des Dschinn</Text>
+                  <LastFinalText>WiP: mystische Sanduhr des Dschinn</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>WiP: таинственные песочные часы джинна</Text>
+                  <LastFinalText>WiP: таинственные песочные часы джинна</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Clessidra magica del Genio</Text>
+                  <LastFinalText>Clessidra magica del Genio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Sablier mystique du Djinn</Text>
+                  <LastFinalText>Sablier mystique du Djinn</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Reloj de arena místico del genio</Text>
+                  <LastFinalText>Reloj de arena místico del genio</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Mistyczna klepsydra dżina</Text>
+                  <LastFinalText>Mistyczna klepsydra dżina</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Džinovy mystické přesýpací hodiny</Text>
+                  <LastFinalText>Džinovy mystické přesýpací hodiny</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Tooltip Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320026</GUID>
+              <Kommentar>Item Tooltip Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Socket the Hourglass on your Ship and then use it to gain a one-time bonus of XX seconds of additional  time.</Text>
+                  <LastFinalText>Socket the Hourglass on your Ship and then use it to gain a one-time bonus of XX seconds of additional  time.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>WiP: Sockeln Sie die Sanduhr in Ihrem Schiff und benutzen Sie sie dann, um einen einmaligen zeitbonus von XX Sekunden zu erhalten.</Text>
+                  <LastFinalText>WiP: Sockeln Sie die Sanduhr in Ihrem Schiff und benutzen Sie sie dann, um einen einmaligen zeitbonus von XX Sekunden zu erhalten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>WiP: Поместите песочные часы на свой корабль и воспользуйтесь ими, чтобы получить дополнительное время в количестве  XX секунд.</Text>
+                  <LastFinalText>WiP: Поместите песочные часы на свой корабль и воспользуйтесь ими, чтобы получить дополнительное время в количестве  XX секунд.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Colloca la Clessidra sulla Nave e usala una sola volta per ottenere un bonus di XX secondi di tempo aggiuntivo.</Text>
+                  <LastFinalText>Colloca la Clessidra sulla Nave e usala una sola volta per ottenere un bonus di XX secondi di tempo aggiuntivo.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Déposez le Sablier dans votre Navire et utilisez-le pour gagner un bonus unique de XX secondes supplémentaires.</Text>
+                  <LastFinalText>Déposez le Sablier dans votre Navire et utilisez-le pour gagner un bonus unique de XX secondes supplémentaires.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Coloca el reloj de arena en el barco y utilízalo para obtener una bonificación única de XX segundos de tiempo adicional.</Text>
+                  <LastFinalText>Coloca el reloj de arena en el barco y utilízalo para obtener una bonificación única de XX segundos de tiempo adicional.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Ustaw klepsydrę na swym okręcie i użyj jej, żeby zdobyć premię XX sekund dodatkowego czasu.</Text>
+                  <LastFinalText>Ustaw klepsydrę na swym okręcie i użyj jej, żeby zdobyć premię XX sekund dodatkowego czasu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Vložte do své lodi přesýpací hodiny a pak je použijte k získání jednorázového bonusu v podobě XX vteřin k dobru.</Text>
+                  <LastFinalText>Vložte do své lodi přesýpací hodiny a pak je použijte k získání jednorázového bonusu v podobě XX vteřin k dobru.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320027</GUID>
+              <Kommentar>Public Enemy</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Tormented Ghost of a long forgotten Adventurer</Text>
+                  <LastFinalText>Tormented Ghost of a long forgotten Adventurer</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>Gepeinigte Seele eines verschollenen Schatzsuchers</Text>
+                  <LastFinalText>Gepeinigte Seele eines verschollenen Schatzsuchers</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Замученные души забытых кладоискателей</Text>
+                  <LastFinalText>Замученные души забытых кладоискателей</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Tormentato Fantasma di un Avventuriero da tempo dimenticato</Text>
+                  <LastFinalText>Tormentato Fantasma di un Avventuriero da tempo dimenticato</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Fantôme tourmenté d'un aventurier oublié</Text>
+                  <LastFinalText>Fantôme tourmenté d'un aventurier oublié</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Fantasma atormentado de aventurero ya olvidado</Text>
+                  <LastFinalText>Fantasma atormentado de aventurero ya olvidado</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Cierpiący duch dawno zapomnianego poszukiwacza przygód</Text>
+                  <LastFinalText>Cierpiący duch dawno zapomnianego poszukiwacza przygód</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Trýzněný duch dávno zapomenutého dobrodruha</Text>
+                  <LastFinalText>Trýzněný duch dávno zapomenutého dobrodruha</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320028</GUID>
+              <Kommentar>Text für Bonuszeit</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Bonuszeit erhalten </Text>
+                  <LastFinalText>Bonuszeit erhalten </LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Bonus tine granted</Text>
+                  <LastFinalText>Bonus tine granted</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Получено дополнительное время</Text>
+                  <LastFinalText>Получено дополнительное время</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Tempo bonus assegnato</Text>
+                  <LastFinalText>Tempo bonus assegnato</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Temps bonus accordé</Text>
+                  <LastFinalText>Temps bonus accordé</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Bonificación de tiempo obtenida</Text>
+                  <LastFinalText>Bonificación de tiempo obtenida</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Otrzymujesz premię czasową</Text>
+                  <LastFinalText>Otrzymujesz premię czasową</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Získal jste čas k dobru</Text>
+                  <LastFinalText>Získal jste čas k dobru</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Storyquest</Name>
+      <GUIDRangeMin>41320050</GUIDRangeMin>
+      <GUIDRangeMax>41320099</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320050</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Die Schätze des Dschinns</Text>
+                  <LastFinalText>Die Schätze des Dschinns</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The Djinn's Treasures</Text>
+                  <LastFinalText>The Djinn's Treasures</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Сокровище джинна</Text>
+                  <LastFinalText>Сокровище джинна</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>I Tesori del Genio</Text>
+                  <LastFinalText>I Tesori del Genio</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Les trésors du Djinn</Text>
+                  <LastFinalText>Les trésors du Djinn</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Los tesoros del genio</Text>
+                  <LastFinalText>Los tesoros del genio</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Skarby dżina</Text>
+                  <LastFinalText>Skarby dżina</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Džinův poklad</Text>
+                  <LastFinalText>Džinův poklad</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320051</GUID>
+              <Kommentar>Quest Info</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Finden Sie alle Schätze im Labyrinth.</Text>
+                  <LastFinalText>Finden Sie alle Schätze im Labyrinth.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Find all of the treasures hidden in the Labyrinth.</Text>
+                  <LastFinalText>Find all of the treasures hidden in the Labyrinth.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Найдите все сокровища в лабиринте</Text>
+                  <LastFinalText>Найдите все сокровища в лабиринте</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Trova tutti i tesori nascosti nel Labirinto.</Text>
+                  <LastFinalText>Trova tutti i tesori nascosti nel Labirinto.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Trouvez tous les trésors cachés dans le Labyrinthe.</Text>
+                  <LastFinalText>Trouvez tous les trésors cachés dans le Labyrinthe.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Encuentra todos los tesoros ocultos en el laberinto.</Text>
+                  <LastFinalText>Encuentra todos los tesoros ocultos en el laberinto.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Znajdź wszystkie skarby ukryte w labiryncie.</Text>
+                  <LastFinalText>Znajdź wszystkie skarby ukryte w labiryncie.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Najděte všechny poklady skryté v labyrintu.</Text>
+                  <LastFinalText>Najděte všechny poklady skryté v labyrintu.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320052</GUID>
+              <Kommentar>Storytext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als Sie nach langer Fahrt jene entlegene Region erreichen, in der sich der sagenhafte Schatz von Istar befinden soll, trauen Sie Ihren Augen kaum: Die Legende ist tatsächlich wahr![CR] [CR]Direkt vor Ihnen liegt der Eingang des Labyrinths, verheißungsvoll und mit seinen verborgenen Reichtümern lockend.[CR] [CR]Wagen Sie das Abenteuer, an dem schon viele Helden vor Ihnen gescheitert sind! Betreten Sie Istars Labyrinth und kehren Sie mit unermesslichen Schätzen zurück!</Text>
+                  <LastFinalText>Als Sie nach langer Fahrt jene entlegene Region erreichen, in der sich der sagenhafte Schatz von Istar befinden soll, trauen Sie Ihren Augen kaum: Die Legende ist tatsächlich wahr![CR] [CR]Direkt vor Ihnen liegt der Eingang des Labyrinths, verheißungsvoll und mit seinen verborgenen Reichtümern lockend.[CR] [CR]Wagen Sie das Abenteuer, an dem schon viele Helden vor Ihnen gescheitert sind! Betreten Sie Istars Labyrinth und kehren Sie mit unermesslichen Schätzen zurück!</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The long journey to the remote region said to be home to the fabled treasure of Istar behind you, you can hardly believe your eyes: The legend is true! [CR] [CR]Before you lies the entrance to the Labyrinth, and the lure of hidden riches untold.[CR] [CR]Accept the challenge that has claimed so many heroes before you! Enter Istar's Labyrinth and return with riches beyond measure!</Text>
+                  <LastFinalText>The long journey to the remote region said to be home to the fabled treasure of Istar behind you, you can hardly believe your eyes: The legend is true! [CR] [CR]Before you lies the entrance to the Labyrinth, and the lure of hidden riches untold.[CR] [CR]Accept the challenge that has claimed so many heroes before you! Enter Istar's Labyrinth and return with riches beyond measure!</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Когда, после долгой поездки вы достигаете того места, где должно находиться легендарное сокровище Иштара, вы едва верите собственным глазам: Легенды говорили правду![CR] [CR]Прямо перед вами находится вход в лабиринт, который манит вас мыслью о сокрытых там богатствах.[CR] [CR]Отважьтесь же на приключение, в коем потерпели неудачу многие герои до вас! Войдите в лабиринт Иштара и вернитесь назад с несметными сокровищами!</Text>
+                  <LastFinalText>Когда, после долгой поездки вы достигаете того места, где должно находиться легендарное сокровище Иштара, вы едва верите собственным глазам: Легенды говорили правду![CR] [CR]Прямо перед вами находится вход в лабиринт, который манит вас мыслью о сокрытых там богатствах.[CR] [CR]Отважьтесь же на приключение, в коем потерпели неудачу многие герои до вас! Войдите в лабиринт Иштара и вернитесь назад с несметными сокровищами!</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Il lungo viaggio verso la terra remota dove si ritiene si trovi il leggendario tesoro di Istar è alle tue spalle e non riesci a credere ai tuoi occhi: la leggenda è vera! [CR] [CR]Davanti a te si trova l'entrata del Labirinto e il richiamo di immense ricchezze segrete.[CR] [CR]Accetta la sfida che ha richiamato così tanti eroi prima di te! Entra nel Labirinto di Istar e fai ritorno con ricchezze smisurate!</Text>
+                  <LastFinalText>Il lungo viaggio verso la terra remota dove si ritiene si trovi il leggendario tesoro di Istar è alle tue spalle e non riesci a credere ai tuoi occhi: la leggenda è vera! [CR] [CR]Davanti a te si trova l'entrata del Labirinto e il richiamo di immense ricchezze segrete.[CR] [CR]Accetta la sfida che ha richiamato così tanti eroi prima di te! Entra nel Labirinto di Istar e fai ritorno con ricchezze smisurate!</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Après un long voyage vers la région lointaine abritant soi-disant le fabuleux trésor d'Istar, vous pouvez à peine en croire vos yeux : la légende est vraie ! [CR] [CR]Devant vous se trouve l'entrée du Labyrinthe et la promesse de richesses cachées.[CR] [CR]Acceptez le défi que tant d'autres héros avant vous ont relevé ! Entrez dans le Labyrinthe d'Istar et ressortez les bras chargés de richesses !</Text>
+                  <LastFinalText>Après un long voyage vers la région lointaine abritant soi-disant le fabuleux trésor d'Istar, vous pouvez à peine en croire vos yeux : la légende est vraie ! [CR] [CR]Devant vous se trouve l'entrée du Labyrinthe et la promesse de richesses cachées.[CR] [CR]Acceptez le défi que tant d'autres héros avant vous ont relevé ! Entrez dans le Labyrinthe d'Istar et ressortez les bras chargés de richesses !</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tras el largo viaje a la remota legión que decía albergar el fabuloso tesoro de Istar, no puedes dar crédito a lo que ves: ¡la leyenda es cierta! [CR] [CR]Tienes ante ti la entrada al laberinto y a sus incontables riquezas ocultas.[CR] [CR]¡Acepta el desafío que se ha cobrado a tantos héroes en el pasado! ¡Entra en el laberinto de Istar y regresa con todas sus riquezas!</Text>
+                  <LastFinalText>Tras el largo viaje a la remota legión que decía albergar el fabuloso tesoro de Istar, no puedes dar crédito a lo que ves: ¡la leyenda es cierta! [CR] [CR]Tienes ante ti la entrada al laberinto y a sus incontables riquezas ocultas.[CR] [CR]¡Acepta el desafío que se ha cobrado a tantos héroes en el pasado! ¡Entra en el laberinto de Istar y regresa con todas sus riquezas!</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Masz już za sobą długą podróż do tej odległej krainy, w której podobno znajduje się legendarny skarb Istara. Nie możesz uwierzyć oczom: legenda jest prawdziwa! [CR] [CR]Przed tobą znajduje się wejście do labiryntu i pokusa nieopisanego bogactwa.[CR] [CR]Przyjmij wyzwanie, które zabrało już wielu bohaterów! Wejdź do labiryntu Istara i wróć z wielkimi skarbami!</Text>
+                  <LastFinalText>Masz już za sobą długą podróż do tej odległej krainy, w której podobno znajduje się legendarny skarb Istara. Nie możesz uwierzyć oczom: legenda jest prawdziwa! [CR] [CR]Przed tobą znajduje się wejście do labiryntu i pokusa nieopisanego bogactwa.[CR] [CR]Przyjmij wyzwanie, które zabrało już wielu bohaterów! Wejdź do labiryntu Istara i wróć z wielkimi skarbami!</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Po dlouhé cestě do vzdálené oblasti, kde se má údajně nacházet Istarův pohádkový poklad, nemůžete uvěřit svým očím: Legenda je pravdivá! [CR] [CR]Před vámi leží vstup do labyrintu a vábení ukrytého bohatství nevyslovitelné hodnoty.[CR] [CR]Postavte se k této výzvě, která si již vyžádala životy mnohých hrdinů před vámi, čelem! Vydejte se do Istarova labyrintu a vraťte se s pohádkovým pokladem!</Text>
+                  <LastFinalText>Po dlouhé cestě do vzdálené oblasti, kde se má údajně nacházet Istarův pohádkový poklad, nemůžete uvěřit svým očím: Legenda je pravdivá! [CR] [CR]Před vámi leží vstup do labyrintu a vábení ukrytého bohatství nevyslovitelné hodnoty.[CR] [CR]Postavte se k této výzvě, která si již vyžádala životy mnohých hrdinů před vámi, čelem! Vydejte se do Istarova labyrintu a vraťte se s pohádkovým pokladem!</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MQ01_Build Warehouse</Name>
+      <GUIDRangeMin>41320150</GUIDRangeMin>
+      <GUIDRangeMax>41320199</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320150</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Kammer der Kostbarkeiten</Text>
+                  <LastFinalText>Kammer der Kostbarkeiten</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Warehouse of Treasures</Text>
+                  <LastFinalText>Warehouse of Treasures</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Сокровищница</Text>
+                  <LastFinalText>Сокровищница</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Magazzino del Tesoro</Text>
+                  <LastFinalText>Magazzino del Tesoro</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Entrepôt de trésors</Text>
+                  <LastFinalText>Entrepôt de trésors</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Almacén de tesoros</Text>
+                  <LastFinalText>Almacén de tesoros</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Magazyn skarbów</Text>
+                  <LastFinalText>Magazyn skarbów</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Skladiště pokladů</Text>
+                  <LastFinalText>Skladiště pokladů</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320151</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Errichten Sie ein Kontor, um darin Ihre Schätze zu horten.</Text>
+                  <LastFinalText>Errichten Sie ein Kontor, um darin Ihre Schätze zu horten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Build a Warehouse in which you can store your treasures.</Text>
+                  <LastFinalText>Build a Warehouse in which you can store your treasures.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Постройте контору, чтобы в ней хранить ваши сокровища.</Text>
+                  <LastFinalText>Постройте контору, чтобы в ней хранить ваши сокровища.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Costruisci un Magazzino in cui conservare i tuoi tesori.</Text>
+                  <LastFinalText>Costruisci un Magazzino in cui conservare i tuoi tesori.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Bâtissez un Entrepôt pour y stocker vos trésors.</Text>
+                  <LastFinalText>Bâtissez un Entrepôt pour y stocker vos trésors.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Construye un almacén en el que depositar los tesoros.</Text>
+                  <LastFinalText>Construye un almacén en el que depositar los tesoros.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Zbuduj magazyn, w którym przechowasz swe skarby.</Text>
+                  <LastFinalText>Zbuduj magazyn, w którym przechowasz swe skarby.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Postavte skladiště, ve kterém budete uchovávat své poklady.</Text>
+                  <LastFinalText>Postavte skladiště, ve kterém budete uchovávat své poklady.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320152</GUID>
+              <Kommentar>Quest Invitation Started</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als Sie sich der Insel nähern, bemerken Sie einen schmalen Küstenstreifen - gerade so groß, um ein Kontor darauf zu errichten.[CR]Es könnte nicht schaden, einen Lagerplatz für all Ihre Reichtümer zu haben.</Text>
+                  <LastFinalText>Als Sie sich der Insel nähern, bemerken Sie einen schmalen Küstenstreifen - gerade so groß, um ein Kontor darauf zu errichten.[CR]Es könnte nicht schaden, einen Lagerplatz für all Ihre Reichtümer zu haben.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As you approach the island you notice a narrow strip of beach - just large enough for a Warehouse. [CR]It wouldn't hurt to have a place to store all your new-found riches.</Text>
+                  <LastFinalText>As you approach the island you notice a narrow strip of beach - just large enough for a Warehouse. [CR]It wouldn't hurt to have a place to store all your new-found riches.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Приближаясь к острову вы замечаете узкую полоску берега - места как раз хватит, чтобы построить контору.[CR]Не помешало бы обзавестись местом для хранения ваших сокровищ.</Text>
+                  <LastFinalText>Приближаясь к острову вы замечаете узкую полоску берега - места как раз хватит, чтобы построить контору.[CR]Не помешало бы обзавестись местом для хранения ваших сокровищ.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Mentre ti avvicini all'isola noti un sottile lembo di terra, grande abbastanza per un Magazzino. [CR]Non sarebbe male avere un luogo dove conservare le tue nuove ricchezze.</Text>
+                  <LastFinalText>Mentre ti avvicini all'isola noti un sottile lembo di terra, grande abbastanza per un Magazzino. [CR]Non sarebbe male avere un luogo dove conservare le tue nuove ricchezze.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>En vous approchant de l'île, vous remarquez une étroite bande de plage, suffisante pour un Entrepôt. [CR]Ce serait une bonne idée d'avoir un endroit où stocker toutes vos richesses.</Text>
+                  <LastFinalText>En vous approchant de l'île, vous remarquez une étroite bande de plage, suffisante pour un Entrepôt. [CR]Ce serait une bonne idée d'avoir un endroit où stocker toutes vos richesses.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>A medida que te acercas a la isla, percibes una franja de playa lo bastante ancha para albergar un almacén. [CR]No te vendría mal tener un lugar en el que depositar tus nuevas riquezas.</Text>
+                  <LastFinalText>A medida que te acercas a la isla, percibes una franja de playa lo bastante ancha para albergar un almacén. [CR]No te vendría mal tener un lugar en el que depositar tus nuevas riquezas.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Gdy zbliżasz się do wyspy zauważasz wąską plażę - zmieści się na niej magazyn. [CR]Przyda się do przechowywania znalezionych skarbów.</Text>
+                  <LastFinalText>Gdy zbliżasz się do wyspy zauważasz wąską plażę - zmieści się na niej magazyn. [CR]Przyda się do przechowywania znalezionych skarbów.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Když se blížíte k ostrovu, všimnete si úzkého pásu pláže, kam se tak akorát vejde skladiště. [CR]Nebylo by od věci mít nějaké místo, kam byste mohl uložit všechny své nově nabyté poklady.</Text>
+                  <LastFinalText>Když se blížíte k ostrovu, všimnete si úzkého pásu pláže, kam se tak akorát vejde skladiště. [CR]Nebylo by od věci mít nějaké místo, kam byste mohl uložit všechny své nově nabyté poklady.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MQ02_Collect Treasure</Name>
+      <GUIDRangeMin>41320200</GUIDRangeMin>
+      <GUIDRangeMax>41320249</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320201</GUID>
+              <Kommentar>Infotext</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 geborgene Schätze</Text>
+                  <LastFinalText>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 geborgene Schätze</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 treasures found.</Text>
+                  <LastFinalText>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 treasures found.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Добыто сокровищ: [FLOWCONTROL_VARIABLE_VALUE_NUMBER anzahlschwimmer]/16</Text>
+                  <LastFinalText>Добыто сокровищ: [FLOWCONTROL_VARIABLE_VALUE_NUMBER anzahlschwimmer]/16</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 tesori trovati.</Text>
+                  <LastFinalText>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 tesori trovati.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] / 16 trésors trouvés.</Text>
+                  <LastFinalText>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] / 16 trésors trouvés.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Tesoros encontrados: [FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16.</Text>
+                  <LastFinalText>[FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 tesoros encontrados.</LastFinalText>
+                  <Status>Edit</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Znalezionych skarbów: [FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 </Text>
+                  <LastFinalText>Znalezionych skarbów: [FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 </LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Nalezl jste [FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 pokladů.</Text>
+                  <LastFinalText>Nalezl jste [FLOWCONTROL_VARIABLE_VALUE_NUMBER TreasureCollected] /16 pokladů.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320202</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Collect Treasure (invisible)</Text>
+                  <LastFinalText>Collect Treasure (invisible)</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>WiP: Collect Treasure</Text>
+                </English>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ01_Ghostship</Name>
+      <GUIDRangeMin>41320100</GUIDRangeMin>
+      <GUIDRangeMax>41320149</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320100</GUID>
+              <Kommentar>Quest Title MainQuest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein uraltes Wrack</Text>
+                  <LastFinalText>Ein uraltes Wrack</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>An ancient Shipwreck</Text>
+                  <LastFinalText>An ancient Shipwreck</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Корабль призраков</Text>
+                  <LastFinalText>Корабль призраков</LastFinalText>
+                  <Status>Exported</Status>
+                </Russian>
+                <Italian>
+                  <Text>Un antico Relitto</Text>
+                  <LastFinalText>Un antico Relitto</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Une Épave ancienne</Text>
+                  <LastFinalText>Une Épave ancienne</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Restos antiguos de naufragio</Text>
+                  <LastFinalText>Restos antiguos de naufragio</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Stary wrak</Text>
+                  <LastFinalText>Stary wrak</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Vrak staré lodi</Text>
+                  <LastFinalText>Vrak staré lodi</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320104</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Als Sie sich dem Schiff nähern, erkennen Sie, dass es bereits Jahrhunderte alt sein muss. Dennoch ist es in erstaunlich gutem Zustand.[CR]Mit den nötigen Waren müsste es sich wieder seetauglich machen lassen.</Text>
+                  <LastFinalText>Als Sie sich dem Schiff nähern, erkennen Sie, dass es bereits Jahrhunderte alt sein muss. Dennoch ist es in erstaunlich gutem Zustand.[CR]Mit den nötigen Waren müsste es sich wieder seetauglich machen lassen.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>As you approach the ship you realize that it must be centuries old. However, it is in surprisingly good condition. [CR]With the right Goods you should be able to make it seaworthy once more.</Text>
+                  <LastFinalText>As you approach the ship you realize that it must be centuries old. However, it is in surprisingly good condition. [CR]With the right Goods you should be able to make it seaworthy once more.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Приближаясь к кораблю вы понимаете, что ему, должно быть, уже несколько сотен лет. Однако он удивительно хорошо сохранился.[CR]Если слегка отремонтировать его, он даже будет вполне способен снова выйти в море.</Text>
+                  <LastFinalText>Приближаясь к кораблю вы понимаете, что ему, должно быть, уже несколько сотен лет. Однако он удивительно хорошо сохранился.[CR]Если слегка отремонтировать его, он даже будет вполне способен снова выйти в море.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Mentre ti avvicini alla nave, capisci che è vecchia di secoli. Comunque, è sorprendentemente in buone condizioni. [CR]Con le Merci giuste dovresti essere in grado di renderla atta a tenere il mare di nuovo.</Text>
+                  <LastFinalText>Mentre ti avvicini alla nave, capisci che è vecchia di secoli. Comunque, è sorprendentemente in buone condizioni. [CR]Con le Merci giuste dovresti essere in grado di renderla atta a tenere il mare di nuovo.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>En vous approchant du Navire, vous réalisez qu'il doit être vieux de plusieurs siècles. Et pourtant il est en bon état. [CR]Avec les bonnes Marchandises, vous devriez pouvoir le faire voguer à nouveau.</Text>
+                  <LastFinalText>En vous approchant du Navire, vous réalisez qu'il doit être vieux de plusieurs siècles. Et pourtant il est en bon état. [CR]Avec les bonnes Marchandises, vous devriez pouvoir le faire voguer à nouveau.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Cuando te acercas al barco, descubres que debe de tener varios siglos. Sin embargo, está en un sorprendente buen estado. [CR]Con los bienes apropiados, deberías poder habilitarlo de nuevo para la navegación.</Text>
+                  <LastFinalText>Cuando te acercas al barco, descubres que debe de tener varios siglos. Sin embargo, está en un sorprendente buen estado. [CR]Con los bienes apropiados, deberías poder habilitarlo de nuevo para la navegación.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Gdy zbliżasz się do okrętu uświadamiasz sobie, że musi on liczyć całe wieki. Jednak jest w zaskakująco dobrym stanie. [CR]Mając odpowiednie towary przywrócisz mu dawną świetność.</Text>
+                  <LastFinalText>Gdy zbliżasz się do okrętu uświadamiasz sobie, że musi on liczyć całe wieki. Jednak jest w zaskakująco dobrym stanie. [CR]Mając odpowiednie towary przywrócisz mu dawną świetność.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Blížíte se k lodi a uvědomujete si, že musí být stará celá staletí. Je ovšem v překvapivě dobrém stavu. [CR]Se správným zbožím by se vám mohlo podařit ji zase zprovoznit.</Text>
+                  <LastFinalText>Blížíte se k lodi a uvědomujete si, že musí být stará celá staletí. Je ovšem v překvapivě dobrém stavu. [CR]Se správným zbožím by se vám mohlo podařit ji zase zprovoznit.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320106</GUID>
+              <Kommentar>Quest Invitation Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Soll dieses Schiff jetzt instandgesetzt werden?</Text>
+                  <LastFinalText>Soll dieses Schiff jetzt instandgesetzt werden?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Do you want to repair this Ship?</Text>
+                  <LastFinalText>Do you want to repair this Ship?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Привести корабль в порядок?</Text>
+                  <LastFinalText>Привести корабль в порядок?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Vuoi riparare questa Nave?</Text>
+                  <LastFinalText>Vuoi riparare questa Nave?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Voulez-vous réparer ce Navire ?</Text>
+                  <LastFinalText>Voulez-vous réparer ce Navire ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¿Quieres reparar este barco?</Text>
+                  <LastFinalText>¿Quieres reparar este barco?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Chcesz naprawić ten okręt?</Text>
+                  <LastFinalText>Chcesz naprawić ten okręt?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Chcete tuto loď opravit?</Text>
+                  <LastFinalText>Chcete tuto loď opravit?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320107</GUID>
+              <Kommentar>Quest Invitation Cancelled Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie entschließen sich, dieses Schiff nicht zu reparieren.</Text>
+                  <LastFinalText>Sie entschließen sich, dieses Schiff nicht zu reparieren.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You choose not to repair the ship.</Text>
+                  <LastFinalText>You choose not to repair the ship.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы решаете не ремонтировать корабль.</Text>
+                  <LastFinalText>Вы решаете не ремонтировать корабль.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Decidi di non riparare la nave.</Text>
+                  <LastFinalText>Decidi di non riparare la nave.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Vous décidez de ne pas réparer le Navire.</Text>
+                  <LastFinalText>Vous décidez de ne pas réparer le Navire.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Decides no reparar el barco.</Text>
+                  <LastFinalText>Decides no reparar el barco.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Decydujesz się nie naprawiać okrętu.</Text>
+                  <LastFinalText>Decydujesz się nie naprawiać okrętu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Volíte možnost loď neopravovat.</Text>
+                  <LastFinalText>Volíte možnost loď neopravovat.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ02_Statue</Name>
+      <GUIDRangeMin>41320250</GUIDRangeMin>
+      <GUIDRangeMax>41320299</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320250</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Geheimnis der Ahnen I</Text>
+                  <LastFinalText>Geheimnis der Ahnen I</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The Ancient's request I</Text>
+                  <LastFinalText>The Ancient's request I</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Тайна предков I</Text>
+                  <LastFinalText>Тайна предков I</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>La richiesta degli Avi I</Text>
+                  <LastFinalText>La richiesta degli Avi I</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>La requête de l'Ancien I</Text>
+                  <LastFinalText>La requête de l'Ancien I</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La petición del anciano I</Text>
+                  <LastFinalText>La petición del anciano I</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Prośba Starożytnych I</Text>
+                  <LastFinalText>Prośba Starożytnych I</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Žádost prastarého I</Text>
+                  <LastFinalText>Žádost prastarého I</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320251</GUID>
+              <Kommentar>Quest Info Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Deliver the following Goods to the ancient Statue: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Deliver the following Goods to the ancient Statue: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>Liefern Sie folgende Waren zur uralten Statue: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Liefern Sie folgende Waren zur uralten Statue: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Доставьте следующие товары к древней статуе: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Доставьте следующие товары к древней статуе: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Consegna queste Merci all'antica Statua: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Consegna queste Merci all'antica Statua: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Apportez les Marchandises suivantes à l'ancienne Statue : [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Apportez les Marchandises suivantes à l'ancienne Statue : [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Lleva los siguientes bienes a la vieja estatua: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Lleva los siguientes bienes a la vieja estatua: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Dostarcz do starożytnego posągu następujące towary: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Dostarcz do starożytnego posągu następujące towary: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Doručte prastaré soše toto zboží: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Doručte prastaré soše toto zboží: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320253</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie entdecken eine uralte, verwitterte Statue. Ihre rechte Hand ist ausgestreckt, die Handfläche nach oben.[CR]Es scheint, als würde die Statue etwas von Ihnen verlangen...</Text>
+                  <LastFinalText>Sie entdecken eine uralte, verwitterte Statue. Ihre rechte Hand ist ausgestreckt, die Handfläche nach oben.[CR]Es scheint, als würde die Statue etwas von Ihnen verlangen...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You discover an ancient, weathered Statue. Its right hand stretches out before it, palm up.[CR]It's almost as if the Statue wants something from you…</Text>
+                  <LastFinalText>You discover an ancient, weathered Statue. Its right hand stretches out before it, palm up.[CR]It's almost as if the Statue wants something from you…</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы обнаруживаете древнюю, полуразвалившуюся статую. Ее правая рука вытянута вперед, ладонью вверх.[CR]Кажется, что статуя о чем-то просит вас...</Text>
+                  <LastFinalText>Вы обнаруживаете древнюю, полуразвалившуюся статую. Ее правая рука вытянута вперед, ладонью вверх.[CR]Кажется, что статуя о чем-то просит вас...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Scopri un'antica Statua deteriorata. La sua mano destra è alzata davanti a sé, col palmo rivolto verso l'alto.[CR]Come se la Statua ti stesse chiedendo qualcosa... </Text>
+                  <LastFinalText>Scopri un'antica Statua deteriorata. La sua mano destra è alzata davanti a sé, col palmo rivolto verso l'alto.[CR]Come se la Statua ti stesse chiedendo qualcosa... </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Vous découvrez une ancienne Statue érodée. Sa main droite est tendue devant elle, paume vers le ciel.[CR]Comme si elle attendait quelque chose de vous…</Text>
+                  <LastFinalText>Vous découvrez une ancienne Statue érodée. Sa main droite est tendue devant elle, paume vers le ciel.[CR]Comme si elle attendait quelque chose de vous…</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Descubres una estatua vieja y erosionada. Tiene la mano derecha extendida ante ti y te muestra su palma abierta.[CR]Es casi como si te estuviese pidiendo algo...</Text>
+                  <LastFinalText>Descubres una estatua vieja y erosionada. Tiene la mano derecha extendida ante ti y te muestra su palma abierta.[CR]Es casi como si te estuviese pidiendo algo...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Trafiasz na starożytny, podniszczony posąg. Ma wyciągniętą prawą rękę z dłonią zwróconą ku górze.[CR]Zupełnie jakby czegoś od ciebie chciał...</Text>
+                  <LastFinalText>Trafiasz na starożytny, podniszczony posąg. Ma wyciągniętą prawą rękę z dłonią zwróconą ku górze.[CR]Zupełnie jakby czegoś od ciebie chciał...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Objevil jste starou, větrem ošlehanou sochu. Její pravá ruka trčí dopředu dlaní nahoru.[CR]Skoro to vypadá, jako by po vás ta socha něco chtěla...</Text>
+                  <LastFinalText>Objevil jste starou, větrem ošlehanou sochu. Její pravá ruka trčí dopředu dlaní nahoru.[CR]Skoro to vypadá, jako by po vás ta socha něco chtěla...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320254</GUID>
+              <Kommentar>Quest Invitation Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wollen Sie es wagen und die mitgebrachten Waren in die rechte Hand der Statue legen?</Text>
+                  <LastFinalText>Wollen Sie es wagen und die mitgebrachten Waren in die rechte Hand der Statue legen?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Do you want to take the chance and place the Goods you brought with you in the Statue's right hand?</Text>
+                  <LastFinalText>Do you want to take the chance and place the Goods you brought with you in the Statue's right hand?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Рискнете ли вы положить в правую руку статуи принесенные вами товары?</Text>
+                  <LastFinalText>Рискнете ли вы положить в правую руку статуи принесенные вами товары?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Vuoi provare a mettere le Merci che hai con te nella mano destra della Statua?</Text>
+                  <LastFinalText>Vuoi provare a mettere le Merci che hai con te nella mano destra della Statua?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Voulez-vous tenter de déposer les Marchandises que vous avez apportées dans la main droite de la Statue ?</Text>
+                  <LastFinalText>Voulez-vous tenter de déposer les Marchandises que vous avez apportées dans la main droite de la Statue ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¿Quieres aprovechar la oportunidad y depositar los bienes que has traído en la mano derecha de la estatua?</Text>
+                  <LastFinalText>¿Quieres aprovechar la oportunidad y depositar los bienes que has traído en la mano derecha de la estatua?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Chcesz spróbować umieścić na prawej dłoni posągu przywiezione towary?</Text>
+                  <LastFinalText>Chcesz spróbować umieścić na prawej dłoni posągu przywiezione towary?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Chcete to risknout a dát přivezené zboží do pravé ruky té sochy?</Text>
+                  <LastFinalText>Chcete to risknout a dát přivezené zboží do pravé ruky té sochy?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320255</GUID>
+              <Kommentar>Quest Invitation cancelled</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Sie entschließen sich, die Waren lieber an Bord Ihres Schiffes zu behalten.</Text>
+                  <LastFinalText>Sie entschließen sich, die Waren lieber an Bord Ihres Schiffes zu behalten.</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>You decide to leave the Goods aboard your Ship.</Text>
+                  <LastFinalText>You decide to leave the Goods aboard your Ship.</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Вы решаете, что лучше будет оставить товары на борту корабля.</Text>
+                  <LastFinalText>Вы решаете, что лучше будет оставить товары на борту корабля.</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Decidi di lasciare le Merci a bordo della tua Nave.</Text>
+                  <LastFinalText>Decidi di lasciare le Merci a bordo della tua Nave.</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Vous décidez de laisser les Marchandises à bord de votre Navire.</Text>
+                  <LastFinalText>Vous décidez de laisser les Marchandises à bord de votre Navire.</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Decides dejar los bienes a bordo del barco.</Text>
+                  <LastFinalText>Decides dejar los bienes a bordo del barco.</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Decydujesz się zostawić towary na pokładzie okrętu.</Text>
+                  <LastFinalText>Decydujesz się zostawić towary na pokładzie okrętu.</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Rozhodnete se ponechat zboží na palubě vaší lodi.</Text>
+                  <LastFinalText>Rozhodnete se ponechat zboží na palubě vaší lodi.</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ03_LooseQuest Ships Destroyed</Name>
+      <GUIDRangeMin>41320300</GUIDRangeMin>
+      <GUIDRangeMax>41320349</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320300</GUID>
+              <Kommentar>Quest Failed</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>All your ships were destroyed! Clinging to a plank you drift deeper into the Labyrinth, knowing that soon it will once again sink beneath the waves…</Text>
+                  <LastFinalText>All your ships were destroyed! Clinging to a plank you drift deeper into the Labyrinth, knowing that soon it will once again sink beneath the waves…</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>All Ihre Schiffe wurden vernichtet! Sie treiben an eine Planke geklammert inmitten des Labyrinths, wohlwissend, dass es schon bald wieder in den Fluten des Meeres versinken wird...</Text>
+                  <LastFinalText>All Ihre Schiffe wurden vernichtet! Sie treiben an eine Planke geklammert inmitten des Labyrinths, wohlwissend, dass es schon bald wieder in den Fluten des Meeres versinken wird...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Все ваши корабли были уничтожены! Вы двигаетесь к барьеру внутри лабиринта, прекрасно зная, что он скоро скроется в пучине вод...</Text>
+                  <LastFinalText>Все ваши корабли были уничтожены! Вы двигаетесь к барьеру внутри лабиринта, прекрасно зная, что он скоро скроется в пучине вод...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Tutte le tue navi sono state distrutte! Ti aggrappi a un'asse ma così non fai altro che inoltrarti sempre più nelle profondità del Labirinto, sapendo che presto questo scomparirà sotto le onde... </Text>
+                  <LastFinalText>Tutte le tue navi sono state distrutte! Ti aggrappi a un'asse ma così non fai altro che inoltrarti sempre più nelle profondità del Labirinto, sapendo che presto questo scomparirà sotto le onde... </LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Tous vos Navires ont été détruits ! Cramponné à une planche, vous dérivez plus profondément dans le Labyrinthe, sachant que bientôt il sera immergé…</Text>
+                  <LastFinalText>Tous vos Navires ont été détruits ! Cramponné à une planche, vous dérivez plus profondément dans le Labyrinthe, sachant que bientôt il sera immergé…</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¡Han destruido todos tus barcos! Aferrándote a un tablón, te adentras en el laberinto, consciente de que pronto volverá a hundirse bajo las olas...</Text>
+                  <LastFinalText>¡Han destruido todos tus barcos! Aferrándote a un tablón, te adentras en el laberinto, consciente de que pronto volverá a hundirse bajo las olas...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Wszystkie twoje okręty zostały zniszczone! Trzymając się jakiejś deski dryfujesz w głąb labiryntu wiedząc, że wkrótce znowu zanurzy się pośród fal...</Text>
+                  <LastFinalText>Wszystkie twoje okręty zostały zniszczone! Trzymając się jakiejś deski dryfujesz w głąb labiryntu wiedząc, że wkrótce znowu zanurzy się pośród fal...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Všechny vaše lodě byly zničeny! Přidržujete se prkna a voda vás unáší hlouběji do labyrintu. Víte, že se brzy zase potopí pod vlnami...</Text>
+                  <LastFinalText>Všechny vaše lodě byly zničeny! Přidržujete se prkna a voda vás unáší hlouběji do labyrintu. Víte, že se brzy zase potopí pod vlnami...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ04_LooseQuest Time Up</Name>
+      <GUIDRangeMin>41320350</GUIDRangeMin>
+      <GUIDRangeMax>41320399</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320350</GUID>
+              <Kommentar>Quest Title</Kommentar>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>LooseQuest Time Up</Text>
+                  <LastFinalText>LooseQuest Time Up</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>WiP: LooseQuest Time Up</Text>
+                  <LastFinalText>WiP: LooseQuest Time Up</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>WiP: LooseQuest Time Up</Text>
+                  <LastFinalText>WiP: LooseQuest Time Up</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Tempo scaduto</Text>
+                  <LastFinalText>Tempo scaduto</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>LooseQuest Time Up</Text>
+                  <LastFinalText>LooseQuest Time Up</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Fin del tiempo de la misión</Text>
+                  <LastFinalText>Fin del tiempo de la misión</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Porażka - czas minął</Text>
+                  <LastFinalText>Porażka - czas minął</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>LooseQuest Čas vypršel</Text>
+                  <LastFinalText>LooseQuest Čas vypršel</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>GUI Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320351</GUID>
+              <Kommentar>Quest Failed</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Plötzlich beginnt sich das Meer zu kräuseln und ein unheilverheißendes Grollen lässt Sie erschaudern. Unter Ächzen und Getöse versinkt Istars Labyrinth langsam, aber unaufhaltsam im Meer. Und der starke Sog zieht Sie mit in die Tiefe...</Text>
+                  <LastFinalText>Plötzlich beginnt sich das Meer zu kräuseln und ein unheilverheißendes Grollen lässt Sie erschaudern. Unter Ächzen und Getöse versinkt Istars Labyrinth langsam, aber unaufhaltsam im Meer. Und der starke Sog zieht Sie mit in die Tiefe...</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Suddenly the sea begins to ripple, and an ominous rumble send shivvers up your spine. With a groan and a roar the Labyrinth slowly but inexorably begins to sink back into the sea. And the last thing you feel is the undertow as the Labyrinth takes you with it...</Text>
+                  <LastFinalText>Suddenly the sea begins to ripple, and an ominous rumble send shivvers up your spine. With a groan and a roar the Labyrinth slowly but inexorably begins to sink back into the sea. And the last thing you feel is the undertow as the Labyrinth takes you with it...</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Внезапно море начинает бурлить, ужасный рев заставляет вас содрогнуться. Под гул и стоны лабиринт Иштар медленно, но верно скрывается под водой. Могучий водоворот засасывает вас в глубины...</Text>
+                  <LastFinalText>Внезапно море начинает бурлить, ужасный рев заставляет вас содрогнуться. Под гул и стоны лабиринт Иштар медленно, но верно скрывается под водой. Могучий водоворот засасывает вас в глубины...</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Improvvisamente il mare inizia a incresparsi e un inquietante rimbombo ti gela il sangue. In un ruggito frastornante, il Labirinto inizia ad affondare lentamente ma inesorabilmente nel mare. E l'ultima cosa che senti è la risacca, mentre il Labirinto ti porta via con sé...</Text>
+                  <LastFinalText>Improvvisamente il mare inizia a incresparsi e un inquietante rimbombo ti gela il sangue. In un ruggito frastornante, il Labirinto inizia ad affondare lentamente ma inesorabilmente nel mare. E l'ultima cosa che senti è la risacca, mentre il Labirinto ti porta via con sé...</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Soudain l'eau commence à se rider et un grondement menaçant vous fait frissonner. Dans un vrombissement, le Labyrinthe commence inexorablement à s'enfoncer dans la mer. La dernière chose que vous sentez est le reflux alors que le Labyrinthe vous emporte...</Text>
+                  <LastFinalText>Soudain l'eau commence à se rider et un grondement menaçant vous fait frissonner. Dans un vrombissement, le Labyrinthe commence inexorablement à s'enfoncer dans la mer. La dernière chose que vous sentez est le reflux alors que le Labyrinthe vous emporte...</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>De pronto, el mar empieza a agitarse y sientes escalofríos. Con un rugido, el laberinto comienza a hundirse en el mar, lenta pero inexorablemente. Lo último que sientes es la fuerza de la corriente, que te arrastra con el laberinto...</Text>
+                  <LastFinalText>De pronto, el mar empieza a agitarse y sientes escalofríos. Con un rugido, el laberinto comienza a hundirse en el mar, lenta pero inexorablemente. Lo último que sientes es la fuerza de la corriente, que te arrastra con el laberinto...</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Wtem, morze zaczyna falować, a złowrogi pomruk sprawia, że jeżą ci się włosy na karku. Z rykiem i hukiem labirynt zaczyna powoli zanurzać się w wodzie. Ostatnim co czujesz, jest prąd wciągający cię w głąb labiryntu...</Text>
+                  <LastFinalText>Wtem, morze zaczyna falować, a złowrogi pomruk sprawia, że jeżą ci się włosy na karku. Z rykiem i hukiem labirynt zaczyna powoli zanurzać się w wodzie. Ostatnim co czujesz, jest prąd wciągający cię w głąb labiryntu...</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Moře se zničehonic začíná vlnit a po zádech vám přeběhne mráz ze zlověstného dunění. Labyrint se hřmotně začíná pomalu potápět zpátky do moře. Poslední věc, kterou cítíte, je silný proud, kterým vás labyrint stahuje s sebou...</Text>
+                  <LastFinalText>Moře se zničehonic začíná vlnit a po zádech vám přeběhne mráz ze zlověstného dunění. Labyrint se hřmotně začíná pomalu potápět zpátky do moře. Poslední věc, kterou cítíte, je silný proud, kterým vás labyrint stahuje s sebou...</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SQ02_Statue</Name>
+      <GUIDRangeMin>41320400</GUIDRangeMin>
+      <GUIDRangeMax>41320449</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320400</GUID>
+              <Kommentar>Quest Title Sidequest</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Geheimnis der Ahnen II</Text>
+                  <LastFinalText>Geheimnis der Ahnen II</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The Ancient's request II</Text>
+                  <LastFinalText>The Ancient's request II</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Тайна предков II</Text>
+                  <LastFinalText>Тайна предков II</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>La richiesta degli Avi II</Text>
+                  <LastFinalText>La richiesta degli Avi II</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>La requête de l'Ancien II</Text>
+                  <LastFinalText>La requête de l'Ancien II</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La petición del anciano II</Text>
+                  <LastFinalText>La petición del anciano II</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Prośba Starożytnych II</Text>
+                  <LastFinalText>Prośba Starożytnych II</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Žádost prastarého II</Text>
+                  <LastFinalText>Žádost prastarého II</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>QuestText</Template>
+          <Values>
+            <Standard>
+              <GUID>41320401</GUID>
+              <Kommentar>Quest Info Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Deliver the following Goods to the Statue: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Deliver the following Goods to the Statue: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <German>
+                  <Text>Liefern Sie folgende Waren zur uralten Statue: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Liefern Sie folgende Waren zur uralten Statue: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <Russian>
+                  <Text>Доставьте следующие товары к древней статуе: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Доставьте следующие товары к древней статуе: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Consegna queste Merci alla Statua: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Consegna queste Merci alla Statua: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Apportez les Marchandises suivantes à l'ancienne Statue : [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Apportez les Marchandises suivantes à l'ancienne Statue : [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>Lleva los siguientes bienes a la estatua: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Lleva los siguientes bienes a la estatua: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Dostarcz do starożytnego posągu następujące towary: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Dostarcz do starożytnego posągu następujące towary: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Doručte soše následující zboží: [CR][QUEST_GETWARES]</Text>
+                  <LastFinalText>Doručte soše následující zboží: [CR][QUEST_GETWARES]</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320403</GUID>
+              <Kommentar>Quest Started Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Ein Zittern durchläuft die Statue, als würde Sie zum Leben erwachen. Langsam und mahlend hebt sich ihre linke Hand, mit der Handfläche nach oben weisend.[CR]Eine neuerliche Aufforderung der Altvorderen?</Text>
+                  <LastFinalText>Ein Zittern durchläuft die Statue, als würde Sie zum Leben erwachen. Langsam und mahlend hebt sich ihre linke Hand, mit der Handfläche nach oben weisend.[CR]Eine neuerliche Aufforderung der Altvorderen?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>The Statue trembles as if were waking to life. Slowly the left hand grinds its way upwards, the palm again facing up.[CR]Another request from the Ancestors?</Text>
+                  <LastFinalText>The Statue trembles as if were waking to life. Slowly the left hand grinds its way upwards, the palm again facing up.[CR]Another request from the Ancestors?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Статуя дрожит, пробуждаясь к жизни. Медленно она поднимает левую руку ладонью вверх.[CR]Новое требование предков?</Text>
+                  <LastFinalText>Статуя дрожит, пробуждаясь к жизни. Медленно она поднимает левую руку ладонью вверх.[CR]Новое требование предков?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>La Statua trema come se prendesse vita. Lentamente la mano sinistra si alza, il palmo rivolto verso l'alto.[CR]Un'altra richiesta dagli Avi?</Text>
+                  <LastFinalText>La Statua trema come se prendesse vita. Lentamente la mano sinistra si alza, il palmo rivolto verso l'alto.[CR]Un'altra richiesta dagli Avi?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>La Statue tremble comme si elle s'éveillait. Lentement la main gauche, dans un grincement, s'élève, la paume également visible.[CR]Une autre requête des Anciens ?</Text>
+                  <LastFinalText>La Statue tremble comme si elle s'éveillait. Lentement la main gauche, dans un grincement, s'élève, la paume également visible.[CR]Une autre requête des Anciens ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>La estatua tiembla como si despertase a la vida. Lentamente, su mano izquierda se extiende con un estruendo y te muestra su palma abierta.[CR]¿Se trata de otra petición de los ancestros?</Text>
+                  <LastFinalText>La estatua tiembla como si despertase a la vida. Lentamente, su mano izquierda se extiende con un estruendo y te muestra su palma abierta.[CR]¿Se trata de otra petición de los ancestros?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Posąg drży jakby budził się do życia. Lewa ręka powoli unosi się w górę, dłoń znowu jest skierowana ku górze.[CR]Kolejna prośba przodków?</Text>
+                  <LastFinalText>Posąg drży jakby budził się do życia. Lewa ręka powoli unosi się w górę, dłoń znowu jest skierowana ku górze.[CR]Kolejna prośba przodków?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Socha se otřásá, jako by se probouzela k životu. Pomalu dopředu natahuje levou ruku, opět dlaní nahoru.[CR]Jedná se o další žádost předků?</Text>
+                  <LastFinalText>Socha se otřásá, jako by se probouzela k životu. Pomalu dopředu natahuje levou ruku, opět dlaní nahoru.[CR]Jedná se o další žádost předků?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CharacterText</Template>
+          <Values>
+            <Sound />
+            <Standard>
+              <GUID>41320404</GUID>
+              <Kommentar>Quest Invitation Text</Kommentar>
+              <Version>Addon01</Version>
+            </Standard>
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>Wollen Sie es wagen und die mitgebrachten Waren in die linke Hand der Statue legen?</Text>
+                  <LastFinalText>Wollen Sie es wagen und die mitgebrachten Waren in die linke Hand der Statue legen?</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+                <English>
+                  <Text>Do you want to take the chance and place the Goods you brought with you in the Statue's left hand?</Text>
+                  <LastFinalText>Do you want to take the chance and place the Goods you brought with you in the Statue's left hand?</LastFinalText>
+                  <Status>Final</Status>
+                </English>
+                <Russian>
+                  <Text>Рискнете ли вы положить в левую руку статуи принесенные вами товары?</Text>
+                  <LastFinalText>Рискнете ли вы положить в левую руку статуи принесенные вами товары?</LastFinalText>
+                  <Status>Final</Status>
+                </Russian>
+                <Italian>
+                  <Text>Vuoi provare a mettere le Merci che hai con te nella mano sinistra della Statua?</Text>
+                  <LastFinalText>Vuoi provare a mettere le Merci che hai con te nella mano sinistra della Statua?</LastFinalText>
+                  <Status>Final</Status>
+                </Italian>
+                <French>
+                  <Text>Voulez-vous tenter de déposer les Marchandises que vous avez apportées dans la main gauche de la Statue ?</Text>
+                  <LastFinalText>Voulez-vous tenter de déposer les Marchandises que vous avez apportées dans la main gauche de la Statue ?</LastFinalText>
+                  <Status>Final</Status>
+                </French>
+                <Spanish>
+                  <Text>¿Quieres aprovechar la oportunidad y depositar los bienes que has traído en la mano izquierda de la estatua?</Text>
+                  <LastFinalText>¿Quieres aprovechar la oportunidad y depositar los bienes que has traído en la mano izquierda de la estatua?</LastFinalText>
+                  <Status>Final</Status>
+                </Spanish>
+                <Polish>
+                  <Text>Chcesz spróbować umieścić na lewej dłoni posągu przywiezione towary?</Text>
+                  <LastFinalText>Chcesz spróbować umieścić na lewej dłoni posągu przywiezione towary?</LastFinalText>
+                  <Status>Final</Status>
+                </Polish>
+                <Czech>
+                  <Text>Chcete to risknout a dát přivezené zboží do levé ruky té sochy?</Text>
+                  <LastFinalText>Chcete to risknout a dát přivezené zboží do levé ruky té sochy?</LastFinalText>
+                  <Status>Final</Status>
+                </Czech>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Medals</Name>
+      <GUIDRangeMin>41320450</GUIDRangeMin>
+      <GUIDRangeMax>41320499</GUIDRangeMax>
+      <Assets>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320450</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>8 treasures collected</Text>
+                  <LastFinalText>8 treasures collected</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320451</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>12 treasures collected</Text>
+                  <LastFinalText>12 treasures collected</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Standard Text</Template>
+          <Values>
+            <Standard>
+              <GUID>41320452</GUID>
+              <Version>Addon01</Version>
+              <LokaFlag>0</LokaFlag>
+            </Standard>
+            <SubAssets />
+            <Text>
+              <LocaText>
+                <German>
+                  <Text>16 treasures collected</Text>
+                  <LastFinalText>16 treasures collected</LastFinalText>
+                  <Status>Final</Status>
+                </German>
+              </LocaText>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+</Group>

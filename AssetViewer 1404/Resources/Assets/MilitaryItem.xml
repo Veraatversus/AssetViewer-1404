@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d09a243d276222c2f2de8257237515adf07a1a27127c78b28f329d3d58158d81
-size 1903
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MilitaryItem>
+  <Asset ID="8137" Name="MilitaryTestUpgrade">
+    <Text ID="8137" FontStyle="0">
+      <EN>MilitaryTestItem</EN>
+      <DE>MilitaryTestItem</DE>
+    </Text>
+    <ItemCategory>Warehouse</ItemCategory>
+    <ItemTarget>Island</ItemTarget>
+    <EffectDuration>60000</EffectDuration>
+    <UtilizationCount>1</UtilizationCount>
+    <AffectTargets>
+      <Description ID="38025" FontStyle="0">
+        <EN>Big military camp</EN>
+        <DE>Großes Heerlager</DE>
+        <Icon d4p1:type="Icon" FileIndex="97" Width="46" Height="46" xmlns:d4p1="http://www.w3.org/2001/XMLSchema-instance">
+          <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+        </Icon>
+      </Description>
+      <Description ID="11001" FontStyle="0">
+        <EN>Large army</EN>
+        <DE>Große Armee</DE>
+        <Icon d4p1:type="Icon" FileIndex="97" Width="46" Height="46" xmlns:d4p1="http://www.w3.org/2001/XMLSchema-instance">
+          <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+        </Icon>
+      </Description>
+    </AffectTargets>
+    <TargetCategories>
+      <Description ID="137624" FontStyle="0">
+        <EN>Faith building</EN>
+        <DE>Glaubensgebäude</DE>
+      </Description>
+      <Description ID="137625" FontStyle="0">
+        <EN>Armies and Fort buildings</EN>
+        <DE>Armeen und Festungsanlagen</DE>
+        <Icon d4p1:type="Icon" FileIndex="105" Width="46" Height="46" xmlns:d4p1="http://www.w3.org/2001/XMLSchema-instance">
+          <Filename>data/graphics/ui/icons/gui_icon_map_anno4_sorted.png</Filename>
+        </Icon>
+      </Description>
+    </TargetCategories>
+    <UnitUpgrade>
+      <Upgrade>
+        <Text ID="137530" FontStyle="0">
+          <EN>Increased speed:</EN>
+          <DE>Erhöhte Geschwindigkeit:</DE>
+        </Text>
+        <Value>+1000%</Value>
+      </Upgrade>
+    </UnitUpgrade>
+    <Upgrade />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <Sources />
+  </Asset>
+</MilitaryItem>

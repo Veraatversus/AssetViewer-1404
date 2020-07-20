@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToggleHeightItem>
+  <Asset ID="2600005" Name="TestDiveItem">
+    <PatchVersion>Release</PatchVersion>
+    <Text ID="2600005" FontStyle="0">
+      <EN>Dive</EN>
+      <DE>Tauchen</DE>
+      <Icon d3p1:type="Icon" FileIndex="473" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_icon_map.png</Filename>
+      </Icon>
+    </Text>
+    <ItemTarget>Object</ItemTarget>
+    <HonourPrice ID="140009" FontStyle="0">
+      <EN>  Honour</EN>
+      <DE>  Ökobilanz</DE>
+    </HonourPrice>
+    <Cooldown>8000</Cooldown>
+    <TargetCategories />
+    <IsQuestItem>false</IsQuestItem>
+    <IsPassiveItem>false</IsPassiveItem>
+    <IsScienceItem>false</IsScienceItem>
+    <ItemAllocationCategory ID="1206186" FontStyle="0">
+      <EN>all Submarines</EN>
+      <DE>alle U-Boote</DE>
+    </ItemAllocationCategory>
+    <ItemDescription FontStyle="0">
+      <Icon d3p1:type="Icon" FileIndex="352" Width="46" Height="46" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance">
+        <Filename>data/graphics/ui/icons/gui_item_map_01.png</Filename>
+      </Icon>
+    </ItemDescription>
+  </Asset>
+</ToggleHeightItem>

@@ -58,6 +58,11 @@ namespace RDA.Data {
     public bool IsQuestItem { get; set; }
     public bool IsPassiveItem { get; set; }
     public List<TempSource> Sources { get; set; }
+    public UpgradeList CustomResource { get; private set; }
+    public UpgradeList DoctorUpgrade { get; private set; }
+    public UpgradeList SpyBaseDetectionBalancing { get; private set; }
+    public UpgradeList VenetianUpgrade { get; private set; }
+    public UpgradeList EndlessResource { get; private set; }
 
     #endregion Properties
 
@@ -154,6 +159,21 @@ namespace RDA.Data {
 
           case "TollBalancing":
             this.ProcessElement_TollBalancing(element);
+            break;        
+          case "CustomResource":
+            this.ProcessElement_CustomResource(element);
+            break;         
+          case "DoctorUpgrade":
+            this.ProcessElement_DoctorUpgrade(element);
+            break;   
+          case "VenetianUpgrade":
+            this.ProcessElement_VenetianUpgrade(element);
+            break;         
+          case "EndlessResource":
+            this.ProcessElement_EndlessResource(element);
+            break;
+          case "SpyBaseDetectionBalancing":
+            this.ProcessElement_SpyBaseDetectionBalancing(element);
             break;
           //Todo
           case "ExplosionBalancing":
@@ -167,7 +187,7 @@ namespace RDA.Data {
             break;
 
           default:
-            Console.WriteLine(element.Name.LocalName);
+            Debug.WriteLine(element.Name.LocalName);
             break;
         }
       }
@@ -218,6 +238,7 @@ namespace RDA.Data {
             case "WarShip":
             case "TradingShip":
             case "BoardersItem":    //doesnt know
+            case "UpgradeBuilding":   
               //Ignore
               break;
 
@@ -268,6 +289,11 @@ namespace RDA.Data {
             case "KorsarenJagd":
             case "HandelsschiffJagd":
             case "KriegsschiffJagd":
+            case "TradingRaceQuest":
+            case "BoardShip":
+            case "TradingRaceQuestOpponent":
+            case "BoardShipWithEscort":
+            case "TradingRaceQuestDolphin":
               result.AddSourceAsset(element.GetProxyElement("Quest"), new HashSet<XElement> { element.GetProxyElement("Quest") });
               break;
 
@@ -325,6 +351,12 @@ namespace RDA.Data {
         this.TollBalancing = new UpgradeList();
         this.TollBalancing.Add(new Upgrade(element));
       }
+    }         
+    private void ProcessElement_CustomResource(XElement element) {
+      if (element.HasElements) {
+          this.CustomResource = new UpgradeList();
+          this.CustomResource.Add(new Upgrade(element));
+      }
     }
 
     private void ProcessElement_MilitaryUnitUpgrade(XElement element) {
@@ -342,6 +374,34 @@ namespace RDA.Data {
         this.Document = new UpgradeList();
         foreach (var item in element.Elements()) {
           this.Document.Add(new Upgrade(item));
+        }
+      }
+    }           
+    private void ProcessElement_DoctorUpgrade(XElement element) {
+      if (element.HasElements) {
+        this.DoctorUpgrade = new UpgradeList();
+        foreach (var item in element.Elements()) {
+          this.DoctorUpgrade.Add(new Upgrade(item));
+        }
+      }
+    }                 
+    private void ProcessElement_VenetianUpgrade(XElement element) {
+      if (element.HasElements) {
+        this.VenetianUpgrade = new UpgradeList();
+        foreach (var item in element.Elements()) {
+          this.VenetianUpgrade.Add(new Upgrade(item));
+        }
+      }
+    }         
+    private void ProcessElement_EndlessResource(XElement element) {
+        this.EndlessResource = new UpgradeList();
+        this.EndlessResource.Add(new Upgrade(element));
+    }       
+    private void ProcessElement_SpyBaseDetectionBalancing(XElement element) {
+      if (element.HasElements) {
+        this.SpyBaseDetectionBalancing = new UpgradeList();
+        foreach (var item in element.Elements()) {
+          this.SpyBaseDetectionBalancing.Add(new Upgrade(item));
         }
       }
     }
@@ -395,7 +455,9 @@ namespace RDA.Data {
       if (element.HasElements) {
         this.ProductionUpgrade = new UpgradeList();
         foreach (var item in element.Elements()) {
+          if (item.Name.LocalName != "WorkerCountType") {
           this.ProductionUpgrade.Add(new Upgrade(item));
+          }
         }
       }
     }
@@ -420,8 +482,8 @@ namespace RDA.Data {
         this.Upgrade = new UpgradeList();
         this.AffectTargets = new List<Description>();
         if (element.Element("TargetGUIDs")?.HasElements ?? false) {
-          foreach (var item in element.Element("TargetGUIDs").Elements()) {
-            this.AffectTargets.Add(new Description(item.Element("UpgradeGUID").Value));
+          foreach (var item in element.Descendants("UpgradeGUID")) {
+            this.AffectTargets.Add(new Description(item.Value));
           }
         }
         if (element.Element("TargetGUID")?.Value is string guid) {
